@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>simulating child's play</title>
+  <meta name="description" content="as of late, the kids are enjoying simple, pre-risk board games. of these, i prefer chutes and ladders. for the most part, there’s no skill involved: you spin...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2012/04/02/childs-play.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>simulating child's play</h1>
+<p class="subtitle">April 2, 2012</p>
+
+<p>as of late, the kids are enjoying simple, pre-risk board games. of these, i prefer chutes and ladders. for the most part, there’s no skill involved: you spin, you count, and maybe slide but hopefully climb. there’s no strategy involved. you just take what you get and hope to avoid the chutes. but i’ve been hesitant to start a game too close to bedtime (since it is essentially a game of luck, you could theoretically get stuck in a chute-ladder loop making no progress to the goal).</p>
+
+<p>that got me wondering about the length of a ‘regular’ game.</p>
+
+<!--more-->
+
+<p>since the game is essentially a game of chance (the haven’t mastered the art of ‘light’ spins), it’s pretty easy to simulate in SAS.</p>
+
+<p>the first step was to create a 100-element array for the lookups (that’s one element for each position on the board). for this array, the index serves as the ‘landing’ position, and the value is the ‘destination’ position. if the index matches the value, there is no chute or ladder to worry about. if the index is greater than the position, you’ve landed at the base of a ladder; if the index is less than the position, you’ve landed at the start of a chute.</p>
+
+<p>next, i simulate 1,000,000 games with up to 250 turns. all games start at index 0 (that is, the first spin will get them on the board) and are trying to end up on index 100 (without overshooting). the math is pretty easy: take your starting position and add the spin value to determine the landing value. then, check against the <code class="highlighter-rouge">cl</code> array for any climbing or sliding needed before ending at the destination.</p>
+
+<p>here’s my code:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>data ChutesAndLadders;
+
+    format Game Turn Start Spin Land End 4.;
+
+    *** set up the wormhole array ***;
+    *** if cl[i] ne i, then a wormhole ***;
+    array cl(100) _temporary_ (
+        38,  2,  3, 14,  5,  6,  7,  8, 31, 10,
+        11, 12, 13, 14, 15,  6, 17, 18, 19, 20,
+        42, 22, 23, 24, 25, 26, 27, 84, 29, 30,
+        31, 32, 33, 34, 35, 44, 37, 38, 39, 40,
+        41, 42, 43, 44, 45, 46, 47, 26, 11, 50,
+        67, 52, 53, 54, 55, 53, 57, 58, 59, 60,
+        61, 19, 63, 60, 65, 66, 67, 68, 69, 70,
+        91, 72, 73, 74, 75, 76, 77, 78, 79,100,
+        81, 82, 83, 84, 85, 86, 24, 88, 89, 90,
+        91, 92, 73, 94, 75, 96, 97, 78, 99,100);
+
+    do game = 1 to 1000000;
+        GameOver=0;
+        do turn = 1 to 250 until (GameOver=1);
+            *** all games start at 0 ***;
+            if turn = 1 then do;
+                Start = 0;
+                Spin = 0;
+                Land = 0;
+                End = 0;
+            end;
+
+            *** starts where ended last turn ***;
+            Start = End;
+
+            *** spin the thing ***;
+            Spin = ceil(ranuni(8675309)*6);
+
+            *** last spin must be EXACTLY 100 ***;
+            if Start + Spin &amp;gt; 100 then Spin = 0;
+
+            *** landing spot (pre-wormhole)***;
+            Land = Start + Spin;
+
+            *** destination (post-wormhole) ***;
+            End = cl[Land];
+
+            *** game over? ***;
+            if End = 100 then GameOver=1;
+            output;
+        end;
+    end;
+    drop GameOver;
+run;
+</code></pre>
+</div>
+
+<p>a quick <code class="highlighter-rouge">proc univariate</code> shows the following:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Variable:  Turn
+
+                            Moments
+
+N                      999896    Sum Weights             999896
+Mean                39.576811    Sum Observations      39572695
+Std Deviation      25.5080205    Variance            650.659108
+Skewness           1.78522598    Kurtosis             4.7663735
+Uncorrected SS     2216751859    Corrected SS         650590789
+Coeff Variation    64.4519349    Std Error Mean      0.02550935
+
+
+              Basic Statistical Measures
+
+    Location                    Variability
+
+Mean     39.57681     Std Deviation           25.50802
+Median   33.00000     Variance               650.65911
+Mode     22.00000     Range                  243.00000
+                      Interquartile Range     28.00000
+</code></pre>
+</div>
+
+<p>one thing to note is that rarely (104 times out of 1000000 games) it takes a single player more than 250 spins to end on 100. that’s a long game. if all 4 players we simultaneously unlucky, that’d be a painfully long game.</p>
+
+<p><strong>UPDATES</strong>:</p>
+
+<ul>
+  <li>I’ve spawned off a <a href="https://github.com/rkoopmann/SASBoredGames">GitHub repo</a>. This code can be found in the <code class="highlighter-rouge">\ChutesAndLadders</code> subdirectory.</li>
+  <li>A brief search online yielded <a href="http://www.r-bloggers.com/basics-on-markov-chain-for-parents/">this page</a> which uses R for simulation and analysis.</li>
+</ul>
+
+
+
+    </article>
+    <span class="print-footer">simulating child's play - April 2, 2012 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

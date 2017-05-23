@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Simplenote to Vesper</title>
+  <meta name="description" content="It started with a tweet from @benjaminbrooks:">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/ios/2015/03/01/simplenote-to-vesper.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>Simplenote to Vesper</h1>
+<p class="subtitle">March 1, 2015</p>
+
+<p>It started with <a href="https://twitter.com/BenjaminBrooks/status/571438237710811136">a tweet from @benjaminbrooks</a>:</p>
+
+<blockquote class="twitter-tweet" lang="en"><p>Has anyone written a tool to move your data somehow from Simplenote to Vesper, asking for me. I mean a friend, like someone else.</p>&mdash; Ben Brooks (@BenjaminBrooks) <a href="https://twitter.com/BenjaminBrooks/status/571438237710811136">February 27, 2015</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>When Vesper first hit iOS last year, I had the same question. I wanted to give Vespre a fair chance, but without being able to import from my existing note-taking app (Simplenote), Vesper had an uphill battle. (Same goes for Drafts).</p>
+
+<!--more-->
+
+<p>On OS X, Simplenote prefers to store notes in a <a href="http://www.sqlite.org">SQLite</a> database, so I figured Simplenote for iOS would do the same. I figured Vesper would be doing likewise. A quick check with iExplorer confirmed this.</p>
+
+<p>I exported a copy of both databases and quickly created some basic SQL queries to get notes, unique tags, and note-tag combination data in reasonable format for exporting from Simplenote database and importing into Vesper database. (At this point, I force-quit Vesper on iOS.)</p>
+
+<script src="https://gist.github.com/rkoopmann/cbffa5780bfe0c9f45a0.js"></script>
+
+<p>Creating these queries was quick work in SQLPro for SQLite. To actually transfer the content to the Vesper database, I simply exported the resulting tables from the Simplenote database as JSON files and then imported them in the Vesper database in this order:</p>
+
+<ol>
+  <li>Notes</li>
+  <li>Tags</li>
+  <li>Note-Tag relations</li>
+</ol>
+
+<p>Once that’s done, copy the modified Vesper database back to the Vesper Documents directory in iExplorer (it should ask about overwriting the existing file), say yes, wait a few seconds for iExplorer to complete the sync, fire up Vesper (you already force-quit it above, right?) and look at all the Simplenote data. They should all be properly tagged and the dates intact. I think.</p>
+
+<p>If only there were a Vesper for OS X available, this would possibly have been easier?</p>
+
+<p>Let’s see how well Vesper sticks for me now that everything is in it.</p>
+
+<p><strong>Apps Used:</strong></p>
+
+<ul>
+  <li><a href="https://itunes.apple.com/us/app/vesper/id655895325?mt=8&amp;at=10l4LH">Vesper</a> (iOS) $8.</li>
+  <li><a href="https://itunes.apple.com/us/app/simplenote/id289429962?mt=8&amp;at=10l4LH">Simplenote</a> (iOS) $0. <em>Notational Velocity or nvALT on OS X would probably also have the information needed, but you’d need to wrangle that data yourself.</em></li>
+  <li>iExplorer (OS X). <em>For pulling and pushing data to your iOS device. I used version 2.2.1.6. <a href="http://www.macroplant.com/iexplorer/">v. 3.6.6.0</a> might work?</em></li>
+  <li><a href="https://itunes.apple.com/us/app/sqlpro-for-sqlite-sql-database/id586001240?mt=12&amp;at=10l4LH">SQLPro for SQLite Pro</a> (OS X). At one point, this was $2; it’s now $20. <em>If you’re cozy with tromping around the terminal with SQLite, you don’t really need an SQLite app. I’m cozy enough, but still prefer to use the app.</em></li>
+</ul>
+
+<p><strong>Fair Warning</strong>: You should never, <em>ever</em> run code you don’t understand. Backup your data. This works for me, but my Simplenote notes are fairly…simple. your results may differ. if this breaks anything, it’s probably operator error. please email marco.</p>
+
+
+
+
+    </article>
+    <span class="print-footer">Simplenote to Vesper - March 1, 2015 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

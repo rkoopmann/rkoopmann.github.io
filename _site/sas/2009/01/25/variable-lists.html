@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>sas variable lists</title>
+  <meta name="description" content="last week, there was a blog post regarding the use of variable lists on variables with character suffixes (e.g., TestA--TestG). i added my clarifications via...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2009/01/25/variable-lists.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>sas variable lists</h1>
+<p class="subtitle">January 25, 2009</p>
+
+<p>last week, there was <a href="http://jaredprins.squarespace.com/blog/2009/1/23/sas-and-character-variable-lists.html">a blog post</a> regarding the use of variable lists on variables with character suffixes (e.g., <code class="highlighter-rouge">TestA--TestG</code>). i added my clarifications via <a href="http://jaredprins.squarespace.com/blog/2009/1/23/sas-and-character-variable-lists.html#comments">a comment</a>, but thought some examples would be more useful. let’s fire up sas (9.1.3) and get going.</p>
+
+<!--more-->
+
+<p>here’s our test dataset; notice the variables are not defined in order of their suffixes (<code class="highlighter-rouge">nn1</code> is defined first, later <code class="highlighter-rouge">nn3</code> gets defined, and still later <code class="highlighter-rouge">nn2</code> is defined; same goes for the other variables).</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>data test;  
+  nn1=1; *numeric variable, numeric suffix;  
+  nca=1; *numeric variable, character suffix;  
+  cn1='a'; *character variable, numeric suffix;  
+  cca='a'; *character variable, character suffix;  
+
+  nn3=3;  
+  ncc=3;  
+  cn3='c';  
+  ccc='c';  
+
+  nn2=2;  
+  ncb=2;  
+  cn2='b';  
+  ccb='b';  
+  format n: 3. c:$3.;  
+run;
+</code></pre>
+</div>
+
+<p>looking at the output from proc contents, we can confirm the ordering of the variables.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>      Variables in Creation Order  
+
+ #    Variable    Type    Len    Format 
+
+ 1    nn1         Num       8    3.  
+ 2    nca         Num       8    3.  
+ 3    cn1         Char      1    $3.  
+ 4    cca         Char      1    $3.  
+ 5    nn3         Num       8    3.  
+ 6    ncc         Num       8    3.  
+ 7    cn3         Char      1    $3.  
+ 8    ccc         Char      1    $3.  
+ 9    nn2         Num       8    3.  
+10    ncb         Num       8    3.  
+11    cn2         Char      1    $3.  
+12    ccb         Char      1    $3.
+</code></pre>
+</div>
+
+<p>let’s look at accessing <strong>numeric variables with numeric suffixes</strong> first with a numbered range list, then with a name range list. (these are terms straight from <a href="http://support.sas.com/onlinedoc/913/getDoc/en/lrcon.hlp/a000695105.htm">sas help</a>, in my original comment i called them <em>variable lists</em> and <em>variable ranges</em>, respectively).</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>numbered range list: nn1-nn3  
+nn1    nn2    nn3  
+  1      2      3  
+
+name range list: nn1--nn3  
+nn1    nca    cn1    cca    nn3  
+  1      1    a      a        3
+</code></pre>
+</div>
+
+<p>note the numbered range list returns the variables in sequential order of the suffix while the named range list returns the variables in the order they appear in the dataset.</p>
+
+<p>next, let’s look at character variables with numeric suffixes.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>numbered range list: cn1-cn3  
+cn1    cn2    cn3  
+a      b      c  
+
+named range list: cn1--cn3  
+cn1    cca    nn3    ncc    cn3  
+a      a        3      3    c
+</code></pre>
+</div>
+
+<p>same idea as before.</p>
+
+<p>now, let’s take a look at <strong>numeric variables with character suffixes</strong>. it’s worth noting that <strong>numbered range lists <em>do not work</em> unless the suffix is <em>numeric</em></strong>. sas will throw an error into the log indicating this.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>named range list: nca--ncc  
+nca    cn1    cca    nn3    ncc  
+  1    a      a        3      3
+</code></pre>
+</div>
+
+<p>maybe numbered range lists will work on <strong>character variables with character suffixes</strong>?</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>named range list: cca--ccc  
+cca    nn3    ncc    cn3    ccc  
+a        3      3    c      c
+</code></pre>
+</div>
+
+<p>same story–numbered range lists only work on variables with numeric suffixes.</p>
+
+<p>a <strong>name prefix</strong> list provides us with results that are likely closer what was desired.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>name prefix list: nn:  
+nn1    nn3    nn2  
+  1      3      2  
+
+name prefix list: nc:  
+nca    ncc    ncb  
+  1      3      2  
+
+name prefix list: cn:  
+cn1    cn3    cn2  
+a      c      b  
+
+name prefix list: cc:  
+cca    ccc    ccb  
+a      c      b
+</code></pre>
+</div>
+
+<p>name prefix lists respect creation order. also, if i had a variable named <code class="highlighter-rouge">nnn</code> or <code class="highlighter-rouge">nn815</code>, those would be included for the name prefix range <code class="highlighter-rouge">nn:</code>.</p>
+
+
+
+    </article>
+    <span class="print-footer">sas variable lists - January 25, 2009 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>the positive side of keeping all your eggs in one basket</title>
+  <meta name="description" content="in any work environment with multiple SAS users, the are likely common data sources used by all or most users. how do you go about deciding where to define t...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2012/01/05/the-positive-side.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>the positive side of keeping all your eggs in one basket</h1>
+<p class="subtitle">January 5, 2012</p>
+
+<p>in any work environment with multiple SAS users, the are likely common data sources used by all or most users. how do you go about deciding <em>where</em> to define the connections to these common data sources?</p>
+
+<!--more-->
+
+<p>here’s the most common options for placing libname definitions:</p>
+
+<ol>
+  <li>within each script,</li>
+  <li>within a script for a specific project/data source,</li>
+  <li>within each user’s autoexec file, or</li>
+  <li>within a common autoexec file.</li>
+</ol>
+
+<p>if integrated security is available, <em>or</em> if <strong>all</strong> users can be identified with <code class="highlighter-rouge">&amp;SYSUSERID</code> and share the <strong>same</strong> password, <em>or</em> if <strong>all</strong> users share the same credentials, you’d prefer option 4. lower numbered options have the issue of keeping definitions to the same data source across multiple locations. (i’d argue that options 3 &amp; 4 are the only reasonable options.)</p>
+
+<p>changes to data source connections further complicates things, but the impact can be enormous if options 1 or 2 was used. you’ll put your work on hold while you scour old code making modifications to the numerous libname definitions; i’ll make a handful of changes in 2 files and get actual work done.</p>
+
+
+
+    </article>
+    <span class="print-footer">the positive side of keeping all your eggs in one basket - January 5, 2012 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>an mmddyyyy hhmmss informat. kinda.</title>
+  <meta name="description" content="a while ago, i took the hack shortcut of reading character datetime stamps into datetime values. i even went so far as suggesting a regex would be a better s...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2009/10/20/mmddyyyy-hhmmss.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>an mmddyyyy hhmmss informat. kinda.</h1>
+<p class="subtitle">October 20, 2009</p>
+
+<p><a href="http://quatch.koopmann.us/post/2918942598/reading-non-standard-datetime-values">a while ago</a>, i took the hack shortcut of reading character datetime stamps into datetime values. i even went so far as suggesting a regex would be a better solution.</p>
+
+<!--more-->
+
+<p>well, here’s that better solution:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>data mmddyyyy_hhmmss_xm;
+    if _n_=1 then do;
+    re=prxparse('/(\d+)\/(\d+)\/(\d\d\d\d)\s+(\d+):(\d\d):(\d\d)\s+([AP]M)/');
+    retain re;
+    end;
+
+    infile datalines; input; _sdt=_infile_;
+
+    format dt datetime19.;
+
+    array _s(*) _sdt;
+    array _d(*) dt;
+    do i = 1 to dim(_s);
+    if prxmatch(re, _s[i]) then
+    _d[i]=dhms(mdy(input(prxposn(re,1,_s[i]),2.) /*month*/
+                ,input(prxposn(re,2,_s[i]),2.)   /*day*/
+                ,input(prxposn(re,3,_s[i]),4.)   /*year*/)
+            ,input(prxposn(re,4,_s[i]),2.)       /*hour*/
+             + 12*(prxposn(re,7,_s[i]) eq 'PM')  /*pm offset*/
+            ,input(prxposn(re,5,_s[i]),2.)       /*minute*/
+            ,input(prxposn(re,6,_s[i]),2.)       /*second*/);
+    end;
+    output;
+    drop re i;
+datalines;
+9/21/2009         10:02:42          PM
+10/01/2009 9:44:37 AM
+1/1/2009    12:13:14 AM
+run;
+</code></pre>
+</div>
+
+<p>and the output</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>_sdt                                                       dt
+9/21/2009         10:02:42          PM     21SEP2009:22:02:42
+10/01/2009 9:44:37 AM                      01OCT2009:09:44:37
+1/1/2009    12:13:14 AM                    01JAN2009:12:13:14
+</code></pre>
+</div>
+
+
+
+    </article>
+    <span class="print-footer">an mmddyyyy hhmmss informat. kinda. - October 20, 2009 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

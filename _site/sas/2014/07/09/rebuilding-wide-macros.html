@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>rebuilding wide macros</title>
+  <meta name="description" content="Recently I needed to pull the values of potentially long macro variables (more than 200 characters) from the dictionary tables (sashelp.vmacro in this case)....">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2014/07/09/rebuilding-wide-macros.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>rebuilding wide macros</h1>
+<p class="subtitle">July 9, 2014</p>
+
+<p>Recently I needed to pull the values of potentially long macro variables (more than 200 characters) from the dictionary tables (<code class="highlighter-rouge">sashelp.vmacro</code> in this case). I couldn’t simply use the actual macro variable because the main program was dataset-driven. The bottom line was that I needed a dataset containing the macro values in a single variable with one observation per macro variable.</p>
+
+<!--more-->
+
+<p>For example,</p>
+
+<div class="language-text highlighter-rouge"><pre class="highlight"><code>data _null_;
+	format long_macro $512.;
+	long_macro=repeat('0123456789ABCDEF', 31);
+	call symput('LONG_MACRO', long_macro);
+run;
+
+proc print data=sashelp.vmacro noobs;
+    where scope eq 'GLOBAL'
+    	and name eq 'LONG_MACRO';
+    format value $25.;
+    var offset value;
+run;
+
+/* output
+offset    value
+
+    0     0123456789ABCDEF012345678
+  200     89ABCDEF0123456789ABCDEF0
+  400     0123456789ABCDEF012345678
+*/
+</code></pre>
+</div>
+
+<p>My initial approach was to simply go over the dictionary table and retain/append a new variable but neither <code class="highlighter-rouge">cat</code> nor <code class="highlighter-rouge">||</code> worked quite right. The issue is that spaces are important in my case, so the <code class="highlighter-rouge">cats</code> function was a no-go[^The macro values could contain spaces and if those spaces happened to land on the 200-character increments, then two words would get smashed together.].</p>
+
+<p>I <em>could</em> have used a <code class="highlighter-rouge">substr</code> function on the left of the equal like this:</p>
+
+<div class="language-text highlighter-rouge"><pre class="highlight"><code>data _null_;
+	set sashelp.vmacro;
+	where scope eq 'GLOBAL'
+		and name eq 'LONG_MACRO';
+	format fullvalue $512.;
+	retain fullvalue;
+	start = (_n_-1) * 200 + 1;
+	substr(fullvalue, start, 200) = value;
+	length=length(fullvalue);
+	put _n_ @5 start @10 length fullvalue $25.;
+run;
+
+/* output
+1   1    200 0123456789ABCDEF012345678
+2   201  400 0123456789ABCDEF012345678
+3   401  500 0123456789ABCDEF012345678
+*/
+</code></pre>
+</div>
+
+<p>Which is simple enough when you need to get to exactly one macro variable, but with more than one, you’d need to sort the data and use <code class="highlighter-rouge">first.</code> variables to set up and increment a counter variable as opposed to simply using <code class="highlighter-rouge">_n_</code>.</p>
+
+<p>Then I figured I’d try to simply transpose the dictionary table and then <code class="highlighter-rouge">cat</code> the different columns. This worked.</p>
+
+<div class="language-text highlighter-rouge"><pre class="highlight"><code>***	get the macro snippets sorted right.;
+proc sort data=sashelp.vmacro out=macros;
+	by scope name offset;
+run;
+
+***	transpose by scope and name on offset.;
+proc transpose data=macros
+		out=macros prefix=offset_;
+	by scope name;
+	id offset;
+	var value;
+run;
+
+***	reassemble macros to original (wider) values.;
+data macros(rename=value2=value);
+	format scope name $32. value2 $32000.;
+    set macros;
+	value2 = cat(of offset_:);
+	drop value offset_: _name_ _label_;
+run;
+</code></pre>
+</div>
+
+<p>Now I have access to the full macro variable values from a dataset for any proc I need.</p>
+
+
+
+    </article>
+    <span class="print-footer">rebuilding wide macros - July 9, 2014 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

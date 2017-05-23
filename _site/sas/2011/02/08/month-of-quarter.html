@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>month of quarter variable</title>
+  <meta name="description" content="quick formula to calculate the month of the quarter (JAN, APR, JUL, OCT=1; FEB, MAY, AUG, NOV=2; MAR, JUN, SEP, DEC=3). moq=mod(month(date- value)-1,3)+1; no...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2011/02/08/month-of-quarter.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>month of quarter variable</h1>
+<p class="subtitle">February 8, 2011</p>
+
+<p>quick formula to calculate the month of the quarter (JAN, APR, JUL, OCT=1; FEB, MAY, AUG, NOV=2; MAR, JUN, SEP, DEC=3). moq=mod(month(date- value)-1,3)+1; note this is completely poached from an old excel formula.</p>
+
+<!--more-->
+
+<p>here’s the formula in action:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>data _null_;
+    do y = 2009 to 2010;
+        do m = 1 to 12;
+            d=mdy(m,1,y);               * make a date variable;
+            moq=mod(month(d)-1,3)+1;    * make Month Of Quarter variable;
+            put d date9. +5 moq;        * put to log;
+        end;
+    end;
+run;
+</code></pre>
+</div>
+
+<p>from the log</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>01JAN2009     1
+01FEB2009     2
+01MAR2009     3
+01APR2009     1
+01MAY2009     2
+01JUN2009     3
+01JUL2009     1
+01AUG2009     2
+01SEP2009     3
+01OCT2009     1
+01NOV2009     2
+01DEC2009     3
+01JAN2010     1
+01FEB2010     2
+01MAR2010     3
+01APR2010     1
+01MAY2010     2
+01JUN2010     3
+01JUL2010     1
+01AUG2010     2
+01SEP2010     3
+01OCT2010     1
+01NOV2010     2
+01DEC2010     3
+</code></pre>
+</div>
+
+
+
+    </article>
+    <span class="print-footer">month of quarter variable - February 8, 2011 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

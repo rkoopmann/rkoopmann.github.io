@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>classical sas</title>
+  <meta name="description" content="Seeing Pramod R’s post reminded me of something I pulled off a number of years ago after seeing this SAS-L post.">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2012/09/25/classical-sas.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>classical sas</h1>
+<p class="subtitle">September 25, 2012</p>
+
+<p>Seeing <a href="http://pramod-r.blogspot.com/2011/03/using-sas-as-my-makeshift-alarm-using.html">Pramod R’s post</a> reminded me of something I pulled off a number of years ago after seeing <a href="http://www.rhinocerus.net/forum/soft-sys-sas/520907-re-ot-chance-make-sas-l-history-did-you-know.html">this SAS-L post</a>.</p>
+
+<p>I implemented a sas program which played the first few bars of Bethoveen’s Fifth Symphony.</p>
+
+<!--more-->
+
+<p>That alone was neat and all, but I felt the <em>real</em> joy was <code class="highlighter-rouge">%include</code>ing it in the site autoexec file. Simply adding it to execute every time a client started SAS would have been an overkill, so instead, I had the tune play only on Monday mornings and only if the client started up SAS <em>before</em> 9 AM.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>if weekday("&amp;SYSDATE9"d) = 2 and "&amp;SYSTIME"t &lt; '09:00't;
+</code></pre>
+</div>
+
+<p>After a few months, i’d forgotten about adding the Fifth to the autoexec until my manager asked that I look at a co-worker’s installation. Apparently, the co-worker was at her wit’s end with an elusive sas ‘trouble’. In corporate world running PCs, the kneejerk reaction is ‘virus?’ and, with that, the IT department was called up a number of times.</p>
+
+<p>After laughing for a few minutes, I quickly commented out the include statement, but kept the code.</p>
+
+
+
+    </article>
+    <span class="print-footer">classical sas - September 25, 2012 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

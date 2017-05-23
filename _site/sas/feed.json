@@ -1,0 +1,298 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "hi",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.\n",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    "items": [
+    
+        {
+            "id": "http://localhost:4000/events/2016/04/20/filter.html",
+            "title": "Filter, Orgy, Vampires Everywhere, Death Valley High",
+            "summary": null,
+            "content_text": "My Brief History with FilterI’ve been listening to Short Bus for just over 20 years. In comparison to other albums of the time, this was a solid end-to-end album.When Filter’s follow-up album, Title of Album came out, I was not overly impressed. The lead single, Take a Picture, was too upbeat for me.Earlier this year, some 20 years after Short Bus was released, I find myself planning a brief work trip in Minneapolis when Songkick alerts me to a Filter show the night of my stay. Tickets were cheap enough at $27, so I bought them later that evening.The ShowThe ticket said doors opened at 7:00 so I showed up around 8:15 hoping to miss Death Valley High and Vampires Everywhere. I was only interested in Filter and, perhaps a little bit of Orgy. I missed Death Valley High.Vampires EverywhereThese guys were pretty descent musicians, but their sound just didn’t resonate with me. It’s always nice to see the musicians going through the setup and teardown for their own performance rather than hired hands.OrgyA little closer to my style, but still not my groove. Also, the only real song they do that I know, Blue Monday was played musically pretty well, but the singer insisted on letting the crowd sing most of the song. These guys also helped with setup/teardown.FilterAdmittedly, I was hoping for something of a 20th anniversary show for Short Bus like The Toadies and Candlebox did, but no dice.",
+            "content_html": "<h2 id=\"my-brief-history-with-filter\">My Brief History with <em>Filter</em></h2><p>I’ve been listening to <em>Short Bus</em> for just over 20 years. In comparison to other albums of the time, this was a solid end-to-end album.</p><p>When <em>Filter</em>’s follow-up album, <em>Title of Album</em> came out, I was not overly impressed. The lead single, <em>Take a Picture</em>, was too upbeat for me.</p><p>Earlier this year, some 20 years after <em>Short Bus</em> was released, I find myself planning a brief work trip in Minneapolis when <a href=\"http://songkick.com\">Songkick</a> alerts me to a Filter show the night of my stay. Tickets were cheap enough at $27, so I bought them later that evening.</p><h2 id=\"the-show\">The Show</h2><p>The ticket said doors opened at 7:00 so I showed up around 8:15 hoping to miss <em>Death Valley High</em> and <em>Vampires Everywhere</em>. I was only interested in Filter and, perhaps a little bit of Orgy. I missed <em>Death Valley High</em>.</p><h3 id=\"vampires-everywhere\"><em>Vampires Everywhere</em></h3><p>These guys were pretty descent musicians, but their sound just didn’t resonate with me. It’s always nice to see the musicians going through the setup and teardown for their own performance rather than hired hands.</p><h3 id=\"orgy\"><em>Orgy</em></h3><p>A little closer to my style, but still not my groove. Also, the only real song they do that I know, <em>Blue Monday</em> was played musically pretty well, but the singer insisted on letting the crowd sing most of the song. These guys also helped with setup/teardown.</p><h3 id=\"filter\"><em>Filter</em></h3><p>Admittedly, I was hoping for something of a 20th anniversary show for <em>Short Bus</em> like <em>The Toadies</em> and <em>Candlebox</em> did, but no dice.</p>",
+            "url": "http://localhost:4000/events/2016/04/20/filter.html",
+            
+            
+            
+            
+            
+            "date_published": "2016-04-20T19:00:00-05:00",
+            "date_modified": "2016-04-20T19:00:00-05:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/events/2015/08/11/Foo-Fighters.html",
+            "title": "Foo Fighters",
+            "summary": null,
+            "content_text": "Setlist:  Everlong  Monkey Wrench  Learn to Fly  Something From Nothing  The Pretender  Big Me (Slow Version)  Congregation  Walk  Times Like These  I’m the One (Van Halen cover) (snippet played during band introduction)  Cold Day in the Sun  Skin and Bones (Acoustic w/ Rami on Accordian)  My Hero (Acoustic w/ Rami on Accordian)  Outside  Breakout  All My Life  Under Pressure (Queen cover)  White Limo  Arlandria  These Days  This Is a Call  Ain’t Talkin’ ‘Bout Love (Van Halen cover)  Panama (Van Halen cover)  Miss You (The Rolling Stones cover)  Best of Yousetlist",
+            "content_html": "<p>Setlist:</p><ul>  <li>Everlong</li>  <li>Monkey Wrench</li>  <li>Learn to Fly</li>  <li>Something From Nothing</li>  <li>The Pretender</li>  <li>Big Me (Slow Version)</li>  <li>Congregation</li>  <li>Walk</li>  <li>Times Like These</li>  <li>I’m the One (Van Halen cover) (snippet played during band introduction)</li>  <li>Cold Day in the Sun</li>  <li>Skin and Bones (Acoustic w/ Rami on Accordian)</li>  <li>My Hero (Acoustic w/ Rami on Accordian)</li>  <li>Outside</li>  <li>Breakout</li>  <li>All My Life</li>  <li>Under Pressure (Queen cover)</li>  <li>White Limo</li>  <li>Arlandria</li>  <li>These Days</li>  <li>This Is a Call</li>  <li>Ain’t Talkin’ ‘Bout Love (Van Halen cover)</li>  <li>Panama (Van Halen cover)</li>  <li>Miss You (The Rolling Stones cover)</li>  <li>Best of You</li></ul><p><a href=\"http://www.setlist.fm/setlist/foo-fighters/2015/xcel-energy-center-st-paul-mn-63f7d247.html\">setlist</a></p>",
+            "url": "http://localhost:4000/events/2015/08/11/Foo-Fighters.html",
+            
+            
+            
+            
+            
+            "date_published": "2015-08-11T20:00:00-05:00",
+            "date_modified": "2015-08-11T20:00:00-05:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/ios/2015/03/01/simplenote-to-vesper.html",
+            "title": "Simplenote to Vesper",
+            "summary": null,
+            "content_text": "It started with a tweet from @benjaminbrooks:Has anyone written a tool to move your data somehow from Simplenote to Vesper, asking for me. I mean a friend, like someone else.&mdash; Ben Brooks (@BenjaminBrooks) February 27, 2015When Vesper first hit iOS last year, I had the same question. I wanted to give Vespre a fair chance, but without being able to import from my existing note-taking app (Simplenote), Vesper had an uphill battle. (Same goes for Drafts).On OS X, Simplenote prefers to store notes in a SQLite database, so I figured Simplenote for iOS would do the same. I figured Vesper would be doing likewise. A quick check with iExplorer confirmed this.I exported a copy of both databases and quickly created some basic SQL queries to get notes, unique tags, and note-tag combination data in reasonable format for exporting from Simplenote database and importing into Vesper database. (At this point, I force-quit Vesper on iOS.)Creating these queries was quick work in SQLPro for SQLite. To actually transfer the content to the Vesper database, I simply exported the resulting tables from the Simplenote database as JSON files and then imported them in the Vesper database in this order:  Notes  Tags  Note-Tag relationsOnce that’s done, copy the modified Vesper database back to the Vesper Documents directory in iExplorer (it should ask about overwriting the existing file), say yes, wait a few seconds for iExplorer to complete the sync, fire up Vesper (you already force-quit it above, right?) and look at all the Simplenote data. They should all be properly tagged and the dates intact. I think.If only there were a Vesper for OS X available, this would possibly have been easier?Let’s see how well Vesper sticks for me now that everything is in it.Apps Used:  Vesper (iOS) $8.  Simplenote (iOS) $0. Notational Velocity or nvALT on OS X would probably also have the information needed, but you’d need to wrangle that data yourself.  iExplorer (OS X). For pulling and pushing data to your iOS device. I used version 2.2.1.6. v. 3.6.6.0 might work?  SQLPro for SQLite Pro (OS X). At one point, this was $2; it’s now $20. If you’re cozy with tromping around the terminal with SQLite, you don’t really need an SQLite app. I’m cozy enough, but still prefer to use the app.Fair Warning: You should never, ever run code you don’t understand. Backup your data. This works for me, but my Simplenote notes are fairly…simple. your results may differ. if this breaks anything, it’s probably operator error. please email marco.",
+            "content_html": "<p>It started with <a href=\"https://twitter.com/BenjaminBrooks/status/571438237710811136\">a tweet from @benjaminbrooks</a>:</p><blockquote class=\"twitter-tweet\" lang=\"en\"><p>Has anyone written a tool to move your data somehow from Simplenote to Vesper, asking for me. I mean a friend, like someone else.</p>&mdash; Ben Brooks (@BenjaminBrooks) <a href=\"https://twitter.com/BenjaminBrooks/status/571438237710811136\">February 27, 2015</a></blockquote><script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>When Vesper first hit iOS last year, I had the same question. I wanted to give Vespre a fair chance, but without being able to import from my existing note-taking app (Simplenote), Vesper had an uphill battle. (Same goes for Drafts).</p><!--more--><p>On OS X, Simplenote prefers to store notes in a <a href=\"http://www.sqlite.org\">SQLite</a> database, so I figured Simplenote for iOS would do the same. I figured Vesper would be doing likewise. A quick check with iExplorer confirmed this.</p><p>I exported a copy of both databases and quickly created some basic SQL queries to get notes, unique tags, and note-tag combination data in reasonable format for exporting from Simplenote database and importing into Vesper database. (At this point, I force-quit Vesper on iOS.)</p><script src=\"https://gist.github.com/rkoopmann/cbffa5780bfe0c9f45a0.js\"></script><p>Creating these queries was quick work in SQLPro for SQLite. To actually transfer the content to the Vesper database, I simply exported the resulting tables from the Simplenote database as JSON files and then imported them in the Vesper database in this order:</p><ol>  <li>Notes</li>  <li>Tags</li>  <li>Note-Tag relations</li></ol><p>Once that’s done, copy the modified Vesper database back to the Vesper Documents directory in iExplorer (it should ask about overwriting the existing file), say yes, wait a few seconds for iExplorer to complete the sync, fire up Vesper (you already force-quit it above, right?) and look at all the Simplenote data. They should all be properly tagged and the dates intact. I think.</p><p>If only there were a Vesper for OS X available, this would possibly have been easier?</p><p>Let’s see how well Vesper sticks for me now that everything is in it.</p><p><strong>Apps Used:</strong></p><ul>  <li><a href=\"https://itunes.apple.com/us/app/vesper/id655895325?mt=8&amp;at=10l4LH\">Vesper</a> (iOS) $8.</li>  <li><a href=\"https://itunes.apple.com/us/app/simplenote/id289429962?mt=8&amp;at=10l4LH\">Simplenote</a> (iOS) $0. <em>Notational Velocity or nvALT on OS X would probably also have the information needed, but you’d need to wrangle that data yourself.</em></li>  <li>iExplorer (OS X). <em>For pulling and pushing data to your iOS device. I used version 2.2.1.6. <a href=\"http://www.macroplant.com/iexplorer/\">v. 3.6.6.0</a> might work?</em></li>  <li><a href=\"https://itunes.apple.com/us/app/sqlpro-for-sqlite-sql-database/id586001240?mt=12&amp;at=10l4LH\">SQLPro for SQLite Pro</a> (OS X). At one point, this was $2; it’s now $20. <em>If you’re cozy with tromping around the terminal with SQLite, you don’t really need an SQLite app. I’m cozy enough, but still prefer to use the app.</em></li></ul><p><strong>Fair Warning</strong>: You should never, <em>ever</em> run code you don’t understand. Backup your data. This works for me, but my Simplenote notes are fairly…simple. your results may differ. if this breaks anything, it’s probably operator error. please email marco.</p>",
+            "url": "http://localhost:4000/ios/2015/03/01/simplenote-to-vesper.html",
+            
+            "external_url": "http://stackoverflow.com/a/14416896/142229",
+            
+            
+            
+            "date_published": "2015-03-01T19:00:00-06:00",
+            "date_modified": "2015-03-01T19:00:00-06:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/sas/2014/10/29/current-file-path.html",
+            "title": "Current file path",
+            "summary": null,
+            "content_text": "Sometimes I need to reference the path of the current (saved) file. Thanks to a stack overflow post, I can easily do that.%let filepath=%substr(%sysget(SAS_EXECFILEPATH),1,  %eval(%length(%sysget(SAS_EXECFILEPATH))-%length(%sysget(SAS_EXECFILENAME))));%put &amp;FILEPATH;",
+            "content_html": "<p>Sometimes I need to reference the path of the current (saved) file. Thanks to <a href=\"http://stackoverflow.com/a/14416896/142229\">a stack overflow post</a>, I can easily do that.</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>%let filepath=%substr(%sysget(SAS_EXECFILEPATH),1,  %eval(%length(%sysget(SAS_EXECFILEPATH))-%length(%sysget(SAS_EXECFILENAME))));%put &amp;FILEPATH;</code></pre></div>",
+            "url": "http://localhost:4000/sas/2014/10/29/current-file-path.html",
+            
+            "external_url": "http://stackoverflow.com/a/14416896/142229",
+            
+            
+            
+            "date_published": "2014-10-29T20:00:00-05:00",
+            "date_modified": "2014-10-29T20:00:00-05:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/sas/2014/08/26/finding-conventions.html",
+            "title": "finding conventions, establishing standards",
+            "summary": null,
+            "content_text": "I’m creating a perl script that reads through all .sas files in a directory taking note when a SAS macro is being defined.I’m in a rut right now trying to figure out how to%* in SAS, macros can be defined a few different ways;%macro regular(param1);%mend;%macro withDescription / des='bah';%mend;%macro emptyOptions () ;%mend;%macro noOptions;%mend;%macro spacedOut (  bah=ram) / some options;%mend;%macro noSpace(a,b=c,d=e)/des='something';%mend;%macro outside;\t%macro inside;\t%mend;%mend;I’ve developed some perl code to index these macros.%macro\\s+(\\w+)\\s*\\(??(.*?)\\)??\\s*/?\\.*;(%macro\\s.+?;) ## capture macro statement%macro\\s*(\\w+)\\s*(\\(\\s*.+?\\s*\\))??; ## capture macro name &amp; paren with contents",
+            "content_html": "<p>I’m creating a perl script that reads through all <code class=\"highlighter-rouge\">.sas</code> files in a directory taking note when a SAS macro is being defined.</p><!--more--><p>I’m in a rut right now trying to figure out how to</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>%* in SAS, macros can be defined a few different ways;%macro regular(param1);%mend;%macro withDescription / des='bah';%mend;%macro emptyOptions () ;%mend;%macro noOptions;%mend;%macro spacedOut (  bah=ram) / some options;%mend;%macro noSpace(a,b=c,d=e)/des='something';%mend;%macro outside;\t%macro inside;\t%mend;%mend;</code></pre></div><p>I’ve developed some perl code to index these macros.</p><div class=\"language-perl highlighter-rouge\"><pre class=\"highlight\"><code><span class=\"nv\">%macro</span><span class=\"o\">\\</span><span class=\"nv\">s</span><span class=\"o\">+</span><span class=\"p\">(</span><span class=\"o\">\\</span><span class=\"nv\">w</span><span class=\"o\">+</span><span class=\"p\">)</span><span class=\"o\">\\</span><span class=\"nv\">s</span><span class=\"o\">*\\</span><span class=\"p\">(??(</span><span class=\"o\">.*</span><span class=\"p\">?)</span><span class=\"o\">\\</span><span class=\"p\">)??</span><span class=\"o\">\\</span><span class=\"nv\">s</span><span class=\"o\">*/</span><span class=\"p\">?</span><span class=\"o\">\\.*</span><span class=\"p\">;</span><span class=\"p\">(</span><span class=\"nv\">%macro</span><span class=\"o\">\\</span><span class=\"nv\">s</span><span class=\"o\">.+</span><span class=\"p\">?;)</span> <span class=\"c1\">## capture macro statement</span><span class=\"nv\">%macro</span><span class=\"o\">\\</span><span class=\"nv\">s</span><span class=\"o\">*</span><span class=\"p\">(</span><span class=\"o\">\\</span><span class=\"nv\">w</span><span class=\"o\">+</span><span class=\"p\">)</span><span class=\"o\">\\</span><span class=\"nv\">s</span><span class=\"o\">*</span><span class=\"p\">(</span><span class=\"o\">\\</span><span class=\"p\">(</span><span class=\"o\">\\</span><span class=\"nv\">s</span><span class=\"o\">*.+</span><span class=\"p\">?</span><span class=\"o\">\\</span><span class=\"nv\">s</span><span class=\"o\">*\\</span><span class=\"p\">))??;</span> <span class=\"c1\">## capture macro name &amp; paren with contents</span></code></pre></div>",
+            "url": "http://localhost:4000/sas/2014/08/26/finding-conventions.html",
+            
+            
+            
+            
+            
+            "date_published": "2014-08-26T22:52:37-05:00",
+            "date_modified": "2014-08-26T22:52:37-05:00",
+            "author": {
+                "name": "rkoopmann"
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/post/2014/08/22/we-blew-it.html",
+            "title": "we blew it",
+            "summary": null,
+            "content_text": "Thomas Brand on the hoopla surrounding twitter’s new timeline:  As far as I am concerned, we had our chance to cultivate our own social network on App.net, and we blew it. Now who ever wants to stay with the bird has to live with the consequences.spot on.",
+            "content_html": "<p><a href=\"http://twitter.com/eggfreckles\">Thomas Brand</a> on the hoopla surrounding twitter’s new <a href=\"https://support.twitter.com/articles/164083-what-s-a-twitter-timeline?_ga=1.208952082.1652363612.1408714302\">timeline</a>:</p><blockquote>  <p>As far as I am concerned, we had our chance to cultivate our own social network on App.net, and we blew it. Now who ever wants to stay with the bird has to live with the consequences.</p></blockquote><p>spot on.</p>",
+            "url": "http://localhost:4000/post/2014/08/22/we-blew-it.html",
+            
+            "external_url": "http://eggfreckles.net/notes/whats-a-twitter-timeline/",
+            
+            
+            
+            "date_published": "2014-08-22T00:00:00-05:00",
+            "date_modified": "2014-08-22T00:00:00-05:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/sas/2014/08/18/getOption.html",
+            "title": "getOption",
+            "summary": null,
+            "content_text": "SAS has a number of system options that we can access through dictionary tables (or sashelp v-tables) or with the built-in getoption function.For a given option, I’d like to be able to return the value through a macro call. Something like line_width=%getOption(LINESIZE);.%macro getOption(optname);%global getOption_value;%let getOption_value=Specified option not found;data _null_;\tcall symput('getOption_value', getoption(\"&amp;OPTNAME\"));run;&amp;getOption_value;%mend;",
+            "content_html": "<p>SAS has a number of <a href=\"http://support.sas.com/documentation/cdl/en/lrdict/64316/HTML/default/viewer.htm#a000103941.htm\">system options</a> that we can access through dictionary tables (or sashelp v-tables) or with the built-in <code class=\"highlighter-rouge\">getoption</code> function.</p><!--more--><p>For a given option, I’d like to be able to return the value through a macro call. Something like <code class=\"highlighter-rouge\">line_width=%getOption(LINESIZE);</code>.</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>%macro getOption(optname);%global getOption_value;%let getOption_value=Specified option not found;data _null_;\tcall symput('getOption_value', getoption(\"&amp;OPTNAME\"));run;&amp;getOption_value;%mend;</code></pre></div>",
+            "url": "http://localhost:4000/sas/2014/08/18/getOption.html",
+            
+            
+            
+            "tags": ["macro","system options"],
+            
+            "date_published": "2014-08-18T15:32:47-05:00",
+            "date_modified": "2014-08-18T15:32:47-05:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/sas/2014/07/17/benchmarking-sasload.html",
+            "title": "benchmarking the sasload statement",
+            "summary": null,
+            "content_text": "in the middle of re-writing some macro code where different datasets were being accessed a number of times, i came across the sasload statement being called for each datasets. something like this:sasfile sashelp.stocks open;\t%macro1();\t%macro2();\t%macro3();sasfile sashelp.stocks close;sasfile sashelp.class open;\t%macro1();\t%macro4();sasfile sashelp.class close;i’d always assumed that the sasfile would speed up subsequent dataset access time, but never really checked.so i’m fixing that now.first, a couple novel macros that i’m using for this benchmark.%macro grabTime(stop);\t%global teststart;\tproc sql;\tselect distinct\t%if \"&amp;stop\" eq \"\" %then\t\tdatetime() format=20.6\t\tinto :testStart\t;\t%else\t\tdatetime() - &amp;teststart format=20.6\t;\tfrom sashelp.class;\tquit;%mend;%macro summarize(dataset,class,variable,suffix);proc summary data=&amp;dataset nway;\tclass &amp;class;\tvar &amp;variable;\toutput out=Test&amp;suffix mean=;run;%mend;%macro levels(dataset,variable,suffix);proc freq levels data=&amp;dataset;\ttable &amp;variable;run;%mend;baselinerun two macros in sequence 500 times.%macro baseline;%grabtime();%do i = 1 %to 500;\t%summarize(sashelp.stocks,stock,open,&amp;i);\t%levels(sashelp.stocks,stock,&amp;i);%end;%grabtime(stop);%mend;%baseline;sasfile outside looprun two macros in sequence 500 times but load the dataset at the start and end.%macro outside;%grabtime();sasfile sashelp.stocks open;%do i = 1 %to 500;\t%summarize(sashelp.stocks,stock,open,&amp;i);\t%levels(sashelp.stocks,stock,&amp;i);%end;sasfile sashelp.stocks close;%grabtime(stop);%mend;%outside;sasfile inside looprun two macros in sequence 500 times but load the dataset each iteration.%macro inside;%grabtime();%do i = 1 %to 500;\tsasfile sashelp.stocks open;\t%summarize(sashelp.stocks,stock,open,&amp;i);\t%levels(sashelp.stocks,stock,&amp;i);\tsasfile sashelp.stocks close;%end;%grabtime(stop);%mend;%inside;turns out, in this benchmark, not using sasfile is actually the best option.  baseline: 12.964 seconds.  sasfile outside loop: 13.432 seconds (+3.61%).  sasfile inside loop: 14.166 seconds (+9.27%).",
+            "content_html": "<p>in the middle of re-writing some macro code where different datasets were being accessed a number of times, i came across the <code class=\"highlighter-rouge\">sasload</code> statement being called for each datasets. something like this:</p><div class=\"language-text highlighter-rouge\"><pre class=\"highlight\"><code>sasfile sashelp.stocks open;\t%macro1();\t%macro2();\t%macro3();sasfile sashelp.stocks close;sasfile sashelp.class open;\t%macro1();\t%macro4();sasfile sashelp.class close;</code></pre></div><!--more--><p>i’d always assumed that the <code class=\"highlighter-rouge\">sasfile</code> would speed up subsequent dataset access time, but never really checked.</p><p>so i’m fixing that now.</p><p>first, a couple novel macros that i’m using for this benchmark.</p><div class=\"language-text highlighter-rouge\"><pre class=\"highlight\"><code>%macro grabTime(stop);\t%global teststart;\tproc sql;\tselect distinct\t%if \"&amp;stop\" eq \"\" %then\t\tdatetime() format=20.6\t\tinto :testStart\t;\t%else\t\tdatetime() - &amp;teststart format=20.6\t;\tfrom sashelp.class;\tquit;%mend;%macro summarize(dataset,class,variable,suffix);proc summary data=&amp;dataset nway;\tclass &amp;class;\tvar &amp;variable;\toutput out=Test&amp;suffix mean=;run;%mend;%macro levels(dataset,variable,suffix);proc freq levels data=&amp;dataset;\ttable &amp;variable;run;%mend;</code></pre></div><p><strong>baseline</strong></p><p>run two macros in sequence 500 times.</p><div class=\"language-text highlighter-rouge\"><pre class=\"highlight\"><code>%macro baseline;%grabtime();%do i = 1 %to 500;\t%summarize(sashelp.stocks,stock,open,&amp;i);\t%levels(sashelp.stocks,stock,&amp;i);%end;%grabtime(stop);%mend;%baseline;</code></pre></div><p><strong><code class=\"highlighter-rouge\">sasfile</code> outside loop</strong></p><p>run two macros in sequence 500 times but load the dataset at the start and end.</p><div class=\"language-text highlighter-rouge\"><pre class=\"highlight\"><code>%macro outside;%grabtime();sasfile sashelp.stocks open;%do i = 1 %to 500;\t%summarize(sashelp.stocks,stock,open,&amp;i);\t%levels(sashelp.stocks,stock,&amp;i);%end;sasfile sashelp.stocks close;%grabtime(stop);%mend;%outside;</code></pre></div><p><strong><code class=\"highlighter-rouge\">sasfile</code> inside loop</strong></p><p>run two macros in sequence 500 times but load the dataset each iteration.</p><div class=\"language-text highlighter-rouge\"><pre class=\"highlight\"><code>%macro inside;%grabtime();%do i = 1 %to 500;\tsasfile sashelp.stocks open;\t%summarize(sashelp.stocks,stock,open,&amp;i);\t%levels(sashelp.stocks,stock,&amp;i);\tsasfile sashelp.stocks close;%end;%grabtime(stop);%mend;%inside;</code></pre></div><p>turns out, in this benchmark, <em>not</em> using <code class=\"highlighter-rouge\">sasfile</code> is actually the best option.</p><ul>  <li>baseline: 12.964 seconds.</li>  <li><code class=\"highlighter-rouge\">sasfile</code> outside loop: 13.432 seconds (+3.61%).</li>  <li><code class=\"highlighter-rouge\">sasfile</code> inside loop: 14.166 seconds (+9.27%).</li></ul>",
+            "url": "http://localhost:4000/sas/2014/07/17/benchmarking-sasload.html",
+            
+            
+            
+            
+            
+            "date_published": "2014-07-17T14:17:00-05:00",
+            "date_modified": "2014-07-17T14:17:00-05:00",
+            "author": {
+                "name": "rkoopmann"
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/post/2014/07/14/on-interruptions.html",
+            "title": "On Interruptions",
+            "summary": null,
+            "content_text": "Last month, Ben Brooks ran a poll on his website asking readers their attitudes toward interrupting other people using various writing devices. I reached out to Ben and he provided with me the poll data for analysis.With my initial, and somewhat hasty, pass through the data, I sent the results back to Ben, which he posted.The thing is, in my haste, I goofed a bit. I had originally ran chi square tests and identified the cells with the largest deviation as being “significantly different”. Max Masnick, an epidemiology PhD student, correctly pointed out that a chi square test only identifies that something is different; it does not identify what is different. For that, you need some additional testing.I recently went back, revisited the data, and updated my analysis. And Ben kindly posted that update.",
+            "content_html": "<p>Last month, Ben Brooks ran <a href=\"https://brooksreview.net/2014/06/interruption-survey/\">a poll on his website</a> asking readers their attitudes toward interrupting other people using various writing devices. I reached out to Ben and he provided with me the poll data for analysis.</p><p>With my initial, and somewhat hasty, pass through the data, I sent the results back to Ben, which he <a href=\"https://brooksreview.net/2014/06/on-interruptions\">posted</a>.</p><p>The thing is, in my haste, I goofed a bit. I had originally ran chi square tests and identified the cells with the largest deviation as being “significantly different”. <a href=\"http://maxmasnick.com\">Max Masnick</a>, an epidemiology PhD student, correctly pointed out that a chi square test only identifies that <em>something</em> is different; it does not identify <em>what</em> is different. For that, you need some additional testing.</p><p>I recently went back, revisited the data, and updated my analysis. And Ben kindly posted <a href=\"https://brooksreview.net/further-interruption-survey-analysis/\">that update</a>.</p>",
+            "url": "http://localhost:4000/post/2014/07/14/on-interruptions.html",
+            
+            "external_url": "https://brooksreview.net/further-interruption-survey-analysis/",
+            
+            
+            
+            "date_published": "2014-07-14T00:00:00-05:00",
+            "date_modified": "2014-07-14T00:00:00-05:00",
+            "author": {
+                "name": "rkoopmann"
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/sas/2014/07/09/rebuilding-wide-macros.html",
+            "title": "rebuilding wide macros",
+            "summary": null,
+            "content_text": "Recently I needed to pull the values of potentially long macro variables (more than 200 characters) from the dictionary tables (sashelp.vmacro in this case). I couldn’t simply use the actual macro variable because the main program was dataset-driven. The bottom line was that I needed a dataset containing the macro values in a single variable with one observation per macro variable.For example,data _null_;\tformat long_macro $512.;\tlong_macro=repeat('0123456789ABCDEF', 31);\tcall symput('LONG_MACRO', long_macro);run;proc print data=sashelp.vmacro noobs;    where scope eq 'GLOBAL'    \tand name eq 'LONG_MACRO';    format value $25.;    var offset value;run;/* outputoffset    value    0     0123456789ABCDEF012345678  200     89ABCDEF0123456789ABCDEF0  400     0123456789ABCDEF012345678*/My initial approach was to simply go over the dictionary table and retain/append a new variable but neither cat nor || worked quite right. The issue is that spaces are important in my case, so the cats function was a no-go[^The macro values could contain spaces and if those spaces happened to land on the 200-character increments, then two words would get smashed together.].I could have used a substr function on the left of the equal like this:data _null_;\tset sashelp.vmacro;\twhere scope eq 'GLOBAL'\t\tand name eq 'LONG_MACRO';\tformat fullvalue $512.;\tretain fullvalue;\tstart = (_n_-1) * 200 + 1;\tsubstr(fullvalue, start, 200) = value;\tlength=length(fullvalue);\tput _n_ @5 start @10 length fullvalue $25.;run;/* output1   1    200 0123456789ABCDEF0123456782   201  400 0123456789ABCDEF0123456783   401  500 0123456789ABCDEF012345678*/Which is simple enough when you need to get to exactly one macro variable, but with more than one, you’d need to sort the data and use first. variables to set up and increment a counter variable as opposed to simply using _n_.Then I figured I’d try to simply transpose the dictionary table and then cat the different columns. This worked.***\tget the macro snippets sorted right.;proc sort data=sashelp.vmacro out=macros;\tby scope name offset;run;***\ttranspose by scope and name on offset.;proc transpose data=macros\t\tout=macros prefix=offset_;\tby scope name;\tid offset;\tvar value;run;***\treassemble macros to original (wider) values.;data macros(rename=value2=value);\tformat scope name $32. value2 $32000.;    set macros;\tvalue2 = cat(of offset_:);\tdrop value offset_: _name_ _label_;run;Now I have access to the full macro variable values from a dataset for any proc I need.",
+            "content_html": "<p>Recently I needed to pull the values of potentially long macro variables (more than 200 characters) from the dictionary tables (<code class=\"highlighter-rouge\">sashelp.vmacro</code> in this case). I couldn’t simply use the actual macro variable because the main program was dataset-driven. The bottom line was that I needed a dataset containing the macro values in a single variable with one observation per macro variable.</p><!--more--><p>For example,</p><div class=\"language-text highlighter-rouge\"><pre class=\"highlight\"><code>data _null_;\tformat long_macro $512.;\tlong_macro=repeat('0123456789ABCDEF', 31);\tcall symput('LONG_MACRO', long_macro);run;proc print data=sashelp.vmacro noobs;    where scope eq 'GLOBAL'    \tand name eq 'LONG_MACRO';    format value $25.;    var offset value;run;/* outputoffset    value    0     0123456789ABCDEF012345678  200     89ABCDEF0123456789ABCDEF0  400     0123456789ABCDEF012345678*/</code></pre></div><p>My initial approach was to simply go over the dictionary table and retain/append a new variable but neither <code class=\"highlighter-rouge\">cat</code> nor <code class=\"highlighter-rouge\">||</code> worked quite right. The issue is that spaces are important in my case, so the <code class=\"highlighter-rouge\">cats</code> function was a no-go[^The macro values could contain spaces and if those spaces happened to land on the 200-character increments, then two words would get smashed together.].</p><p>I <em>could</em> have used a <code class=\"highlighter-rouge\">substr</code> function on the left of the equal like this:</p><div class=\"language-text highlighter-rouge\"><pre class=\"highlight\"><code>data _null_;\tset sashelp.vmacro;\twhere scope eq 'GLOBAL'\t\tand name eq 'LONG_MACRO';\tformat fullvalue $512.;\tretain fullvalue;\tstart = (_n_-1) * 200 + 1;\tsubstr(fullvalue, start, 200) = value;\tlength=length(fullvalue);\tput _n_ @5 start @10 length fullvalue $25.;run;/* output1   1    200 0123456789ABCDEF0123456782   201  400 0123456789ABCDEF0123456783   401  500 0123456789ABCDEF012345678*/</code></pre></div><p>Which is simple enough when you need to get to exactly one macro variable, but with more than one, you’d need to sort the data and use <code class=\"highlighter-rouge\">first.</code> variables to set up and increment a counter variable as opposed to simply using <code class=\"highlighter-rouge\">_n_</code>.</p><p>Then I figured I’d try to simply transpose the dictionary table and then <code class=\"highlighter-rouge\">cat</code> the different columns. This worked.</p><div class=\"language-text highlighter-rouge\"><pre class=\"highlight\"><code>***\tget the macro snippets sorted right.;proc sort data=sashelp.vmacro out=macros;\tby scope name offset;run;***\ttranspose by scope and name on offset.;proc transpose data=macros\t\tout=macros prefix=offset_;\tby scope name;\tid offset;\tvar value;run;***\treassemble macros to original (wider) values.;data macros(rename=value2=value);\tformat scope name $32. value2 $32000.;    set macros;\tvalue2 = cat(of offset_:);\tdrop value offset_: _name_ _label_;run;</code></pre></div><p>Now I have access to the full macro variable values from a dataset for any proc I need.</p>",
+            "url": "http://localhost:4000/sas/2014/07/09/rebuilding-wide-macros.html",
+            
+            
+            
+            
+            
+            "date_published": "2014-07-09T00:00:00-05:00",
+            "date_modified": "2014-07-09T00:00:00-05:00",
+            "author": {
+                "name": "rkoopmann"
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/sas/2014/05/19/last-week-of-qtr.html",
+            "title": "last week of quarter",
+            "summary": null,
+            "content_text": "A coworker recently asked me how I would identify the last week of a quarter when the date variable is formatted as week.2.Here’s what I came up with.data _null_;    do i = 0 to 250;        X_DT=intnx('week.2','01jan2010'd, i);        last_week_of_quarter = (qtr(X_DT) ne qtr(intnx('week.2', x_dt, 1)));    end;run;Which flagged the following dates as beginning in the last week of the quarter:  Monday, December 28, 2009  Monday, March 29, 2010  Monday, June 28, 2010  Monday, September 27, 2010  Monday, December 27, 2010  Monday, March 28, 2011  Monday, June 27, 2011  Monday, September 26, 2011  Monday, December 26, 2011  Monday, March 26, 2012  Monday, June 25, 2012  Monday, September 24, 2012  Monday, December 31, 2012  Monday, March 25, 2013  Monday, June 24, 2013  Monday, September 30, 2013  Monday, December 30, 2013  Monday, March 31, 2014  Monday, June 30, 2014  Monday, September 29, 2014That looked good to me. All the flagged weeks we indeed at the end of the quarter.Then the additional requirement that the X_DT values are set to the end of the week (Sunday), rather than the beginning (Monday). That throws a wench in things.My initial thought was to simple add the 'e' argument to the initial intnx function. But that didn’t work.  Sunday, September 30, 2012  Sunday, March 31, 2013  Sunday, June 30, 2013These dates are weeks that end on the last day of the quarter. That’s not quite what he was after.Adding the 'e' argument to the second intnx function as well seemed to fix things:  Sunday, March 28, 2010  Sunday, June 27, 2010  Sunday, September 26, 2010  Sunday, December 26, 2010  Sunday, March 27, 2011  Sunday, June 26, 2011  Sunday, September 25, 2011  Sunday, December 25, 2011  Sunday, March 25, 2012  Sunday, June 24, 2012  Sunday, September 30, 2012  Sunday, December 30, 2012  Sunday, March 31, 2013  Sunday, June 30, 2013  Sunday, September 29, 2013  Sunday, December 29, 2013  Sunday, March 30, 2014  Sunday, June 29, 2014  Sunday, September 28, 2014Which is the list of the last week that ends within a given quarter.",
+            "content_html": "<p>A coworker recently asked me how I would identify the last week of a quarter when the date variable is formatted as <code class=\"highlighter-rouge\">week.2</code>.</p><p>Here’s what I came up with.</p><!--more--><div class=\"language-r highlighter-rouge\"><pre class=\"highlight\"><code><span class=\"n\">data</span><span class=\"w\"> </span><span class=\"err\">_</span><span class=\"n\">null_</span><span class=\"p\">;</span><span class=\"w\">    </span><span class=\"n\">do</span><span class=\"w\"> </span><span class=\"n\">i</span><span class=\"w\"> </span><span class=\"o\">=</span><span class=\"w\"> </span><span class=\"m\">0</span><span class=\"w\"> </span><span class=\"n\">to</span><span class=\"w\"> </span><span class=\"m\">250</span><span class=\"p\">;</span><span class=\"w\">        </span><span class=\"n\">X_DT</span><span class=\"o\">=</span><span class=\"n\">intnx</span><span class=\"p\">(</span><span class=\"s1\">'week.2'</span><span class=\"p\">,</span><span class=\"s1\">'01jan2010'</span><span class=\"n\">d</span><span class=\"p\">,</span><span class=\"w\"> </span><span class=\"n\">i</span><span class=\"p\">);</span><span class=\"w\">        </span><span class=\"n\">last_week_of_quarter</span><span class=\"w\"> </span><span class=\"o\">=</span><span class=\"w\"> </span><span class=\"p\">(</span><span class=\"n\">qtr</span><span class=\"p\">(</span><span class=\"n\">X_DT</span><span class=\"p\">)</span><span class=\"w\"> </span><span class=\"n\">ne</span><span class=\"w\"> </span><span class=\"n\">qtr</span><span class=\"p\">(</span><span class=\"n\">intnx</span><span class=\"p\">(</span><span class=\"s1\">'week.2'</span><span class=\"p\">,</span><span class=\"w\"> </span><span class=\"n\">x_dt</span><span class=\"p\">,</span><span class=\"w\"> </span><span class=\"m\">1</span><span class=\"p\">)));</span><span class=\"w\">    </span><span class=\"n\">end</span><span class=\"p\">;</span><span class=\"w\"></span><span class=\"n\">run</span><span class=\"p\">;</span><span class=\"w\"></span></code></pre></div><p>Which flagged the following dates as beginning in the last week of the quarter:</p><ul>  <li>Monday, December 28, 2009</li>  <li>Monday, March 29, 2010</li>  <li>Monday, June 28, 2010</li>  <li>Monday, September 27, 2010</li>  <li>Monday, December 27, 2010</li>  <li>Monday, March 28, 2011</li>  <li>Monday, June 27, 2011</li>  <li>Monday, September 26, 2011</li>  <li>Monday, December 26, 2011</li>  <li>Monday, March 26, 2012</li>  <li>Monday, June 25, 2012</li>  <li>Monday, September 24, 2012</li>  <li>Monday, December 31, 2012</li>  <li>Monday, March 25, 2013</li>  <li>Monday, June 24, 2013</li>  <li>Monday, September 30, 2013</li>  <li>Monday, December 30, 2013</li>  <li>Monday, March 31, 2014</li>  <li>Monday, June 30, 2014</li>  <li>Monday, September 29, 2014</li></ul><p>That looked good to me. All the flagged weeks we indeed at the end of the quarter.</p><p>Then the additional requirement that the X_DT values are set to the <em>end</em> of the week (Sunday), rather than the beginning (Monday). That throws a wench in things.</p><p>My initial thought was to simple add the <code class=\"highlighter-rouge\">'e'</code> argument to the initial <code class=\"highlighter-rouge\">intnx</code> function. But that didn’t work.</p><ul>  <li>Sunday, September 30, 2012</li>  <li>Sunday, March 31, 2013</li>  <li>Sunday, June 30, 2013</li></ul><p>These dates are weeks that end on the last day of the quarter. That’s not quite what he was after.</p><p>Adding the <code class=\"highlighter-rouge\">'e'</code> argument to the second <code class=\"highlighter-rouge\">intnx</code> function as well seemed to fix things:</p><ul>  <li>Sunday, March 28, 2010</li>  <li>Sunday, June 27, 2010</li>  <li>Sunday, September 26, 2010</li>  <li>Sunday, December 26, 2010</li>  <li>Sunday, March 27, 2011</li>  <li>Sunday, June 26, 2011</li>  <li>Sunday, September 25, 2011</li>  <li>Sunday, December 25, 2011</li>  <li>Sunday, March 25, 2012</li>  <li>Sunday, June 24, 2012</li>  <li>Sunday, September 30, 2012</li>  <li>Sunday, December 30, 2012</li>  <li>Sunday, March 31, 2013</li>  <li>Sunday, June 30, 2013</li>  <li>Sunday, September 29, 2013</li>  <li>Sunday, December 29, 2013</li>  <li>Sunday, March 30, 2014</li>  <li>Sunday, June 29, 2014</li>  <li>Sunday, September 28, 2014</li></ul><p>Which is the list of the last week that ends within a given quarter.</p>",
+            "url": "http://localhost:4000/sas/2014/05/19/last-week-of-qtr.html",
+            
+            
+            
+            
+            
+            "date_published": "2014-05-19T00:00:00-05:00",
+            "date_modified": "2014-05-19T00:00:00-05:00",
+            "author": {
+                "name": "rkoopmann"
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/sas/2014/05/03/array-values-through-do_over.html",
+            "title": "setting %array values through %do_over",
+            "summary": null,
+            "content_text": "I’ve been using Ted Clay’s %array and %do_over macros lately. a lot. Everytime I think I’ve hit a wall with what these two macros can do, I look back at Ted’s Coders’ Corner paper for SUGI 31–that’d be SGF 2006 in SAS Global Forum terms.Recently, I was working on a macro to handle a set of an unknown number of variables. Depending on the number of variables in each set, I had to kick off another macro and, conditionally, execute some other statements.This sounded like the perfect situation for %array and %do_over.So I checked if this works:%array(seq, values=%do_over(values=1-5, phrase=V?));%put %do_over(seq);good news: it worked exactly as one would expect.V1     V2     V3     V4     V5this can taken a bit further by specifying the number of elements in a different array as the end point…%array(abc, values=A B C);%array(seq, values=%do_over(values=1-&amp;ABCN, phrase=V?));%put %do_over(seq abc, phrase=?seq is ?abc.);which does thisV1 is A.     V2 is B.     V3 is C.and even further by calling a macro.%macro echo(x,y);    %put &amp;X. is &amp;Y..;%mend;%do_over(seq abc, macro=echo);which makes thisV1 is A.V2 is B.V3 is C.retrofitting a keyword macro is simple enough.%macro echoagain(x, y, z=&amp;y);    %put &amp;X. is &amp;Y. (Z=&amp;Z.).;%mend;%do_over(seq abc, macro=echoagain);returning these resultsV1 is A (Z=A).V2 is B (Z=B).V3 is C (Z=C).",
+            "content_html": "<p>I’ve been using Ted Clay’s <code class=\"highlighter-rouge\">%array</code> and <code class=\"highlighter-rouge\">%do_over</code> macros lately. a lot. Everytime I think I’ve hit a wall with what these two macros can do, I look back at Ted’s <a href=\"http://www2.sas.com/proceedings/sugi31/040-31.pdf\" title=\"Tight Looping With Macro Arrays\">Coders’ Corner paper</a> for SUGI 31–that’d be <em>SGF 2006</em> in SAS Global Forum terms.</p><p>Recently, I was working on a macro to handle a set of an unknown number of variables. Depending on the number of variables in each set, I had to kick off another macro and, conditionally, execute some other statements.</p><p>This sounded like the perfect situation for <code class=\"highlighter-rouge\">%array</code> and <code class=\"highlighter-rouge\">%do_over</code>.</p><!--more--><p>So I checked if this works:</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>%array(seq, values=%do_over(values=1-5, phrase=V?));%put %do_over(seq);</code></pre></div><p>good news: it worked exactly as one would expect.</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>V1     V2     V3     V4     V5</code></pre></div><p>this can taken a bit further by specifying the number of elements in a different array as the end point…</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>%array(abc, values=A B C);%array(seq, values=%do_over(values=1-&amp;ABCN, phrase=V?));%put %do_over(seq abc, phrase=?seq is ?abc.);</code></pre></div><p>which does this</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>V1 is A.     V2 is B.     V3 is C.</code></pre></div><p>and even <em>further</em> by calling a macro.</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>%macro echo(x,y);    %put &amp;X. is &amp;Y..;%mend;%do_over(seq abc, macro=echo);</code></pre></div><p>which makes this</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>V1 is A.V2 is B.V3 is C.</code></pre></div><p>retrofitting a keyword macro is simple enough.</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>%macro echoagain(x, y, z=&amp;y);    %put &amp;X. is &amp;Y. (Z=&amp;Z.).;%mend;%do_over(seq abc, macro=echoagain);</code></pre></div><p>returning these results</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>V1 is A (Z=A).V2 is B (Z=B).V3 is C (Z=C).</code></pre></div>",
+            "url": "http://localhost:4000/sas/2014/05/03/array-values-through-do_over.html",
+            
+            
+            
+            "tags": ["%array","%do_over"],
+            
+            "date_published": "2014-05-03T00:00:00-05:00",
+            "date_modified": "2014-05-03T00:00:00-05:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/events/2014/04/11/Toadies-Supersuckers.html",
+            "title": "Toadies, Supersuckers",
+            "summary": null,
+            "content_text": "setlistI burn:",
+            "content_html": "<p><a href=\"http://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html\">setlist</a></p><p><em>I burn</em>:</p><iframe src=\"//player.vimeo.com/video/92088959\" width=\"500\" height=\"282\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>",
+            "url": "http://localhost:4000/events/2014/04/11/Toadies-Supersuckers.html",
+            
+            
+            
+            
+            
+            "date_published": "2014-04-11T20:00:00-05:00",
+            "date_modified": "2014-04-11T20:00:00-05:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/post/2014/01/28/329-retina-mini.html",
+            "title": "the $329 retina iPad mini with Retina display",
+            "summary": null,
+            "content_text": "Last night, the Apple store was down for something or other. This morning, I hit the Apple Store app on my iPhone to see what might have changed. It seemed like nothing until I noticed the prices on the Featured section.Except not. Whenever I clicked through to the iPad mini with Retina page, the starting price came up as $399. I checked store.apple.com, same price. To be sure I wasn’t seeing things, I checked the Apple Store app again; still $329.Now I don’t really need a new iPad mini, but for the same starting price as the original iPad was upon launch ($70 off), I could more easily be convinced.This had to be a mistake, right? Only, what if it wasn’t?I called up Apple and got through to the sales department. Talked to a nice enough guy who saw the same $329 starting price on his iPhone. I asked how I can order one at that price since every attempt to do so led to a page with a $399 starting price. He put me on hold to talk things over with his manager. 5 minutes later he returned.It was a mistake.Hopeful, I asked if i could still get one at the $329 price. He said that, unfortunately, the Apple Legal department does not allow them to honor mistakes in advertising.Nuts.It did take a few hours, but the mistake was eventually corrected.",
+            "content_html": "<p>Last night, the Apple store was down for something or other. This morning, I hit the Apple Store app on my iPhone to see what might have changed. It seemed like nothing until I noticed the prices on the Featured section.</p><!--more--><p><img src=\"/assets/img/2014-01-28-329-retina-mini-1.jpg\" alt=\"original\" title=\"iPad mini with Retina from $329? Done.\" /></p><p>Except not. Whenever I clicked through to the iPad mini with Retina page, the starting price came up as $399. I checked <a href=\"\">store.apple.com</a>, same price. To be sure I wasn’t seeing things, I checked the Apple Store app again; still $329.</p><p>Now I don’t really need a new iPad mini, but for the same starting price as the original iPad was upon launch ($70 off), I could more easily be convinced.</p><p>This <em>had</em> to be a mistake, right? Only, what if it wasn’t?</p><p>I called up Apple and got through to the sales department. Talked to a nice enough guy who saw the same $329 starting price on his iPhone. I asked how I can order one at that price since every attempt to do so led to a page with a $399 starting price. He put me on hold to talk things over with his manager. 5 minutes later he returned.</p><p>It was a mistake.</p><p>Hopeful, I asked if i could still get one at the $329 price. He said that, unfortunately, the Apple Legal department does not allow them to honor mistakes in advertising.</p><p>Nuts.</p><p>It did take a few hours, but the mistake was eventually corrected.</p><p><img src=\"/assets/img/2014-01-28-329-retina-mini-2.jpg\" alt=\"corrected\" /></p>",
+            "url": "http://localhost:4000/post/2014/01/28/329-retina-mini.html",
+            
+            
+            
+            
+            
+            "date_published": "2014-01-28T00:00:00-06:00",
+            "date_modified": "2014-01-28T00:00:00-06:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
+            "id": "http://localhost:4000/recipe/2014/01/16/whiskey-chicken.html",
+            "title": "peach whiskey barbeque chicken",
+            "summary": null,
+            "content_text": "Ingredients  12 whole Chicken Thighs, Bone-in, Skin-on  2 Tablespoons Olive Oil  2 Tablespoons Butter  1 whole Yellow Onion, Diced  1-1/2 cup Whiskey  12 ounces, fluid Barbecue Sauce  1 jar Peach Preserves  1/2 cup Water  2 Tablespoons Worcestershire Sauce  4 cloves Garlic, Peeled  3 whole Green Onions, Sliced ThinInstructions      Preheat oven to 300 degrees.        Heat oil and butter in a heavy pot over medium-high heat. Place chicken thighs, four at a time, in the pot, skin side down. Brown both sides, then remove to a plate and repeat until all chicken is browned.        Pour off half the grease, then return pan to stove. Add onions to pan and stir, cooking for 2 minutes. Pour whiskey into the pot, being very careful if you’re using an open flame. Stir and scrape the bottom of the pan, allowing whiskey to reduce for a minute or two. Pour in barbecue sauce, peach preserves, water, and Worcestershire sauce. Throw in garlic cloves. Stir until combined, then return chicken to the pot, skin side up. Cover and put pot in oven.        Cook for 1 1/2 hours, then remove from oven.        Serve pieces of chicken over a big pile of smashed potatoes. Sprinkle sliced green onions over the top.  ",
+            "content_html": "<h2 id=\"ingredients\">Ingredients</h2><ul>  <li>12 whole Chicken Thighs, Bone-in, Skin-on</li>  <li>2 Tablespoons Olive Oil</li>  <li>2 Tablespoons Butter</li>  <li>1 whole Yellow Onion, Diced</li>  <li>1-1/2 cup Whiskey</li>  <li>12 ounces, fluid Barbecue Sauce</li>  <li>1 jar Peach Preserves</li>  <li>1/2 cup Water</li>  <li>2 Tablespoons Worcestershire Sauce</li>  <li>4 cloves Garlic, Peeled</li>  <li>3 whole Green Onions, Sliced Thin</li></ul><h2 id=\"instructions\">Instructions</h2><ol>  <li>    <p>Preheat oven to 300 degrees.</p>  </li>  <li>    <p>Heat oil and butter in a heavy pot over medium-high heat. Place chicken thighs, four at a time, in the pot, skin side down. Brown both sides, then remove to a plate and repeat until all chicken is browned.</p>  </li>  <li>    <p>Pour off half the grease, then return pan to stove. Add onions to pan and stir, cooking for 2 minutes. Pour whiskey into the pot, being very careful if you’re using an open flame. Stir and scrape the bottom of the pan, allowing whiskey to reduce for a minute or two. Pour in barbecue sauce, peach preserves, water, and Worcestershire sauce. Throw in garlic cloves. Stir until combined, then return chicken to the pot, skin side up. Cover and put pot in oven.</p>  </li>  <li>    <p>Cook for 1 1/2 hours, then remove from oven.</p>  </li>  <li>    <p>Serve pieces of chicken over a big pile of smashed potatoes. Sprinkle sliced green onions over the top.</p>  </li></ol>",
+            "url": "http://localhost:4000/recipe/2014/01/16/whiskey-chicken.html",
+            
+            
+            
+            "tags": ["chicken","alcohol"],
+            
+            "date_published": "2014-01-16T00:00:00-06:00",
+            "date_modified": "2014-01-16T00:00:00-06:00",
+            "author": {
+                "name": ""
+            }
+        }
+    
+    ]
+}

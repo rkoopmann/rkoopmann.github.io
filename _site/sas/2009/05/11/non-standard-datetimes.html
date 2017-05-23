@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>reading non-standard datetime values</title>
+  <meta name="description" content="another datetime posting. this time, i needed to read in datetime values with the following format: DD/MM/YYYY HH:MM:SS AM where the leading zeros are option...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2009/05/11/non-standard-datetimes.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>reading non-standard datetime values</h1>
+<p class="subtitle">May 11, 2009</p>
+
+<p>another datetime posting. this time, i needed to read in datetime values with the following format: <code class="highlighter-rouge">DD/MM/YYYY HH:MM:SS AM</code> where the leading zeros are optional for the day, month, and hour portion.</p>
+
+<!--more-->
+
+<p>since i couldn’t (quickly) locate an informat that is this flexible, it was time to parse. first order of business was to get the rogue datetime value into SAS in its current state:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>input x ? $50.;
+</code></pre>
+</div>
+
+<p>next, i needed to break the string apart and use each portion as arguments for functions:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>dt=dhms(input(scan(x, 1, ' '), mmddyy10.),
+   0,
+   0,
+   input(catx(' ', scan(x, 2, ' '), scan(x, 3, ' ')), time.));
+</code></pre>
+</div>
+
+<p>i could have used prx, but since my data set was small (obs &lt; 2,500) and prx statements are somewhat beastly, i figured i’d use basic sas functions.</p>
+
+<p>sample code can viewed below:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>data null;
+  input x ? $50.;
+  dt=dhms(input(scan(x, 1, ' '), mmddyy10.)
+        , 0
+        , 0
+        , input(catx(' ', scan(x, 2, ' ')
+        				, scan(x, 3, ' ')), time.)
+        );
+  put dt datetime19.;
+datalines;
+5/5/2009 2:22:17 AM
+04/08/2015 04:23:42 PM 
+run;
+</code></pre>
+</div>
+
+
+
+    </article>
+    <span class="print-footer">reading non-standard datetime values - May 11, 2009 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

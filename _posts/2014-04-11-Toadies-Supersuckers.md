@@ -1,0 +1,15 @@
+---
+layout: post
+title: Toadies, Supersuckers
+categories: events
+tags:
+- concert
+date: 2014-04-11 20:00:00 -0500
+venue: First Avenue, Minneapolis, MN
+---
+
+[setlist](http://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html)
+
+*I burn*:
+
+<iframe src="//player.vimeo.com/video/92088959" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

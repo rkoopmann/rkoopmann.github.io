@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>proc pwdecode</title>
+  <meta name="description" content="just read a posting about how to encode sas passwords. i’ve been using encoded passwords for a few years because the prevent casual snoopers from getting acc...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2008/12/07/proc-pwdecode.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>proc pwdecode</h1>
+<p class="subtitle">December 7, 2008</p>
+
+<p>just read a posting about how to <a href="http://sas-bi.blogspot.com/2008/12/example-to-encode-sas-passwords.html">encode sas passwords</a>. i’ve been using encoded passwords for a few years because the prevent casual snoopers from getting access to credentials they shouldn’t have. encoded passwords do not, however, prevent decoding. you know, in case you forget your password. normally, if you want to access the resource outside of sas, an encoded password is useless.</p>
+
+<!--more-->
+
+<p>as of v 9.1.3 sp4, sas encodes passwords using base 64. here are two ways i decode encoded passwords: <a href="http://www.opinionatedgeek.com/dotnet/tools/Base64Decode/Default.aspx">base 64 decoder from opinionatedgeek</a>, and <a href="http://www.pspad.com/en/download.php">pspad</a> (Edit &gt; Special conversion &gt; Base64 -&gt; ANSI). with either of these methods, you’ll want to leave off the <code class="highlighter-rouge"><span class="p">{</span><span class="err">sas001</span><span class="p">}</span></code> and decode only <code class="highlighter-rouge">bXluM3dwd2Q0dQ==</code> to get <code class="highlighter-rouge">myn3wpwd4u</code>.</p>
+
+
+
+
+    </article>
+    <span class="print-footer">proc pwdecode - December 7, 2008 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

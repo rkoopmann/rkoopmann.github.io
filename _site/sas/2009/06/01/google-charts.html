@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>encoding data points for use with google charts api calls</title>
+  <meta name="description" content="first step, build encoding tables based on the documentation:">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2009/06/01/google-charts.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>encoding data points for use with google charts api calls</h1>
+<p class="subtitle">June 1, 2009</p>
+
+<p>first step, build encoding tables based on the documentation<!--more-->:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>data encSimple encEnhanced;
+    s='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-.';
+    format raw 8. enc $8.;
+    raw=.;
+    enc='_'; output encSimple;
+    enc='__'; output encEnhanced;
+    do i=0 to 63;
+        raw=i;
+        enc=substr(s, i+1, 1);
+        output encSimple;
+        do j = 0 to 63;
+            raw=i*(64**1)+j;
+            enc=cats(substr(s, i+1, 1), substr(s, j+1, 1));
+            output encEnhanced;
+        end;
+    end;
+    drop i j s;
+run;
+</code></pre>
+</div>
+
+<p>next, encode the data:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>proc summary data=sashelp.air nway;
+    class date;
+    format date yyq8.;
+    var air;
+    output out=air sum=;
+run;
+data test2;
+    set air;
+    enc=' ';
+    if _n_=1 then do;
+        declare hash s(dataset:'encenhanced');
+        s.defineKey('raw');
+        s.defineData('enc');
+        s.defineDone();
+    end;
+    xEnc=enc;
+    raw=air;
+    rc=s.find();
+    if rc then enc='_';
+    yEnc=enc;
+    drop enc raw rc;
+run;
+proc sql noprint;
+    select xEnc, yEnc
+    into :x separated by '', :y separated by ''
+    from test2;
+quit;
+filename clip clipbrd;
+data _null_;
+    file clip;
+    format url $1000.;
+    url=catx('&amp;'
+    ,"cht=lc"
+    ,"chs=250x100"
+    ,"chd=s:&amp;Y."
+    ,"chco=FF000099,0000FF66"
+    );
+    url=catx('?', "http://chart.apis.google.com/chart", url);
+    put url;
+run;
+</code></pre>
+</div>
+
+<p>fire up your browser and paste the URL that was copied to your clipboard, and you get this:</p>
+
+<p><img src="http://chart.apis.google.com/chart?cht=lc&amp;chs=250x100&amp;chd=s:FGGFFGHGHIJHIJKIJLMJJLNKLNPMNPSNPRUPPRVPRUYSTWbU&amp;chco=FF000099,0000FF66" alt="gchart" /></p>
+
+
+
+    </article>
+    <span class="print-footer">encoding data points for use with google charts api calls - June 1, 2009 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

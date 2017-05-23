@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>the utility of generic macros</title>
+  <meta name="description" content="i’ve been using sas for roughly 5 years now. for the past few years, i’ve been building up my toolbox of what i call ‘utility macros’. these are macros that ...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/sas/2009/11/09/generic-macros.html">
+
+  <link rel="alternate" type="application/rss+xml" title="hi" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="CH"></a>
+	
+		
+		    
+		      <a href="/about/">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sas/feed.json"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/assets/main.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/feed.xml"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>the utility of generic macros</h1>
+<p class="subtitle">November 9, 2009</p>
+
+<p>i’ve been using sas for roughly 5 years now. for the past few years, i’ve been building up my toolbox of what i call ‘utility macros’. these are macros that are generic enough to be used in a wide variety of situations, but perform very specific, routine, and/or tedious tasks.</p>
+
+<!--more-->
+
+<p>these macros will very rarely produce the final product, but are quite useful in achieving that final state. these macros are in persistent development and various stages of stability. so examples may help?</p>
+
+<p>one of my first macro utilities was to pull a dos directory listing into a sas data set for further processing. but i didn’t just want a listing of filenames, i also wanted file sizes and dates of last modification. and as it turned out, recursive directory searching was a requirement. when i first started working on this macro, it was for my first SUGI (now SGF) submission, <a href="http://www2.sas.com/proceedings/sugi31/150-31.pdf">Exploiting Consistent Program Documentation</a>. this was basically a sas program to scrape and aggregate standard sas program headers. recently, i added the owner to the returned results.</p>
+
+<p>another macro utility that i use on a regular basis results in exactly one thing, but it does so very elegantly: it returns a date formatted to your specifications. if you specify the desired format and it’ll do it. since it’s a macro, it can be used in regular steps (data and proc) and in open code (the stuff that happens between data and proc steps). it can result in an absolute date or dynamic dates relative to some other known date (a macro variable like sysdate or user specified). it can also move in time (intnx function). recently, i modified the returned value to be LEFT aligned which involved UNQUOTE and QUOTE functions.</p>
+
+<p>since i’m not the only person who uses some of these macros at my workplace, i wanted some way of tracking usage, most importantly how often a macro was being called, but also who was calling it. not to be big brother, mind you. rather, i was interested in determining which macros should be given my attention (when i find down time). but how to do this?</p>
+
+<p>a utility macro to track utility macro use. i call that one tracker. but that’s for another post.</p>
+
+
+
+    </article>
+    <span class="print-footer">the utility of generic macros - November 9, 2009 - </span>
+
+
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>    
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2017 &nbsp;&nbsp;</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for  </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+
+  </body>
+</html>

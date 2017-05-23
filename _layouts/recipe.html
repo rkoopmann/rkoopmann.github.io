@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="post">
+	<h1>{{ page.title }}</h1>
+	<aside>
+		<dl>
+			{%if page.time %}
+			<dt>time</dt>
+				<dd>{{ page.time }}</dd>
+			{% endif %}
+			{%if page.serves %}
+			<dt>serves</dt>
+				<dd>{{ page.serves }}</dd>
+			{% endif %}
+			{% if page.rating %}
+			<dt>rated</dt>
+			{% case page.rating %}
+				{% when 5 %}<dd>★★★★★</dd>
+				{% when 4 %}<dd>★★★★☆</dd>
+				{% when 3 %}<dd>★★★☆☆</dd>
+				{% when 2 %}<dd>★★☆☆☆</dd>
+				{% when 1 %}<dd>★☆☆☆☆</dd>
+			{% endcase %}
+			{% endif %}
+			<dt>posted</dt>
+				<dd><span class="date">{{ page.date | date: "%d%b%Y" }}</span></dd>
+			<dt>under</dt>
+				<dd><a href="/{{page.category}}">{{page.category}}</a></dd>
+			<dt>misc</dt>
+				<dd><a href="{{page.url}}">permalink</a></dd>
+				<!-- <dd><a href="https://github.com/rkoopmann/rkoopmann.github.io/commits/gh-pages/_posts/{{ page.something }}.md">history</a></dd> -->
+				<dd><a href="https://github.com/rkoopmann/rkoopmann.github.io/issues">comments?</a></dd>
+		</dl>
+	</aside>
+    <div class="body">
+        {{ content }}
+    </div>    
+</div>
