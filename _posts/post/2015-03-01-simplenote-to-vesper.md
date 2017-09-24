@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simplenote to Vesper
-categories: ios
+categories: post
 tags:
 - app
 link: http://stackoverflow.com/a/14416896/142229

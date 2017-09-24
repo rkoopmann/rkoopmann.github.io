@@ -2,9 +2,9 @@
 layout: post
 title: a sudden spike
 category: post
-tags:
-- meta
+tags: [ meta ]
 author: rkoopmann
+date: 2009-04-23
 ---
 
 a couple weeks ago, [@swaynette](http://twitter.com/swaynette) asked me if she could mention my post on [scraping sas training pages](/sas/2009/01/scraping-training-pages) in the [sas tech report for april](http://www.sas.com/news/newsletter/tech/2009_4.html).

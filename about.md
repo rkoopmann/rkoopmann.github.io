@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: full-width
 title: about
 permalink: /about/
 navigation_weight: 10
 ---
 
-You can find the source code for Jekyll at [jekyll](https://github.com/jekyll/jekyll).
+This site created with the [Tufte theme](http://github.com/clayh53/tufte-jekyll) in [Jekyll](http://jekyllrb.com).
 
-Theme via [tufte-jekyll](https://github.com/clayh53/tufte-jekyll).
 
 [json feed](https://jsonfeed.org) via [jekyll-json-feed](https://github.com/vallieres/jekyll-json-feed).

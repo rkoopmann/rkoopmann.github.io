@@ -3,7 +3,6 @@ layout: full-width
 title: sas papers
 permalink: /sas/papers
 category: index
-navigation_weight: 3
 ---
 
 
