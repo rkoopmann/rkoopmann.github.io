@@ -1,0 +1,36 @@
+{
+	"id": "3efbd7f",
+	"versionId": "1b776594",
+	"eventDate": "25-05-1997",
+	"lastUpdated": "2018-02-28T14:41:31.000+0000",
+	"artist": {
+		"mbid": "26037b3e-064c-4e9d-9d88-ebcd35933272",
+		"name": "Linda Perry",
+		"sortName": "Perry, Linda",
+		"disambiguation": "rock singer‐songwriter \u0026 producer",
+		"url": "https://www.setlist.fm/setlists/linda-perry-33d670c5.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/linda-perry/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7f.html"
+}

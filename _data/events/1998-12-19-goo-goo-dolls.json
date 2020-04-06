@@ -1,0 +1,112 @@
+{
+	"id": "13c4bd9d",
+	"versionId": "2b84ec3a",
+	"eventDate": "19-12-1998",
+	"lastUpdated": "2014-11-29T03:02:43.000+0000",
+	"artist": {
+		"mbid": "e2c00c56-8365-4160-9f40-a64682917633",
+		"name": "Goo Goo Dolls",
+		"sortName": "Goo Goo Dolls",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/goo-goo-dolls-6bd6b6f6.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Dizzy Up the Girl"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Dizzy"
+					},
+					{
+						"name": "Long Way Down"
+					},
+					{
+						"name": "Lazy Eye"
+					},
+					{
+						"name": "Slide"
+					},
+					{
+						"name": "Black Balloon"
+					},
+					{
+						"name": "Bullet Proof"
+					},
+					{
+						"name": "Naked"
+					},
+					{
+						"name": "Name"
+					},
+					{
+						"name": "January Friend"
+					},
+					{
+						"name": "Fallin' Down"
+					},
+					{
+						"name": "Full Forever"
+					},
+					{
+						"name": "Broadway"
+					},
+					{
+						"name": "Another Second Time Around"
+					},
+					{
+						"name": "Flat Top"
+					},
+					{
+						"name": "Iris"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "There You Are"
+					},
+					{
+						"name": "Burnin' Up"
+					},
+					{
+						"name": "Just the Way You Are"
+					},
+					{
+						"name": "Hate This Place"
+					},
+					{
+						"name": "Two Days in February"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
+}

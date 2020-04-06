@@ -1,0 +1,39 @@
+{
+	"id": "5bfdf764",
+	"versionId": "2ba8fca2",
+	"eventDate": "18-07-1998",
+	"lastUpdated": "2016-09-21T18:14:47.000+0000",
+	"artist": {
+		"mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+		"name": "Bad Religion",
+		"sortName": "Bad Religion",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Vans Warped Tour 1998"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/bad-religion/1998/float-rite-park-amphitheatre-somerset-wi-5bfdf764.html"
+}

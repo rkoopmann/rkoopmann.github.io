@@ -1,0 +1,39 @@
+{
+	"id": "1bd14d38",
+	"versionId": "43c1dfd3",
+	"eventDate": "13-05-1995",
+	"lastUpdated": "2012-01-22T03:48:04.000+0000",
+	"artist": {
+		"mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+		"name": "Melvins",
+		"sortName": "Melvins",
+		"disambiguation": "US band",
+		"url": "https://www.setlist.fm/setlists/melvins-63d68a43.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Spring 1995 North American Tour"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-1bd14d38.html"
+}

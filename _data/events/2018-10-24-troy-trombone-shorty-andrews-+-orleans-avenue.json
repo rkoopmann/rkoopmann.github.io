@@ -1,0 +1,87 @@
+{
+	"id": "439633af",
+	"versionId": "13079511",
+	"eventDate": "24-10-2018",
+	"lastUpdated": "2020-01-22T07:09:12.000+0000",
+	"artist": {
+		"mbid": "ebc0f4e7-f709-4790-a7d7-4915004927be",
+		"name": "Troy “Trombone Shorty” Andrews \u0026 Orleans Avenue",
+		"sortName": "Andrews, Troy “Trombone Shorty” \u0026 Orleans Avenue",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/troy-trombone-shorty-andrews-and-orleans-avenue-53d5bfed.html"
+	},
+	"venue": {
+		"id": "bd7cdbe",
+		"name": "Champions Square",
+		"city": {
+			"id": "4335045",
+			"name": "New Orleans",
+			"state": "Louisiana",
+			"stateCode": "LA",
+			"coords": {
+				"lat": 29.955,
+				"long": -90.075
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/champions-square-new-orleans-la-usa-bd7cdbe.html"
+	},
+	"tour": {
+		"name": "Trombone Shorty's Voodoo Threauxdown"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "",
+						"info": "girl don't you do that"
+					},
+					{
+						"name": "",
+						"info": "take me free"
+					},
+					{
+						"name": "On Your Way Down"
+					},
+					{
+						"name": "Fire and Brimstone"
+					},
+					{
+						"name": "",
+						"info": "how you do that there"
+					},
+					{
+						"name": "Something Beautiful"
+					},
+					{
+						"name": "Brain Stew"
+					},
+					{
+						"name": "",
+						"info": "I'm tired...close the door? it was with a guest"
+					},
+					{
+						"name": "",
+						"info": "Fire on the Bayou maybe? also with a guest"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "Do to Me"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/troy-trombone-shorty-andrews-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html"
+}

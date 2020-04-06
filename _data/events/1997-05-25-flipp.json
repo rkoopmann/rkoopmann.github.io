@@ -1,0 +1,67 @@
+{
+	"id": "73da4251",
+	"versionId": "1b7c51bc",
+	"eventDate": "25-05-1997",
+	"lastUpdated": "2018-06-13T17:36:04.000+0000",
+	"artist": {
+		"mbid": "088ff139-8b6a-4551-b3f3-1f901353f1e6",
+		"name": "Flipp",
+		"sortName": "Flipp",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/flipp-63d492df.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Clone Me"
+					},
+					{
+						"name": "I Wish I Was a Planet"
+					},
+					{
+						"name": "Hairdo"
+					},
+					{
+						"name": "Schizo Boy"
+					},
+					{
+						"name": "Bleed"
+					},
+					{
+						"name": "Half a Brain"
+					},
+					{
+						"name": "Times of My Life"
+					},
+					{
+						"name": "Back in Black"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-73da4251.html"
+}

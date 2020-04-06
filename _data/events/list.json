@@ -1,0 +1,1354 @@
+{
+	"Event": [
+		{
+			"Date": "2019-11-16",
+			"Venue": "The Cabooze",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Candlebox",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2019/candlebox/"
+		},
+		{
+			"Date": "2019-07-03",
+			"Venue": "Vetter Stone Amphitheater",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Artist": "Sublime with Rome",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2019/sublime-with-rome/"
+		},
+		{
+			"Date": "2019-07-02",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2019/bad-religion/"
+		},
+		{
+			"Date": "2019-07-02",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Dave Hause",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2019/dave-hause/"
+		},
+		{
+			"Date": "2019-02-01",
+			"Venue": "Mystic Showroom at Mystic Lake Casino",
+			"City": "Prior Lake",
+			"State": "Minnesota",
+			"Artist": "Tesla",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2019/tesla/"
+		},
+		{
+			"Date": "2018-10-24",
+			"Venue": "Champions Square",
+			"City": "New Orleans",
+			"State": "Louisiana",
+			"Artist": "Troy “Trombone Shorty” Andrews \u0026 Orleans Avenue",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2018/troy-trombone-shorty-andrews-+-orleans-avenue/"
+		},
+		{
+			"Date": "2018-10-18",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Foo Fighters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2018/foo-fighters/"
+		},
+		{
+			"Date": "2018-09-13",
+			"Venue": "Minneapolis Armory",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Beck",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2018/beck/"
+		},
+		{
+			"Date": "2018-08-09",
+			"Venue": "Brown County Fairgrounds",
+			"City": "New Ulm",
+			"State": "Minnesota",
+			"Artist": "FireHouse",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2018/firehouse/"
+		},
+		{
+			"Date": "2017-11-25",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "A Perfect Circle",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2017/a-perfect-circle/"
+		},
+		{
+			"Date": "2017-11-11",
+			"Venue": "Denny Sanford Premier Center",
+			"City": "Sioux Falls",
+			"State": "South Dakota",
+			"Artist": "Foo Fighters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2017/foo-fighters/"
+		},
+		{
+			"Date": "2017-10-08",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Toadies",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2017/toadies/"
+		},
+		{
+			"Date": "2017-10-08",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Local H",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2017/local-h/"
+		},
+		{
+			"Date": "2017-09-17",
+			"Venue": "Myth",
+			"City": "Maplewood",
+			"State": "Minnesota",
+			"Artist": "The Flaming Lips",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2017/the-flaming-lips/"
+		},
+		{
+			"Date": "2017-08-02",
+			"Venue": "Vetter Stone Amphitheater",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Artist": "Primus",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2017/primus/"
+		},
+		{
+			"Date": "2017-08-02",
+			"Venue": "Vetter Stone Amphitheater",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Artist": "Clutch",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2017/clutch/"
+		},
+		{
+			"Date": "2017-07-26",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Roger Waters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2017/roger-waters/"
+		},
+		{
+			"Date": "2016-04-20",
+			"Venue": "Mill City Nights",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Orgy",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2016/orgy/"
+		},
+		{
+			"Date": "2016-04-20",
+			"Venue": "Mill City Nights",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Filter",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2016/filter/"
+		},
+		{
+			"Date": "2015-08-22",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Foo Fighters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2015/foo-fighters/"
+		},
+		{
+			"Date": "2014-04-11",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Toadies",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2014/toadies/"
+		},
+		{
+			"Date": "2013-08-09",
+			"Venue": "Buster's Sports Bar \u0026 Grill",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Artist": "Candlebox",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2013/candlebox/"
+		},
+		{
+			"Date": "2010-07-01",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Tool",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2010/tool/"
+		},
+		{
+			"Date": "2007-06-26",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Tool",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2007/tool/"
+		},
+		{
+			"Date": "2003-12-05",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "A Perfect Circle",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2003/a-perfect-circle/"
+		},
+		{
+			"Date": "2003-12-05",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Snake River Conspiracy",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2003/snake-river-conspiracy/"
+		},
+		{
+			"Date": "2002-09-04",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Tool",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2002/tool/"
+		},
+		{
+			"Date": "2002-03-08",
+			"Venue": "The Quest",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Chevelle",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2002/chevelle/"
+		},
+		{
+			"Date": "2002-03-08",
+			"Venue": "The Quest",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Local H",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2002/local-h/"
+		},
+		{
+			"Date": "2001-09-06",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Tool",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2001/tool/"
+		},
+		{
+			"Date": "2001-09-06",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Meshuggah",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2001/meshuggah/"
+		},
+		{
+			"Date": "2001-03-31",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "A Perfect Circle",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/2001/a-perfect-circle/"
+		},
+		{
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Garbage",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/garbage/"
+		},
+		{
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Semisonic",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/semisonic/"
+		},
+		{
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Goo Goo Dolls",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/goo-goo-dolls/"
+		},
+		{
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Big Bad Voodoo Daddy",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/big-bad-voodoo-daddy/"
+		},
+		{
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Marcy Playground",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/marcy-playground/"
+		},
+		{
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Cherry Poppin’ Daddies",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/cherry-poppin’-daddies/"
+		},
+		{
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Beck",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/beck/"
+		},
+		{
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Soul Coughing",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/soul-coughing/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Tool",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/tool/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/bad-religion/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Deftones",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/deftones/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "NOFX",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/nofx/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "System of a Down",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/system-of-a-down/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Soulfly",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/soulfly/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Coal Chamber",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/coal-chamber/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Sevendust",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/sevendust/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Motörhead",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/motörhead/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Ozzy Osbourne",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/ozzy-osbourne/"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Incubus",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/incubus/"
+		},
+		{
+			"Date": "1998-07-17",
+			"Venue": "Block E at Hennepin Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "The Smashing Pumpkins",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/the-smashing-pumpkins/"
+		},
+		{
+			"Date": "1998-06-30",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Pearl Jam",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/pearl-jam/"
+		},
+		{
+			"Date": "1998-06-30",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Frank Black and the Catholics",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1998/frank-black-and-the-catholics/"
+		},
+		{
+			"Date": "1997-10-23",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Treble Charger",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/treble-charger/"
+		},
+		{
+			"Date": "1997-10-23",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Talk Show",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/talk-show/"
+		},
+		{
+			"Date": "1997-10-23",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Foo Fighters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/foo-fighters/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Sevendust",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/sevendust/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Flipp",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/flipp/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Linda Perry",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/linda-perry/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Rollins Band",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/rollins-band/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Iggy Pop",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/iggy-pop/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Tonic",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/tonic/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Reverend Horton Heat",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/reverend-horton-heat/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Local H",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/local-h/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Sponge",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/sponge/"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Bloodhound Gang",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/bloodhound-gang/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Gavin Rossdale",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/gavin-rossdale/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Flipp",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/flipp/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Skunk Anansie",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/skunk-anansie/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Matchbox Twenty",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/matchbox-twenty/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Better Than Ezra",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/better-than-ezra/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Beck",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/beck/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "The Verve Pipe",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/the-verve-pipe/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Social Distortion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/social-distortion/"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Republica",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1997/republica/"
+		},
+		{
+			"Date": "1996-12-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "The Wallflowers",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/the-wallflowers/"
+		},
+		{
+			"Date": "1996-12-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Bloodhound Gang",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/bloodhound-gang/"
+		},
+		{
+			"Date": "1996-12-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Tracy Bonham",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/tracy-bonham/"
+		},
+		{
+			"Date": "1996-12-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Crash Test Dummies",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/crash-test-dummies/"
+		},
+		{
+			"Date": "1996-12-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Violent Femmes",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/violent-femmes/"
+		},
+		{
+			"Date": "1996-12-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Danzig",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/danzig/"
+		},
+		{
+			"Date": "1996-09-15",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Rage Against the Machine",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/rage-against-the-machine/"
+		},
+		{
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
+			"Artist": "Ben Folds Five",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/ben-folds-five/"
+		},
+		{
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
+			"Artist": "Screaming Trees",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/screaming-trees/"
+		},
+		{
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
+			"Artist": "Ramones",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/ramones/"
+		},
+		{
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
+			"Artist": "Waylon Jennings",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/waylon-jennings/"
+		},
+		{
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
+			"Artist": "Soundgarden",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/soundgarden/"
+		},
+		{
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
+			"Artist": "Metallica",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/metallica/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Candlebox",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/candlebox/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Korn",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/korn/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "No Doubt",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/no-doubt/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Goldfinger",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/goldfinger/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Everclear",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/everclear/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Iggy Pop",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/iggy-pop/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Violent Femmes",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/violent-femmes/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Garbage",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/garbage/"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Filter",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/filter/"
+		},
+		{
+			"Date": "1996-05-04",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "The Flaming Lips",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/the-flaming-lips/"
+		},
+		{
+			"Date": "1996-04-30",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1996/bad-religion/"
+		},
+		{
+			"Date": "1995-11-09",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "White Zombie",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/white-zombie/"
+		},
+		{
+			"Date": "1995-11-09",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Toadies",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/toadies/"
+		},
+		{
+			"Date": "1995-11-09",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Supersuckers",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/supersuckers/"
+		},
+		{
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Sheryl Crow",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/sheryl-crow/"
+		},
+		{
+			"Date": "1995-08-22",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Ziggy Marley \u0026 The Melody Makers",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/ziggy-marley-+-the-melody-makers/"
+		},
+		{
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Wilco",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/wilco/"
+		},
+		{
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "The Black Crowes",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/the-black-crowes/"
+		},
+		{
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Blues Traveler",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/blues-traveler/"
+		},
+		{
+			"Date": "1995-07-22",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Primus",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/primus/"
+		},
+		{
+			"Date": "1995-07-22",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Mike Watt",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/mike-watt/"
+		},
+		{
+			"Date": "1995-06-11",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Lunachicks",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/lunachicks/"
+		},
+		{
+			"Date": "1995-06-11",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "The Vandals",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/the-vandals/"
+		},
+		{
+			"Date": "1995-06-11",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "The Offspring",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/the-offspring/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Our Lady Peace",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/our-lady-peace/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Monster Magnet",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/monster-magnet/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "face to face",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/face-to-face/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Collective Soul",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/collective-soul/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Faith No More",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/faith-no-more/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Polara",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/polara/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Phunk Junkeez",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/phunk-junkeez/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Sponge",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/sponge/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Letters to Cleo",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/letters-to-cleo/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Ramones",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/ramones/"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Bush",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/bush/"
+		},
+		{
+			"Date": "1995-05-21",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Veruca Salt",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/veruca-salt/"
+		},
+		{
+			"Date": "1995-05-21",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Let's Go Bowling",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/lets-go-bowling/"
+		},
+		{
+			"Date": "1995-05-13",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Reverend Horton Heat",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/reverend-horton-heat/"
+		},
+		{
+			"Date": "1995-05-13",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "White Zombie",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/white-zombie/"
+		},
+		{
+			"Date": "1995-05-13",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Melvins",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/melvins/"
+		},
+		{
+			"Date": "1995-02-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "The Jim Rose Circus Sideshow",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/the-jim-rose-circus-sideshow/"
+		},
+		{
+			"Date": "1995-02-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Nine Inch Nails",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/nine-inch-nails/"
+		},
+		{
+			"Date": "1995-02-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Melvins",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1995/melvins/"
+		},
+		{
+			"Date": "1994-10-18",
+			"Venue": "State Theatre",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "The Flaming Lips",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1994/the-flaming-lips/"
+		},
+		{
+			"Date": "1994-10-18",
+			"Venue": "State Theatre",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Candlebox",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1994/candlebox/"
+		},
+		{
+			"Date": "1994-06-22",
+			"Venue": "Hubert H. Humphrey Metrodome",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Pink Floyd",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "/event/1994/pink-floyd/"
+		}
+	]
+}

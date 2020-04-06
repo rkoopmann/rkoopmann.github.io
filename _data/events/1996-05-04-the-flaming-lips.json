@@ -1,0 +1,85 @@
+{
+	"id": "4bd46736",
+	"versionId": "6b98c6c6",
+	"eventDate": "04-05-1996",
+	"lastUpdated": "2014-09-30T02:13:52.000+0000",
+	"artist": {
+		"mbid": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
+		"name": "The Flaming Lips",
+		"sortName": "Flaming Lips, The",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/the-flaming-lips-43d6fb1f.html"
+	},
+	"venue": {
+		"id": "63d63af7",
+		"name": "First Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html"
+	},
+	"tour": {
+		"name": "1996 Spring Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "The Abandoned Hospital Ship"
+					},
+					{
+						"name": "Unconsciously Screamin'"
+					},
+					{
+						"name": "Take Meta Mars"
+					},
+					{
+						"name": "Moth in the Incubator"
+					},
+					{
+						"name": "Put the Waterbug in the Policeman's Ear"
+					},
+					{
+						"name": "Lightning Strikes the Postman"
+					},
+					{
+						"name": "Bad Days"
+					},
+					{
+						"name": "She Don't Use Jelly"
+					},
+					{
+						"name": "Chewin' the Apple of Your Eye"
+					},
+					{
+						"name": "When You Smile"
+					},
+					{
+						"name": "Psychiatric Explorations of the Fetus With Needles"
+					},
+					{
+						"name": "Placebo Headwound"
+					},
+					{
+						"name": "What a Wonderful World"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/the-flaming-lips/1996/first-avenue-minneapolis-mn-4bd46736.html"
+}

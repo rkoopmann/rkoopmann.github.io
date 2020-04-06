@@ -1,0 +1,39 @@
+{
+	"id": "4bd7a3da",
+	"versionId": "5be03b68",
+	"eventDate": "04-02-1995",
+	"lastUpdated": "2013-10-14T04:29:00.000+0000",
+	"artist": {
+		"mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+		"name": "Melvins",
+		"sortName": "Melvins",
+		"disambiguation": "US band",
+		"url": "https://www.setlist.fm/setlists/melvins-63d68a43.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Stoner Witch"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html"
+}

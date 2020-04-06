@@ -1,0 +1,124 @@
+{
+	"id": "43d66707",
+	"versionId": "3b34e40c",
+	"eventDate": "30-06-1998",
+	"lastUpdated": "2020-02-03T14:03:05.000+0000",
+	"artist": {
+		"mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+		"name": "Pearl Jam",
+		"sortName": "Pearl Jam",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Yield"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Sometimes"
+					},
+					{
+						"name": "Last Exit"
+					},
+					{
+						"name": "Brain of J."
+					},
+					{
+						"name": "Hail Hail"
+					},
+					{
+						"name": "Faithfull"
+					},
+					{
+						"name": "Even Flow"
+					},
+					{
+						"name": "Corduroy"
+					},
+					{
+						"name": "I Got Id"
+					},
+					{
+						"name": "Pilate"
+					},
+					{
+						"name": "Daughter",
+						"info": "with \"The Noise of Carpet\" tag"
+					},
+					{
+						"name": "MFC"
+					},
+					{
+						"name": "Lukin"
+					},
+					{
+						"name": "Wishlist"
+					},
+					{
+						"name": "Mankind"
+					},
+					{
+						"name": "All Those Yesterdays"
+					},
+					{
+						"name": "Black"
+					},
+					{
+						"name": "Alive"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "Do the Evolution"
+					},
+					{
+						"name": "Given to Fly"
+					},
+					{
+						"name": "Leatherman"
+					},
+					{
+						"name": "Better Man"
+					},
+					{
+						"name": "Leaving Here"
+					},
+					{
+						"name": "Porch",
+						"info": "with \"My Generation\" intro"
+					}
+				]
+			}
+		]
+	},
+	"info": "Soundcheck included 'Leatherman\", \"Oceans\", \"Pilate\", \"Not for You\", \"Leaving Here\", and \"Go\".",
+	"url": "https://www.setlist.fm/setlist/pearl-jam/1998/target-center-minneapolis-mn-43d66707.html"
+}

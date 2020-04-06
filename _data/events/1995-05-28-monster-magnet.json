@@ -1,0 +1,39 @@
+{
+	"id": "6bfd9aee",
+	"versionId": "7375b64d",
+	"eventDate": "28-05-1995",
+	"lastUpdated": "2018-03-15T18:34:47.000+0000",
+	"artist": {
+		"mbid": "a0955511-1324-4e9b-834f-e1e140502850",
+		"name": "Monster Magnet",
+		"sortName": "Monster Magnet",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/monster-magnet-7bd68ea0.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Dopes To Infinity 1995 Tour"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html"
+}

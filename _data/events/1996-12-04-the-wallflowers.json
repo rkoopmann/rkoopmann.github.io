@@ -1,0 +1,39 @@
+{
+	"id": "3bdf60c0",
+	"versionId": "303fd7f",
+	"eventDate": "04-12-1996",
+	"lastUpdated": "2019-09-02T12:02:41.000+0000",
+	"artist": {
+		"mbid": "d9c90718-d54d-4ccf-a92e-37a5415ce299",
+		"name": "The Wallflowers",
+		"sortName": "Wallflowers, The",
+		"disambiguation": "US rock band fronted by Jakob Dylan",
+		"url": "https://www.setlist.fm/setlists/the-wallflowers-7bd6b60c.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Bringing Down the Horse"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/the-wallflowers/1996/target-center-minneapolis-mn-3bdf60c0.html"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "13f37149",
+	"versionId": "3ba7bc14",
+	"eventDate": "23-10-1997",
+	"lastUpdated": "2016-02-15T10:49:12.000+0000",
+	"artist": {
+		"mbid": "7bfd0b45-f559-4dbc-be8a-1cbf87015f00",
+		"name": "Treble Charger",
+		"sortName": "Treble Charger",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/treble-charger-33d650e9.html"
+	},
+	"venue": {
+		"id": "2bd63802",
+		"name": "Roy Wilkins Auditorium",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.94441,
+				"long": -93.09328
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/treble-charger/1997/roy-wilkins-auditorium-st-paul-mn-13f37149.html"
+}

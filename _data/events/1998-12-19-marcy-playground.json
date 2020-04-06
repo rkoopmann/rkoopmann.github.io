@@ -1,0 +1,36 @@
+{
+	"id": "63c0162f",
+	"versionId": "339094d9",
+	"eventDate": "19-12-1998",
+	"lastUpdated": "2014-06-09T01:29:42.000+0000",
+	"artist": {
+		"mbid": "64cdc08f-ba6f-41fe-94be-452dc6d5108e",
+		"name": "Marcy Playground",
+		"sortName": "Marcy Playground",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/marcy-playground-13d6cd3d.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/marcy-playground/1998/target-center-minneapolis-mn-63c0162f.html"
+}

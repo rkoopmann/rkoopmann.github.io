@@ -1,0 +1,103 @@
+{
+	"id": "6bd6da6e",
+	"versionId": "13487545",
+	"eventDate": "28-06-1996",
+	"lastUpdated": "2018-01-22T01:03:26.000+0000",
+	"artist": {
+		"mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+		"name": "Metallica",
+		"sortName": "Metallica",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+	},
+	"venue": {
+		"id": "3d2f1d7",
+		"name": "Iowa State Fairgrounds",
+		"city": {
+			"id": "4853828",
+			"name": "Des Moines",
+			"state": "Iowa",
+			"stateCode": "IA",
+			"coords": {
+				"lat": 41.600544,
+				"long": -93.60911
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/iowa-state-fairgrounds-des-moines-ia-usa-3d2f1d7.html"
+	},
+	"tour": {
+		"name": "Lollapalooza 1996"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "So What"
+					},
+					{
+						"name": "Creeping Death"
+					},
+					{
+						"name": "Sad but True"
+					},
+					{
+						"name": "Ain't My Bitch"
+					},
+					{
+						"name": "Whiplash"
+					},
+					{
+						"name": "Fade to Black"
+					},
+					{
+						"name": "King Nothing"
+					},
+					{
+						"name": "One"
+					},
+					{
+						"name": "Until It Sleeps"
+					},
+					{
+						"name": "For Whom the Bell Tolls"
+					},
+					{
+						"name": "Wherever I May Roam"
+					},
+					{
+						"name": "Nothing Else Matters"
+					},
+					{
+						"name": "Enter Sandman"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "Last Caress"
+					},
+					{
+						"name": "Master of Puppets",
+						"info": "Short Version"
+					},
+					{
+						"name": "Overkill",
+						"info": "preceded by The Memory Remains jam"
+					}
+				]
+			}
+		]
+	},
+	"info": "The Memory Remains jam includes the early lyrics, \"Fortune, fame, marching pain...\"",
+	"url": "https://www.setlist.fm/setlist/metallica/1996/iowa-state-fairgrounds-des-moines-ia-6bd6da6e.html"
+}

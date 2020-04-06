@@ -1,0 +1,36 @@
+{
+	"id": "13c4e52d",
+	"versionId": "33ab4c79",
+	"eventDate": "25-05-1996",
+	"lastUpdated": "2016-09-17T02:38:25.000+0000",
+	"artist": {
+		"mbid": "fbd2a255-1d57-4d31-ac11-65b671c19958",
+		"name": "No Doubt",
+		"sortName": "No Doubt",
+		"disambiguation": "American rock band",
+		"url": "https://www.setlist.fm/setlists/no-doubt-3bd6b81c.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/no-doubt/1996/float-rite-park-amphitheatre-somerset-wi-13c4e52d.html"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "5bd72f48",
+	"versionId": "7bb986f0",
+	"eventDate": "17-07-1998",
+	"lastUpdated": "2016-01-13T12:05:21.000+0000",
+	"artist": {
+		"mbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+		"name": "The Smashing Pumpkins",
+		"sortName": "Smashing Pumpkins, The",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/the-smashing-pumpkins-23d6e0ab.html"
+	},
+	"venue": {
+		"id": "bd60546",
+		"name": "Block E at Hennepin Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/block-e-at-hennepin-avenue-minneapolis-mn-usa-bd60546.html"
+	},
+	"tour": {
+		"name": "An Evening with the Smashing Pumpkins"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "To Sheila"
+					},
+					{
+						"name": "Behold! The Night Mare"
+					},
+					{
+						"name": "Pug"
+					},
+					{
+						"name": "Tear"
+					},
+					{
+						"name": "Once Upon a Time"
+					},
+					{
+						"name": "Ava Adore"
+					},
+					{
+						"name": "Daphne Descends"
+					},
+					{
+						"name": "Thru the Eyes of Ruby"
+					},
+					{
+						"name": "Perfect"
+					},
+					{
+						"name": "Tonight, Tonight"
+					},
+					{
+						"name": "Percussion Solo",
+						"info": "with \"Iron Man\" tease"
+					},
+					{
+						"name": "Bullet With Butterfly Wings"
+					},
+					{
+						"name": "Shame"
+					},
+					{
+						"name": "For Martha"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "1979"
+					},
+					{
+						"name": "Transmission",
+						"info": "with \"Let's Dance\" tease"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/the-smashing-pumpkins/1998/block-e-at-hennepin-avenue-minneapolis-mn-5bd72f48.html"
+}

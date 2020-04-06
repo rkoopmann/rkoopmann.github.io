@@ -1,0 +1,129 @@
+{
+	"id": "13e581d9",
+	"versionId": "73434251",
+	"eventDate": "26-07-2017",
+	"lastUpdated": "2017-10-03T05:43:31.000+0000",
+	"artist": {
+		"mbid": "0f50beab-d77d-4f0f-ac26-0b87d3e9b11b",
+		"name": "Roger Waters",
+		"sortName": "Waters, Roger",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/roger-waters-6bd6ba16.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.94441,
+				"long": -93.09328
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {
+		"name": "Us + Them Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "Set 1",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Speak to Me",
+						"tape": true
+					},
+					{
+						"name": "Breathe"
+					},
+					{
+						"name": "One of These Days"
+					},
+					{
+						"name": "Time"
+					},
+					{
+						"name": "Breathe (Reprise)"
+					},
+					{
+						"name": "The Great Gig in the Sky"
+					},
+					{
+						"name": "Welcome to the Machine"
+					},
+					{
+						"name": "When We Were Young"
+					},
+					{
+						"name": "Déjà Vu"
+					},
+					{
+						"name": "The Last Refugee"
+					},
+					{
+						"name": "Picture That"
+					},
+					{
+						"name": "Wish You Were Here"
+					},
+					{
+						"name": "The Happiest Days of Our Lives"
+					},
+					{
+						"name": "Another Brick in the Wall Part 2"
+					},
+					{
+						"name": "Another Brick in the Wall Part 3"
+					}
+				]
+			},
+			{
+				"name": "Set 2:",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Dogs"
+					},
+					{
+						"name": "Pigs (Three Different Ones)"
+					},
+					{
+						"name": "Money"
+					},
+					{
+						"name": "Us and Them"
+					},
+					{
+						"name": "Smell the Roses"
+					},
+					{
+						"name": "Brain Damage",
+						"info": "Roger halted the song due to an effects miscue and had the band restart the song part-way through"
+					},
+					{
+						"name": "Eclipse"
+					},
+					{
+						"name": "Vera"
+					},
+					{
+						"name": "Bring the Boys Back Home"
+					},
+					{
+						"name": "Comfortably Numb"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/roger-waters/2017/xcel-energy-center-st-paul-mn-13e581d9.html"
+}

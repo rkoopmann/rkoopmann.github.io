@@ -1,0 +1,91 @@
+{
+	"id": "7bd4a260",
+	"versionId": "4bf0af46",
+	"eventDate": "22-08-1995",
+	"lastUpdated": "2012-11-20T18:37:18.000+0000",
+	"artist": {
+		"mbid": "02ceff75-7363-493e-a78d-912dc86c7460",
+		"name": "The Black Crowes",
+		"sortName": "Black Crowes, The",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/the-black-crowes-3d69da7.html"
+	},
+	"venue": {
+		"id": "bd6c1b6",
+		"name": "River's Edge Park",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html"
+	},
+	"tour": {
+		"name": "1995 HORDE Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Black Moon Jam",
+						"info": "\u003e"
+					},
+					{
+						"name": "Black Moon Creeping"
+					},
+					{
+						"name": "Thick N' Thin"
+					},
+					{
+						"name": "High Head Blues"
+					},
+					{
+						"name": "A Conspiracy"
+					},
+					{
+						"name": "Jam",
+						"info": "\u003e"
+					},
+					{
+						"name": "My Morning Song"
+					},
+					{
+						"name": "Descending"
+					},
+					{
+						"name": "Jealous Again"
+					},
+					{
+						"name": "Stare It Cold"
+					},
+					{
+						"name": "Willin'",
+						"with": {
+							"mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f",
+							"name": "Sheryl Crow",
+							"sortName": "Crow, Sheryl",
+							"disambiguation": "",
+							"url": "https://www.setlist.fm/setlists/sheryl-crow-73d6be4d.html"
+						}
+					},
+					{
+						"name": "Remedy"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/the-black-crowes/1995/rivers-edge-park-somerset-wi-7bd4a260.html"
+}

@@ -1,0 +1,94 @@
+{
+	"id": "73d45271",
+	"versionId": "138ac595",
+	"eventDate": "15-09-1996",
+	"lastUpdated": "2015-04-25T18:18:28.000+0000",
+	"artist": {
+		"mbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+		"name": "Rage Against the Machine",
+		"sortName": "Rage Against the Machine",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/rage-against-the-machine-bd68946.html"
+	},
+	"venue": {
+		"id": "2bd63802",
+		"name": "Roy Wilkins Auditorium",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.94441,
+				"long": -93.09328
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
+	},
+	"tour": {
+		"name": "Evil Empire"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Bulls on Parade"
+					},
+					{
+						"name": "Know Your Enemy"
+					},
+					{
+						"name": "Vietnow"
+					},
+					{
+						"name": "Bombtrack"
+					},
+					{
+						"name": "Black Steel in the Hour of Chaos"
+					},
+					{
+						"name": "Without a Face"
+					},
+					{
+						"name": "Fistful of Steel"
+					},
+					{
+						"name": "Snakecharmer"
+					},
+					{
+						"name": "Down Rodeo"
+					},
+					{
+						"name": "Bullet in the Head"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "People of the Sun"
+					},
+					{
+						"name": "Darkness of Greed"
+					},
+					{
+						"name": "Killing in the Name"
+					},
+					{
+						"name": "Freedom"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/rage-against-the-machine/1996/roy-wilkins-auditorium-st-paul-mn-73d45271.html"
+}

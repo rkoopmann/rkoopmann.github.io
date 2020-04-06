@@ -1,0 +1,36 @@
+{
+	"id": "bda4116",
+	"versionId": "1ba87970",
+	"eventDate": "25-05-1996",
+	"lastUpdated": "2016-09-29T03:07:11.000+0000",
+	"artist": {
+		"mbid": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+		"name": "Korn",
+		"sortName": "Korn",
+		"disambiguation": "US nu metal band",
+		"url": "https://www.setlist.fm/setlists/korn-4bd6d3fe.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/korn/1996/float-rite-park-amphitheatre-somerset-wi-bda4116.html"
+}

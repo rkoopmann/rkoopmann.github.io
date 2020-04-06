@@ -1,0 +1,39 @@
+{
+	"id": "6bc53ed2",
+	"versionId": "33eb18b1",
+	"eventDate": "13-05-1995",
+	"lastUpdated": "2014-02-03T04:35:58.000+0000",
+	"artist": {
+		"mbid": "cfe572bf-840f-4bed-934a-f69f4b1e90d4",
+		"name": "White Zombie",
+		"sortName": "White Zombie",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/white-zombie-6bd692c2.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Astro Creep: 2000"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/white-zombie/1995/target-center-minneapolis-mn-6bc53ed2.html"
+}

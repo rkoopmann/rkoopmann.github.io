@@ -1,0 +1,39 @@
+{
+	"id": "23d9083b",
+	"versionId": "7be6ba4c",
+	"eventDate": "18-10-1994",
+	"lastUpdated": "2013-06-30T02:46:36.000+0000",
+	"artist": {
+		"mbid": "8e9516ba-f417-47dd-a8a5-8998b94553f8",
+		"name": "Candlebox",
+		"sortName": "Candlebox",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/candlebox-33d694cd.html"
+	},
+	"venue": {
+		"id": "2bd6c01e",
+		"name": "State Theatre",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/state-theatre-minneapolis-mn-usa-2bd6c01e.html"
+	},
+	"tour": {
+		"name": "Candlebox Tour"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/candlebox/1994/state-theatre-minneapolis-mn-23d9083b.html"
+}

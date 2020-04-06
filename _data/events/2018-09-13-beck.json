@@ -1,0 +1,145 @@
+{
+	"id": "2be990f2",
+	"versionId": "4b05c7be",
+	"eventDate": "13-09-2018",
+	"lastUpdated": "2019-08-12T09:46:59.000+0000",
+	"artist": {
+		"mbid": "309c62ba-7a22-4277-9f67-4a162526d18a",
+		"name": "Beck",
+		"sortName": "Beck",
+		"disambiguation": "alt rock, multi-instrumentalist Beck Hansen",
+		"url": "https://www.setlist.fm/setlists/beck-63d6a2eb.html"
+	},
+	"venue": {
+		"id": "23d77cb3",
+		"name": "Minneapolis Armory",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/minneapolis-armory-minneapolis-mn-usa-23d77cb3.html"
+	},
+	"tour": {
+		"name": "Colors"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Devils Haircut"
+					},
+					{
+						"name": "Loser"
+					},
+					{
+						"name": "The New Pollution"
+					},
+					{
+						"name": "Mixed Bizness"
+					},
+					{
+						"name": "Colors"
+					},
+					{
+						"name": "Qué onda güero"
+					},
+					{
+						"name": "Debra",
+						"info": "Solo Acoustic"
+					},
+					{
+						"name": "Think I'm in Love"
+					},
+					{
+						"name": "Earthquake Weather"
+					},
+					{
+						"name": "l'm So Free"
+					},
+					{
+						"name": "Lost Cause",
+						"info": "Phoenix version"
+					},
+					{
+						"name": "Go It Alone"
+					},
+					{
+						"name": "Lost Cause",
+						"info": "Acoustic"
+					},
+					{
+						"name": "Take Me With U",
+						"info": "Acoustic"
+					},
+					{
+						"name": "Say Goodbye",
+						"info": "Acoustic"
+					},
+					{
+						"name": "Rowboat",
+						"info": "Acoustic"
+					},
+					{
+						"name": "Blue Moon",
+						"info": "Acoustic"
+					},
+					{
+						"name": "Dreams"
+					},
+					{
+						"name": "Girl"
+					},
+					{
+						"name": "Up All Night"
+					},
+					{
+						"name": "Sexx Laws"
+					},
+					{
+						"name": "E-Pro"
+					}
+				]
+			},
+			{
+				"name": "Encore",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Wow"
+					},
+					{
+						"name": "Strawberry Fields",
+						"info": "Snippet"
+					},
+					{
+						"name": "Where It's At"
+					},
+					{
+						"name": "Good Times / Miss You / Blue Monday / Once In A Lifetime / In The Air Tonight"
+					},
+					{
+						"name": "One Foot in the Grave"
+					},
+					{
+						"name": "Where It's At",
+						"info": "Reprise"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/beck/2018/minneapolis-armory-minneapolis-mn-2be990f2.html"
+}

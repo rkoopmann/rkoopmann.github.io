@@ -1,0 +1,107 @@
+{
+	"id": "3bd640ec",
+	"versionId": "53847359",
+	"eventDate": "22-07-1995",
+	"lastUpdated": "2014-12-08T03:06:37.000+0000",
+	"artist": {
+		"mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
+		"name": "Primus",
+		"sortName": "Primus",
+		"disambiguation": "US rock band",
+		"url": "https://www.setlist.fm/setlists/primus-6bd69e5e.html"
+	},
+	"venue": {
+		"id": "2bd63802",
+		"name": "Roy Wilkins Auditorium",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.94441,
+				"long": -93.09328
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
+	},
+	"tour": {
+		"name": "Tales From The Punchbowl"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Overture/The Big Race",
+						"tape": true
+					},
+					{
+						"name": "To Defy the Laws of Tradition"
+					},
+					{
+						"name": "Those Damned Blue-Collar Tweekers"
+					},
+					{
+						"name": "Professor Nutbutter's House of Treats"
+					},
+					{
+						"name": "Year of the Parrot"
+					},
+					{
+						"name": "Nature Boy"
+					},
+					{
+						"name": "Here Come the Bastards"
+					},
+					{
+						"name": "Southbound Pachyderm"
+					},
+					{
+						"name": "De Anza Jig"
+					},
+					{
+						"name": "Seas of Cheese"
+					},
+					{
+						"name": "Pork Soda"
+					},
+					{
+						"name": "My Name Is Mud"
+					},
+					{
+						"name": "Jerry Was a Race Car Driver"
+					},
+					{
+						"name": "Over the Electric Grapevine"
+					},
+					{
+						"name": "Eleven"
+					},
+					{
+						"name": "Wynona's Big Brown Beaver"
+					},
+					{
+						"name": "Pudding Time"
+					},
+					{
+						"name": "Thieves"
+					},
+					{
+						"name": "Mr. Knowitall"
+					},
+					{
+						"name": "Tommy the Cat"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/primus/1995/roy-wilkins-auditorium-st-paul-mn-3bd640ec.html"
+}

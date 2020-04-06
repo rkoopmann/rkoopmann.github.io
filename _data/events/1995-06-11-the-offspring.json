@@ -1,0 +1,39 @@
+{
+	"id": "33df600d",
+	"versionId": "5bcb0f64",
+	"eventDate": "11-06-1995",
+	"lastUpdated": "2012-07-04T00:36:45.000+0000",
+	"artist": {
+		"mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+		"name": "The Offspring",
+		"sortName": "Offspring, The",
+		"disambiguation": "American punk",
+		"url": "https://www.setlist.fm/setlists/the-offspring-13d68945.html"
+	},
+	"venue": {
+		"id": "2bd63802",
+		"name": "Roy Wilkins Auditorium",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.94441,
+				"long": -93.09328
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
+	},
+	"tour": {
+		"name": "Smash"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html"
+}

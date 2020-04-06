@@ -1,0 +1,104 @@
+{
+	"id": "43e03f6f",
+	"versionId": "5b494330",
+	"eventDate": "25-11-2017",
+	"lastUpdated": "2018-02-08T00:23:26.000+0000",
+	"artist": {
+		"mbid": "078a9376-3c04-4280-b7d7-b20e158f345d",
+		"name": "A Perfect Circle",
+		"sortName": "Perfect Circle, A",
+		"disambiguation": "American rock supergroup",
+		"url": "https://www.setlist.fm/setlists/a-perfect-circle-13d689cd.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.94441,
+				"long": -93.09328
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {
+		"name": "Fall 2017"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "The Package"
+					},
+					{
+						"name": "The Hollow"
+					},
+					{
+						"name": "The Noose",
+						"info": "extended outro"
+					},
+					{
+						"name": "Weak and Powerless"
+					},
+					{
+						"name": "Rose"
+					},
+					{
+						"name": "Imagine"
+					},
+					{
+						"name": "By and Down"
+					},
+					{
+						"name": "Thomas"
+					},
+					{
+						"name": "People Are People"
+					},
+					{
+						"name": "Magdalena"
+					},
+					{
+						"name": "Vanishing"
+					},
+					{
+						"name": "Passive"
+					},
+					{
+						"name": "Gravity"
+					},
+					{
+						"name": "3 Libras (All Main Courses Mix)"
+					},
+					{
+						"name": "Hourglass"
+					},
+					{
+						"name": "Counting Bodies Like Sheep to the Rhythm of the War Drums"
+					},
+					{
+						"name": "The Doomed"
+					},
+					{
+						"name": "The Outsider"
+					},
+					{
+						"name": "Feathers"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/a-perfect-circle/2017/xcel-energy-center-st-paul-mn-43e03f6f.html"
+}

@@ -1,0 +1,70 @@
+{
+	"id": "6bd11af2",
+	"versionId": "33a7a005",
+	"eventDate": "18-07-1998",
+	"lastUpdated": "2016-02-16T16:09:02.000+0000",
+	"artist": {
+		"mbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
+		"name": "Motörhead",
+		"sortName": "Motörhead",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/motorhead-33d68059.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Ozzfest 1998"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Iron Fist"
+					},
+					{
+						"name": "Stay Clean"
+					},
+					{
+						"name": "Over Your Shoulder"
+					},
+					{
+						"name": "No Class"
+					},
+					{
+						"name": "Sacrifice"
+					},
+					{
+						"name": "Killed by Death"
+					},
+					{
+						"name": "Ace of Spades"
+					},
+					{
+						"name": "Overkill"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
+}
