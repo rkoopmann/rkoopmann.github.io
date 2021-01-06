@@ -1,8 +1,8 @@
 {
 	"id": "73d53255",
-	"versionId": "73ab568d",
+	"versionId": "6322be1f",
 	"eventDate": "28-05-1995",
-	"lastUpdated": "2016-09-16T17:53:27.000+0000",
+	"lastUpdated": "2020-09-22T00:56:24.000+0000",
 	"artist": {
 		"mbid": "d6ed7887-a401-47a8-893c-34b967444d26",
 		"name": "Ramones",
@@ -29,12 +29,19 @@
 		},
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
 	},
+	"tour": {
+		"name": "Midwest Fests"
+	},
 	"sets": {
 		"set": [
 			{
 				"name": "",
 				"encore": 0,
 				"song": [
+					{
+						"name": "The Good, the Bad and the Ugly",
+						"tape": true
+					},
 					{
 						"name": "Durango 95"
 					},
@@ -48,7 +55,7 @@
 						"name": "Blitzkrieg Bop"
 					},
 					{
-						"name": "Do You Remember Rock 'N' Roll Radio?"
+						"name": "Do You Remember Rock 'n' Roll Radio?"
 					},
 					{
 						"name": "I Believe in Miracles"
@@ -57,7 +64,7 @@
 						"name": "Gimme Gimme Shock Treatment"
 					},
 					{
-						"name": "Rock 'N' Roll High School"
+						"name": "Rock 'n' Roll High School"
 					},
 					{
 						"name": "I Wanna Be Sedated"

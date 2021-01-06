@@ -1,0 +1,83 @@
+{
+	"id": "6b8236da",
+	"versionId": "1329a1bd",
+	"eventDate": "14-11-2020",
+	"lastUpdated": "2020-11-15T12:15:43.000+0000",
+	"artist": {
+		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+		"name": "Foo Fighters",
+		"sortName": "Foo Fighters",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+	},
+	"venue": {
+		"id": "3d66d67",
+		"name": "The Roxy",
+		"city": {
+			"id": "5408076",
+			"name": "West Hollywood",
+			"state": "California",
+			"stateCode": "CA",
+			"coords": {
+				"lat": 34.090008,
+				"long": -118.36175
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/the-roxy-west-hollywood-ca-usa-3d66d67.html"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "All My Life",
+						"info": "with Making a Fire teaser intro"
+					},
+					{
+						"name": "The Pretender"
+					},
+					{
+						"name": "The Sky Is a Neighborhood"
+					},
+					{
+						"name": "Times Like These"
+					},
+					{
+						"name": "Shame Shame"
+					},
+					{
+						"name": "My Hero"
+					},
+					{
+						"name": "These Days"
+					},
+					{
+						"name": "Learn to Fly",
+						"info": "with Holding Poison teaser outro"
+					},
+					{
+						"name": "This Is a Call",
+						"info": "with No Son of Mine teaser outro"
+					},
+					{
+						"name": "Make It Right"
+					},
+					{
+						"name": "Best of You"
+					},
+					{
+						"name": "Everlong"
+					}
+				]
+			}
+		]
+	},
+	"info": "World wide livestream show.",
+	"url": "https://www.setlist.fm/setlist/foo-fighters/2020/the-roxy-west-hollywood-ca-6b8236da.html"
+}

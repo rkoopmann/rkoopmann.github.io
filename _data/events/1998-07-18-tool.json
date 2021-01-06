@@ -1,8 +1,8 @@
 {
 	"id": "43d5bf33",
-	"versionId": "431e5f73",
+	"versionId": "33b49bf",
 	"eventDate": "18-07-1998",
-	"lastUpdated": "2019-05-06T04:19:10.000+0000",
+	"lastUpdated": "2020-06-07T05:04:16.000+0000",
 	"artist": {
 		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
 		"name": "Tool",
@@ -30,7 +30,7 @@
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
 	},
 	"tour": {
-		"name": "Ozzfest 1998"
+		"name": "Ænima"
 	},
 	"sets": {
 		"set": [

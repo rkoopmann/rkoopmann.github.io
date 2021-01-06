@@ -1,0 +1,113 @@
+{
+	"id": "383bd13",
+	"versionId": "42d65fd7",
+	"eventDate": "12-12-2020",
+	"lastUpdated": "2020-12-31T06:39:34.000+0000",
+	"artist": {
+		"mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+		"name": "Bad Religion",
+		"sortName": "Bad Religion",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+	},
+	"venue": {
+		"id": "3d66d67",
+		"name": "The Roxy",
+		"city": {
+			"id": "5408076",
+			"name": "West Hollywood",
+			"state": "California",
+			"stateCode": "CA",
+			"coords": {
+				"lat": 34.090008,
+				"long": -118.36175
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/the-roxy-west-hollywood-ca-usa-3d66d67.html"
+	},
+	"tour": {
+		"name": "Decades Filmed Live at the Roxy"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Bad Religion",
+						"info": "First time live since 2011"
+					},
+					{
+						"name": "We're Only Gonna Die"
+					},
+					{
+						"name": "You Are (the Government)"
+					},
+					{
+						"name": "Change of Ideas"
+					},
+					{
+						"name": "Latch Key Kids",
+						"info": "First time live since 2010"
+					},
+					{
+						"name": "Henchman"
+					},
+					{
+						"name": "Suffer"
+					},
+					{
+						"name": "In the Night",
+						"info": "First time live since 2008"
+					},
+					{
+						"name": "No Control"
+					},
+					{
+						"name": "Automatic Man"
+					},
+					{
+						"name": "Along the Way"
+					},
+					{
+						"name": "Big Bang"
+					},
+					{
+						"name": "Best for You"
+					},
+					{
+						"name": "The Dichotomy"
+					},
+					{
+						"name": "Give You Nothing"
+					},
+					{
+						"name": "You"
+					},
+					{
+						"name": "Do What You Want"
+					},
+					{
+						"name": "I Want to Conquer the World"
+					},
+					{
+						"name": "Forbidden Beat"
+					},
+					{
+						"name": "1000 More Fools"
+					},
+					{
+						"name": "Fuck Armageddon... This Is Hell"
+					}
+				]
+			}
+		]
+	},
+	"info": "Livestream on NoCapShows - Decades Filmed Live at the Roxy - 1980s",
+	"url": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-383bd13.html"
+}

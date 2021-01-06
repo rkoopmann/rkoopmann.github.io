@@ -1,0 +1,60 @@
+{
+	"id": "b83ad0e",
+	"versionId": "6ad6ee8e",
+	"eventDate": "15-12-2020",
+	"lastUpdated": "2020-12-16T02:08:45.000+0000",
+	"artist": {
+		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+		"name": "Foo Fighters",
+		"sortName": "Foo Fighters",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+	},
+	"venue": {
+		"id": "43d44b8b",
+		"name": "The Theatre at Ace Hotel",
+		"city": {
+			"id": "5368361",
+			"name": "Los Angeles",
+			"state": "California",
+			"stateCode": "CA",
+			"coords": {
+				"lat": 34.052,
+				"long": -118.244
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/the-theatre-at-ace-hotel-los-angeles-ca-usa-43d44b8b.html"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Times Like These",
+						"info": "Dave and Rami only into full band"
+					},
+					{
+						"name": "Learn to Fly"
+					},
+					{
+						"name": "Shame Shame"
+					},
+					{
+						"name": "Best of You"
+					},
+					{
+						"name": "Run Rudolph Run"
+					}
+				]
+			}
+		]
+	},
+	"info": "Amazon Music Holiday Plays performance - webcast live on Twitch and Amazon Prime.",
+	"url": "https://www.setlist.fm/setlist/foo-fighters/2020/the-theatre-at-ace-hotel-los-angeles-ca-b83ad0e.html"
+}

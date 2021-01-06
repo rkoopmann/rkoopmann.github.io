@@ -1,0 +1,99 @@
+{
+	"id": "383bd2f",
+	"versionId": "52d63b21",
+	"eventDate": "11-12-2020",
+	"lastUpdated": "2020-12-20T23:00:45.000+0000",
+	"artist": {
+		"mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
+		"name": "Primus",
+		"sortName": "Primus",
+		"disambiguation": "US rock band",
+		"url": "https://www.setlist.fm/setlists/primus-6bd69e5e.html"
+	},
+	"venue": {
+		"id": "3bd34430",
+		"name": "Pachyderm Station",
+		"city": {
+			"id": "5394165",
+			"name": "Sebastopol",
+			"state": "California",
+			"stateCode": "CA",
+			"coords": {
+				"lat": 38.402138,
+				"long": -122.82388
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/pachyderm-station-sebastopol-ca-usa-3bd34430.html"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Those Damned Blue-Collar Tweekers",
+						"info": "\u003e"
+					},
+					{
+						"name": "Lacquer Head",
+						"info": "First time since 2000; partial; with “Those Damned Blue-Collar Tweekers” reprise"
+					},
+					{
+						"name": "Too Many Puppies",
+						"info": "\u003e"
+					},
+					{
+						"name": "Sgt. Baker",
+						"info": "Partial; with “Too Many Puppies” reprise"
+					},
+					{
+						"name": "American Life"
+					},
+					{
+						"name": "Pudding Time"
+					},
+					{
+						"name": "The Antipop",
+						"info": "First time since 2000"
+					},
+					{
+						"name": "Seas of Cheese"
+					},
+					{
+						"name": "Mr. Krinkle"
+					},
+					{
+						"name": "The Heckler"
+					},
+					{
+						"name": "Eclectic Electric",
+						"info": "Live debut"
+					},
+					{
+						"name": "Harold of the Rocks"
+					},
+					{
+						"name": "Over the Electric Grapevine",
+						"info": "with “Cosmic Highway” tease"
+					},
+					{
+						"name": "Jerry Was a Race Car Driver"
+					},
+					{
+						"name": "The Seven"
+					},
+					{
+						"name": "Southbound Pachyderm"
+					}
+				]
+			}
+		]
+	},
+	"info": "\"Alive from Pachyderm Station\" PPV livestream event",
+	"url": "https://www.setlist.fm/setlist/primus/2020/pachyderm-station-sebastopol-ca-383bd2f.html"
+}

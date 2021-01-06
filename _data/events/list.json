@@ -1,6 +1,66 @@
 {
 	"Event": [
 		{
+			"Date": "2020-12-19",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-b83a94e.html"
+		},
+		{
+			"Date": "2020-12-15",
+			"Venue": "The Theatre at Ace Hotel",
+			"City": "Los Angeles",
+			"State": "California",
+			"Artist": "Foo Fighters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/foo-fighters/2020/the-theatre-at-ace-hotel-los-angeles-ca-b83ad0e.html"
+		},
+		{
+			"Date": "2020-12-12",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-383bd13.html"
+		},
+		{
+			"Date": "2020-12-11",
+			"Venue": "Pachyderm Station",
+			"City": "Sebastopol",
+			"State": "California",
+			"Artist": "Primus",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/primus/2020/pachyderm-station-sebastopol-ca-383bd2f.html"
+		},
+		{
+			"Date": "2020-11-14",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Foo Fighters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/foo-fighters/2020/the-roxy-west-hollywood-ca-6b8236da.html"
+		},
+		{
+			"Date": "2020-08-07",
+			"Venue": "Doom Saloon",
+			"City": "Frederick",
+			"State": "Maryland",
+			"Artist": "Clutch",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/clutch/2020/doom-saloon-frederick-md-4384770b.html"
+		},
+		{
 			"Date": "2019-11-16",
 			"Venue": "The Cabooze",
 			"City": "Minneapolis",
@@ -405,6 +465,16 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "Motörhead",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Tool",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -415,20 +485,20 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Bad Religion",
+			"Artist": "Deftones",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/1998/float-rite-park-amphitheatre-somerset-wi-5bfdf764.html"
+			"Link": "https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html"
 		},
 		{
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Deftones",
+			"Artist": "Bad Religion",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html"
+			"Link": "https://www.setlist.fm/setlist/bad-religion/1998/float-rite-park-amphitheatre-somerset-wi-5bfdf764.html"
 		},
 		{
 			"Date": "1998-07-18",
@@ -479,16 +549,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/sevendust/1998/float-rite-park-amphitheatre-somerset-wi-4bd1139e.html"
-		},
-		{
-			"Date": "1998-07-18",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Motörhead",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
 		},
 		{
 			"Date": "1998-07-18",
@@ -835,6 +895,16 @@
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
 			"State": "Iowa",
+			"Artist": "Ramones",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/ramones/1996/iowa-state-fairgrounds-des-moines-ia-7bc52a60.html"
+		},
+		{
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
 			"Artist": "Ben Folds Five",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -855,10 +925,10 @@
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
 			"State": "Iowa",
-			"Artist": "Ramones",
+			"Artist": "Rancid",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/ramones/1996/iowa-state-fairgrounds-des-moines-ia-7bc52a60.html"
+			"Link": "https://www.setlist.fm/setlist/rancid/1996/iowa-state-fairgrounds-des-moines-ia-6bfa42f2.html"
 		},
 		{
 			"Date": "1996-06-28",
@@ -1135,6 +1205,16 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "Ramones",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/ramones/1995/float-rite-park-amphitheatre-somerset-wi-73d53255.html"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Our Lady Peace",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1219,16 +1299,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/letters-to-cleo/1995/float-rite-park-amphitheatre-somerset-wi-73fd9ae1.html"
-		},
-		{
-			"Date": "1995-05-28",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Ramones",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/ramones/1995/float-rite-park-amphitheatre-somerset-wi-73d53255.html"
 		},
 		{
 			"Date": "1995-05-28",

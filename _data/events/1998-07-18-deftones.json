@@ -1,8 +1,8 @@
 {
 	"id": "4bdf6bca",
-	"versionId": "bab5162",
+	"versionId": "533a9b19",
 	"eventDate": "18-07-1998",
-	"lastUpdated": "2016-09-16T18:01:12.000+0000",
+	"lastUpdated": "2020-05-27T09:06:29.000+0000",
 	"artist": {
 		"mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
 		"name": "Deftones",
@@ -30,7 +30,7 @@
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
 	},
 	"tour": {
-		"name": "Around the Fur"
+		"name": "Vans Warped Tour 1998"
 	},
 	"sets": {
 		"set": [
