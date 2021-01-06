@@ -9,6 +9,6 @@ Here's my full listing of concerts as logged on [my setlist.fm page](https://www
 
 <ul>
 {% for show in site.data.events.list.Event %}
-  <li><a href="{{ show.Link }}">{{ show.Date }} - {{ show.Artist }} @ {{ show.Venue }} in {{ show.City }}, {{ show.State }}</a></li>
+  <li><a href="{{ show.Link }}">{{ show.Date }}: <em>{{ show.Artist }}</em> @ {{ show.Venue }}, {{ show.City }}, {{ show.State }}</a></li>
 {% endfor %}
 </ul>
