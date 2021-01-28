@@ -1395,6 +1395,16 @@
 			"Venue": "State Theatre",
 			"City": "Minneapolis",
 			"State": "Minnesota",
+			"Artist": "Mother Tongue",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/mother-tongue/1994/state-theatre-minneapolis-mn-23835c63.html"
+		},
+		{
+			"Date": "1994-10-18",
+			"Venue": "State Theatre",
+			"City": "Minneapolis",
+			"State": "Minnesota",
 			"Artist": "The Flaming Lips",
 			"Tour": "",
 			"SongsPlayed": 0,
