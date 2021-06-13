@@ -1,8 +1,8 @@
 {
-	"id": "b83a94e",
-	"versionId": "g5bd24f30",
-	"eventDate": "19-12-2020",
-	"lastUpdated": "2021-03-26T15:21:13.000+0000",
+	"id": "3b838c0c",
+	"versionId": "5ad65fd4",
+	"eventDate": "26-12-2020",
+	"lastUpdated": "2020-12-31T06:40:13.000+0000",
 	"artist": {
 		"mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
 		"name": "Bad Religion",
@@ -39,69 +39,70 @@
 				"encore": 0,
 				"song": [
 					{
-						"name": "Come Join Us"
+						"name": "Social Suicide"
 					},
 					{
-						"name": "Stranger Than Fiction"
+						"name": "Los Angeles Is Burning"
 					},
 					{
-						"name": "The Streets of America"
+						"name": "Dearly Beloved"
 					},
 					{
-						"name": "Them and Us"
+						"name": "Let It Burn",
+						"info": "live debut"
 					},
 					{
-						"name": "All Fantastic Images",
-						"info": "first time live since 1999"
+						"name": "Epiphany",
+						"info": "first time live since 2015"
 					},
 					{
-						"name": "Modern Man"
+						"name": "Supersonic"
 					},
 					{
-						"name": "Struck a Nerve"
+						"name": "Prove It"
 					},
 					{
-						"name": "Infected"
+						"name": "Can't Stop It"
 					},
 					{
-						"name": "Recipe for Hate"
+						"name": "Overture"
 					},
 					{
-						"name": "Faith Alone",
-						"info": "with false start"
+						"name": "Sinister Rouge"
 					},
 					{
-						"name": "No Direction"
+						"name": "Let Them Eat War"
 					},
 					{
-						"name": "Generator"
+						"name": "The Defense"
 					},
 					{
-						"name": "Against the Grain"
+						"name": "52 Seconds"
 					},
 					{
-						"name": "A Walk"
+						"name": "Heroes \u0026 Martyrs"
 					},
 					{
-						"name": "Flat Earth Society"
+						"name": "New America"
 					},
 					{
-						"name": "God Song"
+						"name": "New Dark Ages"
 					},
 					{
-						"name": "21st Century (Digital Boy)"
+						"name": "Beyond Electric Dreams",
+						"info": "first time live since 2015"
 					},
 					{
-						"name": "American Jesus",
-						"info": "with false start"
+						"name": "Bored and Extremely Dangerous",
+						"info": "first time live since 2008"
 					},
 					{
-						"name": "Punk Rock Song"
+						"name": "Sorrow"
 					}
 				]
 			}
 		]
 	},
-	"info": "Livestream on NoCapShows - Decades Filmed Live at the Roxy - 1990s",
-	"url": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-b83a94e.html"
+	"info": "Livestream on NoCapShows - Decades Filmed Live at the Roxy - 2000s",
+	"url": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-3b838c0c.html"
 }

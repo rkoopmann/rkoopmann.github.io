@@ -1,8 +1,8 @@
 {
 	"id": "4bd7a3da",
-	"versionId": "5be03b68",
+	"versionId": "g23d26427",
 	"eventDate": "04-02-1995",
-	"lastUpdated": "2013-10-14T04:29:00.000+0000",
+	"lastUpdated": "2021-03-24T13:50:05.000+0000",
 	"artist": {
 		"mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
 		"name": "Melvins",
@@ -35,5 +35,6 @@
 	"sets": {
 		"set": []
 	},
+	"info": "Crowd pelted the band with garbage and coins and booed them mercilessly from start to finish. Trent Reznor addressed this situation during Nine Inch Nails' encore.",
 	"url": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html"
 }

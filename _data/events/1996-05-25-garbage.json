@@ -1,8 +1,8 @@
 {
 	"id": "1bc4e528",
-	"versionId": "3ba7a0d8",
+	"versionId": "g33d340b5",
 	"eventDate": "25-05-1996",
-	"lastUpdated": "2016-02-16T16:09:02.000+0000",
+	"lastUpdated": "2021-04-16T22:55:02.000+0000",
 	"artist": {
 		"mbid": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
 		"name": "Garbage",
@@ -28,6 +28,9 @@
 			}
 		},
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Garbage"
 	},
 	"sets": {
 		"set": []

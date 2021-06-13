@@ -1,8 +1,8 @@
 {
 	"id": "3fe89cf",
-	"versionId": "13a06561",
+	"versionId": "g23d080ef",
 	"eventDate": "24-05-1997",
-	"lastUpdated": "2016-05-23T22:18:23.000+0000",
+	"lastUpdated": "2021-04-22T05:19:19.000+0000",
 	"artist": {
 		"mbid": "28f93e8a-43fa-4cfb-aea5-11252ff937ab",
 		"name": "The Verve Pipe",
@@ -29,6 +29,9 @@
 		},
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
 	},
+	"tour": {
+		"name": "Villains"
+	},
 	"sets": {
 		"set": [
 			{
@@ -42,5 +45,6 @@
 			}
 		]
 	},
+	"info": "Incomplete",
 	"url": "https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html"
 }

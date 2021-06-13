@@ -1,6 +1,46 @@
 {
 	"Event": [
 		{
+			"Date": "2021-06-12",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-438e0767.html"
+		},
+		{
+			"Date": "2021-06-05",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-338e1ca9.html"
+		},
+		{
+			"Date": "2021-01-02",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-7b83f620.html"
+		},
+		{
+			"Date": "2020-12-26",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-3b838c0c.html"
+		},
+		{
 			"Date": "2020-12-19",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -262,6 +302,16 @@
 		},
 		{
 			"Date": "2014-04-11",
+			"Venue": "First Avenue and 7th St Entry",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Supersuckers",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-and-7th-st-entry-minneapolis-mn-23835ca3.html"
+		},
+		{
+			"Date": "2014-04-11",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
@@ -465,20 +515,20 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Motörhead",
+			"Artist": "Tool",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
+			"Link": "https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html"
 		},
 		{
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Tool",
+			"Artist": "Motörhead",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html"
+			"Link": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
 		},
 		{
 			"Date": "1998-07-18",
@@ -735,6 +785,16 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "The Verve Pipe",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Gavin Rossdale",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -789,16 +849,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/beck/1997/float-rite-park-amphitheatre-somerset-wi-7bda4260.html"
-		},
-		{
-			"Date": "1997-05-24",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "The Verve Pipe",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html"
 		},
 		{
 			"Date": "1997-05-24",
@@ -965,20 +1015,20 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Candlebox",
+			"Artist": "Filter",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html"
+			"Link": "https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html"
 		},
 		{
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Korn",
+			"Artist": "Goldfinger",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/korn/1996/float-rite-park-amphitheatre-somerset-wi-bda4116.html"
+			"Link": "https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html"
 		},
 		{
 			"Date": "1996-05-25",
@@ -995,10 +1045,30 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Goldfinger",
+			"Artist": "Garbage",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html"
+			"Link": "https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Candlebox",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Korn",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/korn/1996/float-rite-park-amphitheatre-somerset-wi-bda4116.html"
 		},
 		{
 			"Date": "1996-05-25",
@@ -1029,26 +1099,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/violent-femmes/1996/float-rite-park-amphitheatre-somerset-wi-7bc87e28.html"
-		},
-		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Garbage",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html"
-		},
-		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Filter",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html"
 		},
 		{
 			"Date": "1996-05-04",
@@ -1365,6 +1415,16 @@
 			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
+			"Artist": "Melvins",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html"
+		},
+		{
+			"Date": "1995-02-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
 			"Artist": "The Jim Rose Circus Sideshow",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1379,16 +1439,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/nine-inch-nails/1995/target-center-minneapolis-mn-3bd6d8c4.html"
-		},
-		{
-			"Date": "1995-02-04",
-			"Venue": "Target Center",
-			"City": "Minneapolis",
-			"State": "Minnesota",
-			"Artist": "Melvins",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html"
 		},
 		{
 			"Date": "1994-10-18",

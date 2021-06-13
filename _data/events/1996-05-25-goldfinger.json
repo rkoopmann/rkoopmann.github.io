@@ -1,8 +1,8 @@
 {
 	"id": "3c4e523",
-	"versionId": "bab4d82",
+	"versionId": "g43d08323",
 	"eventDate": "25-05-1996",
-	"lastUpdated": "2016-09-17T02:35:32.000+0000",
+	"lastUpdated": "2021-04-22T06:07:38.000+0000",
 	"artist": {
 		"mbid": "87fc1871-b74e-4bf5-a00d-8a89c288008b",
 		"name": "Goldfinger",
@@ -28,6 +28,9 @@
 			}
 		},
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Goldfinger"
 	},
 	"sets": {
 		"set": []

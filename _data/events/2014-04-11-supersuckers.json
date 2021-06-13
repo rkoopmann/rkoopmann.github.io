@@ -1,0 +1,36 @@
+{
+	"id": "23835ca3",
+	"versionId": "g33d73069",
+	"eventDate": "11-04-2014",
+	"lastUpdated": "2021-01-28T19:50:43.000+0000",
+	"artist": {
+		"mbid": "6fa09822-bbe4-4ff8-901d-4a39a4dd82e9",
+		"name": "Supersuckers",
+		"sortName": "Supersuckers",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/supersuckers-63d6a233.html"
+	},
+	"venue": {
+		"id": "63d50af7",
+		"name": "First Avenue and 7th St Entry",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/first-avenue-and-7th-st-entry-minneapolis-mn-usa-63d50af7.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-and-7th-st-entry-minneapolis-mn-23835ca3.html"
+}

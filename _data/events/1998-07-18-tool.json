@@ -1,8 +1,8 @@
 {
 	"id": "43d5bf33",
-	"versionId": "33b49bf",
+	"versionId": "g4bd397ea",
 	"eventDate": "18-07-1998",
-	"lastUpdated": "2020-06-07T05:04:16.000+0000",
+	"lastUpdated": "2021-03-30T13:54:21.000+0000",
 	"artist": {
 		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
 		"name": "Tool",
@@ -60,6 +60,10 @@
 					},
 					{
 						"name": "Eulogy"
+					},
+					{
+						"name": "(-) Ions",
+						"tape": true
 					},
 					{
 						"name": "Ænema"
