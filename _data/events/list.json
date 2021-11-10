@@ -1,6 +1,56 @@
 {
 	"Event": [
 		{
+			"Date": "2021-09-12",
+			"Venue": "Vetter Stone Amphitheater",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Artist": "Everclear",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html"
+		},
+		{
+			"Date": "2021-09-12",
+			"Venue": "Vetter Stone Amphitheater",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Artist": "Living Colour",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/living-colour/2021/vetter-stone-amphitheater-mankato-mn-338c0ca9.html"
+		},
+		{
+			"Date": "2021-09-12",
+			"Venue": "Vetter Stone Amphitheater",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Artist": "Hoobastank",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/hoobastank/2021/vetter-stone-amphitheater-mankato-mn-2b8c0cae.html"
+		},
+		{
+			"Date": "2021-06-26",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-538e4fbd.html"
+		},
+		{
+			"Date": "2021-06-19",
+			"Venue": "The Roxy",
+			"City": "West Hollywood",
+			"State": "California",
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-4b8e6bda.html"
+		},
+		{
 			"Date": "2021-06-12",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -1225,6 +1275,16 @@
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
 			"State": "Minnesota",
+			"Artist": "The Offspring",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html"
+		},
+		{
+			"Date": "1995-06-11",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
 			"Artist": "Lunachicks",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1239,16 +1299,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-vandals/1995/roy-wilkins-auditorium-st-paul-mn-23df60a3.html"
-		},
-		{
-			"Date": "1995-06-11",
-			"Venue": "Roy Wilkins Auditorium",
-			"City": "St. Paul",
-			"State": "Minnesota",
-			"Artist": "The Offspring",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html"
 		},
 		{
 			"Date": "1995-05-28",

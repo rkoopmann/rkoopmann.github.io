@@ -1,8 +1,8 @@
 {
 	"id": "63d76673",
-	"versionId": "32de1c7",
+	"versionId": "g5bde3b54",
 	"eventDate": "22-06-1994",
-	"lastUpdated": "2020-10-28T12:22:33.000+0000",
+	"lastUpdated": "2021-06-18T22:50:50.000+0000",
 	"artist": {
 		"mbid": "83d91898-7763-47d7-b03b-b92132375c47",
 		"name": "Pink Floyd",
@@ -93,7 +93,7 @@
 						"name": "Money"
 					},
 					{
-						"name": "Another Brick in the Wall Part 2"
+						"name": "Another Brick in the Wall, Part 2"
 					},
 					{
 						"name": "Comfortably Numb"

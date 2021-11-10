@@ -1,8 +1,8 @@
 {
 	"id": "3bd640ec",
-	"versionId": "53847359",
+	"versionId": "g73dbba25",
 	"eventDate": "22-07-1995",
-	"lastUpdated": "2014-12-08T03:06:37.000+0000",
+	"lastUpdated": "2021-09-06T16:46:24.000+0000",
 	"artist": {
 		"mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
 		"name": "Primus",
@@ -30,7 +30,7 @@
 		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
 	},
 	"tour": {
-		"name": "Tales From The Punchbowl"
+		"name": "Tales From the Punchbowl"
 	},
 	"sets": {
 		"set": [

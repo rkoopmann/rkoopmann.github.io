@@ -1,0 +1,107 @@
+{
+	"id": "4b8e6bda",
+	"versionId": "gbde2d42",
+	"eventDate": "19-06-2021",
+	"lastUpdated": "2021-06-19T21:47:30.000+0000",
+	"artist": {
+		"mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+		"name": "Bad Religion",
+		"sortName": "Bad Religion",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+	},
+	"venue": {
+		"id": "3d66d67",
+		"name": "The Roxy",
+		"city": {
+			"id": "5408076",
+			"name": "West Hollywood",
+			"state": "California",
+			"stateCode": "CA",
+			"coords": {
+				"lat": 34.090008,
+				"long": -118.36175
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/the-roxy-west-hollywood-ca-usa-3d66d67.html"
+	},
+	"tour": {
+		"name": "Decades Filmed Live at the Roxy"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Kyoto Now!",
+						"info": "first time live since 2015"
+					},
+					{
+						"name": "Requiem for Dissent",
+						"info": "first time live since 2010"
+					},
+					{
+						"name": "Murder",
+						"info": "live debut"
+					},
+					{
+						"name": "A Streetkid Named Desire",
+						"info": "live debut"
+					},
+					{
+						"name": "Materialist",
+						"info": "first time live since 2010"
+					},
+					{
+						"name": "God's Love",
+						"info": "first time live since 2012"
+					},
+					{
+						"name": "Before You Die",
+						"info": "first time live since 2015"
+					},
+					{
+						"name": "Germs of Perfection",
+						"info": "first time live since 2010"
+					},
+					{
+						"name": "Submission Complete",
+						"info": "first time live since 2015"
+					},
+					{
+						"name": "Broken",
+						"info": "first time live since 2015"
+					},
+					{
+						"name": "The Empire Strikes First",
+						"info": "first time live since 2007"
+					},
+					{
+						"name": "Atheist Peace",
+						"info": "first time live since 2010"
+					},
+					{
+						"name": "Honest Goodbye",
+						"info": "first time live since 2009"
+					},
+					{
+						"name": "Chronophobia",
+						"info": "live debut - Greg solo at piano"
+					},
+					{
+						"name": "Fields of Mars",
+						"info": "first time live since 2015"
+					}
+				]
+			}
+		]
+	},
+	"info": "Livestream on NoCapShows - Decades Filmed Live at the Roxy - 2000s - Season 2",
+	"url": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-4b8e6bda.html"
+}

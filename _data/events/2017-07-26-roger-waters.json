@@ -1,8 +1,8 @@
 {
 	"id": "13e581d9",
-	"versionId": "73434251",
+	"versionId": "g4bde4b7a",
 	"eventDate": "26-07-2017",
-	"lastUpdated": "2017-10-03T05:43:31.000+0000",
+	"lastUpdated": "2021-06-28T19:43:42.000+0000",
 	"artist": {
 		"mbid": "0f50beab-d77d-4f0f-ac26-0b87d3e9b11b",
 		"name": "Roger Waters",
@@ -79,10 +79,10 @@
 						"name": "The Happiest Days of Our Lives"
 					},
 					{
-						"name": "Another Brick in the Wall Part 2"
+						"name": "Another Brick in the Wall, Part 2"
 					},
 					{
-						"name": "Another Brick in the Wall Part 3"
+						"name": "Another Brick in the Wall, Part 3"
 					}
 				]
 			},

@@ -1,0 +1,101 @@
+{
+	"id": "538e4fbd",
+	"versionId": "g2bde687a",
+	"eventDate": "26-06-2021",
+	"lastUpdated": "2021-06-26T21:48:51.000+0000",
+	"artist": {
+		"mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+		"name": "Bad Religion",
+		"sortName": "Bad Religion",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+	},
+	"venue": {
+		"id": "3d66d67",
+		"name": "The Roxy",
+		"city": {
+			"id": "5408076",
+			"name": "West Hollywood",
+			"state": "California",
+			"stateCode": "CA",
+			"coords": {
+				"lat": 34.090008,
+				"long": -118.36175
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/the-roxy-west-hollywood-ca-usa-3d66d67.html"
+	},
+	"tour": {
+		"name": "Decades Filmed Live at the Roxy"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Past Is Dead",
+						"info": "first time live since 2015"
+					},
+					{
+						"name": "Age of Unreason",
+						"info": "live debut"
+					},
+					{
+						"name": "Nothing to Dismay",
+						"info": "first time live since 2013"
+					},
+					{
+						"name": "Hello Cruel World",
+						"info": "live debut"
+					},
+					{
+						"name": "Big Black Dog",
+						"info": "live debut"
+					},
+					{
+						"name": "In Their Hearts Is Right",
+						"info": "live debut"
+					},
+					{
+						"name": "The Profane Rights of Man"
+					},
+					{
+						"name": "Won't Somebody",
+						"info": "first time live since 2010"
+					},
+					{
+						"name": "Downfall",
+						"info": "live debut"
+					},
+					{
+						"name": "Meeting of the Minds"
+					},
+					{
+						"name": "The Devil in Stitches",
+						"info": "first time live since 2012"
+					},
+					{
+						"name": "Dept. of False Hope",
+						"info": "first time live since 2015"
+					},
+					{
+						"name": "What Tomorrow Brings",
+						"info": "live debut"
+					},
+					{
+						"name": "Cyanide",
+						"info": "first time live since 2015"
+					}
+				]
+			}
+		]
+	},
+	"info": "Livestream on NoCapShows - Decades Filmed Live at the Roxy - 2010s - Season 2",
+	"url": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-538e4fbd.html"
+}

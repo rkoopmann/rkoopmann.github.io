@@ -1,8 +1,8 @@
 {
 	"id": "b83ad0e",
-	"versionId": "6ad6ee8e",
+	"versionId": "g2bde3422",
 	"eventDate": "15-12-2020",
-	"lastUpdated": "2020-12-16T02:08:45.000+0000",
+	"lastUpdated": "2021-06-19T00:34:19.000+0000",
 	"artist": {
 		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
 		"name": "Foo Fighters",
@@ -55,6 +55,6 @@
 			}
 		]
 	},
-	"info": "Amazon Music Holiday Plays performance - webcast live on Twitch and Amazon Prime.",
+	"info": "Amazon Music Holiday Plays; webcast on Amazon Music, Twitch, and Amazon Prime; pre-recorded on an unknown date.",
 	"url": "https://www.setlist.fm/setlist/foo-fighters/2020/the-theatre-at-ace-hotel-los-angeles-ca-b83ad0e.html"
 }

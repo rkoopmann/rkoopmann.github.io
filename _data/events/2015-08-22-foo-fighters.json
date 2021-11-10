@@ -1,8 +1,8 @@
 {
 	"id": "63f7d247",
-	"versionId": "33252849",
+	"versionId": "g23dc305b",
 	"eventDate": "22-08-2015",
-	"lastUpdated": "2020-09-16T13:04:39.000+0000",
+	"lastUpdated": "2021-07-30T18:50:41.000+0000",
 	"artist": {
 		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
 		"name": "Foo Fighters",
@@ -109,7 +109,8 @@
 						"name": "Ain't Talkin' 'bout Love"
 					},
 					{
-						"name": "Panama"
+						"name": "Panama",
+						"info": "Taylor Hawkins on lead vocals"
 					},
 					{
 						"name": "Miss You"

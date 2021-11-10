@@ -1,8 +1,8 @@
 {
 	"id": "33df600d",
-	"versionId": "5bcb0f64",
+	"versionId": "g23dfb437",
 	"eventDate": "11-06-1995",
-	"lastUpdated": "2012-07-04T00:36:45.000+0000",
+	"lastUpdated": "2021-06-29T03:53:15.000+0000",
 	"artist": {
 		"mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
 		"name": "The Offspring",
@@ -33,7 +33,71 @@
 		"name": "Smash"
 	},
 	"sets": {
-		"set": []
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Bad Habit"
+					},
+					{
+						"name": "We Are One"
+					},
+					{
+						"name": "Killboy Powerhead"
+					},
+					{
+						"name": "Burn It Up"
+					},
+					{
+						"name": "Genocide"
+					},
+					{
+						"name": "Gotta Get Away"
+					},
+					{
+						"name": "Dirty Magic"
+					},
+					{
+						"name": "Kick Him When He's Down"
+					},
+					{
+						"name": "So Alone"
+					},
+					{
+						"name": "It'll Be a Long Time"
+					},
+					{
+						"name": "What Happened to You?"
+					},
+					{
+						"name": "Come Out and Play"
+					},
+					{
+						"name": "Get It Right"
+					},
+					{
+						"name": "Nitro (Youth Energy)"
+					},
+					{
+						"name": "Basket Case"
+					},
+					{
+						"name": "Undone - The Sweater Song"
+					},
+					{
+						"name": "Self Esteem"
+					},
+					{
+						"name": "Smash"
+					},
+					{
+						"name": "Territorial Pissings"
+					}
+				]
+			}
+		]
 	},
 	"url": "https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html"
 }

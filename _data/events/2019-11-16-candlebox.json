@@ -1,8 +1,8 @@
 {
 	"id": "39a813f",
-	"versionId": "630d4e1f",
+	"versionId": "g13db9df5",
 	"eventDate": "16-11-2019",
-	"lastUpdated": "2019-11-17T05:39:22.000+0000",
+	"lastUpdated": "2021-09-08T05:45:48.000+0000",
 	"artist": {
 		"mbid": "8e9516ba-f417-47dd-a8a5-8998b94553f8",
 		"name": "Candlebox",
@@ -66,10 +66,10 @@
 						"name": "Vexatious"
 					},
 					{
-						"name": "Nothing Left To Lose"
+						"name": "Nothing Left to Lose"
 					},
 					{
-						"name": "Mothers Dream"
+						"name": "Mother's Dream"
 					},
 					{
 						"name": "Change"
