@@ -1,8 +1,8 @@
 {
 	"id": "4bdd4342",
-	"versionId": "5392f339",
+	"versionId": "gbdb4996",
 	"eventDate": "23-10-1997",
-	"lastUpdated": "2014-05-12T23:38:59.000+0000",
+	"lastUpdated": "2021-09-20T15:33:24.000+0000",
 	"artist": {
 		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
 		"name": "Foo Fighters",
@@ -30,7 +30,7 @@
 		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
 	},
 	"tour": {
-		"name": "The Colour And The Shape"
+		"name": "The Colour and the Shape"
 	},
 	"sets": {
 		"set": [

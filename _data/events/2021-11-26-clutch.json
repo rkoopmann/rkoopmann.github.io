@@ -1,0 +1,100 @@
+{
+	"id": "738a4ee1",
+	"versionId": "g23c4440b",
+	"eventDate": "26-11-2021",
+	"lastUpdated": "2021-11-27T03:31:52.000+0000",
+	"artist": {
+		"mbid": "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
+		"name": "Clutch",
+		"sortName": "Clutch",
+		"disambiguation": "US rock band",
+		"url": "https://www.setlist.fm/setlists/clutch-7bd68e44.html"
+	},
+	"venue": {
+		"id": "63d3029b",
+		"name": "Doom Saloon",
+		"city": {
+			"id": "4355585",
+			"name": "Frederick",
+			"state": "Maryland",
+			"stateCode": "MD",
+			"coords": {
+				"lat": 39.41427,
+				"long": -77.41054
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/doom-saloon-frederick-md-usa-63d3029b.html"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Wicker",
+						"info": "first time since 1996"
+					},
+					{
+						"name": "Impetus",
+						"info": "first time since 2006"
+					},
+					{
+						"name": "12 Ounce Epilogue",
+						"info": "first time since 2006"
+					},
+					{
+						"name": "7 Jam",
+						"info": "first time since 2009"
+					},
+					{
+						"name": "Wishbone"
+					},
+					{
+						"name": "Release the Kraken"
+					},
+					{
+						"name": "Immortal"
+					},
+					{
+						"name": "Sea of Destruction"
+					},
+					{
+						"name": "(Notes from the Trial Of) La Curandera"
+					},
+					{
+						"name": "10,000 Witnesses",
+						"info": "first time since 2005"
+					},
+					{
+						"name": "Child of the City",
+						"info": "first time since 2013"
+					},
+					{
+						"name": "Struck Down"
+					},
+					{
+						"name": "Crucial Velocity"
+					},
+					{
+						"name": "Decapitation Blues"
+					},
+					{
+						"name": "Vision Quest"
+					},
+					{
+						"name": "Slaughter Beach"
+					},
+					{
+						"name": "Strive for Excellence"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/clutch/2021/doom-saloon-frederick-md-738a4ee1.html"
+}

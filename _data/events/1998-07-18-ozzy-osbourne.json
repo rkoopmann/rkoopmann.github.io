@@ -1,8 +1,8 @@
 {
 	"id": "13d05df1",
-	"versionId": "23a7a007",
+	"versionId": "g1bd869cc",
 	"eventDate": "18-07-1998",
-	"lastUpdated": "2016-02-16T16:09:02.000+0000",
+	"lastUpdated": "2021-10-01T20:12:11.000+0000",
 	"artist": {
 		"mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
 		"name": "Ozzy Osbourne",
@@ -30,7 +30,7 @@
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
 	},
 	"tour": {
-		"name": "Ozzfest 1998"
+		"name": "The Ozzman Cometh"
 	},
 	"sets": {
 		"set": [

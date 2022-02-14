@@ -1,8 +1,8 @@
 {
 	"id": "238c0cab",
-	"versionId": "g5bdbc750",
+	"versionId": "g73c58e59",
 	"eventDate": "12-09-2021",
-	"lastUpdated": "2021-09-13T13:39:39.000+0000",
+	"lastUpdated": "2021-11-30T10:23:05.000+0000",
 	"artist": {
 		"mbid": "3604c99d-c146-4276-aa0c-9376d333aeb8",
 		"name": "Everclear",
@@ -49,7 +49,7 @@
 						"name": "Heroin Girl"
 					},
 					{
-						"name": "Father Of Mine"
+						"name": "Father of Mine"
 					},
 					{
 						"name": "Strawberry"
@@ -79,7 +79,7 @@
 				"encore": 1,
 				"song": [
 					{
-						"name": "So Much For The Afterglow"
+						"name": "So Much for the Afterglow"
 					},
 					{
 						"name": "Santa Monica"

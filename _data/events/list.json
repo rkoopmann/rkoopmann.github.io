@@ -1,6 +1,16 @@
 {
 	"Event": [
 		{
+			"Date": "2021-11-26",
+			"Venue": "Doom Saloon",
+			"City": "Frederick",
+			"State": "Maryland",
+			"Artist": "Clutch",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/clutch/2021/doom-saloon-frederick-md-738a4ee1.html"
+		},
+		{
 			"Date": "2021-09-12",
 			"Venue": "Vetter Stone Amphitheater",
 			"City": "Mankato",
@@ -565,6 +575,16 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "Ozzy Osbourne",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Tool",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -655,16 +675,6 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Ozzy Osbourne",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html"
-		},
-		{
-			"Date": "1998-07-18",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
 			"Artist": "Incubus",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -705,6 +715,16 @@
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
 			"State": "Minnesota",
+			"Artist": "Foo Fighters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/foo-fighters/1997/roy-wilkins-auditorium-st-paul-mn-4bdd4342.html"
+		},
+		{
+			"Date": "1997-10-23",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
 			"Artist": "Treble Charger",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -719,16 +739,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/talk-show/1997/roy-wilkins-auditorium-st-paul-mn-53cd0399.html"
-		},
-		{
-			"Date": "1997-10-23",
-			"Venue": "Roy Wilkins Auditorium",
-			"City": "St. Paul",
-			"State": "Minnesota",
-			"Artist": "Foo Fighters",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/foo-fighters/1997/roy-wilkins-auditorium-st-paul-mn-4bdd4342.html"
 		},
 		{
 			"Date": "1997-05-25",
@@ -1105,6 +1115,26 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "Gravity Kills",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/gravity-kills/1996/float-rite-park-amphitheatre-somerset-wi-63900a6b.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Flipp",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/flipp/1996/float-rite-park-amphitheatre-somerset-wi-63eafe57.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Candlebox",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1305,6 +1335,26 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "Monster Magnet",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Faith No More",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Ramones",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1325,16 +1375,6 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Monster Magnet",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html"
-		},
-		{
-			"Date": "1995-05-28",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
 			"Artist": "face to face",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1349,16 +1389,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/collective-soul/1995/float-rite-park-amphitheatre-somerset-wi-13f451b5.html"
-		},
-		{
-			"Date": "1995-05-28",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Faith No More",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html"
 		},
 		{
 			"Date": "1995-05-28",
