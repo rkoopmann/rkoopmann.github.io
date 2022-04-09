@@ -2,6 +2,7 @@
 layout: post
 title: do over
 navigation_weight: 3
+permalink: apps/do-over
 category: post
 tags:
   - swift
