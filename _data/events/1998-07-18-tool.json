@@ -1,8 +1,8 @@
 {
 	"id": "43d5bf33",
-	"versionId": "g4bd397ea",
+	"versionId": "g43c18397",
 	"eventDate": "18-07-1998",
-	"lastUpdated": "2021-03-30T13:54:21.000+0000",
+	"lastUpdated": "2022-02-12T23:54:23.000+0000",
 	"artist": {
 		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
 		"name": "Tool",
@@ -52,14 +52,11 @@
 						"info": "Extended"
 					},
 					{
-						"name": "Merkaba"
+						"name": "Eulogy"
 					},
 					{
 						"name": "Sober",
 						"info": "Extended Intro"
-					},
-					{
-						"name": "Eulogy"
 					},
 					{
 						"name": "(-) Ions",

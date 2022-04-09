@@ -1,8 +1,8 @@
 {
 	"id": "738a4ee1",
-	"versionId": "g23c4440b",
+	"versionId": "g4bcccfd6",
 	"eventDate": "26-11-2021",
-	"lastUpdated": "2021-11-27T03:31:52.000+0000",
+	"lastUpdated": "2022-03-30T14:54:16.000+0000",
 	"artist": {
 		"mbid": "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
 		"name": "Clutch",
@@ -35,6 +35,10 @@
 				"name": "",
 				"encore": 0,
 				"song": [
+					{
+						"name": "We Need Some Money",
+						"tape": true
+					},
 					{
 						"name": "Wicker",
 						"info": "first time since 1996"

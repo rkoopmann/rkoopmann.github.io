@@ -1,8 +1,8 @@
 {
 	"id": "13d84561",
-	"versionId": "73687eb9",
+	"versionId": "g43c343fb",
 	"eventDate": "08-03-2002",
-	"lastUpdated": "2019-01-17T05:40:03.000+0000",
+	"lastUpdated": "2022-01-20T12:08:46.000+0000",
 	"artist": {
 		"mbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
 		"name": "Local H",
@@ -28,6 +28,9 @@
 			}
 		},
 		"url": "https://www.setlist.fm/venue/the-quest-minneapolis-mn-usa-2bd2508a.html"
+	},
+	"tour": {
+		"name": "Here Comes the Zoo"
 	},
 	"sets": {
 		"set": [

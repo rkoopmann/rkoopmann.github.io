@@ -1,0 +1,92 @@
+{
+	"id": "b89e1fe",
+	"versionId": "g63cf5a13",
+	"eventDate": "13-03-2022",
+	"lastUpdated": "2022-03-23T06:14:28.000+0000",
+	"artist": {
+		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+		"name": "Tool",
+		"sortName": "Tool",
+		"disambiguation": "US progressive metal band",
+		"url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Fear Inoculum 2nd Leg"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Litanie contre la Peur",
+						"tape": true
+					},
+					{
+						"name": "Fear Inoculum"
+					},
+					{
+						"name": "Opiate"
+					},
+					{
+						"name": "The Pot"
+					},
+					{
+						"name": "Pushit"
+					},
+					{
+						"name": "Pneuma"
+					},
+					{
+						"name": "The Grudge"
+					},
+					{
+						"name": "Undertow"
+					},
+					{
+						"name": "Descending"
+					},
+					{
+						"name": "Hooker With a Penis"
+					}
+				]
+			},
+			{
+				"name": "Intermission",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Chocolate Chip Trip"
+					},
+					{
+						"name": "Culling Voices"
+					},
+					{
+						"name": "Invincible"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/tool/2022/target-center-minneapolis-mn-b89e1fe.html"
+}

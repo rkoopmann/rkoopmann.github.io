@@ -1,0 +1,156 @@
+{
+	"id": "53d6ab39",
+	"versionId": "232b4823",
+	"eventDate": "07-06-2008",
+	"lastUpdated": "2020-10-30T10:38:02.000+0000",
+	"artist": {
+		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+		"name": "Foo Fighters",
+		"sortName": "Foo Fighters",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+	},
+	"venue": {
+		"id": "2bd6c086",
+		"name": "Wembley Stadium",
+		"city": {
+			"id": "2643743",
+			"name": "London",
+			"state": "England",
+			"stateCode": "ENG",
+			"coords": {
+				"lat": 51.508415,
+				"long": -0.12553275
+			},
+			"country": {
+				"code": "GB",
+				"name": "United Kingdom"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/wembley-stadium-london-england-2bd6c086.html"
+	},
+	"tour": {
+		"name": "Echoes, Silence, Patience and Grace"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "The Pretender"
+					},
+					{
+						"name": "Times Like These"
+					},
+					{
+						"name": "No Way Back"
+					},
+					{
+						"name": "Cheer Up, Boys (Your Make Up Is Running)"
+					},
+					{
+						"name": "Learn to Fly"
+					},
+					{
+						"name": "This Is a Call"
+					},
+					{
+						"name": "Long Road to Ruin"
+					},
+					{
+						"name": "Breakout"
+					},
+					{
+						"name": "Stacked Actors",
+						"info": " including Drum solo and \"Hocus Pocus\""
+					}
+				]
+			},
+			{
+				"name": "Acoustic",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Skin and Bones"
+					},
+					{
+						"name": "Big Me"
+					},
+					{
+						"name": "Marigold"
+					},
+					{
+						"name": "My Hero"
+					},
+					{
+						"name": "Cold Day in the Sun"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Let It Die"
+					}
+				]
+			},
+			{
+				"name": "End Of Runway",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Everlong"
+					}
+				]
+			},
+			{
+				"name": "Main Stage",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Monkey Wrench"
+					},
+					{
+						"name": "All My Life"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "Rock and Roll",
+						"with": {
+							"mbid": "f6501458-e99e-4d63-9141-b32eb70fd5ec",
+							"name": "Jimmy Page and John Paul Jones",
+							"sortName": "Page, Jimmy and Jones, John Paul",
+							"disambiguation": "",
+							"url": "https://www.setlist.fm/setlists/jimmy-page-and-john-paul-jones-5bd6dfd0.html"
+						},
+						"info": "with Grohl on drums and Taylor Hawkins on vocals"
+					},
+					{
+						"name": "Ramble On",
+						"with": {
+							"mbid": "f6501458-e99e-4d63-9141-b32eb70fd5ec",
+							"name": "Jimmy Page and John Paul Jones",
+							"sortName": "Page, Jimmy and Jones, John Paul",
+							"disambiguation": "",
+							"url": "https://www.setlist.fm/setlists/jimmy-page-and-john-paul-jones-5bd6dfd0.html"
+						}
+					},
+					{
+						"name": "Best of You"
+					}
+				]
+			}
+		]
+	},
+	"info": "Partially released on DVD/Blu-Ray \"Live At Wembley Stadium\".",
+	"url": "https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-53d6ab39.html"
+}

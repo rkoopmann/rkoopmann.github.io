@@ -1,0 +1,113 @@
+{
+	"id": "5b892348",
+	"versionId": "g2bcc6016",
+	"eventDate": "20-03-2022",
+	"lastUpdated": "2022-04-04T15:45:29.000+0000",
+	"artist": {
+		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+		"name": "Foo Fighters",
+		"sortName": "Foo Fighters",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+	},
+	"venue": {
+		"id": "13d665b1",
+		"name": "Hipódromo de San Isidro",
+		"city": {
+			"id": "3428992",
+			"name": "San Isidro",
+			"state": "Buenos Aires",
+			"stateCode": "01",
+			"coords": {
+				"lat": -34.470833,
+				"long": -58.52861
+			},
+			"country": {
+				"code": "AR",
+				"name": "Argentina"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/hipodromo-de-san-isidro-san-isidro-argentina-13d665b1.html"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Times Like These",
+						"info": "Dave and Rami into full band"
+					},
+					{
+						"name": "The Pretender"
+					},
+					{
+						"name": "Learn to Fly"
+					},
+					{
+						"name": "No Son of Mine"
+					},
+					{
+						"name": "The Sky Is a Neighborhood"
+					},
+					{
+						"name": "Shame Shame"
+					},
+					{
+						"name": "Breakout"
+					},
+					{
+						"name": "My Hero",
+						"info": "Dave solo into full band"
+					},
+					{
+						"name": "These Days"
+					},
+					{
+						"name": "Walk"
+					},
+					{
+						"name": "Guitar Solo / My Generation / Keyboard Solo / Gonna Make You Sweat / Blitzkrieg Bop",
+						"info": "Band introductions"
+					},
+					{
+						"name": "Somebody to Love",
+						"info": "Dave on drums, Taylor on vocals"
+					},
+					{
+						"name": "All My Life"
+					},
+					{
+						"name": "Run"
+					},
+					{
+						"name": "Wheels",
+						"info": "Slow Version; dedicated to an audience member who painted a portrait of Dave and gave it to him"
+					},
+					{
+						"name": "Best of You"
+					},
+					{
+						"name": "Been Caught Stealing",
+						"with": {
+							"mbid": "11e46b16-2f25-4783-ab32-25250befe84a",
+							"name": "Perry Farrell",
+							"sortName": "Farrell, Perry",
+							"disambiguation": "",
+							"url": "https://www.setlist.fm/setlists/perry-farrell-4bd6cb62.html"
+						}
+					},
+					{
+						"name": "Monkey Wrench"
+					},
+					{
+						"name": "Everlong"
+					}
+				]
+			}
+		]
+	},
+	"info": "Last show with Taylor Hawkins before his death on March 25, 2022.",
+	"url": "https://www.setlist.fm/setlist/foo-fighters/2022/hipodromo-de-san-isidro-san-isidro-argentina-5b892348.html"
+}
