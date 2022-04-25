@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Jared's Thai Pasta
-permalink: /recipe/jareds-thai-pasta
 time: 45 minutes
 serves: 4
 ---

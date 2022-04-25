@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Twice-Baked Potatoes
-permalink: /recipe/twice-baked-potatoes
 time: 2 hours
 serves: 8
 ---

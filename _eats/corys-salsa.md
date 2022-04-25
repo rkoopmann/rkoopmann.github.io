@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Cory's Salsa
-permalink: /recipe/corys-salsa
 time: 1h
 serves: 16
 tags: [salsa]

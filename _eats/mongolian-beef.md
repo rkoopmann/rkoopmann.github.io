@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Mongolian Beef
-permalink: /recipe/mongolian-beef
 time: 1 hour
 serves: 4
 ---

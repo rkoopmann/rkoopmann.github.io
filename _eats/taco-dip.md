@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Taco Dip
-permalink: /recipe/taco-dip
 time: 15 minutes
 serves: 12
 ---

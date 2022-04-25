@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Taco Ring
-permalink: /recipe/taco-ring
 time: 45 minutes
 serves: 8
 ---

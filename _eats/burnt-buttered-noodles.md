@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Burnt Buttered Noodles
-permalink: /recipe/burnt-buttered-noodles
 time: 15 minutes
 serves: 2
 ---

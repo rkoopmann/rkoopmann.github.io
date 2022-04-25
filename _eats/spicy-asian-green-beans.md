@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Spicy Asian Green Beans with Pan-Fried Noodles
-permalink: /recipe/spicy-asian-green-beans
 time: 1 hour
 serves: 4
 ---

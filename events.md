@@ -1,5 +1,5 @@
 ---
-layout: no-title
+layout: full-width
 title: events
 permalink: /events/
 navigation_weight: 9

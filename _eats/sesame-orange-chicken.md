@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Sesame-Orange Chicken
-permalink: /recipe/sesame-orange-chicken
 ---
 
 ## Ingredients ##

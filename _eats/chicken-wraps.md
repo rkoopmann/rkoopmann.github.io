@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Rotisserie Chicken Wraps
-permalink: /recipe/chicken-wraps
 time: 1 hour
 serves: 6
 ---

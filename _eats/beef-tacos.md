@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Beef Tacos
-permalink: /recipe/beef-tacos
 time: 30 minutes
 serves: 6
 ---

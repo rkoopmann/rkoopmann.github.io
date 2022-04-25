@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Talerine Beef Casserole
-permalink: /recipe/talerine-beef-casserole
 time: 1 hour
 serves: 8
 ---

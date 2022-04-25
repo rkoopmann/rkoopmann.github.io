@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Turkey Supreme
-permalink: /recipe/turkey-supreme
 time: 3 hours
 Serves: 10
 ---

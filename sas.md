@@ -6,7 +6,7 @@ navigation_weight: 2
 category: index
 ---
 
-_I wrote some [papers](/papers) you may be interested in?_
+_I [wrote some things](/writing) you may be interested in?_
 
 {% for post in site.posts %}
 {% if post.category == "sas" %}

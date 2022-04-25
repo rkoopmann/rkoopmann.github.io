@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Stir-Fried Thai-Style Beef with Chiles and Shallots
-permalink: /recipe/stir-fried-thai-beef
 time: 1 hour
 serves: 4
 ---

@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Chicken Cordon Bleu
-permalink: /recipe/chicken-cordon-bleu
 time: 1h, 15m
 serves: 4
 tags: [chicken, italian]

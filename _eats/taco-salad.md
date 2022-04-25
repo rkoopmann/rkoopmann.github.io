@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Taco Salad
-permalink: /recipe/taco-salad
 time: 45 minutes
 serves: 8
 ---

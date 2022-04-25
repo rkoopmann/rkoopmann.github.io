@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Cajun Chicken Pasta
-permalink: /recipe/cajun-chicken-pasta
 time: 40 minutes
 serves: 2
 ---

@@ -2,7 +2,6 @@
 layout: recipe
 category: recipe
 title: Jack Daniel's Dipping Sauce
-permalink: /recipe/jd-dipping-sauce
 time: 1 hour
 serves: 8
 ---
