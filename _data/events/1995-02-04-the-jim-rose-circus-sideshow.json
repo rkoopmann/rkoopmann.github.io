@@ -1,8 +1,8 @@
 {
 	"id": "23df601b",
-	"versionId": "g3bc134a4",
+	"versionId": "g53cd0795",
 	"eventDate": "04-02-1995",
-	"lastUpdated": "2022-02-17T18:44:56.000+0000",
+	"lastUpdated": "2022-04-15T23:36:21.000+0000",
 	"artist": {
 		"mbid": "1b11e54e-5cbb-4887-86ad-953748c101ad",
 		"name": "The Jim Rose Circus Sideshow",
@@ -11,8 +11,8 @@
 		"url": "https://www.setlist.fm/setlists/the-jim-rose-circus-sideshow-2bd0688e.html"
 	},
 	"venue": {
-		"id": "63d50af7",
-		"name": "First Avenue and 7th St Entry",
+		"id": "3d62113",
+		"name": "Target Center",
 		"city": {
 			"id": "5037649",
 			"name": "Minneapolis",
@@ -27,10 +27,10 @@
 				"name": "United States"
 			}
 		},
-		"url": "https://www.setlist.fm/venue/first-avenue-and-7th-st-entry-minneapolis-mn-usa-63d50af7.html"
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
 	},
 	"sets": {
 		"set": []
 	},
-	"url": "https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/first-avenue-and-7th-st-entry-minneapolis-mn-23df601b.html"
+	"url": "https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/target-center-minneapolis-mn-23df601b.html"
 }

@@ -1,6 +1,26 @@
 {
 	"Event": [
 		{
+			"Date": "2022-08-26",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Kevin Hart",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/kevin-hart/2022/target-center-minneapolis-mn-23b37403.html"
+		},
+		{
+			"Date": "2022-07-30",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Roger Waters",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/roger-waters/2022/target-center-minneapolis-mn-33b21cf1.html"
+		},
+		{
 			"Date": "2022-04-08",
 			"Venue": "Palace Theatre",
 			"City": "St. Paul",
@@ -402,13 +422,13 @@
 		},
 		{
 			"Date": "2014-04-11",
-			"Venue": "First Avenue and 7th St Entry",
+			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
 			"Artist": "Supersuckers",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-and-7th-st-entry-minneapolis-mn-23835ca3.html"
+			"Link": "https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-minneapolis-mn-23835ca3.html"
 		},
 		{
 			"Date": "2014-04-11",
@@ -575,10 +595,10 @@
 			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Goo Goo Dolls",
+			"Artist": "The Goo Goo Dolls",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
+			"Link": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
 		},
 		{
 			"Date": "1998-12-19",
@@ -1255,6 +1275,26 @@
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
+			"Artist": "Dance Hall Crashers",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/dance-hall-crashers/1996/first-avenue-minneapolis-mn-b9c196a.html"
+		},
+		{
+			"Date": "1996-04-30",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Unwritten Law",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/unwritten-law/1996/first-avenue-minneapolis-mn-139c1975.html"
+		},
+		{
+			"Date": "1996-04-30",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
 			"Artist": "Bad Religion",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1552,13 +1592,13 @@
 		},
 		{
 			"Date": "1995-02-04",
-			"Venue": "First Avenue and 7th St Entry",
+			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
 			"Artist": "The Jim Rose Circus Sideshow",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/first-avenue-and-7th-st-entry-minneapolis-mn-23df601b.html"
+			"Link": "https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/target-center-minneapolis-mn-23df601b.html"
 		},
 		{
 			"Date": "1995-02-04",

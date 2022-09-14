@@ -1,8 +1,8 @@
 {
 	"id": "2be990f2",
-	"versionId": "4b05c7be",
+	"versionId": "g33f3e079",
 	"eventDate": "13-09-2018",
-	"lastUpdated": "2019-08-12T09:46:59.000+0000",
+	"lastUpdated": "2022-07-18T00:14:22.000+0000",
 	"artist": {
 		"mbid": "309c62ba-7a22-4277-9f67-4a162526d18a",
 		"name": "Beck",
@@ -54,7 +54,7 @@
 						"name": "Colors"
 					},
 					{
-						"name": "Qué onda güero"
+						"name": "Qué Onda Guero"
 					},
 					{
 						"name": "Debra",
@@ -114,14 +114,14 @@
 				]
 			},
 			{
-				"name": "Encore",
-				"encore": 0,
+				"name": "",
+				"encore": 1,
 				"song": [
 					{
 						"name": "Wow"
 					},
 					{
-						"name": "Strawberry Fields",
+						"name": "Strawberry Fields Forever",
 						"info": "Snippet"
 					},
 					{
