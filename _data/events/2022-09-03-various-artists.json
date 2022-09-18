@@ -1,0 +1,324 @@
+{
+	"id": "3b0a5bb",
+	"versionId": "g23fda433",
+	"eventDate": "03-09-2022",
+	"lastUpdated": "2022-09-08T20:06:21.000+0000",
+	"artist": {
+		"mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
+		"name": "Various Artists",
+		"sortName": "Various Artists",
+		"disambiguation": "add compilations to this artist",
+		"url": "https://www.setlist.fm/setlists/various-artists-3d4350b.html"
+	},
+	"venue": {
+		"id": "2bd6c086",
+		"name": "Wembley Stadium",
+		"city": {
+			"id": "2643743",
+			"name": "London",
+			"state": "England",
+			"stateCode": "ENG",
+			"coords": {
+				"lat": 51.508415,
+				"long": -0.12553275
+			},
+			"country": {
+				"code": "GB",
+				"name": "United Kingdom"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/wembley-stadium-london-england-2bd6c086.html"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Aurora",
+						"info": "With photos of Taylor and a tribute of him speaking",
+						"tape": true
+					}
+				]
+			},
+			{
+				"name": "Liam Gallagher + Foo Fighters",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Rock 'n' Roll Star"
+					},
+					{
+						"name": "Live Forever"
+					}
+				]
+			},
+			{
+				"name": "Nile Rodgers + Chris Chaney + Omar Hakim",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Let's Dance",
+						"info": "with Josh Homme"
+					},
+					{
+						"name": "Modern Love",
+						"info": "with Gaz Coombes"
+					}
+				]
+			},
+			{
+				"name": "Chevy Metal",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Psycho Killer"
+					},
+					{
+						"name": "Children of the Revolution",
+						"info": "with Kesha"
+					}
+				]
+			},
+			{
+				"name": "Justin Hawkins + John Lousteau + The Coattail Riders",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Louise"
+					},
+					{
+						"name": "Range Rover Bitch",
+						"info": "with Josh Freese"
+					},
+					{
+						"name": "It's Over",
+						"info": "with Josh Freese"
+					}
+				]
+			},
+			{
+				"name": "Wolfgang Van Halen + Dave Grohl + Justin Hawkins + Josh Freese",
+				"encore": 0,
+				"song": [
+					{
+						"name": "On Fire"
+					},
+					{
+						"name": "Hot for Teacher"
+					}
+				]
+			},
+			{
+				"name": "Violet Grohl + Dave Grohl + Alain Johannes + Chris Chaney + Greg Kurstin + Jason Falkner",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Last Goodbye"
+					},
+					{
+						"name": "Grace"
+					}
+				]
+			},
+			{
+				"name": "Supergrass",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Richard III"
+					},
+					{
+						"name": "Alright"
+					},
+					{
+						"name": "Caught by the Fuzz"
+					}
+				]
+			},
+			{
+				"name": "Them Crooked Vultures",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Goodbye Yellow Brick Road"
+					},
+					{
+						"name": "Gunman"
+					},
+					{
+						"name": "Long Slow Goodbye"
+					}
+				]
+			},
+			{
+				"name": "Pretenders + Dave Grohl",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Precious",
+						"info": "followed by a tease of \"Sweet Caroline\" by Neil Diamond"
+					},
+					{
+						"name": "Tattooed Love Boys"
+					},
+					{
+						"name": "Brass in Pocket",
+						"info": "followed by a tease of \"Sweet Caroline\" by Neil Diamond"
+					}
+				]
+			},
+			{
+				"name": "James Gang",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Walk Away"
+					},
+					{
+						"name": "The Bomber: Closet Queen / Bolero / Cast Your Fate to the Wind"
+					},
+					{
+						"name": "Funk #49",
+						"info": "with Dave Grohl"
+					}
+				]
+			},
+			{
+				"name": "Violet Grohl + Mark Ronson + Chris Chaney + Jason Falkner",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Valerie"
+					}
+				]
+			},
+			{
+				"name": "Brian Johnson + Lars Ulrich + Foo Fighters",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Back in Black",
+						"info": "Justin Hawkins joins Brian Johnson for the 2nd verse and chorus"
+					},
+					{
+						"name": "Let There Be Rock"
+					}
+				]
+			},
+			{
+				"name": "Stewart Copeland + Foo Fighters",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Next to You"
+					},
+					{
+						"name": "Every Little Thing She Does Is Magic",
+						"info": "with Gaz Coombes"
+					}
+				]
+			},
+			{
+				"name": "Geddy Lee + Alex Lifeson",
+				"encore": 0,
+				"song": [
+					{
+						"name": "2112 Part I: Overture",
+						"info": "with Dave Grohl"
+					},
+					{
+						"name": "Working Man",
+						"info": "with Dave Grohl"
+					},
+					{
+						"name": "YYZ",
+						"info": "with Omar Hakim"
+					}
+				]
+			},
+			{
+				"name": "Brian May + Roger Taylor + Rufus Taylor + Foo Fighters",
+				"encore": 0,
+				"song": [
+					{
+						"name": "We Will Rock You",
+						"info": "with Luke Spiller; Slow/Fast version with 3 drummers"
+					},
+					{
+						"name": "I'm in Love With My Car"
+					},
+					{
+						"name": "Under Pressure",
+						"info": "with Justin Hawkins"
+					},
+					{
+						"name": "Somebody to Love",
+						"info": "with Sam Ryder"
+					},
+					{
+						"name": "Love of My Life",
+						"info": "Brian May solo acoustic"
+					}
+				]
+			},
+			{
+				"name": "Foo Fighters",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Times Like These",
+						"info": "with Josh Freese, solo into full band"
+					},
+					{
+						"name": "All My Life",
+						"info": "with Josh Freese"
+					},
+					{
+						"name": "The Pretender",
+						"info": "with Travis Barker"
+					},
+					{
+						"name": "Monkey Wrench",
+						"info": "with Travis Barker; Dave forgot some of the lyrics to the second verse"
+					},
+					{
+						"name": "Learn to Fly",
+						"info": "with Nandi Bushell"
+					},
+					{
+						"name": "These Days",
+						"info": "with Rufus Taylor"
+					},
+					{
+						"name": "Best of You",
+						"info": "with Rufus Taylor"
+					},
+					{
+						"name": "Oh! Darling",
+						"info": "with Paul McCartney, Chrissie Hynde and Omar Hakim; live debut by Paul McCartney"
+					},
+					{
+						"name": "Helter Skelter",
+						"info": "with Paul McCartney and Omar Hakim"
+					},
+					{
+						"name": "Aurora",
+						"info": "with Omar Hakim"
+					},
+					{
+						"name": "My Hero",
+						"info": "with Oliver Shane Hawkins (Taylor's son)"
+					},
+					{
+						"name": "Everlong",
+						"info": "Dave solo; followed by all the performers taking a bow and a photo of Taylor above"
+					}
+				]
+			}
+		]
+	},
+	"info": "Taylor Hawkins Tribute Concert RUN OF SHOW; broadcast live on YouTube, Paramount+ and MTV streaming services.",
+	"url": "https://www.setlist.fm/setlist/various-artists/2022/wembley-stadium-london-england-3b0a5bb.html"
+}

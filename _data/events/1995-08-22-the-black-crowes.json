@@ -1,8 +1,8 @@
 {
 	"id": "7bd4a260",
-	"versionId": "4bf0af46",
+	"versionId": "g13fc79d5",
 	"eventDate": "22-08-1995",
-	"lastUpdated": "2012-11-20T18:37:18.000+0000",
+	"lastUpdated": "2022-09-05T11:14:07.000+0000",
 	"artist": {
 		"mbid": "02ceff75-7363-493e-a78d-912dc86c7460",
 		"name": "The Black Crowes",
@@ -46,7 +46,7 @@
 						"name": "Black Moon Creeping"
 					},
 					{
-						"name": "Thick N' Thin"
+						"name": "Thick n' Thin"
 					},
 					{
 						"name": "High Head Blues"
