@@ -1,8 +1,7 @@
 ---
 layout: full-width
 title: card piles
-navigation_weight: 4
-permalink: apps/card-piles
+permalink: /apps/card-piles
 category: post
 tags:
   - swift
