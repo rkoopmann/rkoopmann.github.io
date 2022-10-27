@@ -1,6 +1,36 @@
 {
 	"Event": [
 		{
+			"Date": "2022-10-07",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Nashville Pussy",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/nashville-pussy/2022/first-avenue-minneapolis-mn-73b1cac5.html"
+		},
+		{
+			"Date": "2022-10-07",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Reverend Horton Heat",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/reverend-horton-heat/2022/first-avenue-minneapolis-mn-7bb1cac0.html"
+		},
+		{
+			"Date": "2022-10-07",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Toadies",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/toadies/2022/first-avenue-minneapolis-mn-6bb1cac2.html"
+		},
+		{
 			"Date": "2022-09-03",
 			"Venue": "Wembley Stadium",
 			"City": "London",
