@@ -2,12 +2,12 @@
 	"id": "63d406cb",
 	"versionId": "31e5df3",
 	"eventDate": "01-07-2010",
-	"lastUpdated": "2019-05-06T04:18:15.000+0000",
+	"lastUpdated": "2019-05-06T04:18:15.561+0000",
 	"artist": {
 		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
 		"name": "Tool",
 		"sortName": "Tool",
-		"disambiguation": "US progressive metal band",
+		"disambiguation": "American rock band",
 		"url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
 	},
 	"venue": {
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",
@@ -77,7 +77,13 @@
 					{
 						"name": "Forty Six \u0026 2",
 						"info": "synth intro"
-					},
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
 					{
 						"name": "Lateralus",
 						"with": {

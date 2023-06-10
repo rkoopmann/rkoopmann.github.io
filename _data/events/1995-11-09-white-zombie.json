@@ -2,7 +2,7 @@
 	"id": "4bc52b9a",
 	"versionId": "4b762fb6",
 	"eventDate": "09-11-1995",
-	"lastUpdated": "2018-02-14T12:26:55.000+0000",
+	"lastUpdated": "2018-02-14T12:26:55.185+0000",
 	"artist": {
 		"mbid": "cfe572bf-840f-4bed-934a-f69f4b1e90d4",
 		"name": "White Zombie",
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",

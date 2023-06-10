@@ -2,7 +2,7 @@
 	"id": "43b68bcb",
 	"versionId": "g4bcd8fb6",
 	"eventDate": "08-04-2022",
-	"lastUpdated": "2022-04-09T01:57:35.000+0000",
+	"lastUpdated": "2022-04-09T01:57:35.996+0000",
 	"artist": {
 		"mbid": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
 		"name": "The Flaming Lips",
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",

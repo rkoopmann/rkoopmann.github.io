@@ -1,14 +1,24 @@
 {
 	"Event": [
 		{
-			"Date": "2022-10-07",
-			"Venue": "First Avenue",
-			"City": "Minneapolis",
-			"State": "Minnesota",
-			"Artist": "Nashville Pussy",
+			"Date": "2023-05-21",
+			"Venue": "Studio 606",
+			"City": "Los Angeles",
+			"State": "California",
+			"Artist": "Foo Fighters",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/nashville-pussy/2022/first-avenue-minneapolis-mn-73b1cac5.html"
+			"Link": "https://www.setlist.fm/setlist/foo-fighters/2023/studio-606-los-angeles-ca-33b938ed.html"
+		},
+		{
+			"Date": "2023-04-28",
+			"Venue": "The Laugh Factory",
+			"City": "Las Vegas",
+			"State": "Nevada",
+			"Artist": "Jon Lovitz",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/jon-lovitz/2023/the-laugh-factory-las-vegas-nv-43b8739b.html"
 		},
 		{
 			"Date": "2022-10-07",
@@ -19,6 +29,16 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/reverend-horton-heat/2022/first-avenue-minneapolis-mn-7bb1cac0.html"
+		},
+		{
+			"Date": "2022-10-07",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Nashville Pussy",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/nashville-pussy/2022/first-avenue-minneapolis-mn-73b1cac5.html"
 		},
 		{
 			"Date": "2022-10-07",
@@ -65,20 +85,20 @@
 			"Venue": "Palace Theatre",
 			"City": "St. Paul",
 			"State": "Minnesota",
-			"Artist": "The Flaming Lips",
+			"Artist": "Heartless Bastards",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/2022/palace-theatre-st-paul-mn-43b68bcb.html"
+			"Link": "https://www.setlist.fm/setlist/heartless-bastards/2022/palace-theatre-st-paul-mn-4bb68bca.html"
 		},
 		{
 			"Date": "2022-04-08",
 			"Venue": "Palace Theatre",
 			"City": "St. Paul",
 			"State": "Minnesota",
-			"Artist": "Heartless Bastards",
+			"Artist": "The Flaming Lips",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/heartless-bastards/2022/palace-theatre-st-paul-mn-4bb68bca.html"
+			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/2022/palace-theatre-st-paul-mn-43b68bcb.html"
 		},
 		{
 			"Date": "2022-03-20",
@@ -115,16 +135,6 @@
 			"Venue": "Vetter Stone Amphitheater",
 			"City": "Mankato",
 			"State": "Minnesota",
-			"Artist": "Everclear",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html"
-		},
-		{
-			"Date": "2021-09-12",
-			"Venue": "Vetter Stone Amphitheater",
-			"City": "Mankato",
-			"State": "Minnesota",
 			"Artist": "Living Colour",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -139,6 +149,16 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/hoobastank/2021/vetter-stone-amphitheater-mankato-mn-2b8c0cae.html"
+		},
+		{
+			"Date": "2021-09-12",
+			"Venue": "Vetter Stone Amphitheater",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Artist": "Everclear",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html"
 		},
 		{
 			"Date": "2021-06-26",
@@ -285,20 +305,20 @@
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Bad Religion",
+			"Artist": "Dave Hause",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2019/first-avenue-minneapolis-mn-5b915be4.html"
+			"Link": "https://www.setlist.fm/setlist/dave-hause/2019/first-avenue-minneapolis-mn-b915106.html"
 		},
 		{
 			"Date": "2019-07-02",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Dave Hause",
+			"Artist": "Bad Religion",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/dave-hause/2019/first-avenue-minneapolis-mn-b915106.html"
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2019/first-avenue-minneapolis-mn-5b915be4.html"
 		},
 		{
 			"Date": "2019-02-01",
@@ -329,6 +349,16 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2018/xcel-energy-center-st-paul-mn-3b968020.html"
+		},
+		{
+			"Date": "2018-10-01",
+			"Venue": "Acme Comedy Company",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Aziz Ansari",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-638ade97.html"
 		},
 		{
 			"Date": "2018-09-13",
@@ -375,20 +405,20 @@
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Toadies",
+			"Artist": "Local H",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/toadies/2017/first-avenue-minneapolis-mn-1be38dfc.html"
+			"Link": "https://www.setlist.fm/setlist/local-h/2017/first-avenue-minneapolis-mn-be38df6.html"
 		},
 		{
 			"Date": "2017-10-08",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Local H",
+			"Artist": "Toadies",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/local-h/2017/first-avenue-minneapolis-mn-be38df6.html"
+			"Link": "https://www.setlist.fm/setlist/toadies/2017/first-avenue-minneapolis-mn-1be38dfc.html"
 		},
 		{
 			"Date": "2017-09-17",
@@ -451,6 +481,16 @@
 			"Link": "https://www.setlist.fm/setlist/filter/2016/mill-city-nights-minneapolis-mn-1bf1e1ac.html"
 		},
 		{
+			"Date": "2015-12-08",
+			"Venue": "Acme Comedy Company",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Chris Porter",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/chris-porter/2015/acme-comedy-company-minneapolis-mn-2bbe901e.html"
+		},
+		{
 			"Date": "2015-08-22",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -465,20 +505,20 @@
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Supersuckers",
+			"Artist": "Toadies",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-minneapolis-mn-23835ca3.html"
+			"Link": "https://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html"
 		},
 		{
 			"Date": "2014-04-11",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Toadies",
+			"Artist": "Supersuckers",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html"
+			"Link": "https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-minneapolis-mn-23835ca3.html"
 		},
 		{
 			"Date": "2013-08-09",
@@ -535,20 +575,20 @@
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
 			"State": "Minnesota",
-			"Artist": "A Perfect Circle",
+			"Artist": "Snake River Conspiracy",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html"
+			"Link": "https://www.setlist.fm/setlist/snake-river-conspiracy/2003/xcel-energy-center-st-paul-mn-43c17beb.html"
 		},
 		{
 			"Date": "2003-12-05",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
 			"State": "Minnesota",
-			"Artist": "Snake River Conspiracy",
+			"Artist": "A Perfect Circle",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/snake-river-conspiracy/2003/xcel-energy-center-st-paul-mn-43c17beb.html"
+			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html"
 		},
 		{
 			"Date": "2002-09-04",
@@ -565,20 +605,20 @@
 			"Venue": "The Quest",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Local H",
+			"Artist": "Chevelle",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/local-h/2002/the-quest-minneapolis-mn-13d84561.html"
+			"Link": "https://www.setlist.fm/setlist/chevelle/2002/the-quest-minneapolis-mn-1bd84564.html"
 		},
 		{
 			"Date": "2002-03-08",
 			"Venue": "The Quest",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Chevelle",
+			"Artist": "Local H",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/chevelle/2002/the-quest-minneapolis-mn-1bd84564.html"
+			"Link": "https://www.setlist.fm/setlist/local-h/2002/the-quest-minneapolis-mn-13d84561.html"
 		},
 		{
 			"Date": "2001-09-06",
@@ -615,30 +655,20 @@
 			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Garbage",
+			"Artist": "Beck",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/garbage/1998/target-center-minneapolis-mn-33ded099.html"
+			"Link": "https://www.setlist.fm/setlist/beck/1998/target-center-minneapolis-mn-73c01635.html"
 		},
 		{
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Semisonic",
+			"Artist": "Cherry Poppin’ Daddies",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/semisonic/1998/target-center-minneapolis-mn-63c0162b.html"
-		},
-		{
-			"Date": "1998-12-19",
-			"Venue": "Target Center",
-			"City": "Minneapolis",
-			"State": "Minnesota",
-			"Artist": "The Goo Goo Dolls",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
+			"Link": "https://www.setlist.fm/setlist/cherry-poppin-daddies/1998/target-center-minneapolis-mn-73c01629.html"
 		},
 		{
 			"Date": "1998-12-19",
@@ -665,20 +695,20 @@
 			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Cherry Poppin’ Daddies",
+			"Artist": "Semisonic",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/cherry-poppin-daddies/1998/target-center-minneapolis-mn-73c01629.html"
+			"Link": "https://www.setlist.fm/setlist/semisonic/1998/target-center-minneapolis-mn-63c0162b.html"
 		},
 		{
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Beck",
+			"Artist": "Garbage",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/beck/1998/target-center-minneapolis-mn-73c01635.html"
+			"Link": "https://www.setlist.fm/setlist/garbage/1998/target-center-minneapolis-mn-33ded099.html"
 		},
 		{
 			"Date": "1998-12-19",
@@ -691,34 +721,24 @@
 			"Link": "https://www.setlist.fm/setlist/soul-coughing/1998/target-center-minneapolis-mn-2bd76cce.html"
 		},
 		{
-			"Date": "1998-07-18",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Tool",
+			"Date": "1998-12-19",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "The Goo Goo Dolls",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html"
+			"Link": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
 		},
 		{
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "System of a Down",
+			"Artist": "Incubus",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/system-of-a-down/1998/float-rite-park-amphitheatre-somerset-wi-3bde188c.html"
-		},
-		{
-			"Date": "1998-07-18",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Ozzy Osbourne",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html"
+			"Link": "https://www.setlist.fm/setlist/incubus/1998/float-rite-park-amphitheatre-somerset-wi-7bd632e4.html"
 		},
 		{
 			"Date": "1998-07-18",
@@ -729,16 +749,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
-		},
-		{
-			"Date": "1998-07-18",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Deftones",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html"
 		},
 		{
 			"Date": "1998-07-18",
@@ -765,6 +775,46 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "Deftones",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Sevendust",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/sevendust/1998/float-rite-park-amphitheatre-somerset-wi-4bd1139e.html"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Tool",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "System of a Down",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/system-of-a-down/1998/float-rite-park-amphitheatre-somerset-wi-3bde188c.html"
+		},
+		{
+			"Date": "1998-07-18",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Soulfly",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -785,20 +835,10 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Sevendust",
+			"Artist": "Ozzy Osbourne",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/sevendust/1998/float-rite-park-amphitheatre-somerset-wi-4bd1139e.html"
-		},
-		{
-			"Date": "1998-07-18",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Incubus",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/incubus/1998/float-rite-park-amphitheatre-somerset-wi-7bd632e4.html"
+			"Link": "https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html"
 		},
 		{
 			"Date": "1998-07-17",
@@ -835,6 +875,16 @@
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
 			"State": "Minnesota",
+			"Artist": "Talk Show",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/talk-show/1997/roy-wilkins-auditorium-st-paul-mn-53cd0399.html"
+		},
+		{
+			"Date": "1997-10-23",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
 			"Artist": "Foo Fighters",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -851,24 +901,14 @@
 			"Link": "https://www.setlist.fm/setlist/treble-charger/1997/roy-wilkins-auditorium-st-paul-mn-13f37149.html"
 		},
 		{
-			"Date": "1997-10-23",
-			"Venue": "Roy Wilkins Auditorium",
-			"City": "St. Paul",
-			"State": "Minnesota",
-			"Artist": "Talk Show",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/talk-show/1997/roy-wilkins-auditorium-st-paul-mn-53cd0399.html"
-		},
-		{
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Sevendust",
+			"Artist": "Local H",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/sevendust/1997/float-rite-park-amphitheatre-somerset-wi-13eb5571.html"
+			"Link": "https://www.setlist.fm/setlist/local-h/1997/float-rite-park-amphitheatre-somerset-wi-bfe89ca.html"
 		},
 		{
 			"Date": "1997-05-25",
@@ -885,60 +925,10 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Linda Perry",
+			"Artist": "Bloodhound Gang",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/linda-perry/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7f.html"
-		},
-		{
-			"Date": "1997-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Rollins Band",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/rollins-band/1997/float-rite-park-amphitheatre-somerset-wi-13fe89e1.html"
-		},
-		{
-			"Date": "1997-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Iggy Pop",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/iggy-pop/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c0.html"
-		},
-		{
-			"Date": "1997-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Tonic",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/tonic/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c8.html"
-		},
-		{
-			"Date": "1997-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Reverend Horton Heat",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/reverend-horton-heat/1997/float-rite-park-amphitheatre-somerset-wi-13fe89c9.html"
-		},
-		{
-			"Date": "1997-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Local H",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/local-h/1997/float-rite-park-amphitheatre-somerset-wi-bfe89ca.html"
+			"Link": "https://www.setlist.fm/setlist/bloodhound-gang/1997/float-rite-park-amphitheatre-somerset-wi-63da4263.html"
 		},
 		{
 			"Date": "1997-05-25",
@@ -955,50 +945,60 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Bloodhound Gang",
+			"Artist": "Linda Perry",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bloodhound-gang/1997/float-rite-park-amphitheatre-somerset-wi-63da4263.html"
+			"Link": "https://www.setlist.fm/setlist/linda-perry/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7f.html"
 		},
 		{
-			"Date": "1997-05-24",
+			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "The Verve Pipe",
+			"Artist": "Tonic",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html"
+			"Link": "https://www.setlist.fm/setlist/tonic/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c8.html"
 		},
 		{
-			"Date": "1997-05-24",
+			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Gavin Rossdale",
+			"Artist": "Iggy Pop",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/gavin-rossdale/1997/float-rite-park-amphitheatre-somerset-wi-63da4267.html"
+			"Link": "https://www.setlist.fm/setlist/iggy-pop/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c0.html"
 		},
 		{
-			"Date": "1997-05-24",
+			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Flipp",
+			"Artist": "Rollins Band",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-6beafe1e.html"
+			"Link": "https://www.setlist.fm/setlist/rollins-band/1997/float-rite-park-amphitheatre-somerset-wi-13fe89e1.html"
 		},
 		{
-			"Date": "1997-05-24",
+			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Skunk Anansie",
+			"Artist": "Reverend Horton Heat",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/skunk-anansie/1997/float-rite-park-amphitheatre-somerset-wi-3bec94d4.html"
+			"Link": "https://www.setlist.fm/setlist/reverend-horton-heat/1997/float-rite-park-amphitheatre-somerset-wi-13fe89c9.html"
+		},
+		{
+			"Date": "1997-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Sevendust",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/sevendust/1997/float-rite-park-amphitheatre-somerset-wi-13eb5571.html"
 		},
 		{
 			"Date": "1997-05-24",
@@ -1015,16 +1015,6 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Better Than Ezra",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/better-than-ezra/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7b.html"
-		},
-		{
-			"Date": "1997-05-24",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
 			"Artist": "Beck",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1035,10 +1025,20 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Social Distortion",
+			"Artist": "Flipp",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/social-distortion/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89dc.html"
+			"Link": "https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-6beafe1e.html"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Gavin Rossdale",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/gavin-rossdale/1997/float-rite-park-amphitheatre-somerset-wi-63da4267.html"
 		},
 		{
 			"Date": "1997-05-24",
@@ -1051,6 +1051,46 @@
 			"Link": "https://www.setlist.fm/setlist/republica/1997/float-rite-park-amphitheatre-somerset-wi-3fe89df.html"
 		},
 		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "The Verve Pipe",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Better Than Ezra",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/better-than-ezra/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7b.html"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Skunk Anansie",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/skunk-anansie/1997/float-rite-park-amphitheatre-somerset-wi-3bec94d4.html"
+		},
+		{
+			"Date": "1997-05-24",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Social Distortion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/social-distortion/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89dc.html"
+		},
+		{
 			"Date": "1996-12-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1059,26 +1099,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-wallflowers/1996/target-center-minneapolis-mn-3bdf60c0.html"
-		},
-		{
-			"Date": "1996-12-04",
-			"Venue": "Target Center",
-			"City": "Minneapolis",
-			"State": "Minnesota",
-			"Artist": "Bloodhound Gang",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bloodhound-gang/1996/target-center-minneapolis-mn-23df60c3.html"
-		},
-		{
-			"Date": "1996-12-04",
-			"Venue": "Target Center",
-			"City": "Minneapolis",
-			"State": "Minnesota",
-			"Artist": "Tracy Bonham",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/tracy-bonham/1996/target-center-minneapolis-mn-23df60c7.html"
 		},
 		{
 			"Date": "1996-12-04",
@@ -1111,6 +1131,26 @@
 			"Link": "https://www.setlist.fm/setlist/danzig/1996/target-center-minneapolis-mn-2bdf60c2.html"
 		},
 		{
+			"Date": "1996-12-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Tracy Bonham",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/tracy-bonham/1996/target-center-minneapolis-mn-23df60c7.html"
+		},
+		{
+			"Date": "1996-12-04",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Bloodhound Gang",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bloodhound-gang/1996/target-center-minneapolis-mn-23df60c3.html"
+		},
+		{
 			"Date": "1996-09-15",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1135,26 +1175,6 @@
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
 			"State": "Iowa",
-			"Artist": "Ben Folds Five",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/ben-folds-five/1996/iowa-state-fairgrounds-des-moines-ia-53e60ba9.html"
-		},
-		{
-			"Date": "1996-06-28",
-			"Venue": "Iowa State Fairgrounds",
-			"City": "Des Moines",
-			"State": "Iowa",
-			"Artist": "Screaming Trees",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/screaming-trees/1996/iowa-state-fairgrounds-des-moines-ia-13e7f93d.html"
-		},
-		{
-			"Date": "1996-06-28",
-			"Venue": "Iowa State Fairgrounds",
-			"City": "Des Moines",
-			"State": "Iowa",
 			"Artist": "Rancid",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1165,10 +1185,20 @@
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
 			"State": "Iowa",
-			"Artist": "Waylon Jennings",
+			"Artist": "Metallica",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/waylon-jennings/1996/iowa-state-fairgrounds-des-moines-ia-2bdf60d6.html"
+			"Link": "https://www.setlist.fm/setlist/metallica/1996/iowa-state-fairgrounds-des-moines-ia-6bd6da6e.html"
+		},
+		{
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
+			"Artist": "Ben Folds Five",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/ben-folds-five/1996/iowa-state-fairgrounds-des-moines-ia-53e60ba9.html"
 		},
 		{
 			"Date": "1996-06-28",
@@ -1185,80 +1215,20 @@
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
 			"State": "Iowa",
-			"Artist": "Metallica",
+			"Artist": "Waylon Jennings",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/metallica/1996/iowa-state-fairgrounds-des-moines-ia-6bd6da6e.html"
+			"Link": "https://www.setlist.fm/setlist/waylon-jennings/1996/iowa-state-fairgrounds-des-moines-ia-2bdf60d6.html"
 		},
 		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Filter",
+			"Date": "1996-06-28",
+			"Venue": "Iowa State Fairgrounds",
+			"City": "Des Moines",
+			"State": "Iowa",
+			"Artist": "Screaming Trees",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html"
-		},
-		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Goldfinger",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html"
-		},
-		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "No Doubt",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/no-doubt/1996/float-rite-park-amphitheatre-somerset-wi-13c4e52d.html"
-		},
-		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Garbage",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html"
-		},
-		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Gravity Kills",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/gravity-kills/1996/float-rite-park-amphitheatre-somerset-wi-63900a6b.html"
-		},
-		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Flipp",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/flipp/1996/float-rite-park-amphitheatre-somerset-wi-63eafe57.html"
-		},
-		{
-			"Date": "1996-05-25",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Candlebox",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html"
+			"Link": "https://www.setlist.fm/setlist/screaming-trees/1996/iowa-state-fairgrounds-des-moines-ia-13e7f93d.html"
 		},
 		{
 			"Date": "1996-05-25",
@@ -1275,10 +1245,80 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "Violent Femmes",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/violent-femmes/1996/float-rite-park-amphitheatre-somerset-wi-7bc87e28.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Candlebox",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Flipp",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/flipp/1996/float-rite-park-amphitheatre-somerset-wi-63eafe57.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Gravity Kills",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/gravity-kills/1996/float-rite-park-amphitheatre-somerset-wi-63900a6b.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Goldfinger",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Filter",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Everclear",
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/everclear/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e534.html"
+		},
+		{
+			"Date": "1996-05-25",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Garbage",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html"
 		},
 		{
 			"Date": "1996-05-25",
@@ -1295,10 +1335,10 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Violent Femmes",
+			"Artist": "No Doubt",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/violent-femmes/1996/float-rite-park-amphitheatre-somerset-wi-7bc87e28.html"
+			"Link": "https://www.setlist.fm/setlist/no-doubt/1996/float-rite-park-amphitheatre-somerset-wi-13c4e52d.html"
 		},
 		{
 			"Date": "1996-05-04",
@@ -1325,30 +1365,110 @@
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Unwritten Law",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/unwritten-law/1996/first-avenue-minneapolis-mn-139c1975.html"
-		},
-		{
-			"Date": "1996-04-30",
-			"Venue": "First Avenue",
-			"City": "Minneapolis",
-			"State": "Minnesota",
 			"Artist": "Bad Religion",
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/bad-religion/1996/first-avenue-minneapolis-mn-4bcdd3ea.html"
 		},
 		{
-			"Date": "1995-11-09",
-			"Venue": "Roy Wilkins Auditorium",
-			"City": "St. Paul",
+			"Date": "1996-04-30",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "White Zombie",
+			"Artist": "Unwritten Law",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/white-zombie/1995/roy-wilkins-auditorium-st-paul-mn-4bc52b9a.html"
+			"Link": "https://www.setlist.fm/setlist/unwritten-law/1996/first-avenue-minneapolis-mn-139c1975.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Meat Puppets",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/meat-puppets/1995/target-center-minneapolis-mn-beda9ce.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Flipp",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/flipp/1995/target-center-minneapolis-mn-7beafe64.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Violent Femmes",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/violent-femmes/1995/target-center-minneapolis-mn-5b83dbb4.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Toadies",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/toadies/1995/target-center-minneapolis-mn-5383dbb5.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Oasis",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/oasis/1995/target-center-minneapolis-mn-3bd798a0.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Del Amitri",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/del-amitri/1995/target-center-minneapolis-mn-2b87e852.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Garbage",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/garbage/1995/target-center-minneapolis-mn-1bf0e524.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Lisa Loeb",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/lisa-loeb/1995/target-center-minneapolis-mn-1b90ed8c.html"
+		},
+		{
+			"Date": "1995-12-09",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "The Goo Goo Dolls",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1995/target-center-minneapolis-mn-1b90ed88.html"
 		},
 		{
 			"Date": "1995-11-09",
@@ -1371,6 +1491,16 @@
 			"Link": "https://www.setlist.fm/setlist/supersuckers/1995/roy-wilkins-auditorium-st-paul-mn-53c52b99.html"
 		},
 		{
+			"Date": "1995-11-09",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "White Zombie",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/white-zombie/1995/roy-wilkins-auditorium-st-paul-mn-4bc52b9a.html"
+		},
+		{
 			"Date": "1995-08-22",
 			"Venue": "River's Edge Park",
 			"City": "Somerset",
@@ -1379,16 +1509,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-black-crowes/1995/rivers-edge-park-somerset-wi-7bd4a260.html"
-		},
-		{
-			"Date": "1995-08-22",
-			"Venue": "River's Edge Park",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Sheryl Crow",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/sheryl-crow/1995/rivers-edge-park-somerset-wi-33970c85.html"
 		},
 		{
 			"Date": "1995-08-22",
@@ -1419,6 +1539,16 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/blues-traveler/1995/rivers-edge-park-somerset-wi-3bd0c884.html"
+		},
+		{
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Sheryl Crow",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/sheryl-crow/1995/rivers-edge-park-somerset-wi-33970c85.html"
 		},
 		{
 			"Date": "1995-07-22",
@@ -1475,30 +1605,10 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Monster Magnet",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html"
-		},
-		{
-			"Date": "1995-05-28",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
 			"Artist": "Bush",
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/bush/1995/float-rite-park-amphitheatre-somerset-wi-bce490a.html"
-		},
-		{
-			"Date": "1995-05-28",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Faith No More",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html"
 		},
 		{
 			"Date": "1995-05-28",
@@ -1515,6 +1625,36 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
+			"Artist": "Phunk Junkeez",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/phunk-junkeez/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9ae4.html"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Letters to Cleo",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/letters-to-cleo/1995/float-rite-park-amphitheatre-somerset-wi-73fd9ae1.html"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Faith No More",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html"
+		},
+		{
+			"Date": "1995-05-28",
+			"Venue": "Float-Rite Park Amphitheatre",
+			"City": "Somerset",
+			"State": "Wisconsin",
 			"Artist": "Ramones",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1525,20 +1665,10 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "face to face",
+			"Artist": "Monster Magnet",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/face-to-face/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9ae2.html"
-		},
-		{
-			"Date": "1995-05-28",
-			"Venue": "Float-Rite Park Amphitheatre",
-			"City": "Somerset",
-			"State": "Wisconsin",
-			"Artist": "Collective Soul",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/collective-soul/1995/float-rite-park-amphitheatre-somerset-wi-13f451b5.html"
+			"Link": "https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html"
 		},
 		{
 			"Date": "1995-05-28",
@@ -1555,10 +1685,10 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Phunk Junkeez",
+			"Artist": "face to face",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/phunk-junkeez/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9ae4.html"
+			"Link": "https://www.setlist.fm/setlist/face-to-face/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9ae2.html"
 		},
 		{
 			"Date": "1995-05-28",
@@ -1575,10 +1705,10 @@
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
 			"State": "Wisconsin",
-			"Artist": "Letters to Cleo",
+			"Artist": "Collective Soul",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/letters-to-cleo/1995/float-rite-park-amphitheatre-somerset-wi-73fd9ae1.html"
+			"Link": "https://www.setlist.fm/setlist/collective-soul/1995/float-rite-park-amphitheatre-somerset-wi-13f451b5.html"
 		},
 		{
 			"Date": "1995-05-21",
@@ -1635,16 +1765,6 @@
 			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "The Jim Rose Circus Sideshow",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/target-center-minneapolis-mn-23df601b.html"
-		},
-		{
-			"Date": "1995-02-04",
-			"Venue": "Target Center",
-			"City": "Minneapolis",
-			"State": "Minnesota",
 			"Artist": "Melvins",
 			"Tour": "",
 			"SongsPlayed": 0,
@@ -1661,14 +1781,14 @@
 			"Link": "https://www.setlist.fm/setlist/nine-inch-nails/1995/target-center-minneapolis-mn-3bd6d8c4.html"
 		},
 		{
-			"Date": "1994-10-18",
-			"Venue": "State Theatre",
+			"Date": "1995-02-04",
+			"Venue": "Target Center",
 			"City": "Minneapolis",
 			"State": "Minnesota",
-			"Artist": "Mother Tongue",
+			"Artist": "The Jim Rose Circus Sideshow",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/mother-tongue/1994/state-theatre-minneapolis-mn-23835c63.html"
+			"Link": "https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/target-center-minneapolis-mn-23df601b.html"
 		},
 		{
 			"Date": "1994-10-18",
@@ -1689,6 +1809,16 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/candlebox/1994/state-theatre-minneapolis-mn-23d9083b.html"
+		},
+		{
+			"Date": "1994-10-18",
+			"Venue": "State Theatre",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Artist": "Mother Tongue",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/mother-tongue/1994/state-theatre-minneapolis-mn-23835c63.html"
 		},
 		{
 			"Date": "1994-06-22",

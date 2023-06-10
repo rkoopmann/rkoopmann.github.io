@@ -1,8 +1,8 @@
 {
 	"id": "63d76673",
-	"versionId": "g5bde3b54",
+	"versionId": "g53976b81",
 	"eventDate": "22-06-1994",
-	"lastUpdated": "2021-06-18T22:50:50.000+0000",
+	"lastUpdated": "2023-05-10T08:07:18.113+0000",
 	"artist": {
 		"mbid": "83d91898-7763-47d7-b03b-b92132375c47",
 		"name": "Pink Floyd",
@@ -64,12 +64,18 @@
 					},
 					{
 						"name": "One of These Days"
-					},
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
 					{
 						"name": "Shine On You Crazy Diamond (Parts I-V)"
 					},
 					{
-						"name": "Breathe"
+						"name": "Breathe (In the Air)"
 					},
 					{
 						"name": "Time"

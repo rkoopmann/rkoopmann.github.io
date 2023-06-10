@@ -2,7 +2,7 @@
 	"id": "3b968020",
 	"versionId": "361fd37",
 	"eventDate": "18-10-2018",
-	"lastUpdated": "2018-10-19T13:09:26.000+0000",
+	"lastUpdated": "2018-10-19T13:09:26.231+0000",
 	"artist": {
 		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
 		"name": "Foo Fighters",
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",
