@@ -2,7 +2,7 @@
 	"id": "33df600d",
 	"versionId": "g23dfb437",
 	"eventDate": "11-06-1995",
-	"lastUpdated": "2021-06-29T03:53:15.000+0000",
+	"lastUpdated": "2021-06-29T03:53:15.807+0000",
 	"artist": {
 		"mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
 		"name": "The Offspring",
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",

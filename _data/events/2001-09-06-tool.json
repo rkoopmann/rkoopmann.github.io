@@ -2,12 +2,12 @@
 	"id": "73d462c1",
 	"versionId": "2b1e5cb6",
 	"eventDate": "06-09-2001",
-	"lastUpdated": "2019-05-06T04:19:01.000+0000",
+	"lastUpdated": "2019-05-06T04:19:01.302+0000",
 	"artist": {
 		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
 		"name": "Tool",
 		"sortName": "Tool",
-		"disambiguation": "US progressive metal band",
+		"disambiguation": "American rock band",
 		"url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
 	},
 	"venue": {
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",
@@ -72,7 +72,13 @@
 					},
 					{
 						"name": "Reflection"
-					},
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
 					{
 						"name": "Parabol"
 					},

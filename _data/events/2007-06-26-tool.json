@@ -2,12 +2,12 @@
 	"id": "13d63d59",
 	"versionId": "g3d245d3",
 	"eventDate": "26-06-2007",
-	"lastUpdated": "2021-03-27T05:12:15.000+0000",
+	"lastUpdated": "2021-03-27T05:12:15.716+0000",
 	"artist": {
 		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
 		"name": "Tool",
 		"sortName": "Tool",
-		"disambiguation": "US progressive metal band",
+		"disambiguation": "American rock band",
 		"url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
 	},
 	"venue": {
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",

@@ -2,7 +2,7 @@
 	"id": "33d3e8c9",
 	"versionId": "1b134d1c",
 	"eventDate": "05-12-2003",
-	"lastUpdated": "2019-04-04T17:10:45.000+0000",
+	"lastUpdated": "2019-04-04T17:10:45.352+0000",
 	"artist": {
 		"mbid": "078a9376-3c04-4280-b7d7-b20e158f345d",
 		"name": "A Perfect Circle",
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",

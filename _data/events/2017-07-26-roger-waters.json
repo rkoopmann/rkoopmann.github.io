@@ -1,8 +1,8 @@
 {
 	"id": "13e581d9",
-	"versionId": "g4bde4b7a",
+	"versionId": "gb976dd2",
 	"eventDate": "26-07-2017",
-	"lastUpdated": "2021-06-28T19:43:42.000+0000",
+	"lastUpdated": "2023-05-10T08:03:55.471+0000",
 	"artist": {
 		"mbid": "0f50beab-d77d-4f0f-ac26-0b87d3e9b11b",
 		"name": "Roger Waters",
@@ -19,8 +19,8 @@
 			"state": "Minnesota",
 			"stateCode": "MN",
 			"coords": {
-				"lat": 44.94441,
-				"long": -93.09328
+				"lat": 44.944,
+				"long": -93.093
 			},
 			"country": {
 				"code": "US",
@@ -43,7 +43,7 @@
 						"tape": true
 					},
 					{
-						"name": "Breathe"
+						"name": "Breathe (In the Air)"
 					},
 					{
 						"name": "One of These Days"

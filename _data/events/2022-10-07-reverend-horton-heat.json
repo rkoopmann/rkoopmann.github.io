@@ -1,8 +1,8 @@
 {
 	"id": "7bb1cac0",
-	"versionId": "g13f9c93d",
+	"versionId": "g3e5c1d7",
 	"eventDate": "07-10-2022",
-	"lastUpdated": "2022-10-20T00:13:09.000+0000",
+	"lastUpdated": "2022-11-27T15:41:30.282+0000",
 	"artist": {
 		"mbid": "cbf71c15-17c2-484f-8406-cfce12fd3e46",
 		"name": "Reverend Horton Heat",
@@ -49,7 +49,7 @@
 					},
 					{
 						"name": "In Your Wildest Dreams",
-						"info": "With \"cha-cha-cha\" ending"
+						"info": "with \"cha-cha-cha\" ending"
 					},
 					{
 						"name": "Yeah, Right"
@@ -70,7 +70,7 @@
 						"name": "Jezebel"
 					},
 					{
-						"name": "Rockin’ Dog"
+						"name": "Rockin' Dog"
 					}
 				]
 			},
@@ -80,7 +80,7 @@
 				"song": [
 					{
 						"name": "400 Bucks",
-						"info": "a \"situation\" with an audience member. (she's okay)"
+						"info": "a \"situation\" with an audience member...she's okay"
 					},
 					{
 						"name": "Ace of Spades"
