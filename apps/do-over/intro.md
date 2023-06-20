@@ -1,7 +1,7 @@
 ---
 layout: full-width
 title: do over
-permalink: /apps/do-over
+permalink: /app/do-over/intro
 category: post
 tags:
   - swift
