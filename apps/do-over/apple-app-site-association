@@ -1,0 +1,13 @@
+---
+layout: none
+permalink: /.well-known/apple-app-site-association
+---
+
+{
+    "appclips": {
+        "apps": [
+            "5DZ7GX2F48.app.do-over.Clip"
+        ]
+    }
+}
+
