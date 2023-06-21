@@ -15,19 +15,9 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
       <header class="inner">
-        {% if site.github.is_project_page %}
-          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-        {% endif %}
-
         <h1 id="project_title"><a href="https://rkoopmann.com/app/do-over">do over — text permutations</a></h1>
         <h2 id="project_tagline">Like Mail Merge, but for text.</h2>
 
-        {% if site.show_downloads %}
-          <section id="downloads">
-            <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-            <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-          </section>
-        {% endif %}
       </header>
     </div>
 
@@ -43,14 +33,20 @@
       <footer class="inner">
         <p>
           <a href="/app/do-over/">home</a>
+          ⨳
           <a href="https://apps.apple.com/us/app/do-over-text-permutations/id1618131760">buy</a>
+          ⨳
           <a href="/app/do-over/examples/">examples</a>
+          ⨳
           <a href="/app/do-over/shortcuts/">shortcuts</a>
+          ⨳
           <a href="/app/do-over/support">support</a>
+          ⨳
           <a href="/app/do-over/about/">about</a>
+          ⨳
           <a href="/app/do-over/privacy/">privacy</a>
         </p>
-        <p class="copyright">&copy; {{ site.time | date: '%Y' }} &nbsp; <a href="/">rkoopmann</a> &nbsp; All Rights Reserved.</p>
+        <p class="copyright">&copy; 2022-{{ site.time | date: '%Y' }} <a href="/">rkoopmann</a>. All Rights Reserved.</p>
         <!-- ><p>Published with <a href="https://pages.github.com">GitHub Pages</a></p> -->
       </footer>
     </div>
