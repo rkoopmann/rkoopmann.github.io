@@ -1,6 +1,6 @@
 ---
 layout: do-over
-permalink: /app/do-over/examples/
+permalink: /do-over/examples/
 ---
 
 # Examples

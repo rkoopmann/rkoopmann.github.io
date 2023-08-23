@@ -1,6 +1,6 @@
 ---
 layout: do-over
-permalink: /app/do-over/support/
+permalink: /do-over/support/
 ---
 
 _do over_ is organized into the following sections:

@@ -1,6 +1,6 @@
 ---
 layout: do-over
-permalink: /app/do-over/privacy/
+permalink: /do-over/privacy/
 ---
 
 # Privacy Policy

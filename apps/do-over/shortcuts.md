@@ -1,6 +1,6 @@
 ---
 layout: do-over
-permalink: /app/do-over/shortcuts/
+permalink: /do-over/shortcuts/
 ---
 
 ## Shortcuts Support

@@ -1,7 +1,7 @@
 ---
 layout: full-width
 title: card piles privacy
-permalink: /app/card-piles/privacy
+permalink: /card-piles/privacy
 category: post
 tags:
   - swift

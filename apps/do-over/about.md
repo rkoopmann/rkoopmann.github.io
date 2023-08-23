@@ -1,6 +1,6 @@
 ---
 layout: do-over
-permalink: /app/do-over/about/
+permalink: /do-over/about/
 ---
 
 # Inspiration & Motivation
