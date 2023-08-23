@@ -16,3 +16,5 @@ I had learned this one nearly 30 years ago from a friend in middle school.
 At any rate, [have at it][app link].
 
 [app link]: https://apps.apple.com/us/app/card-piles/id6443995531
+
+(Here's the [privacy policy](./privacy) if you're interested. tldr; no data collected/shared/retained.)
