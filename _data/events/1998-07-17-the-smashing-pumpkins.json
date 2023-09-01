@@ -1,8 +1,8 @@
 {
 	"id": "5bd72f48",
-	"versionId": "7bb986f0",
+	"versionId": "g239fd047",
 	"eventDate": "17-07-1998",
-	"lastUpdated": "2016-01-13T12:05:21.000+0000",
+	"lastUpdated": "2023-07-17T07:12:23.726+0000",
 	"artist": {
 		"mbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
 		"name": "The Smashing Pumpkins",
@@ -63,10 +63,12 @@
 						"name": "Thru the Eyes of Ruby"
 					},
 					{
-						"name": "Perfect"
+						"name": "Perfect",
+						"info": "acoustic; followed by \"Sweet Leaf\" tease"
 					},
 					{
-						"name": "Tonight, Tonight"
+						"name": "Tonight, Tonight",
+						"info": "Acoustic"
 					},
 					{
 						"name": "Percussion Solo",
@@ -92,11 +94,12 @@
 					},
 					{
 						"name": "Transmission",
-						"info": "with \"Let's Dance\" tease"
+						"info": "with \"Twilight Zone Theme\" intro and \"Let's Dance\" tease"
 					}
 				]
 			}
 		]
 	},
+	"info": "Free show in downtown Minneapolis for a crowd of ~125,000.",
 	"url": "https://www.setlist.fm/setlist/the-smashing-pumpkins/1998/block-e-at-hennepin-avenue-minneapolis-mn-5bd72f48.html"
 }

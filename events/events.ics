@@ -1,0 +1,1738 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:A HACK
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:America/Chicago
+X-WR-CALNAME:Setlist.fm
+X-WR-CALDESC:Sourced from selist.fm exportInc._products
+X-WR-RELCALID:8765309E-E4AC-4C2C-B9F1-FF78AB91DA97
+X-APPLE-CALENDAR-COLOR:#000080
+BEGIN:VEVENT
+UID:4ba2b342
+SUMMARY:Pearl Jam
+DTSTART;VALUE=DATE:20230902
+DTEND;VALUE=DATE:20230902
+URL:https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-4ba2b342.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Pearl-Jam #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:43a2af2f
+SUMMARY:Deep Sea Diver
+DTSTART;VALUE=DATE:20230902
+DTEND;VALUE=DATE:20230902
+URL:https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-43a2af2f.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Deep-Sea-Diver #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba54a74
+SUMMARY:Pearl Jam
+DTSTART;VALUE=DATE:20230831
+DTEND;VALUE=DATE:20230831
+URL:https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-7ba54a74.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Pearl-Jam #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba54a5a
+SUMMARY:Deep Sea Diver
+DTSTART;VALUE=DATE:20230831
+DTEND;VALUE=DATE:20230831
+URL:https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-6ba54a5a.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Deep-Sea-Diver #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:33b938ed
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20230521
+DTEND;VALUE=DATE:20230521
+URL:https://www.setlist.fm/setlist/foo-fighters/2023/studio-606-los-angeles-ca-33b938ed.html
+LOCATION:Los Angeles, California
+DESCRIPTION:#Foo-Fighters #Studio-606
+END:VEVENT
+BEGIN:VEVENT
+UID:43b8739b
+SUMMARY:Jon Lovitz
+DTSTART;VALUE=DATE:20230428
+DTEND;VALUE=DATE:20230428
+URL:https://www.setlist.fm/setlist/jon-lovitz/2023/the-laugh-factory-las-vegas-nv-43b8739b.html
+LOCATION:Las Vegas, Nevada
+DESCRIPTION:#Jon-Lovitz #The-Laugh-Factory
+END:VEVENT
+BEGIN:VEVENT
+UID:7bb1cac0
+SUMMARY:Reverend Horton Heat
+DTSTART;VALUE=DATE:20221007
+DTEND;VALUE=DATE:20221007
+URL:https://www.setlist.fm/setlist/reverend-horton-heat/2022/first-avenue-minneapolis-mn-7bb1cac0.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Reverend-Horton-Heat #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:73b1cac5
+SUMMARY:Nashville Pussy
+DTSTART;VALUE=DATE:20221007
+DTEND;VALUE=DATE:20221007
+URL:https://www.setlist.fm/setlist/nashville-pussy/2022/first-avenue-minneapolis-mn-73b1cac5.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Nashville-Pussy #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb1cac2
+SUMMARY:Toadies
+DTSTART;VALUE=DATE:20221007
+DTEND;VALUE=DATE:20221007
+URL:https://www.setlist.fm/setlist/toadies/2022/first-avenue-minneapolis-mn-6bb1cac2.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Toadies #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:3b0a5bb
+SUMMARY:Various Artists
+DTSTART;VALUE=DATE:20220903
+DTEND;VALUE=DATE:20220903
+URL:https://www.setlist.fm/setlist/various-artists/2022/wembley-stadium-london-england-3b0a5bb.html
+LOCATION:London, England
+DESCRIPTION:#Various-Artists #Wembley-Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:23b37403
+SUMMARY:Kevin Hart
+DTSTART;VALUE=DATE:20220826
+DTEND;VALUE=DATE:20220826
+URL:https://www.setlist.fm/setlist/kevin-hart/2022/target-center-minneapolis-mn-23b37403.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Kevin-Hart #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:33b21cf1
+SUMMARY:Roger Waters
+DTSTART;VALUE=DATE:20220730
+DTEND;VALUE=DATE:20220730
+URL:https://www.setlist.fm/setlist/roger-waters/2022/target-center-minneapolis-mn-33b21cf1.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Roger-Waters #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb68bca
+SUMMARY:Heartless Bastards
+DTSTART;VALUE=DATE:20220408
+DTEND;VALUE=DATE:20220408
+URL:https://www.setlist.fm/setlist/heartless-bastards/2022/palace-theatre-st-paul-mn-4bb68bca.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Heartless-Bastards #Palace-Theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:43b68bcb
+SUMMARY:The Flaming Lips
+DTSTART;VALUE=DATE:20220408
+DTEND;VALUE=DATE:20220408
+URL:https://www.setlist.fm/setlist/the-flaming-lips/2022/palace-theatre-st-paul-mn-43b68bcb.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#The-Flaming-Lips #Palace-Theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:5b892348
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20220320
+DTEND;VALUE=DATE:20220320
+URL:https://www.setlist.fm/setlist/foo-fighters/2022/hipodromo-de-san-isidro-san-isidro-argentina-5b892348.html
+LOCATION:San Isidro, Buenos Aires
+DESCRIPTION:#Foo-Fighters #Hipódromo-de-San-Isidro
+END:VEVENT
+BEGIN:VEVENT
+UID:b89e1fe
+SUMMARY:Tool
+DTSTART;VALUE=DATE:20220313
+DTEND;VALUE=DATE:20220313
+URL:https://www.setlist.fm/setlist/tool/2022/target-center-minneapolis-mn-b89e1fe.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Tool #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:738a4ee1
+SUMMARY:Clutch
+DTSTART;VALUE=DATE:20211126
+DTEND;VALUE=DATE:20211126
+URL:https://www.setlist.fm/setlist/clutch/2021/doom-saloon-frederick-md-738a4ee1.html
+LOCATION:Frederick, Maryland
+DESCRIPTION:#Clutch #Doom-Saloon
+END:VEVENT
+BEGIN:VEVENT
+UID:338c0ca9
+SUMMARY:Living Colour
+DTSTART;VALUE=DATE:20210912
+DTEND;VALUE=DATE:20210912
+URL:https://www.setlist.fm/setlist/living-colour/2021/vetter-stone-amphitheater-mankato-mn-338c0ca9.html
+LOCATION:Mankato, Minnesota
+DESCRIPTION:#Living-Colour #Vetter-Stone-Amphitheater
+END:VEVENT
+BEGIN:VEVENT
+UID:2b8c0cae
+SUMMARY:Hoobastank
+DTSTART;VALUE=DATE:20210912
+DTEND;VALUE=DATE:20210912
+URL:https://www.setlist.fm/setlist/hoobastank/2021/vetter-stone-amphitheater-mankato-mn-2b8c0cae.html
+LOCATION:Mankato, Minnesota
+DESCRIPTION:#Hoobastank #Vetter-Stone-Amphitheater
+END:VEVENT
+BEGIN:VEVENT
+UID:238c0cab
+SUMMARY:Everclear
+DTSTART;VALUE=DATE:20210912
+DTEND;VALUE=DATE:20210912
+URL:https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html
+LOCATION:Mankato, Minnesota
+DESCRIPTION:#Everclear #Vetter-Stone-Amphitheater
+END:VEVENT
+BEGIN:VEVENT
+UID:538e4fbd
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20210626
+DTEND;VALUE=DATE:20210626
+URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-538e4fbd.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Bad-Religion #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8e6bda
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20210619
+DTEND;VALUE=DATE:20210619
+URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-4b8e6bda.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Bad-Religion #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:438e0767
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20210612
+DTEND;VALUE=DATE:20210612
+URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-438e0767.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Bad-Religion #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:338e1ca9
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20210605
+DTEND;VALUE=DATE:20210605
+URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-338e1ca9.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Bad-Religion #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:7b83f620
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20210102
+DTEND;VALUE=DATE:20210102
+URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-7b83f620.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Bad-Religion #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:3b838c0c
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20201226
+DTEND;VALUE=DATE:20201226
+URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-3b838c0c.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Bad-Religion #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:b83a94e
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20201219
+DTEND;VALUE=DATE:20201219
+URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-b83a94e.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Bad-Religion #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:b83ad0e
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20201215
+DTEND;VALUE=DATE:20201215
+URL:https://www.setlist.fm/setlist/foo-fighters/2020/the-theatre-at-ace-hotel-los-angeles-ca-b83ad0e.html
+LOCATION:Los Angeles, California
+DESCRIPTION:#Foo-Fighters #The-Theatre-at-Ace-Hotel
+END:VEVENT
+BEGIN:VEVENT
+UID:383bd13
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20201212
+DTEND;VALUE=DATE:20201212
+URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-383bd13.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Bad-Religion #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:383bd2f
+SUMMARY:Primus
+DTSTART;VALUE=DATE:20201211
+DTEND;VALUE=DATE:20201211
+URL:https://www.setlist.fm/setlist/primus/2020/pachyderm-station-sebastopol-ca-383bd2f.html
+LOCATION:Sebastopol, California
+DESCRIPTION:#Primus #Pachyderm-Station
+END:VEVENT
+BEGIN:VEVENT
+UID:6b8236da
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20201114
+DTEND;VALUE=DATE:20201114
+URL:https://www.setlist.fm/setlist/foo-fighters/2020/the-roxy-west-hollywood-ca-6b8236da.html
+LOCATION:West Hollywood, California
+DESCRIPTION:#Foo-Fighters #The-Roxy
+END:VEVENT
+BEGIN:VEVENT
+UID:4384770b
+SUMMARY:Clutch
+DTSTART;VALUE=DATE:20200807
+DTEND;VALUE=DATE:20200807
+URL:https://www.setlist.fm/setlist/clutch/2020/doom-saloon-frederick-md-4384770b.html
+LOCATION:Frederick, Maryland
+DESCRIPTION:#Clutch #Doom-Saloon
+END:VEVENT
+BEGIN:VEVENT
+UID:39a813f
+SUMMARY:Candlebox
+DTSTART;VALUE=DATE:20191116
+DTEND;VALUE=DATE:20191116
+URL:https://www.setlist.fm/setlist/candlebox/2019/the-cabooze-minneapolis-mn-39a813f.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Candlebox #The-Cabooze
+END:VEVENT
+BEGIN:VEVENT
+UID:53914791
+SUMMARY:Sublime with Rome
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190703
+URL:https://www.setlist.fm/setlist/sublime-with-rome/2019/vetter-stone-amphitheater-mankato-mn-53914791.html
+LOCATION:Mankato, Minnesota
+DESCRIPTION:#Sublime-with-Rome #Vetter-Stone-Amphitheater
+END:VEVENT
+BEGIN:VEVENT
+UID:b915106
+SUMMARY:Dave Hause
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190702
+URL:https://www.setlist.fm/setlist/dave-hause/2019/first-avenue-minneapolis-mn-b915106.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Dave-Hause #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:5b915be4
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190702
+URL:https://www.setlist.fm/setlist/bad-religion/2019/first-avenue-minneapolis-mn-5b915be4.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Bad-Religion #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:2b95d0f6
+SUMMARY:Tesla
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190201
+URL:https://www.setlist.fm/setlist/tesla/2019/mystic-showroom-at-mystic-lake-casino-prior-lake-mn-2b95d0f6.html
+LOCATION:Prior Lake, Minnesota
+DESCRIPTION:#Tesla #Mystic-Showroom-at-Mystic-Lake-Casino
+END:VEVENT
+BEGIN:VEVENT
+UID:439633af
+SUMMARY:Troy “Trombone Shorty” Andrews & Orleans Avenue
+DTSTART;VALUE=DATE:20181024
+DTEND;VALUE=DATE:20181024
+URL:https://www.setlist.fm/setlist/troy-trombone-shorty-andrews-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html
+LOCATION:New Orleans, Louisiana
+DESCRIPTION:#Troy-“Trombone-Shorty”-Andrews-&-Orleans-Avenue #Champions-Square
+END:VEVENT
+BEGIN:VEVENT
+UID:3b968020
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20181018
+DTEND;VALUE=DATE:20181018
+URL:https://www.setlist.fm/setlist/foo-fighters/2018/xcel-energy-center-st-paul-mn-3b968020.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Foo-Fighters #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:638ade97
+SUMMARY:Aziz Ansari
+DTSTART;VALUE=DATE:20181001
+DTEND;VALUE=DATE:20181001
+URL:https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-638ade97.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Aziz-Ansari #Acme-Comedy-Company
+END:VEVENT
+BEGIN:VEVENT
+UID:2be990f2
+SUMMARY:Beck
+DTSTART;VALUE=DATE:20180913
+DTEND;VALUE=DATE:20180913
+URL:https://www.setlist.fm/setlist/beck/2018/minneapolis-armory-minneapolis-mn-2be990f2.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Beck #Minneapolis-Armory
+END:VEVENT
+BEGIN:VEVENT
+UID:63e8be13
+SUMMARY:FireHouse
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180809
+URL:https://www.setlist.fm/setlist/firehouse/2018/brown-county-fairgrounds-new-ulm-mn-63e8be13.html
+LOCATION:New Ulm, Minnesota
+DESCRIPTION:#FireHouse #Brown-County-Fairgrounds
+END:VEVENT
+BEGIN:VEVENT
+UID:43e03f6f
+SUMMARY:A Perfect Circle
+DTSTART;VALUE=DATE:20171125
+DTEND;VALUE=DATE:20171125
+URL:https://www.setlist.fm/setlist/a-perfect-circle/2017/xcel-energy-center-st-paul-mn-43e03f6f.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#A-Perfect-Circle #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:4be0a796
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20171111
+DTEND;VALUE=DATE:20171111
+URL:https://www.setlist.fm/setlist/foo-fighters/2017/denny-sanford-premier-center-sioux-falls-sd-4be0a796.html
+LOCATION:Sioux Falls, South Dakota
+DESCRIPTION:#Foo-Fighters #Denny-Sanford-Premier-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:be38df6
+SUMMARY:Local H
+DTSTART;VALUE=DATE:20171008
+DTEND;VALUE=DATE:20171008
+URL:https://www.setlist.fm/setlist/local-h/2017/first-avenue-minneapolis-mn-be38df6.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Local-H #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:1be38dfc
+SUMMARY:Toadies
+DTSTART;VALUE=DATE:20171008
+DTEND;VALUE=DATE:20171008
+URL:https://www.setlist.fm/setlist/toadies/2017/first-avenue-minneapolis-mn-1be38dfc.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Toadies #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:3be21024
+SUMMARY:The Flaming Lips
+DTSTART;VALUE=DATE:20170917
+DTEND;VALUE=DATE:20170917
+URL:https://www.setlist.fm/setlist/the-flaming-lips/2017/myth-maplewood-mn-3be21024.html
+LOCATION:Maplewood, Minnesota
+DESCRIPTION:#The-Flaming-Lips #Myth
+END:VEVENT
+BEGIN:VEVENT
+UID:73e5d2e9
+SUMMARY:Primus
+DTSTART;VALUE=DATE:20170802
+DTEND;VALUE=DATE:20170802
+URL:https://www.setlist.fm/setlist/primus/2017/vetter-stone-amphitheater-mankato-mn-73e5d2e9.html
+LOCATION:Mankato, Minnesota
+DESCRIPTION:#Primus #Vetter-Stone-Amphitheater
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5cd1b
+SUMMARY:Clutch
+DTSTART;VALUE=DATE:20170802
+DTEND;VALUE=DATE:20170802
+URL:https://www.setlist.fm/setlist/clutch/2017/vetter-stone-amphitheater-mankato-mn-3e5cd1b.html
+LOCATION:Mankato, Minnesota
+DESCRIPTION:#Clutch #Vetter-Stone-Amphitheater
+END:VEVENT
+BEGIN:VEVENT
+UID:13e581d9
+SUMMARY:Roger Waters
+DTSTART;VALUE=DATE:20170726
+DTEND;VALUE=DATE:20170726
+URL:https://www.setlist.fm/setlist/roger-waters/2017/xcel-energy-center-st-paul-mn-13e581d9.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Roger-Waters #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf1e38a
+SUMMARY:Orgy
+DTSTART;VALUE=DATE:20160420
+DTEND;VALUE=DATE:20160420
+URL:https://www.setlist.fm/setlist/orgy/2016/mill-city-nights-minneapolis-mn-4bf1e38a.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Orgy #Mill-City-Nights
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf1e1ac
+SUMMARY:Filter
+DTSTART;VALUE=DATE:20160420
+DTEND;VALUE=DATE:20160420
+URL:https://www.setlist.fm/setlist/filter/2016/mill-city-nights-minneapolis-mn-1bf1e1ac.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Filter #Mill-City-Nights
+END:VEVENT
+BEGIN:VEVENT
+UID:2bbe901e
+SUMMARY:Chris Porter
+DTSTART;VALUE=DATE:20151208
+DTEND;VALUE=DATE:20151208
+URL:https://www.setlist.fm/setlist/chris-porter/2015/acme-comedy-company-minneapolis-mn-2bbe901e.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Chris-Porter #Acme-Comedy-Company
+END:VEVENT
+BEGIN:VEVENT
+UID:63f7d247
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20150822
+DTEND;VALUE=DATE:20150822
+URL:https://www.setlist.fm/setlist/foo-fighters/2015/xcel-energy-center-st-paul-mn-63f7d247.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Foo-Fighters #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc38b28
+SUMMARY:Toadies
+DTSTART;VALUE=DATE:20140411
+DTEND;VALUE=DATE:20140411
+URL:https://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Toadies #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:23835ca3
+SUMMARY:Supersuckers
+DTSTART;VALUE=DATE:20140411
+DTEND;VALUE=DATE:20140411
+URL:https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-minneapolis-mn-23835ca3.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Supersuckers #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:63c4562b
+SUMMARY:Candlebox
+DTSTART;VALUE=DATE:20130809
+DTEND;VALUE=DATE:20130809
+URL:https://www.setlist.fm/setlist/candlebox/2013/busters-sports-bar-and-grill-mankato-mn-63c4562b.html
+LOCATION:Mankato, Minnesota
+DESCRIPTION:#Candlebox #Buster's-Sports-Bar-&-Grill
+END:VEVENT
+BEGIN:VEVENT
+UID:63d406cb
+SUMMARY:Tool
+DTSTART;VALUE=DATE:20100701
+DTEND;VALUE=DATE:20100701
+URL:https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d406cb.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Tool #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:53d6ab39
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20080607
+DTEND;VALUE=DATE:20080607
+URL:https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-53d6ab39.html
+LOCATION:London, England
+DESCRIPTION:#Foo-Fighters #Wembley-Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd6ab3a
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:20080606
+DTEND;VALUE=DATE:20080606
+URL:https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-4bd6ab3a.html
+LOCATION:London, England
+DESCRIPTION:#Foo-Fighters #Wembley-Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:13d63d59
+SUMMARY:Tool
+DTSTART;VALUE=DATE:20070626
+DTEND;VALUE=DATE:20070626
+URL:https://www.setlist.fm/setlist/tool/2007/xcel-energy-center-st-paul-mn-13d63d59.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Tool #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:43c17beb
+SUMMARY:Snake River Conspiracy
+DTSTART;VALUE=DATE:20031205
+DTEND;VALUE=DATE:20031205
+URL:https://www.setlist.fm/setlist/snake-river-conspiracy/2003/xcel-energy-center-st-paul-mn-43c17beb.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Snake-River-Conspiracy #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:33d3e8c9
+SUMMARY:A Perfect Circle
+DTSTART;VALUE=DATE:20031205
+DTEND;VALUE=DATE:20031205
+URL:https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#A-Perfect-Circle #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:43de9343
+SUMMARY:Tool
+DTSTART;VALUE=DATE:20020904
+DTEND;VALUE=DATE:20020904
+URL:https://www.setlist.fm/setlist/tool/2002/xcel-energy-center-st-paul-mn-43de9343.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Tool #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd84564
+SUMMARY:Chevelle
+DTSTART;VALUE=DATE:20020308
+DTEND;VALUE=DATE:20020308
+URL:https://www.setlist.fm/setlist/chevelle/2002/the-quest-minneapolis-mn-1bd84564.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Chevelle #The-Quest
+END:VEVENT
+BEGIN:VEVENT
+UID:13d84561
+SUMMARY:Local H
+DTSTART;VALUE=DATE:20020308
+DTEND;VALUE=DATE:20020308
+URL:https://www.setlist.fm/setlist/local-h/2002/the-quest-minneapolis-mn-13d84561.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Local-H #The-Quest
+END:VEVENT
+BEGIN:VEVENT
+UID:73d462c1
+SUMMARY:Tool
+DTSTART;VALUE=DATE:20010906
+DTEND;VALUE=DATE:20010906
+URL:https://www.setlist.fm/setlist/tool/2001/xcel-energy-center-st-paul-mn-73d462c1.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Tool #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:23d8c007
+SUMMARY:Meshuggah
+DTSTART;VALUE=DATE:20010906
+DTEND;VALUE=DATE:20010906
+URL:https://www.setlist.fm/setlist/meshuggah/2001/xcel-energy-center-st-paul-mn-23d8c007.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Meshuggah #Xcel-Energy-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:73f492ad
+SUMMARY:Snake River Conspiracy
+DTSTART;VALUE=DATE:20010331
+DTEND;VALUE=DATE:20010331
+URL:https://www.setlist.fm/setlist/snake-river-conspiracy/2001/roy-wilkins-auditorium-st-paul-mn-73f492ad.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Snake-River-Conspiracy #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:33d08c49
+SUMMARY:A Perfect Circle
+DTSTART;VALUE=DATE:20010331
+DTEND;VALUE=DATE:20010331
+URL:https://www.setlist.fm/setlist/a-perfect-circle/2001/roy-wilkins-auditorium-st-paul-mn-33d08c49.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#A-Perfect-Circle #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:73c01635
+SUMMARY:Beck
+DTSTART;VALUE=DATE:19981219
+DTEND;VALUE=DATE:19981219
+URL:https://www.setlist.fm/setlist/beck/1998/target-center-minneapolis-mn-73c01635.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Beck #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:73c01629
+SUMMARY:Cherry Poppin’ Daddies
+DTSTART;VALUE=DATE:19981219
+DTEND;VALUE=DATE:19981219
+URL:https://www.setlist.fm/setlist/cherry-poppin-daddies/1998/target-center-minneapolis-mn-73c01629.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Cherry-Poppin’-Daddies #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc01622
+SUMMARY:Big Bad Voodoo Daddy
+DTSTART;VALUE=DATE:19981219
+DTEND;VALUE=DATE:19981219
+URL:https://www.setlist.fm/setlist/big-bad-voodoo-daddy/1998/target-center-minneapolis-mn-6bc01622.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Big-Bad-Voodoo-Daddy #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:63c0162f
+SUMMARY:Marcy Playground
+DTSTART;VALUE=DATE:19981219
+DTEND;VALUE=DATE:19981219
+URL:https://www.setlist.fm/setlist/marcy-playground/1998/target-center-minneapolis-mn-63c0162f.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Marcy-Playground #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:63c0162b
+SUMMARY:Semisonic
+DTSTART;VALUE=DATE:19981219
+DTEND;VALUE=DATE:19981219
+URL:https://www.setlist.fm/setlist/semisonic/1998/target-center-minneapolis-mn-63c0162b.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Semisonic #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:33ded099
+SUMMARY:Garbage
+DTSTART;VALUE=DATE:19981219
+DTEND;VALUE=DATE:19981219
+URL:https://www.setlist.fm/setlist/garbage/1998/target-center-minneapolis-mn-33ded099.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Garbage #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:2bd76cce
+SUMMARY:Soul Coughing
+DTSTART;VALUE=DATE:19981219
+DTEND;VALUE=DATE:19981219
+URL:https://www.setlist.fm/setlist/soul-coughing/1998/target-center-minneapolis-mn-2bd76cce.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Soul-Coughing #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:13c4bd9d
+SUMMARY:The Goo Goo Dolls
+DTSTART;VALUE=DATE:19981219
+DTEND;VALUE=DATE:19981219
+URL:https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#The-Goo-Goo-Dolls #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd632e4
+SUMMARY:Incubus
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/incubus/1998/float-rite-park-amphitheatre-somerset-wi-7bd632e4.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Incubus #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:6bd11af2
+SUMMARY:Motörhead
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Motörhead #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:5bfdf764
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/bad-religion/1998/float-rite-park-amphitheatre-somerset-wi-5bfdf764.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Bad-Religion #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:5bdf6bd4
+SUMMARY:NOFX
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/nofx/1998/float-rite-park-amphitheatre-somerset-wi-5bdf6bd4.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#NOFX #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:4bdf6bca
+SUMMARY:Deftones
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Deftones #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd1139e
+SUMMARY:Sevendust
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/sevendust/1998/float-rite-park-amphitheatre-somerset-wi-4bd1139e.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Sevendust #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:43d5bf33
+SUMMARY:Tool
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Tool #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3bde188c
+SUMMARY:System of a Down
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/system-of-a-down/1998/float-rite-park-amphitheatre-somerset-wi-3bde188c.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#System-of-a-Down #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:33dfe8d5
+SUMMARY:Soulfly
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/soulfly/1998/float-rite-park-amphitheatre-somerset-wi-33dfe8d5.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Soulfly #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:33de1881
+SUMMARY:Coal Chamber
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/coal-chamber/1998/float-rite-park-amphitheatre-somerset-wi-33de1881.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Coal-Chamber #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:13d05df1
+SUMMARY:Ozzy Osbourne
+DTSTART;VALUE=DATE:19980718
+DTEND;VALUE=DATE:19980718
+URL:https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Ozzy-Osbourne #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd72f48
+SUMMARY:The Smashing Pumpkins
+DTSTART;VALUE=DATE:19980717
+DTEND;VALUE=DATE:19980717
+URL:https://www.setlist.fm/setlist/the-smashing-pumpkins/1998/block-e-at-hennepin-avenue-minneapolis-mn-5bd72f48.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#The-Smashing-Pumpkins #Block-E-at-Hennepin-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:43d66707
+SUMMARY:Pearl Jam
+DTSTART;VALUE=DATE:19980630
+DTEND;VALUE=DATE:19980630
+URL:https://www.setlist.fm/setlist/pearl-jam/1998/target-center-minneapolis-mn-43d66707.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Pearl-Jam #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:33df608d
+SUMMARY:Frank Black and the Catholics
+DTSTART;VALUE=DATE:19980630
+DTEND;VALUE=DATE:19980630
+URL:https://www.setlist.fm/setlist/frank-black-and-the-catholics/1998/target-center-minneapolis-mn-33df608d.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Frank-Black-and-the-Catholics #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:53cd0399
+SUMMARY:Talk Show
+DTSTART;VALUE=DATE:19971023
+DTEND;VALUE=DATE:19971023
+URL:https://www.setlist.fm/setlist/talk-show/1997/roy-wilkins-auditorium-st-paul-mn-53cd0399.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Talk-Show #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:4bdd4342
+SUMMARY:Foo Fighters
+DTSTART;VALUE=DATE:19971023
+DTEND;VALUE=DATE:19971023
+URL:https://www.setlist.fm/setlist/foo-fighters/1997/roy-wilkins-auditorium-st-paul-mn-4bdd4342.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Foo-Fighters #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:13f37149
+SUMMARY:Treble Charger
+DTSTART;VALUE=DATE:19971023
+DTEND;VALUE=DATE:19971023
+URL:https://www.setlist.fm/setlist/treble-charger/1997/roy-wilkins-auditorium-st-paul-mn-13f37149.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Treble-Charger #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:bfe89ca
+SUMMARY:Local H
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/local-h/1997/float-rite-park-amphitheatre-somerset-wi-bfe89ca.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Local-H #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:73da4251
+SUMMARY:Flipp
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-73da4251.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Flipp #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:63da4263
+SUMMARY:Bloodhound Gang
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/bloodhound-gang/1997/float-rite-park-amphitheatre-somerset-wi-63da4263.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Bloodhound-Gang #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe89d7
+SUMMARY:Sponge
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/sponge/1997/float-rite-park-amphitheatre-somerset-wi-3fe89d7.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Sponge #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3efbd7f
+SUMMARY:Linda Perry
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/linda-perry/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7f.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Linda-Perry #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:1bfe89c8
+SUMMARY:Tonic
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/tonic/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c8.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Tonic #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:1bfe89c0
+SUMMARY:Iggy Pop
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/iggy-pop/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c0.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Iggy-Pop #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:13fe89e1
+SUMMARY:Rollins Band
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/rollins-band/1997/float-rite-park-amphitheatre-somerset-wi-13fe89e1.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Rollins-Band #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:13fe89c9
+SUMMARY:Reverend Horton Heat
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/reverend-horton-heat/1997/float-rite-park-amphitheatre-somerset-wi-13fe89c9.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Reverend-Horton-Heat #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:13eb5571
+SUMMARY:Sevendust
+DTSTART;VALUE=DATE:19970525
+DTEND;VALUE=DATE:19970525
+URL:https://www.setlist.fm/setlist/sevendust/1997/float-rite-park-amphitheatre-somerset-wi-13eb5571.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Sevendust #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:befbd7a
+SUMMARY:Matchbox Twenty
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/matchbox-twenty/1997/float-rite-park-amphitheatre-somerset-wi-befbd7a.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Matchbox-Twenty #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:7bda4260
+SUMMARY:Beck
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/beck/1997/float-rite-park-amphitheatre-somerset-wi-7bda4260.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Beck #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:6beafe1e
+SUMMARY:Flipp
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-6beafe1e.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Flipp #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:63da4267
+SUMMARY:Gavin Rossdale
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/gavin-rossdale/1997/float-rite-park-amphitheatre-somerset-wi-63da4267.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Gavin-Rossdale #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe89df
+SUMMARY:Republica
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/republica/1997/float-rite-park-amphitheatre-somerset-wi-3fe89df.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Republica #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe89cf
+SUMMARY:The Verve Pipe
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#The-Verve-Pipe #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3efbd7b
+SUMMARY:Better Than Ezra
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/better-than-ezra/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7b.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Better-Than-Ezra #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3bec94d4
+SUMMARY:Skunk Anansie
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/skunk-anansie/1997/float-rite-park-amphitheatre-somerset-wi-3bec94d4.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Skunk-Anansie #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:1bfe89dc
+SUMMARY:Social Distortion
+DTSTART;VALUE=DATE:19970524
+DTEND;VALUE=DATE:19970524
+URL:https://www.setlist.fm/setlist/social-distortion/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89dc.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Social-Distortion #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3bdf60c0
+SUMMARY:The Wallflowers
+DTSTART;VALUE=DATE:19961204
+DTEND;VALUE=DATE:19961204
+URL:https://www.setlist.fm/setlist/the-wallflowers/1996/target-center-minneapolis-mn-3bdf60c0.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#The-Wallflowers #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:33df60c1
+SUMMARY:Crash Test Dummies
+DTSTART;VALUE=DATE:19961204
+DTEND;VALUE=DATE:19961204
+URL:https://www.setlist.fm/setlist/crash-test-dummies/1996/target-center-minneapolis-mn-33df60c1.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Crash-Test-Dummies #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:2bdf60c6
+SUMMARY:Violent Femmes
+DTSTART;VALUE=DATE:19961204
+DTEND;VALUE=DATE:19961204
+URL:https://www.setlist.fm/setlist/violent-femmes/1996/target-center-minneapolis-mn-2bdf60c6.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Violent-Femmes #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:2bdf60c2
+SUMMARY:Danzig
+DTSTART;VALUE=DATE:19961204
+DTEND;VALUE=DATE:19961204
+URL:https://www.setlist.fm/setlist/danzig/1996/target-center-minneapolis-mn-2bdf60c2.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Danzig #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:23df60c7
+SUMMARY:Tracy Bonham
+DTSTART;VALUE=DATE:19961204
+DTEND;VALUE=DATE:19961204
+URL:https://www.setlist.fm/setlist/tracy-bonham/1996/target-center-minneapolis-mn-23df60c7.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Tracy-Bonham #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:23df60c3
+SUMMARY:Bloodhound Gang
+DTSTART;VALUE=DATE:19961204
+DTEND;VALUE=DATE:19961204
+URL:https://www.setlist.fm/setlist/bloodhound-gang/1996/target-center-minneapolis-mn-23df60c3.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Bloodhound-Gang #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:73d45271
+SUMMARY:Rage Against the Machine
+DTSTART;VALUE=DATE:19960915
+DTEND;VALUE=DATE:19960915
+URL:https://www.setlist.fm/setlist/rage-against-the-machine/1996/roy-wilkins-auditorium-st-paul-mn-73d45271.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Rage-Against-the-Machine #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc52a60
+SUMMARY:Ramones
+DTSTART;VALUE=DATE:19960628
+DTEND;VALUE=DATE:19960628
+URL:https://www.setlist.fm/setlist/ramones/1996/iowa-state-fairgrounds-des-moines-ia-7bc52a60.html
+LOCATION:Des Moines, Iowa
+DESCRIPTION:#Ramones #Iowa-State-Fairgrounds
+END:VEVENT
+BEGIN:VEVENT
+UID:6bfa42f2
+SUMMARY:Rancid
+DTSTART;VALUE=DATE:19960628
+DTEND;VALUE=DATE:19960628
+URL:https://www.setlist.fm/setlist/rancid/1996/iowa-state-fairgrounds-des-moines-ia-6bfa42f2.html
+LOCATION:Des Moines, Iowa
+DESCRIPTION:#Rancid #Iowa-State-Fairgrounds
+END:VEVENT
+BEGIN:VEVENT
+UID:6bd6da6e
+SUMMARY:Metallica
+DTSTART;VALUE=DATE:19960628
+DTEND;VALUE=DATE:19960628
+URL:https://www.setlist.fm/setlist/metallica/1996/iowa-state-fairgrounds-des-moines-ia-6bd6da6e.html
+LOCATION:Des Moines, Iowa
+DESCRIPTION:#Metallica #Iowa-State-Fairgrounds
+END:VEVENT
+BEGIN:VEVENT
+UID:53e60ba9
+SUMMARY:Ben Folds Five
+DTSTART;VALUE=DATE:19960628
+DTEND;VALUE=DATE:19960628
+URL:https://www.setlist.fm/setlist/ben-folds-five/1996/iowa-state-fairgrounds-des-moines-ia-53e60ba9.html
+LOCATION:Des Moines, Iowa
+DESCRIPTION:#Ben-Folds-Five #Iowa-State-Fairgrounds
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd35820
+SUMMARY:Soundgarden
+DTSTART;VALUE=DATE:19960628
+DTEND;VALUE=DATE:19960628
+URL:https://www.setlist.fm/setlist/soundgarden/1996/iowa-state-fairgrounds-des-moines-ia-3bd35820.html
+LOCATION:Des Moines, Iowa
+DESCRIPTION:#Soundgarden #Iowa-State-Fairgrounds
+END:VEVENT
+BEGIN:VEVENT
+UID:2bdf60d6
+SUMMARY:Waylon Jennings
+DTSTART;VALUE=DATE:19960628
+DTEND;VALUE=DATE:19960628
+URL:https://www.setlist.fm/setlist/waylon-jennings/1996/iowa-state-fairgrounds-des-moines-ia-2bdf60d6.html
+LOCATION:Des Moines, Iowa
+DESCRIPTION:#Waylon-Jennings #Iowa-State-Fairgrounds
+END:VEVENT
+BEGIN:VEVENT
+UID:13e7f93d
+SUMMARY:Screaming Trees
+DTSTART;VALUE=DATE:19960628
+DTEND;VALUE=DATE:19960628
+URL:https://www.setlist.fm/setlist/screaming-trees/1996/iowa-state-fairgrounds-des-moines-ia-13e7f93d.html
+LOCATION:Des Moines, Iowa
+DESCRIPTION:#Screaming-Trees #Iowa-State-Fairgrounds
+END:VEVENT
+BEGIN:VEVENT
+UID:bda4116
+SUMMARY:Korn
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/korn/1996/float-rite-park-amphitheatre-somerset-wi-bda4116.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Korn #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc87e28
+SUMMARY:Violent Femmes
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/violent-femmes/1996/float-rite-park-amphitheatre-somerset-wi-7bc87e28.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Violent-Femmes #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:63fa4213
+SUMMARY:Candlebox
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Candlebox #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:63eafe57
+SUMMARY:Flipp
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/flipp/1996/float-rite-park-amphitheatre-somerset-wi-63eafe57.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Flipp #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:63900a6b
+SUMMARY:Gravity Kills
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/gravity-kills/1996/float-rite-park-amphitheatre-somerset-wi-63900a6b.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Gravity-Kills #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4e523
+SUMMARY:Goldfinger
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Goldfinger #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:1bda4110
+SUMMARY:Filter
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Filter #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc4e534
+SUMMARY:Everclear
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/everclear/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e534.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Everclear #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc4e528
+SUMMARY:Garbage
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Garbage #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:13c4e535
+SUMMARY:Iggy Pop
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/iggy-pop/1996/float-rite-park-amphitheatre-somerset-wi-13c4e535.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Iggy-Pop #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:13c4e52d
+SUMMARY:No Doubt
+DTSTART;VALUE=DATE:19960525
+DTEND;VALUE=DATE:19960525
+URL:https://www.setlist.fm/setlist/no-doubt/1996/float-rite-park-amphitheatre-somerset-wi-13c4e52d.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#No-Doubt #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd46736
+SUMMARY:The Flaming Lips
+DTSTART;VALUE=DATE:19960504
+DTEND;VALUE=DATE:19960504
+URL:https://www.setlist.fm/setlist/the-flaming-lips/1996/first-avenue-minneapolis-mn-4bd46736.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#The-Flaming-Lips #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c196a
+SUMMARY:Dance Hall Crashers
+DTSTART;VALUE=DATE:19960430
+DTEND;VALUE=DATE:19960430
+URL:https://www.setlist.fm/setlist/dance-hall-crashers/1996/first-avenue-minneapolis-mn-b9c196a.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Dance-Hall-Crashers #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcdd3ea
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:19960430
+DTEND;VALUE=DATE:19960430
+URL:https://www.setlist.fm/setlist/bad-religion/1996/first-avenue-minneapolis-mn-4bcdd3ea.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Bad-Religion #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:139c1975
+SUMMARY:Unwritten Law
+DTSTART;VALUE=DATE:19960430
+DTEND;VALUE=DATE:19960430
+URL:https://www.setlist.fm/setlist/unwritten-law/1996/first-avenue-minneapolis-mn-139c1975.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Unwritten-Law #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:beda9ce
+SUMMARY:Meat Puppets
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/meat-puppets/1995/target-center-minneapolis-mn-beda9ce.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Meat-Puppets #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:7beafe64
+SUMMARY:Flipp
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/flipp/1995/target-center-minneapolis-mn-7beafe64.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Flipp #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:5b83dbb4
+SUMMARY:Violent Femmes
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/violent-femmes/1995/target-center-minneapolis-mn-5b83dbb4.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Violent-Femmes #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:5383dbb5
+SUMMARY:Toadies
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/toadies/1995/target-center-minneapolis-mn-5383dbb5.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Toadies #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd798a0
+SUMMARY:Oasis
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/oasis/1995/target-center-minneapolis-mn-3bd798a0.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Oasis #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:2b87e852
+SUMMARY:Del Amitri
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/del-amitri/1995/target-center-minneapolis-mn-2b87e852.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Del-Amitri #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf0e524
+SUMMARY:Garbage
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/garbage/1995/target-center-minneapolis-mn-1bf0e524.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Garbage #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:1b90ed8c
+SUMMARY:Lisa Loeb
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/lisa-loeb/1995/target-center-minneapolis-mn-1b90ed8c.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Lisa-Loeb #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:1b90ed88
+SUMMARY:The Goo Goo Dolls
+DTSTART;VALUE=DATE:19951209
+DTEND;VALUE=DATE:19951209
+URL:https://www.setlist.fm/setlist/the-goo-goo-dolls/1995/target-center-minneapolis-mn-1b90ed88.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#The-Goo-Goo-Dolls #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc52b98
+SUMMARY:Toadies
+DTSTART;VALUE=DATE:19951109
+DTEND;VALUE=DATE:19951109
+URL:https://www.setlist.fm/setlist/toadies/1995/roy-wilkins-auditorium-st-paul-mn-5bc52b98.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Toadies #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:53c52b99
+SUMMARY:Supersuckers
+DTSTART;VALUE=DATE:19951109
+DTEND;VALUE=DATE:19951109
+URL:https://www.setlist.fm/setlist/supersuckers/1995/roy-wilkins-auditorium-st-paul-mn-53c52b99.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Supersuckers #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:4bc52b9a
+SUMMARY:White Zombie
+DTSTART;VALUE=DATE:19951109
+DTEND;VALUE=DATE:19951109
+URL:https://www.setlist.fm/setlist/white-zombie/1995/roy-wilkins-auditorium-st-paul-mn-4bc52b9a.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#White-Zombie #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd4a260
+SUMMARY:The Black Crowes
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/the-black-crowes/1995/rivers-edge-park-somerset-wi-7bd4a260.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#The-Black-Crowes #River's-Edge-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbcc288
+SUMMARY:Red Thunder
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/red-thunder/1995/rivers-edge-park-somerset-wi-7bbcc288.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Red-Thunder #River's-Edge-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:73bcc289
+SUMMARY:Ziggy Marley
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/ziggy-marley/1995/rivers-edge-park-somerset-wi-73bcc289.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Ziggy-Marley #River's-Edge-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:6bbcc28a
+SUMMARY:The Mother Hips
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/the-mother-hips/1995/rivers-edge-park-somerset-wi-6bbcc28a.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#The-Mother-Hips #River's-Edge-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:5b970f78
+SUMMARY:Ziggy Marley & The Melody Makers
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/ziggy-marley-and-the-melody-makers/1995/float-rite-park-amphitheatre-somerset-wi-5b970f78.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Ziggy-Marley-&-The-Melody-Makers #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:4bceb77e
+SUMMARY:Wilco
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/wilco/1995/rivers-edge-park-somerset-wi-4bceb77e.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Wilco #River's-Edge-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:4390f727
+SUMMARY:The Rembrandts
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/the-rembrandts/1995/rivers-edge-park-somerset-wi-4390f727.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#The-Rembrandts #River's-Edge-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd0c884
+SUMMARY:Blues Traveler
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/blues-traveler/1995/rivers-edge-park-somerset-wi-3bd0c884.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Blues-Traveler #River's-Edge-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:33970c85
+SUMMARY:Sheryl Crow
+DTSTART;VALUE=DATE:19950822
+DTEND;VALUE=DATE:19950822
+URL:https://www.setlist.fm/setlist/sheryl-crow/1995/rivers-edge-park-somerset-wi-33970c85.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Sheryl-Crow #River's-Edge-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd640ec
+SUMMARY:Primus
+DTSTART;VALUE=DATE:19950722
+DTEND;VALUE=DATE:19950722
+URL:https://www.setlist.fm/setlist/primus/1995/roy-wilkins-auditorium-st-paul-mn-3bd640ec.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Primus #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:2bdf6006
+SUMMARY:Mike Watt
+DTSTART;VALUE=DATE:19950722
+DTEND;VALUE=DATE:19950722
+URL:https://www.setlist.fm/setlist/mike-watt/1995/roy-wilkins-auditorium-st-paul-mn-2bdf6006.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Mike-Watt #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:33df600d
+SUMMARY:The Offspring
+DTSTART;VALUE=DATE:19950611
+DTEND;VALUE=DATE:19950611
+URL:https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#The-Offspring #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:2bdf60a2
+SUMMARY:Lunachicks
+DTSTART;VALUE=DATE:19950611
+DTEND;VALUE=DATE:19950611
+URL:https://www.setlist.fm/setlist/lunachicks/1995/roy-wilkins-auditorium-st-paul-mn-2bdf60a2.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#Lunachicks #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:23df60a3
+SUMMARY:The Vandals
+DTSTART;VALUE=DATE:19950611
+DTEND;VALUE=DATE:19950611
+URL:https://www.setlist.fm/setlist/the-vandals/1995/roy-wilkins-auditorium-st-paul-mn-23df60a3.html
+LOCATION:St. Paul, Minnesota
+DESCRIPTION:#The-Vandals #Roy-Wilkins-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:bce490a
+SUMMARY:Bush
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/bush/1995/float-rite-park-amphitheatre-somerset-wi-bce490a.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Bush #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:7bfd9aec
+SUMMARY:Our Lady Peace
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/our-lady-peace/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9aec.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Our-Lady-Peace #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:7bfd9ae4
+SUMMARY:Phunk Junkeez
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/phunk-junkeez/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9ae4.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Phunk-Junkeez #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:73fd9ae1
+SUMMARY:Letters to Cleo
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/letters-to-cleo/1995/float-rite-park-amphitheatre-somerset-wi-73fd9ae1.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Letters-to-Cleo #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:73f6ba01
+SUMMARY:Faith No More
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Faith-No-More #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:73d53255
+SUMMARY:Ramones
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/ramones/1995/float-rite-park-amphitheatre-somerset-wi-73d53255.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Ramones #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:6bfd9aee
+SUMMARY:Monster Magnet
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Monster-Magnet #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:6bfd9ae6
+SUMMARY:Polara
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/polara/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9ae6.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Polara #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:6bfd9ae2
+SUMMARY:face to face
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/face-to-face/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9ae2.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#face-to-face #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:63fd9ae7
+SUMMARY:Sponge
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/sponge/1995/float-rite-park-amphitheatre-somerset-wi-63fd9ae7.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Sponge #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:13f451b5
+SUMMARY:Collective Soul
+DTSTART;VALUE=DATE:19950528
+DTEND;VALUE=DATE:19950528
+URL:https://www.setlist.fm/setlist/collective-soul/1995/float-rite-park-amphitheatre-somerset-wi-13f451b5.html
+LOCATION:Somerset, Wisconsin
+DESCRIPTION:#Collective-Soul #Float-Rite-Park-Amphitheatre
+END:VEVENT
+BEGIN:VEVENT
+UID:3e65527
+SUMMARY:Veruca Salt
+DTSTART;VALUE=DATE:19950521
+DTEND;VALUE=DATE:19950521
+URL:https://www.setlist.fm/setlist/veruca-salt/1995/first-avenue-minneapolis-mn-3e65527.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Veruca-Salt #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:33c2a891
+SUMMARY:Let's Go Bowling
+DTSTART;VALUE=DATE:19950521
+DTEND;VALUE=DATE:19950521
+URL:https://www.setlist.fm/setlist/lets-go-bowling/1995/first-avenue-minneapolis-mn-33c2a891.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Let's-Go-Bowling #First-Avenue
+END:VEVENT
+BEGIN:VEVENT
+UID:73c53ed1
+SUMMARY:Reverend Horton Heat
+DTSTART;VALUE=DATE:19950513
+DTEND;VALUE=DATE:19950513
+URL:https://www.setlist.fm/setlist/reverend-horton-heat/1995/target-center-minneapolis-mn-73c53ed1.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Reverend-Horton-Heat #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc53ed2
+SUMMARY:White Zombie
+DTSTART;VALUE=DATE:19950513
+DTEND;VALUE=DATE:19950513
+URL:https://www.setlist.fm/setlist/white-zombie/1995/target-center-minneapolis-mn-6bc53ed2.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#White-Zombie #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd14d38
+SUMMARY:Melvins
+DTSTART;VALUE=DATE:19950513
+DTEND;VALUE=DATE:19950513
+URL:https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-1bd14d38.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Melvins #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd7a3da
+SUMMARY:Melvins
+DTSTART;VALUE=DATE:19950204
+DTEND;VALUE=DATE:19950204
+URL:https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Melvins #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd6d8c4
+SUMMARY:Nine Inch Nails
+DTSTART;VALUE=DATE:19950204
+DTEND;VALUE=DATE:19950204
+URL:https://www.setlist.fm/setlist/nine-inch-nails/1995/target-center-minneapolis-mn-3bd6d8c4.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Nine-Inch-Nails #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:23df601b
+SUMMARY:The Jim Rose Circus Sideshow
+DTSTART;VALUE=DATE:19950204
+DTEND;VALUE=DATE:19950204
+URL:https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/target-center-minneapolis-mn-23df601b.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#The-Jim-Rose-Circus-Sideshow #Target-Center
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd5bbcc
+SUMMARY:The Flaming Lips
+DTSTART;VALUE=DATE:19941018
+DTEND;VALUE=DATE:19941018
+URL:https://www.setlist.fm/setlist/the-flaming-lips/1994/state-theatre-minneapolis-mn-5bd5bbcc.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#The-Flaming-Lips #State-Theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:23d9083b
+SUMMARY:Candlebox
+DTSTART;VALUE=DATE:19941018
+DTEND;VALUE=DATE:19941018
+URL:https://www.setlist.fm/setlist/candlebox/1994/state-theatre-minneapolis-mn-23d9083b.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Candlebox #State-Theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:23835c63
+SUMMARY:Mother Tongue
+DTSTART;VALUE=DATE:19941018
+DTEND;VALUE=DATE:19941018
+URL:https://www.setlist.fm/setlist/mother-tongue/1994/state-theatre-minneapolis-mn-23835c63.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Mother-Tongue #State-Theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:63d76673
+SUMMARY:Pink Floyd
+DTSTART;VALUE=DATE:19940622
+DTEND;VALUE=DATE:19940622
+URL:https://www.setlist.fm/setlist/pink-floyd/1994/hubert-h-humphrey-metrodome-minneapolis-mn-63d76673.html
+LOCATION:Minneapolis, Minnesota
+DESCRIPTION:#Pink-Floyd #Hubert-H.-Humphrey-Metrodome
+END:VEVENT
+END:VCALENDAR

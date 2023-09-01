@@ -1,6 +1,51 @@
 {
 	"Event": [
 		{
+			"Id": "4ba2b342",
+			"Date": "2023-09-02",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Pearl Jam",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-4ba2b342.html"
+		},
+		{
+			"Id": "43a2af2f",
+			"Date": "2023-09-02",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Deep Sea Diver",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-43a2af2f.html"
+		},
+		{
+			"Id": "7ba54a74",
+			"Date": "2023-08-31",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Pearl Jam",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-7ba54a74.html"
+		},
+		{
+			"Id": "6ba54a5a",
+			"Date": "2023-08-31",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Deep Sea Diver",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-6ba54a5a.html"
+		},
+		{
+			"Id": "33b938ed",
 			"Date": "2023-05-21",
 			"Venue": "Studio 606",
 			"City": "Los Angeles",
@@ -11,6 +56,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2023/studio-606-los-angeles-ca-33b938ed.html"
 		},
 		{
+			"Id": "43b8739b",
 			"Date": "2023-04-28",
 			"Venue": "The Laugh Factory",
 			"City": "Las Vegas",
@@ -21,6 +67,7 @@
 			"Link": "https://www.setlist.fm/setlist/jon-lovitz/2023/the-laugh-factory-las-vegas-nv-43b8739b.html"
 		},
 		{
+			"Id": "7bb1cac0",
 			"Date": "2022-10-07",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -31,6 +78,7 @@
 			"Link": "https://www.setlist.fm/setlist/reverend-horton-heat/2022/first-avenue-minneapolis-mn-7bb1cac0.html"
 		},
 		{
+			"Id": "73b1cac5",
 			"Date": "2022-10-07",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -41,6 +89,7 @@
 			"Link": "https://www.setlist.fm/setlist/nashville-pussy/2022/first-avenue-minneapolis-mn-73b1cac5.html"
 		},
 		{
+			"Id": "6bb1cac2",
 			"Date": "2022-10-07",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -51,6 +100,7 @@
 			"Link": "https://www.setlist.fm/setlist/toadies/2022/first-avenue-minneapolis-mn-6bb1cac2.html"
 		},
 		{
+			"Id": "3b0a5bb",
 			"Date": "2022-09-03",
 			"Venue": "Wembley Stadium",
 			"City": "London",
@@ -61,6 +111,7 @@
 			"Link": "https://www.setlist.fm/setlist/various-artists/2022/wembley-stadium-london-england-3b0a5bb.html"
 		},
 		{
+			"Id": "23b37403",
 			"Date": "2022-08-26",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -71,6 +122,7 @@
 			"Link": "https://www.setlist.fm/setlist/kevin-hart/2022/target-center-minneapolis-mn-23b37403.html"
 		},
 		{
+			"Id": "33b21cf1",
 			"Date": "2022-07-30",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -81,6 +133,7 @@
 			"Link": "https://www.setlist.fm/setlist/roger-waters/2022/target-center-minneapolis-mn-33b21cf1.html"
 		},
 		{
+			"Id": "4bb68bca",
 			"Date": "2022-04-08",
 			"Venue": "Palace Theatre",
 			"City": "St. Paul",
@@ -91,6 +144,7 @@
 			"Link": "https://www.setlist.fm/setlist/heartless-bastards/2022/palace-theatre-st-paul-mn-4bb68bca.html"
 		},
 		{
+			"Id": "43b68bcb",
 			"Date": "2022-04-08",
 			"Venue": "Palace Theatre",
 			"City": "St. Paul",
@@ -101,6 +155,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/2022/palace-theatre-st-paul-mn-43b68bcb.html"
 		},
 		{
+			"Id": "5b892348",
 			"Date": "2022-03-20",
 			"Venue": "Hipódromo de San Isidro",
 			"City": "San Isidro",
@@ -111,6 +166,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2022/hipodromo-de-san-isidro-san-isidro-argentina-5b892348.html"
 		},
 		{
+			"Id": "b89e1fe",
 			"Date": "2022-03-13",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -121,6 +177,7 @@
 			"Link": "https://www.setlist.fm/setlist/tool/2022/target-center-minneapolis-mn-b89e1fe.html"
 		},
 		{
+			"Id": "738a4ee1",
 			"Date": "2021-11-26",
 			"Venue": "Doom Saloon",
 			"City": "Frederick",
@@ -131,6 +188,7 @@
 			"Link": "https://www.setlist.fm/setlist/clutch/2021/doom-saloon-frederick-md-738a4ee1.html"
 		},
 		{
+			"Id": "338c0ca9",
 			"Date": "2021-09-12",
 			"Venue": "Vetter Stone Amphitheater",
 			"City": "Mankato",
@@ -141,6 +199,7 @@
 			"Link": "https://www.setlist.fm/setlist/living-colour/2021/vetter-stone-amphitheater-mankato-mn-338c0ca9.html"
 		},
 		{
+			"Id": "2b8c0cae",
 			"Date": "2021-09-12",
 			"Venue": "Vetter Stone Amphitheater",
 			"City": "Mankato",
@@ -151,6 +210,7 @@
 			"Link": "https://www.setlist.fm/setlist/hoobastank/2021/vetter-stone-amphitheater-mankato-mn-2b8c0cae.html"
 		},
 		{
+			"Id": "238c0cab",
 			"Date": "2021-09-12",
 			"Venue": "Vetter Stone Amphitheater",
 			"City": "Mankato",
@@ -161,6 +221,7 @@
 			"Link": "https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html"
 		},
 		{
+			"Id": "538e4fbd",
 			"Date": "2021-06-26",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -171,6 +232,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-538e4fbd.html"
 		},
 		{
+			"Id": "4b8e6bda",
 			"Date": "2021-06-19",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -181,6 +243,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-4b8e6bda.html"
 		},
 		{
+			"Id": "438e0767",
 			"Date": "2021-06-12",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -191,6 +254,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-438e0767.html"
 		},
 		{
+			"Id": "338e1ca9",
 			"Date": "2021-06-05",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -201,6 +265,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-338e1ca9.html"
 		},
 		{
+			"Id": "7b83f620",
 			"Date": "2021-01-02",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -211,6 +276,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-7b83f620.html"
 		},
 		{
+			"Id": "3b838c0c",
 			"Date": "2020-12-26",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -221,6 +287,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-3b838c0c.html"
 		},
 		{
+			"Id": "b83a94e",
 			"Date": "2020-12-19",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -231,6 +298,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-b83a94e.html"
 		},
 		{
+			"Id": "b83ad0e",
 			"Date": "2020-12-15",
 			"Venue": "The Theatre at Ace Hotel",
 			"City": "Los Angeles",
@@ -241,6 +309,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2020/the-theatre-at-ace-hotel-los-angeles-ca-b83ad0e.html"
 		},
 		{
+			"Id": "383bd13",
 			"Date": "2020-12-12",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -251,6 +320,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-383bd13.html"
 		},
 		{
+			"Id": "383bd2f",
 			"Date": "2020-12-11",
 			"Venue": "Pachyderm Station",
 			"City": "Sebastopol",
@@ -261,6 +331,7 @@
 			"Link": "https://www.setlist.fm/setlist/primus/2020/pachyderm-station-sebastopol-ca-383bd2f.html"
 		},
 		{
+			"Id": "6b8236da",
 			"Date": "2020-11-14",
 			"Venue": "The Roxy",
 			"City": "West Hollywood",
@@ -271,6 +342,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2020/the-roxy-west-hollywood-ca-6b8236da.html"
 		},
 		{
+			"Id": "4384770b",
 			"Date": "2020-08-07",
 			"Venue": "Doom Saloon",
 			"City": "Frederick",
@@ -281,6 +353,7 @@
 			"Link": "https://www.setlist.fm/setlist/clutch/2020/doom-saloon-frederick-md-4384770b.html"
 		},
 		{
+			"Id": "39a813f",
 			"Date": "2019-11-16",
 			"Venue": "The Cabooze",
 			"City": "Minneapolis",
@@ -291,6 +364,7 @@
 			"Link": "https://www.setlist.fm/setlist/candlebox/2019/the-cabooze-minneapolis-mn-39a813f.html"
 		},
 		{
+			"Id": "53914791",
 			"Date": "2019-07-03",
 			"Venue": "Vetter Stone Amphitheater",
 			"City": "Mankato",
@@ -301,6 +375,7 @@
 			"Link": "https://www.setlist.fm/setlist/sublime-with-rome/2019/vetter-stone-amphitheater-mankato-mn-53914791.html"
 		},
 		{
+			"Id": "b915106",
 			"Date": "2019-07-02",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -311,6 +386,7 @@
 			"Link": "https://www.setlist.fm/setlist/dave-hause/2019/first-avenue-minneapolis-mn-b915106.html"
 		},
 		{
+			"Id": "5b915be4",
 			"Date": "2019-07-02",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -321,6 +397,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2019/first-avenue-minneapolis-mn-5b915be4.html"
 		},
 		{
+			"Id": "2b95d0f6",
 			"Date": "2019-02-01",
 			"Venue": "Mystic Showroom at Mystic Lake Casino",
 			"City": "Prior Lake",
@@ -331,6 +408,7 @@
 			"Link": "https://www.setlist.fm/setlist/tesla/2019/mystic-showroom-at-mystic-lake-casino-prior-lake-mn-2b95d0f6.html"
 		},
 		{
+			"Id": "439633af",
 			"Date": "2018-10-24",
 			"Venue": "Champions Square",
 			"City": "New Orleans",
@@ -341,6 +419,7 @@
 			"Link": "https://www.setlist.fm/setlist/troy-trombone-shorty-andrews-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html"
 		},
 		{
+			"Id": "3b968020",
 			"Date": "2018-10-18",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -351,6 +430,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2018/xcel-energy-center-st-paul-mn-3b968020.html"
 		},
 		{
+			"Id": "638ade97",
 			"Date": "2018-10-01",
 			"Venue": "Acme Comedy Company",
 			"City": "Minneapolis",
@@ -361,6 +441,7 @@
 			"Link": "https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-638ade97.html"
 		},
 		{
+			"Id": "2be990f2",
 			"Date": "2018-09-13",
 			"Venue": "Minneapolis Armory",
 			"City": "Minneapolis",
@@ -371,6 +452,7 @@
 			"Link": "https://www.setlist.fm/setlist/beck/2018/minneapolis-armory-minneapolis-mn-2be990f2.html"
 		},
 		{
+			"Id": "63e8be13",
 			"Date": "2018-08-09",
 			"Venue": "Brown County Fairgrounds",
 			"City": "New Ulm",
@@ -381,6 +463,7 @@
 			"Link": "https://www.setlist.fm/setlist/firehouse/2018/brown-county-fairgrounds-new-ulm-mn-63e8be13.html"
 		},
 		{
+			"Id": "43e03f6f",
 			"Date": "2017-11-25",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -391,6 +474,7 @@
 			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2017/xcel-energy-center-st-paul-mn-43e03f6f.html"
 		},
 		{
+			"Id": "4be0a796",
 			"Date": "2017-11-11",
 			"Venue": "Denny Sanford Premier Center",
 			"City": "Sioux Falls",
@@ -401,6 +485,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2017/denny-sanford-premier-center-sioux-falls-sd-4be0a796.html"
 		},
 		{
+			"Id": "be38df6",
 			"Date": "2017-10-08",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -411,6 +496,7 @@
 			"Link": "https://www.setlist.fm/setlist/local-h/2017/first-avenue-minneapolis-mn-be38df6.html"
 		},
 		{
+			"Id": "1be38dfc",
 			"Date": "2017-10-08",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -421,6 +507,7 @@
 			"Link": "https://www.setlist.fm/setlist/toadies/2017/first-avenue-minneapolis-mn-1be38dfc.html"
 		},
 		{
+			"Id": "3be21024",
 			"Date": "2017-09-17",
 			"Venue": "Myth",
 			"City": "Maplewood",
@@ -431,6 +518,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/2017/myth-maplewood-mn-3be21024.html"
 		},
 		{
+			"Id": "73e5d2e9",
 			"Date": "2017-08-02",
 			"Venue": "Vetter Stone Amphitheater",
 			"City": "Mankato",
@@ -441,6 +529,7 @@
 			"Link": "https://www.setlist.fm/setlist/primus/2017/vetter-stone-amphitheater-mankato-mn-73e5d2e9.html"
 		},
 		{
+			"Id": "3e5cd1b",
 			"Date": "2017-08-02",
 			"Venue": "Vetter Stone Amphitheater",
 			"City": "Mankato",
@@ -451,6 +540,7 @@
 			"Link": "https://www.setlist.fm/setlist/clutch/2017/vetter-stone-amphitheater-mankato-mn-3e5cd1b.html"
 		},
 		{
+			"Id": "13e581d9",
 			"Date": "2017-07-26",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -461,6 +551,7 @@
 			"Link": "https://www.setlist.fm/setlist/roger-waters/2017/xcel-energy-center-st-paul-mn-13e581d9.html"
 		},
 		{
+			"Id": "4bf1e38a",
 			"Date": "2016-04-20",
 			"Venue": "Mill City Nights",
 			"City": "Minneapolis",
@@ -471,6 +562,7 @@
 			"Link": "https://www.setlist.fm/setlist/orgy/2016/mill-city-nights-minneapolis-mn-4bf1e38a.html"
 		},
 		{
+			"Id": "1bf1e1ac",
 			"Date": "2016-04-20",
 			"Venue": "Mill City Nights",
 			"City": "Minneapolis",
@@ -481,6 +573,7 @@
 			"Link": "https://www.setlist.fm/setlist/filter/2016/mill-city-nights-minneapolis-mn-1bf1e1ac.html"
 		},
 		{
+			"Id": "2bbe901e",
 			"Date": "2015-12-08",
 			"Venue": "Acme Comedy Company",
 			"City": "Minneapolis",
@@ -491,6 +584,7 @@
 			"Link": "https://www.setlist.fm/setlist/chris-porter/2015/acme-comedy-company-minneapolis-mn-2bbe901e.html"
 		},
 		{
+			"Id": "63f7d247",
 			"Date": "2015-08-22",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -501,6 +595,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2015/xcel-energy-center-st-paul-mn-63f7d247.html"
 		},
 		{
+			"Id": "5bc38b28",
 			"Date": "2014-04-11",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -511,6 +606,7 @@
 			"Link": "https://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html"
 		},
 		{
+			"Id": "23835ca3",
 			"Date": "2014-04-11",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -521,6 +617,7 @@
 			"Link": "https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-minneapolis-mn-23835ca3.html"
 		},
 		{
+			"Id": "63c4562b",
 			"Date": "2013-08-09",
 			"Venue": "Buster's Sports Bar \u0026 Grill",
 			"City": "Mankato",
@@ -531,6 +628,7 @@
 			"Link": "https://www.setlist.fm/setlist/candlebox/2013/busters-sports-bar-and-grill-mankato-mn-63c4562b.html"
 		},
 		{
+			"Id": "63d406cb",
 			"Date": "2010-07-01",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -541,6 +639,7 @@
 			"Link": "https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d406cb.html"
 		},
 		{
+			"Id": "53d6ab39",
 			"Date": "2008-06-07",
 			"Venue": "Wembley Stadium",
 			"City": "London",
@@ -551,6 +650,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-53d6ab39.html"
 		},
 		{
+			"Id": "4bd6ab3a",
 			"Date": "2008-06-06",
 			"Venue": "Wembley Stadium",
 			"City": "London",
@@ -561,6 +661,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-4bd6ab3a.html"
 		},
 		{
+			"Id": "13d63d59",
 			"Date": "2007-06-26",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -571,6 +672,7 @@
 			"Link": "https://www.setlist.fm/setlist/tool/2007/xcel-energy-center-st-paul-mn-13d63d59.html"
 		},
 		{
+			"Id": "43c17beb",
 			"Date": "2003-12-05",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -581,6 +683,7 @@
 			"Link": "https://www.setlist.fm/setlist/snake-river-conspiracy/2003/xcel-energy-center-st-paul-mn-43c17beb.html"
 		},
 		{
+			"Id": "33d3e8c9",
 			"Date": "2003-12-05",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -591,6 +694,7 @@
 			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html"
 		},
 		{
+			"Id": "43de9343",
 			"Date": "2002-09-04",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -601,6 +705,7 @@
 			"Link": "https://www.setlist.fm/setlist/tool/2002/xcel-energy-center-st-paul-mn-43de9343.html"
 		},
 		{
+			"Id": "1bd84564",
 			"Date": "2002-03-08",
 			"Venue": "The Quest",
 			"City": "Minneapolis",
@@ -611,6 +716,7 @@
 			"Link": "https://www.setlist.fm/setlist/chevelle/2002/the-quest-minneapolis-mn-1bd84564.html"
 		},
 		{
+			"Id": "13d84561",
 			"Date": "2002-03-08",
 			"Venue": "The Quest",
 			"City": "Minneapolis",
@@ -621,6 +727,7 @@
 			"Link": "https://www.setlist.fm/setlist/local-h/2002/the-quest-minneapolis-mn-13d84561.html"
 		},
 		{
+			"Id": "73d462c1",
 			"Date": "2001-09-06",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -631,6 +738,7 @@
 			"Link": "https://www.setlist.fm/setlist/tool/2001/xcel-energy-center-st-paul-mn-73d462c1.html"
 		},
 		{
+			"Id": "23d8c007",
 			"Date": "2001-09-06",
 			"Venue": "Xcel Energy Center",
 			"City": "St. Paul",
@@ -641,6 +749,18 @@
 			"Link": "https://www.setlist.fm/setlist/meshuggah/2001/xcel-energy-center-st-paul-mn-23d8c007.html"
 		},
 		{
+			"Id": "73f492ad",
+			"Date": "2001-03-31",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Artist": "Snake River Conspiracy",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/snake-river-conspiracy/2001/roy-wilkins-auditorium-st-paul-mn-73f492ad.html"
+		},
+		{
+			"Id": "33d08c49",
 			"Date": "2001-03-31",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -651,6 +771,7 @@
 			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2001/roy-wilkins-auditorium-st-paul-mn-33d08c49.html"
 		},
 		{
+			"Id": "73c01635",
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -661,6 +782,7 @@
 			"Link": "https://www.setlist.fm/setlist/beck/1998/target-center-minneapolis-mn-73c01635.html"
 		},
 		{
+			"Id": "73c01629",
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -671,6 +793,7 @@
 			"Link": "https://www.setlist.fm/setlist/cherry-poppin-daddies/1998/target-center-minneapolis-mn-73c01629.html"
 		},
 		{
+			"Id": "6bc01622",
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -681,6 +804,7 @@
 			"Link": "https://www.setlist.fm/setlist/big-bad-voodoo-daddy/1998/target-center-minneapolis-mn-6bc01622.html"
 		},
 		{
+			"Id": "63c0162f",
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -691,6 +815,7 @@
 			"Link": "https://www.setlist.fm/setlist/marcy-playground/1998/target-center-minneapolis-mn-63c0162f.html"
 		},
 		{
+			"Id": "63c0162b",
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -701,6 +826,7 @@
 			"Link": "https://www.setlist.fm/setlist/semisonic/1998/target-center-minneapolis-mn-63c0162b.html"
 		},
 		{
+			"Id": "33ded099",
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -711,6 +837,7 @@
 			"Link": "https://www.setlist.fm/setlist/garbage/1998/target-center-minneapolis-mn-33ded099.html"
 		},
 		{
+			"Id": "2bd76cce",
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -721,6 +848,7 @@
 			"Link": "https://www.setlist.fm/setlist/soul-coughing/1998/target-center-minneapolis-mn-2bd76cce.html"
 		},
 		{
+			"Id": "13c4bd9d",
 			"Date": "1998-12-19",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -731,6 +859,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
 		},
 		{
+			"Id": "7bd632e4",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -741,6 +870,7 @@
 			"Link": "https://www.setlist.fm/setlist/incubus/1998/float-rite-park-amphitheatre-somerset-wi-7bd632e4.html"
 		},
 		{
+			"Id": "6bd11af2",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -751,6 +881,7 @@
 			"Link": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
 		},
 		{
+			"Id": "5bfdf764",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -761,6 +892,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/1998/float-rite-park-amphitheatre-somerset-wi-5bfdf764.html"
 		},
 		{
+			"Id": "5bdf6bd4",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -771,6 +903,7 @@
 			"Link": "https://www.setlist.fm/setlist/nofx/1998/float-rite-park-amphitheatre-somerset-wi-5bdf6bd4.html"
 		},
 		{
+			"Id": "4bdf6bca",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -781,6 +914,7 @@
 			"Link": "https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html"
 		},
 		{
+			"Id": "4bd1139e",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -791,6 +925,7 @@
 			"Link": "https://www.setlist.fm/setlist/sevendust/1998/float-rite-park-amphitheatre-somerset-wi-4bd1139e.html"
 		},
 		{
+			"Id": "43d5bf33",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -801,6 +936,7 @@
 			"Link": "https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html"
 		},
 		{
+			"Id": "3bde188c",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -811,6 +947,7 @@
 			"Link": "https://www.setlist.fm/setlist/system-of-a-down/1998/float-rite-park-amphitheatre-somerset-wi-3bde188c.html"
 		},
 		{
+			"Id": "33dfe8d5",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -821,6 +958,7 @@
 			"Link": "https://www.setlist.fm/setlist/soulfly/1998/float-rite-park-amphitheatre-somerset-wi-33dfe8d5.html"
 		},
 		{
+			"Id": "33de1881",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -831,6 +969,7 @@
 			"Link": "https://www.setlist.fm/setlist/coal-chamber/1998/float-rite-park-amphitheatre-somerset-wi-33de1881.html"
 		},
 		{
+			"Id": "13d05df1",
 			"Date": "1998-07-18",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -841,6 +980,7 @@
 			"Link": "https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html"
 		},
 		{
+			"Id": "5bd72f48",
 			"Date": "1998-07-17",
 			"Venue": "Block E at Hennepin Avenue",
 			"City": "Minneapolis",
@@ -851,6 +991,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-smashing-pumpkins/1998/block-e-at-hennepin-avenue-minneapolis-mn-5bd72f48.html"
 		},
 		{
+			"Id": "43d66707",
 			"Date": "1998-06-30",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -861,6 +1002,7 @@
 			"Link": "https://www.setlist.fm/setlist/pearl-jam/1998/target-center-minneapolis-mn-43d66707.html"
 		},
 		{
+			"Id": "33df608d",
 			"Date": "1998-06-30",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -871,6 +1013,7 @@
 			"Link": "https://www.setlist.fm/setlist/frank-black-and-the-catholics/1998/target-center-minneapolis-mn-33df608d.html"
 		},
 		{
+			"Id": "53cd0399",
 			"Date": "1997-10-23",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -881,6 +1024,7 @@
 			"Link": "https://www.setlist.fm/setlist/talk-show/1997/roy-wilkins-auditorium-st-paul-mn-53cd0399.html"
 		},
 		{
+			"Id": "4bdd4342",
 			"Date": "1997-10-23",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -891,6 +1035,7 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/1997/roy-wilkins-auditorium-st-paul-mn-4bdd4342.html"
 		},
 		{
+			"Id": "13f37149",
 			"Date": "1997-10-23",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -901,6 +1046,7 @@
 			"Link": "https://www.setlist.fm/setlist/treble-charger/1997/roy-wilkins-auditorium-st-paul-mn-13f37149.html"
 		},
 		{
+			"Id": "bfe89ca",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -911,6 +1057,7 @@
 			"Link": "https://www.setlist.fm/setlist/local-h/1997/float-rite-park-amphitheatre-somerset-wi-bfe89ca.html"
 		},
 		{
+			"Id": "73da4251",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -921,6 +1068,7 @@
 			"Link": "https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-73da4251.html"
 		},
 		{
+			"Id": "63da4263",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -931,6 +1079,7 @@
 			"Link": "https://www.setlist.fm/setlist/bloodhound-gang/1997/float-rite-park-amphitheatre-somerset-wi-63da4263.html"
 		},
 		{
+			"Id": "3fe89d7",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -941,6 +1090,7 @@
 			"Link": "https://www.setlist.fm/setlist/sponge/1997/float-rite-park-amphitheatre-somerset-wi-3fe89d7.html"
 		},
 		{
+			"Id": "3efbd7f",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -951,6 +1101,7 @@
 			"Link": "https://www.setlist.fm/setlist/linda-perry/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7f.html"
 		},
 		{
+			"Id": "1bfe89c8",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -961,6 +1112,7 @@
 			"Link": "https://www.setlist.fm/setlist/tonic/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c8.html"
 		},
 		{
+			"Id": "1bfe89c0",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -971,6 +1123,7 @@
 			"Link": "https://www.setlist.fm/setlist/iggy-pop/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c0.html"
 		},
 		{
+			"Id": "13fe89e1",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -981,6 +1134,7 @@
 			"Link": "https://www.setlist.fm/setlist/rollins-band/1997/float-rite-park-amphitheatre-somerset-wi-13fe89e1.html"
 		},
 		{
+			"Id": "13fe89c9",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -991,6 +1145,7 @@
 			"Link": "https://www.setlist.fm/setlist/reverend-horton-heat/1997/float-rite-park-amphitheatre-somerset-wi-13fe89c9.html"
 		},
 		{
+			"Id": "13eb5571",
 			"Date": "1997-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1001,6 +1156,7 @@
 			"Link": "https://www.setlist.fm/setlist/sevendust/1997/float-rite-park-amphitheatre-somerset-wi-13eb5571.html"
 		},
 		{
+			"Id": "befbd7a",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1011,6 +1167,7 @@
 			"Link": "https://www.setlist.fm/setlist/matchbox-twenty/1997/float-rite-park-amphitheatre-somerset-wi-befbd7a.html"
 		},
 		{
+			"Id": "7bda4260",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1021,6 +1178,7 @@
 			"Link": "https://www.setlist.fm/setlist/beck/1997/float-rite-park-amphitheatre-somerset-wi-7bda4260.html"
 		},
 		{
+			"Id": "6beafe1e",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1031,6 +1189,7 @@
 			"Link": "https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-6beafe1e.html"
 		},
 		{
+			"Id": "63da4267",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1041,6 +1200,7 @@
 			"Link": "https://www.setlist.fm/setlist/gavin-rossdale/1997/float-rite-park-amphitheatre-somerset-wi-63da4267.html"
 		},
 		{
+			"Id": "3fe89df",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1051,6 +1211,7 @@
 			"Link": "https://www.setlist.fm/setlist/republica/1997/float-rite-park-amphitheatre-somerset-wi-3fe89df.html"
 		},
 		{
+			"Id": "3fe89cf",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1061,6 +1222,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html"
 		},
 		{
+			"Id": "3efbd7b",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1071,6 +1233,7 @@
 			"Link": "https://www.setlist.fm/setlist/better-than-ezra/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7b.html"
 		},
 		{
+			"Id": "3bec94d4",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1081,6 +1244,7 @@
 			"Link": "https://www.setlist.fm/setlist/skunk-anansie/1997/float-rite-park-amphitheatre-somerset-wi-3bec94d4.html"
 		},
 		{
+			"Id": "1bfe89dc",
 			"Date": "1997-05-24",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1091,6 +1255,7 @@
 			"Link": "https://www.setlist.fm/setlist/social-distortion/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89dc.html"
 		},
 		{
+			"Id": "3bdf60c0",
 			"Date": "1996-12-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1101,6 +1266,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-wallflowers/1996/target-center-minneapolis-mn-3bdf60c0.html"
 		},
 		{
+			"Id": "33df60c1",
 			"Date": "1996-12-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1111,6 +1277,7 @@
 			"Link": "https://www.setlist.fm/setlist/crash-test-dummies/1996/target-center-minneapolis-mn-33df60c1.html"
 		},
 		{
+			"Id": "2bdf60c6",
 			"Date": "1996-12-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1121,6 +1288,7 @@
 			"Link": "https://www.setlist.fm/setlist/violent-femmes/1996/target-center-minneapolis-mn-2bdf60c6.html"
 		},
 		{
+			"Id": "2bdf60c2",
 			"Date": "1996-12-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1131,6 +1299,7 @@
 			"Link": "https://www.setlist.fm/setlist/danzig/1996/target-center-minneapolis-mn-2bdf60c2.html"
 		},
 		{
+			"Id": "23df60c7",
 			"Date": "1996-12-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1141,6 +1310,7 @@
 			"Link": "https://www.setlist.fm/setlist/tracy-bonham/1996/target-center-minneapolis-mn-23df60c7.html"
 		},
 		{
+			"Id": "23df60c3",
 			"Date": "1996-12-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1151,6 +1321,7 @@
 			"Link": "https://www.setlist.fm/setlist/bloodhound-gang/1996/target-center-minneapolis-mn-23df60c3.html"
 		},
 		{
+			"Id": "73d45271",
 			"Date": "1996-09-15",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1161,6 +1332,7 @@
 			"Link": "https://www.setlist.fm/setlist/rage-against-the-machine/1996/roy-wilkins-auditorium-st-paul-mn-73d45271.html"
 		},
 		{
+			"Id": "7bc52a60",
 			"Date": "1996-06-28",
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
@@ -1171,6 +1343,7 @@
 			"Link": "https://www.setlist.fm/setlist/ramones/1996/iowa-state-fairgrounds-des-moines-ia-7bc52a60.html"
 		},
 		{
+			"Id": "6bfa42f2",
 			"Date": "1996-06-28",
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
@@ -1181,6 +1354,7 @@
 			"Link": "https://www.setlist.fm/setlist/rancid/1996/iowa-state-fairgrounds-des-moines-ia-6bfa42f2.html"
 		},
 		{
+			"Id": "6bd6da6e",
 			"Date": "1996-06-28",
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
@@ -1191,6 +1365,7 @@
 			"Link": "https://www.setlist.fm/setlist/metallica/1996/iowa-state-fairgrounds-des-moines-ia-6bd6da6e.html"
 		},
 		{
+			"Id": "53e60ba9",
 			"Date": "1996-06-28",
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
@@ -1201,6 +1376,7 @@
 			"Link": "https://www.setlist.fm/setlist/ben-folds-five/1996/iowa-state-fairgrounds-des-moines-ia-53e60ba9.html"
 		},
 		{
+			"Id": "3bd35820",
 			"Date": "1996-06-28",
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
@@ -1211,6 +1387,7 @@
 			"Link": "https://www.setlist.fm/setlist/soundgarden/1996/iowa-state-fairgrounds-des-moines-ia-3bd35820.html"
 		},
 		{
+			"Id": "2bdf60d6",
 			"Date": "1996-06-28",
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
@@ -1221,6 +1398,7 @@
 			"Link": "https://www.setlist.fm/setlist/waylon-jennings/1996/iowa-state-fairgrounds-des-moines-ia-2bdf60d6.html"
 		},
 		{
+			"Id": "13e7f93d",
 			"Date": "1996-06-28",
 			"Venue": "Iowa State Fairgrounds",
 			"City": "Des Moines",
@@ -1231,6 +1409,7 @@
 			"Link": "https://www.setlist.fm/setlist/screaming-trees/1996/iowa-state-fairgrounds-des-moines-ia-13e7f93d.html"
 		},
 		{
+			"Id": "bda4116",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1241,6 +1420,7 @@
 			"Link": "https://www.setlist.fm/setlist/korn/1996/float-rite-park-amphitheatre-somerset-wi-bda4116.html"
 		},
 		{
+			"Id": "7bc87e28",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1251,6 +1431,7 @@
 			"Link": "https://www.setlist.fm/setlist/violent-femmes/1996/float-rite-park-amphitheatre-somerset-wi-7bc87e28.html"
 		},
 		{
+			"Id": "63fa4213",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1261,6 +1442,7 @@
 			"Link": "https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html"
 		},
 		{
+			"Id": "63eafe57",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1271,6 +1453,7 @@
 			"Link": "https://www.setlist.fm/setlist/flipp/1996/float-rite-park-amphitheatre-somerset-wi-63eafe57.html"
 		},
 		{
+			"Id": "63900a6b",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1281,6 +1464,7 @@
 			"Link": "https://www.setlist.fm/setlist/gravity-kills/1996/float-rite-park-amphitheatre-somerset-wi-63900a6b.html"
 		},
 		{
+			"Id": "3c4e523",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1291,6 +1475,7 @@
 			"Link": "https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html"
 		},
 		{
+			"Id": "1bda4110",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1301,6 +1486,7 @@
 			"Link": "https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html"
 		},
 		{
+			"Id": "1bc4e534",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1311,6 +1497,7 @@
 			"Link": "https://www.setlist.fm/setlist/everclear/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e534.html"
 		},
 		{
+			"Id": "1bc4e528",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1321,6 +1508,7 @@
 			"Link": "https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html"
 		},
 		{
+			"Id": "13c4e535",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1331,6 +1519,7 @@
 			"Link": "https://www.setlist.fm/setlist/iggy-pop/1996/float-rite-park-amphitheatre-somerset-wi-13c4e535.html"
 		},
 		{
+			"Id": "13c4e52d",
 			"Date": "1996-05-25",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1341,6 +1530,7 @@
 			"Link": "https://www.setlist.fm/setlist/no-doubt/1996/float-rite-park-amphitheatre-somerset-wi-13c4e52d.html"
 		},
 		{
+			"Id": "4bd46736",
 			"Date": "1996-05-04",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -1351,6 +1541,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/1996/first-avenue-minneapolis-mn-4bd46736.html"
 		},
 		{
+			"Id": "b9c196a",
 			"Date": "1996-04-30",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -1361,6 +1552,7 @@
 			"Link": "https://www.setlist.fm/setlist/dance-hall-crashers/1996/first-avenue-minneapolis-mn-b9c196a.html"
 		},
 		{
+			"Id": "4bcdd3ea",
 			"Date": "1996-04-30",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -1371,6 +1563,7 @@
 			"Link": "https://www.setlist.fm/setlist/bad-religion/1996/first-avenue-minneapolis-mn-4bcdd3ea.html"
 		},
 		{
+			"Id": "139c1975",
 			"Date": "1996-04-30",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -1381,6 +1574,7 @@
 			"Link": "https://www.setlist.fm/setlist/unwritten-law/1996/first-avenue-minneapolis-mn-139c1975.html"
 		},
 		{
+			"Id": "beda9ce",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1391,6 +1585,7 @@
 			"Link": "https://www.setlist.fm/setlist/meat-puppets/1995/target-center-minneapolis-mn-beda9ce.html"
 		},
 		{
+			"Id": "7beafe64",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1401,6 +1596,7 @@
 			"Link": "https://www.setlist.fm/setlist/flipp/1995/target-center-minneapolis-mn-7beafe64.html"
 		},
 		{
+			"Id": "5b83dbb4",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1411,6 +1607,7 @@
 			"Link": "https://www.setlist.fm/setlist/violent-femmes/1995/target-center-minneapolis-mn-5b83dbb4.html"
 		},
 		{
+			"Id": "5383dbb5",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1421,6 +1618,7 @@
 			"Link": "https://www.setlist.fm/setlist/toadies/1995/target-center-minneapolis-mn-5383dbb5.html"
 		},
 		{
+			"Id": "3bd798a0",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1431,6 +1629,7 @@
 			"Link": "https://www.setlist.fm/setlist/oasis/1995/target-center-minneapolis-mn-3bd798a0.html"
 		},
 		{
+			"Id": "2b87e852",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1441,6 +1640,7 @@
 			"Link": "https://www.setlist.fm/setlist/del-amitri/1995/target-center-minneapolis-mn-2b87e852.html"
 		},
 		{
+			"Id": "1bf0e524",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1451,6 +1651,7 @@
 			"Link": "https://www.setlist.fm/setlist/garbage/1995/target-center-minneapolis-mn-1bf0e524.html"
 		},
 		{
+			"Id": "1b90ed8c",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1461,6 +1662,7 @@
 			"Link": "https://www.setlist.fm/setlist/lisa-loeb/1995/target-center-minneapolis-mn-1b90ed8c.html"
 		},
 		{
+			"Id": "1b90ed88",
 			"Date": "1995-12-09",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1471,6 +1673,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1995/target-center-minneapolis-mn-1b90ed88.html"
 		},
 		{
+			"Id": "5bc52b98",
 			"Date": "1995-11-09",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1481,6 +1684,7 @@
 			"Link": "https://www.setlist.fm/setlist/toadies/1995/roy-wilkins-auditorium-st-paul-mn-5bc52b98.html"
 		},
 		{
+			"Id": "53c52b99",
 			"Date": "1995-11-09",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1491,6 +1695,7 @@
 			"Link": "https://www.setlist.fm/setlist/supersuckers/1995/roy-wilkins-auditorium-st-paul-mn-53c52b99.html"
 		},
 		{
+			"Id": "4bc52b9a",
 			"Date": "1995-11-09",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1501,6 +1706,7 @@
 			"Link": "https://www.setlist.fm/setlist/white-zombie/1995/roy-wilkins-auditorium-st-paul-mn-4bc52b9a.html"
 		},
 		{
+			"Id": "7bd4a260",
 			"Date": "1995-08-22",
 			"Venue": "River's Edge Park",
 			"City": "Somerset",
@@ -1511,6 +1717,40 @@
 			"Link": "https://www.setlist.fm/setlist/the-black-crowes/1995/rivers-edge-park-somerset-wi-7bd4a260.html"
 		},
 		{
+			"Id": "7bbcc288",
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Red Thunder",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/red-thunder/1995/rivers-edge-park-somerset-wi-7bbcc288.html"
+		},
+		{
+			"Id": "73bcc289",
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "Ziggy Marley",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/ziggy-marley/1995/rivers-edge-park-somerset-wi-73bcc289.html"
+		},
+		{
+			"Id": "6bbcc28a",
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "The Mother Hips",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/the-mother-hips/1995/rivers-edge-park-somerset-wi-6bbcc28a.html"
+		},
+		{
+			"Id": "5b970f78",
 			"Date": "1995-08-22",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1521,6 +1761,7 @@
 			"Link": "https://www.setlist.fm/setlist/ziggy-marley-and-the-melody-makers/1995/float-rite-park-amphitheatre-somerset-wi-5b970f78.html"
 		},
 		{
+			"Id": "4bceb77e",
 			"Date": "1995-08-22",
 			"Venue": "River's Edge Park",
 			"City": "Somerset",
@@ -1531,6 +1772,18 @@
 			"Link": "https://www.setlist.fm/setlist/wilco/1995/rivers-edge-park-somerset-wi-4bceb77e.html"
 		},
 		{
+			"Id": "4390f727",
+			"Date": "1995-08-22",
+			"Venue": "River's Edge Park",
+			"City": "Somerset",
+			"State": "Wisconsin",
+			"Artist": "The Rembrandts",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/the-rembrandts/1995/rivers-edge-park-somerset-wi-4390f727.html"
+		},
+		{
+			"Id": "3bd0c884",
 			"Date": "1995-08-22",
 			"Venue": "River's Edge Park",
 			"City": "Somerset",
@@ -1541,6 +1794,7 @@
 			"Link": "https://www.setlist.fm/setlist/blues-traveler/1995/rivers-edge-park-somerset-wi-3bd0c884.html"
 		},
 		{
+			"Id": "33970c85",
 			"Date": "1995-08-22",
 			"Venue": "River's Edge Park",
 			"City": "Somerset",
@@ -1551,6 +1805,7 @@
 			"Link": "https://www.setlist.fm/setlist/sheryl-crow/1995/rivers-edge-park-somerset-wi-33970c85.html"
 		},
 		{
+			"Id": "3bd640ec",
 			"Date": "1995-07-22",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1561,6 +1816,7 @@
 			"Link": "https://www.setlist.fm/setlist/primus/1995/roy-wilkins-auditorium-st-paul-mn-3bd640ec.html"
 		},
 		{
+			"Id": "2bdf6006",
 			"Date": "1995-07-22",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1571,6 +1827,7 @@
 			"Link": "https://www.setlist.fm/setlist/mike-watt/1995/roy-wilkins-auditorium-st-paul-mn-2bdf6006.html"
 		},
 		{
+			"Id": "33df600d",
 			"Date": "1995-06-11",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1581,6 +1838,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html"
 		},
 		{
+			"Id": "2bdf60a2",
 			"Date": "1995-06-11",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1591,6 +1849,7 @@
 			"Link": "https://www.setlist.fm/setlist/lunachicks/1995/roy-wilkins-auditorium-st-paul-mn-2bdf60a2.html"
 		},
 		{
+			"Id": "23df60a3",
 			"Date": "1995-06-11",
 			"Venue": "Roy Wilkins Auditorium",
 			"City": "St. Paul",
@@ -1601,6 +1860,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-vandals/1995/roy-wilkins-auditorium-st-paul-mn-23df60a3.html"
 		},
 		{
+			"Id": "bce490a",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1611,6 +1871,7 @@
 			"Link": "https://www.setlist.fm/setlist/bush/1995/float-rite-park-amphitheatre-somerset-wi-bce490a.html"
 		},
 		{
+			"Id": "7bfd9aec",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1621,6 +1882,7 @@
 			"Link": "https://www.setlist.fm/setlist/our-lady-peace/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9aec.html"
 		},
 		{
+			"Id": "7bfd9ae4",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1631,6 +1893,7 @@
 			"Link": "https://www.setlist.fm/setlist/phunk-junkeez/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9ae4.html"
 		},
 		{
+			"Id": "73fd9ae1",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1641,6 +1904,7 @@
 			"Link": "https://www.setlist.fm/setlist/letters-to-cleo/1995/float-rite-park-amphitheatre-somerset-wi-73fd9ae1.html"
 		},
 		{
+			"Id": "73f6ba01",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1651,6 +1915,7 @@
 			"Link": "https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html"
 		},
 		{
+			"Id": "73d53255",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1661,6 +1926,7 @@
 			"Link": "https://www.setlist.fm/setlist/ramones/1995/float-rite-park-amphitheatre-somerset-wi-73d53255.html"
 		},
 		{
+			"Id": "6bfd9aee",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1671,6 +1937,7 @@
 			"Link": "https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html"
 		},
 		{
+			"Id": "6bfd9ae6",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1681,6 +1948,7 @@
 			"Link": "https://www.setlist.fm/setlist/polara/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9ae6.html"
 		},
 		{
+			"Id": "6bfd9ae2",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1691,6 +1959,7 @@
 			"Link": "https://www.setlist.fm/setlist/face-to-face/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9ae2.html"
 		},
 		{
+			"Id": "63fd9ae7",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1701,6 +1970,7 @@
 			"Link": "https://www.setlist.fm/setlist/sponge/1995/float-rite-park-amphitheatre-somerset-wi-63fd9ae7.html"
 		},
 		{
+			"Id": "13f451b5",
 			"Date": "1995-05-28",
 			"Venue": "Float-Rite Park Amphitheatre",
 			"City": "Somerset",
@@ -1711,6 +1981,7 @@
 			"Link": "https://www.setlist.fm/setlist/collective-soul/1995/float-rite-park-amphitheatre-somerset-wi-13f451b5.html"
 		},
 		{
+			"Id": "3e65527",
 			"Date": "1995-05-21",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -1721,6 +1992,7 @@
 			"Link": "https://www.setlist.fm/setlist/veruca-salt/1995/first-avenue-minneapolis-mn-3e65527.html"
 		},
 		{
+			"Id": "33c2a891",
 			"Date": "1995-05-21",
 			"Venue": "First Avenue",
 			"City": "Minneapolis",
@@ -1731,6 +2003,7 @@
 			"Link": "https://www.setlist.fm/setlist/lets-go-bowling/1995/first-avenue-minneapolis-mn-33c2a891.html"
 		},
 		{
+			"Id": "73c53ed1",
 			"Date": "1995-05-13",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1741,6 +2014,7 @@
 			"Link": "https://www.setlist.fm/setlist/reverend-horton-heat/1995/target-center-minneapolis-mn-73c53ed1.html"
 		},
 		{
+			"Id": "6bc53ed2",
 			"Date": "1995-05-13",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1751,6 +2025,7 @@
 			"Link": "https://www.setlist.fm/setlist/white-zombie/1995/target-center-minneapolis-mn-6bc53ed2.html"
 		},
 		{
+			"Id": "1bd14d38",
 			"Date": "1995-05-13",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1761,6 +2036,7 @@
 			"Link": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-1bd14d38.html"
 		},
 		{
+			"Id": "4bd7a3da",
 			"Date": "1995-02-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1771,6 +2047,7 @@
 			"Link": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html"
 		},
 		{
+			"Id": "3bd6d8c4",
 			"Date": "1995-02-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1781,6 +2058,7 @@
 			"Link": "https://www.setlist.fm/setlist/nine-inch-nails/1995/target-center-minneapolis-mn-3bd6d8c4.html"
 		},
 		{
+			"Id": "23df601b",
 			"Date": "1995-02-04",
 			"Venue": "Target Center",
 			"City": "Minneapolis",
@@ -1791,6 +2069,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/target-center-minneapolis-mn-23df601b.html"
 		},
 		{
+			"Id": "5bd5bbcc",
 			"Date": "1994-10-18",
 			"Venue": "State Theatre",
 			"City": "Minneapolis",
@@ -1801,6 +2080,7 @@
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/1994/state-theatre-minneapolis-mn-5bd5bbcc.html"
 		},
 		{
+			"Id": "23d9083b",
 			"Date": "1994-10-18",
 			"Venue": "State Theatre",
 			"City": "Minneapolis",
@@ -1811,6 +2091,7 @@
 			"Link": "https://www.setlist.fm/setlist/candlebox/1994/state-theatre-minneapolis-mn-23d9083b.html"
 		},
 		{
+			"Id": "23835c63",
 			"Date": "1994-10-18",
 			"Venue": "State Theatre",
 			"City": "Minneapolis",
@@ -1821,6 +2102,7 @@
 			"Link": "https://www.setlist.fm/setlist/mother-tongue/1994/state-theatre-minneapolis-mn-23835c63.html"
 		},
 		{
+			"Id": "63d76673",
 			"Date": "1994-06-22",
 			"Venue": "Hubert H. Humphrey Metrodome",
 			"City": "Minneapolis",
