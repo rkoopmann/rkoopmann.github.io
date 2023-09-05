@@ -1,8 +1,8 @@
 {
 	"id": "43a2af2f",
-	"versionId": "g1b98758c",
+	"versionId": "g1399f9dd",
 	"eventDate": "02-09-2023",
-	"lastUpdated": "2023-09-01T01:21:58.923+0000",
+	"lastUpdated": "2023-09-04T12:04:36.045+0000",
 	"artist": {
 		"mbid": "18a627eb-c6e8-4175-b947-9322d8deb938",
 		"name": "Deep Sea Diver",
@@ -30,7 +30,41 @@
 		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
 	},
 	"sets": {
-		"set": []
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Lights Out"
+					},
+					{
+						"name": "Wide Awake"
+					},
+					{
+						"name": "Wishing"
+					},
+					{
+						"name": "Shattering the Hourglass"
+					},
+					{
+						"name": "Emergency"
+					},
+					{
+						"name": "Shovel"
+					},
+					{
+						"name": "See In The Dark"
+					},
+					{
+						"name": "Impossible Weight"
+					},
+					{
+						"name": "Eyes Are Red (Don't Be Afraid)"
+					}
+				]
+			}
+		]
 	},
 	"url": "https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-43a2af2f.html"
 }
