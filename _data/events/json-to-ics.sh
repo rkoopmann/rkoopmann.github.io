@@ -17,8 +17,8 @@ cat {1,2}*.json | jq -r '. |
 "BEGIN:VEVENT
 UID:\(.id)
 SUMMARY:\(.artist.name)
-DTSTART;VALUE=DATE:\(.eventDate | gsub("-"; ""))
-DTEND;VALUE=DATE:\(.eventDate | gsub("-"; ""))
+DTSTART;VALUE=DATE:\(.eventDate | split("-") | .[2] + .[1] + .[0])
+DTEND;VALUE=DATE:\(.eventDate | split("-") | .[2] + .[1] + .[0])
 URL:\(.url)
 LOCATION:\(.venue.name), \(.venue.city.name), \(.venue.city.stateCode)
 GEO:\(.venue.city.coords.lat);\(.venue.city.coords.long)
