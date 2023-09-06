@@ -13,16 +13,16 @@ X-WR-CALDESC:Sourced from selist.fm export
 X-WR-RELCALID:8765309E-E4AC-4C2C-B9F1-FF78AB91DA97
 X-APPLE-CALENDAR-COLOR:#000080" > "${output_file}"
 
-cat list.json | jq -r '.[][] | select(.) | . as $i |
+cat {1,2}*.json | jq -r '. |
 "BEGIN:VEVENT
-UID:\($i.Id)
-SUMMARY:\($i.Artist)
-DTSTART;VALUE=DATE:\($i.Date | gsub("-"; ""))
-DTEND;VALUE=DATE:\($i.Date | gsub("-"; ""))
-URL:\($i.Link)
-LOCATION:\($i.City), \($i.State)
-GEO:\($i.Lat);\($i.Long)
-DESCRIPTION:#\($i.Artist | gsub(" "; "-")) #\($i.Venue | gsub(" "; "-"))
+UID:\(.id)
+SUMMARY:\(.artist.name)
+DTSTART;VALUE=DATE:\(.eventDate | gsub("-"; ""))
+DTEND;VALUE=DATE:\(.eventDate | gsub("-"; ""))
+URL:\(.url)
+LOCATION:\(.venue.name), \(.venue.city.name), \(.venue.city.stateCode)
+GEO:\(.venue.city.coords.lat);\(.venue.city.coords.long)
+DESCRIPTION:#\(.artist.name | gsub(" "; "-")) #\(.venue.name | gsub(" "; "-"))
 END:VEVENT"' | sed "s/$/$CRLF/" >> "${output_file}"
 
 echo "END:VCALENDAR" >> "${output_file}"
