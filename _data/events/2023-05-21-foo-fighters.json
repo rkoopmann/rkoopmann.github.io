@@ -1,8 +1,8 @@
 {
 	"id": "33b938ed",
-	"versionId": "g5395abc9",
+	"versionId": "gb99d99a",
 	"eventDate": "21-05-2023",
-	"lastUpdated": "2023-05-22T02:01:25.811+0000",
+	"lastUpdated": "2023-09-05T16:18:42.940+0000",
 	"artist": {
 		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
 		"name": "Foo Fighters",
@@ -37,7 +37,7 @@
 				"song": [
 					{
 						"name": "All My Life",
-						"info": "preceded by Chad Smith,Tommy Lee, \u0026 Danny Carey entering the room to reveal J.F. as the tour drummer"
+						"info": "preceded by Chad Smith, Tommy Lee \u0026 Danny Carey entering the room to reveal J.F. as the tour drummer"
 					},
 					{
 						"name": "Rescued",

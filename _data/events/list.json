@@ -820,6 +820,19 @@
 			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html"
 		},
 		{
+			"Id": "63de8607",
+			"Date": "2002-09-04",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Tomahawk",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/tomahawk/2002/xcel-energy-center-st-paul-mn-63de8607.html"
+		},
+		{
 			"Id": "43de9343",
 			"Date": "2002-09-04",
 			"Venue": "Xcel Energy Center",
