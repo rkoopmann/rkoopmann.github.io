@@ -1,8 +1,8 @@
 {
 	"id": "4ba2b342",
-	"versionId": "g4b9997ce",
+	"versionId": "gb872d62",
 	"eventDate": "02-09-2023",
-	"lastUpdated": "2023-09-04T00:08:10.257+0000",
+	"lastUpdated": "2023-09-23T16:48:07.964+0000",
 	"artist": {
 		"mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
 		"name": "Pearl Jam",
@@ -91,7 +91,8 @@
 						"info": "First performance since 2018"
 					},
 					{
-						"name": "In Hiding"
+						"name": "In Hiding",
+						"info": "fan request"
 					},
 					{
 						"name": "Unthought Known"

@@ -1,0 +1,79 @@
+{
+	"id": "53a09b0d",
+	"versionId": "g13823d1d",
+	"eventDate": "16-10-2023",
+	"lastUpdated": "2023-10-17T05:34:03.817+0000",
+	"artist": {
+		"mbid": "96bb5e13-6cc4-4ae1-ab57-5238c257a5e5",
+		"name": "SPEED OF LIGHT",
+		"sortName": "SPEED OF LIGHT",
+		"disambiguation": "California garage rock",
+		"url": "https://www.setlist.fm/setlists/speed-of-light-1bfe090c.html"
+	},
+	"venue": {
+		"id": "13d1f5e9",
+		"name": "Uptown Theater",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/uptown-theater-minneapolis-mn-usa-13d1f5e9.html"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "",
+						"info": "Could be Release, I can't find that song online anywhere except a previous setlist"
+					},
+					{
+						"name": "Kill the Vibe"
+					},
+					{
+						"name": "Tightrope"
+					},
+					{
+						"name": "",
+						"info": "\"Losing my mind\" seems like the most likely title"
+					},
+					{
+						"name": "Insane"
+					},
+					{
+						"name": "Bleed"
+					},
+					{
+						"name": "",
+						"info": "Chorus is \"why don't you\" and then a scream I can't make out"
+					},
+					{
+						"name": "Change"
+					},
+					{
+						"name": "Rearview"
+					},
+					{
+						"name": "Teeth"
+					},
+					{
+						"name": "Seance/That Girl"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/speed-of-light/2023/uptown-theater-minneapolis-mn-53a09b0d.html"
+}

@@ -1,6 +1,32 @@
 {
 	"Event": [
 		{
+			"Id": "53a09b0d",
+			"Date": "2023-10-16",
+			"Venue": "Uptown Theater",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "SPEED OF LIGHT",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/speed-of-light/2023/uptown-theater-minneapolis-mn-53a09b0d.html"
+		},
+		{
+			"Id": "23a0b00b",
+			"Date": "2023-10-16",
+			"Venue": "Uptown Theater",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Bad Religion",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bad-religion/2023/uptown-theater-minneapolis-mn-23a0b00b.html"
+		},
+		{
 			"Id": "4ba2b342",
 			"Date": "2023-09-02",
 			"Venue": "Xcel Energy Center",

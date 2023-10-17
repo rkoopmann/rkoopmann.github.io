@@ -1947,4 +1947,24 @@ LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Pearl-Jam #Xcel-Energy-Center
 END:VEVENT
+BEGIN:VEVENT
+UID:23a0b00b
+SUMMARY:Bad Religion
+DTSTART;VALUE=DATE:20231016
+DTEND;VALUE=DATE:20231016
+URL:https://www.setlist.fm/setlist/bad-religion/2023/uptown-theater-minneapolis-mn-23a0b00b.html
+LOCATION:Uptown Theater, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Bad-Religion #Uptown-Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:53a09b0d
+SUMMARY:SPEED OF LIGHT
+DTSTART;VALUE=DATE:20231016
+DTEND;VALUE=DATE:20231016
+URL:https://www.setlist.fm/setlist/speed-of-light/2023/uptown-theater-minneapolis-mn-53a09b0d.html
+LOCATION:Uptown Theater, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#SPEED-OF-LIGHT #Uptown-Theater
+END:VEVENT
 END:VCALENDAR
