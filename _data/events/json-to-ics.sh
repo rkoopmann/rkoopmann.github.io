@@ -5,7 +5,7 @@ output_file="../../events/events.ics"
 
 echo "BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:A HACK
+PRODID:EPOCHS
 CALSCALE:GREGORIAN
 X-WR-TIMEZONE:America/Chicago
 X-WR-CALNAME:Setlist.fm
@@ -23,7 +23,7 @@ DTEND;VALUE=DATE:\(.eventDate | split("-") | .[2] + .[1] + .[0])
 URL:\(.url)
 LOCATION:\(.venue.name), \(.venue.city.name), \(.venue.city.stateCode)
 GEO:\(.venue.city.coords.lat);\(.venue.city.coords.long)
-DESCRIPTION:#\(.artist.name | gsub(" "; "-")) #\(.venue.name | gsub(" "; "-"))
+DESCRIPTION:#\(.artist.name | gsub("[^A-Za-z0-9 ]"; "") | gsub(" "; "_")) #\(.venue.name | gsub("[^A-Za-z0-9 ]"; "") | gsub(" "; "_")) #\(.tour.name | gsub("[^A-Za-z0-9 ]"; "")? | gsub(" "; "_")?)
 END:VEVENT"' | sed "s/$/$CRLF/" >> "${output_file}"
 
 echo "END:VCALENDAR" >> "${output_file}"
