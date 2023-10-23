@@ -1,11 +1,11 @@
 #!/bin/bash
 
-input_file="list.json"
+# input_file="list.json"
 output_file="../../events/events.ics"
 
 echo "BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:EPOCHS
+PRODID://EPOCHS//setlist
 CALSCALE:GREGORIAN
 X-WR-TIMEZONE:America/Chicago
 X-WR-CALNAME:Setlist.fm
