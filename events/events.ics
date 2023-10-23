@@ -14,6 +14,7 @@ DTSTAMP;TZID=America/Chicago:19940622T200000
 DTSTART;VALUE=DATE:19940622
 DTEND;VALUE=DATE:19940622
 URL:https://www.setlist.fm/setlist/pink-floyd/1994/hubert-h-humphrey-metrodome-minneapolis-mn-63d76673.html
+URL:geo:44.979965,-93.26384
 LOCATION:Hubert H. Humphrey Metrodome, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Pink_Floyd #Hubert_H_Humphrey_Metrodome #The_Division_Bell
@@ -25,6 +26,7 @@ DTSTAMP;TZID=America/Chicago:19941018T200000
 DTSTART;VALUE=DATE:19941018
 DTEND;VALUE=DATE:19941018
 URL:https://www.setlist.fm/setlist/candlebox/1994/state-theatre-minneapolis-mn-23d9083b.html
+URL:geo:44.979965,-93.26384
 LOCATION:State Theatre, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Candlebox #State_Theatre #Candlebox_Tour
@@ -36,6 +38,7 @@ DTSTAMP;TZID=America/Chicago:19941018T200000
 DTSTART;VALUE=DATE:19941018
 DTEND;VALUE=DATE:19941018
 URL:https://www.setlist.fm/setlist/the-flaming-lips/1994/state-theatre-minneapolis-mn-5bd5bbcc.html
+URL:geo:44.979965,-93.26384
 LOCATION:State Theatre, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#The_Flaming_Lips #State_Theatre #1994_Fall__Winter_Tour
@@ -47,6 +50,7 @@ DTSTAMP;TZID=America/Chicago:19950204T200000
 DTSTART;VALUE=DATE:19950204
 DTEND;VALUE=DATE:19950204
 URL:https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Melvins #Target_Center #Stoner_Witch
@@ -58,6 +62,7 @@ DTSTAMP;TZID=America/Chicago:19950204T200000
 DTSTART;VALUE=DATE:19950204
 DTEND;VALUE=DATE:19950204
 URL:https://www.setlist.fm/setlist/nine-inch-nails/1995/target-center-minneapolis-mn-3bd6d8c4.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Nine_Inch_Nails #Target_Center #Further_Down_the_Spiral
@@ -69,6 +74,7 @@ DTSTAMP;TZID=America/Chicago:19950513T200000
 DTSTART;VALUE=DATE:19950513
 DTEND;VALUE=DATE:19950513
 URL:https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-1bd14d38.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Melvins #Target_Center #Spring_1995_North_American_Tour
@@ -80,6 +86,7 @@ DTSTAMP;TZID=America/Chicago:19950513T200000
 DTSTART;VALUE=DATE:19950513
 DTEND;VALUE=DATE:19950513
 URL:https://www.setlist.fm/setlist/white-zombie/1995/target-center-minneapolis-mn-6bc53ed2.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#White_Zombie #Target_Center #Astro_Creep_2000
@@ -91,6 +98,7 @@ DTSTAMP;TZID=America/Chicago:19950521T200000
 DTSTART;VALUE=DATE:19950521
 DTEND;VALUE=DATE:19950521
 URL:https://www.setlist.fm/setlist/veruca-salt/1995/first-avenue-minneapolis-mn-3e65527.html
+URL:geo:44.979965,-93.26384
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Veruca_Salt #First_Avenue #American_Thighs
@@ -102,6 +110,7 @@ DTSTAMP;TZID=America/Chicago:19950528T200000
 DTSTART;VALUE=DATE:19950528
 DTEND;VALUE=DATE:19950528
 URL:https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Faith_No_More #FloatRite_Park_Amphitheatre #King_For_a_Day
@@ -113,6 +122,7 @@ DTSTAMP;TZID=America/Chicago:19950528T200000
 DTSTART;VALUE=DATE:19950528
 DTEND;VALUE=DATE:19950528
 URL:https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Monster_Magnet #FloatRite_Park_Amphitheatre #Dopes_To_Infinity_1995_Tour
@@ -124,6 +134,7 @@ DTSTAMP;TZID=America/Chicago:19950528T200000
 DTSTART;VALUE=DATE:19950528
 DTEND;VALUE=DATE:19950528
 URL:https://www.setlist.fm/setlist/our-lady-peace/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9aec.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Our_Lady_Peace #FloatRite_Park_Amphitheatre #Naveed_Tour
@@ -135,6 +146,7 @@ DTSTAMP;TZID=America/Chicago:19950528T200000
 DTSTART;VALUE=DATE:19950528
 DTEND;VALUE=DATE:19950528
 URL:https://www.setlist.fm/setlist/ramones/1995/float-rite-park-amphitheatre-somerset-wi-73d53255.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Ramones #FloatRite_Park_Amphitheatre #Midwest_Fests
@@ -146,6 +158,7 @@ DTSTAMP;TZID=America/Chicago:19950611T200000
 DTSTART;VALUE=DATE:19950611
 DTEND;VALUE=DATE:19950611
 URL:https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html
+URL:geo:44.944,-93.093
 LOCATION:Roy Wilkins Auditorium, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#The_Offspring #Roy_Wilkins_Auditorium #Smash
@@ -157,6 +170,7 @@ DTSTAMP;TZID=America/Chicago:19950722T200000
 DTSTART;VALUE=DATE:19950722
 DTEND;VALUE=DATE:19950722
 URL:https://www.setlist.fm/setlist/primus/1995/roy-wilkins-auditorium-st-paul-mn-3bd640ec.html
+URL:geo:44.944,-93.093
 LOCATION:Roy Wilkins Auditorium, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Primus #Roy_Wilkins_Auditorium #Tales_From_the_Punchbowl
@@ -168,6 +182,7 @@ DTSTAMP;TZID=America/Chicago:19950822T200000
 DTSTART;VALUE=DATE:19950822
 DTEND;VALUE=DATE:19950822
 URL:https://www.setlist.fm/setlist/the-black-crowes/1995/rivers-edge-park-somerset-wi-7bd4a260.html
+URL:geo:45.124413,-92.67354
 LOCATION:River's Edge Park, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#The_Black_Crowes #Rivers_Edge_Park #1995_HORDE_Tour
@@ -179,6 +194,7 @@ DTSTAMP;TZID=America/Chicago:19950822T200000
 DTSTART;VALUE=DATE:19950822
 DTEND;VALUE=DATE:19950822
 URL:https://www.setlist.fm/setlist/the-rembrandts/1995/rivers-edge-park-somerset-wi-4390f727.html
+URL:geo:45.124413,-92.67354
 LOCATION:River's Edge Park, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#The_Rembrandts #Rivers_Edge_Park #LP_Tour_1995
@@ -190,6 +206,7 @@ DTSTAMP;TZID=America/Chicago:19950822T200000
 DTSTART;VALUE=DATE:19950822
 DTEND;VALUE=DATE:19950822
 URL:https://www.setlist.fm/setlist/wilco/1995/rivers-edge-park-somerset-wi-4bceb77e.html
+URL:geo:45.124413,-92.67354
 LOCATION:River's Edge Park, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Wilco #Rivers_Edge_Park #1995_HORDE_Tour
@@ -201,6 +218,7 @@ DTSTAMP;TZID=America/Chicago:19951109T200000
 DTSTART;VALUE=DATE:19951109
 DTEND;VALUE=DATE:19951109
 URL:https://www.setlist.fm/setlist/white-zombie/1995/roy-wilkins-auditorium-st-paul-mn-4bc52b9a.html
+URL:geo:44.944,-93.093
 LOCATION:Roy Wilkins Auditorium, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#White_Zombie #Roy_Wilkins_Auditorium #Astro_Creep_2000
@@ -212,6 +230,7 @@ DTSTAMP;TZID=America/Chicago:19951209T200000
 DTSTART;VALUE=DATE:19951209
 DTEND;VALUE=DATE:19951209
 URL:https://www.setlist.fm/setlist/garbage/1995/target-center-minneapolis-mn-1bf0e524.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Garbage #Target_Center #Garbage
@@ -223,6 +242,7 @@ DTSTAMP;TZID=America/Chicago:19951209T200000
 DTSTART;VALUE=DATE:19951209
 DTEND;VALUE=DATE:19951209
 URL:https://www.setlist.fm/setlist/oasis/1995/target-center-minneapolis-mn-3bd798a0.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Oasis #Target_Center #Whats_The_Story_Morning_Glory
@@ -234,6 +254,7 @@ DTSTAMP;TZID=America/Chicago:19960430T200000
 DTSTART;VALUE=DATE:19960430
 DTEND;VALUE=DATE:19960430
 URL:https://www.setlist.fm/setlist/bad-religion/1996/first-avenue-minneapolis-mn-4bcdd3ea.html
+URL:geo:44.979965,-93.26384
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Bad_Religion #First_Avenue #The_Gray_Race_Tour
@@ -245,6 +266,7 @@ DTSTAMP;TZID=America/Chicago:19960504T200000
 DTSTART;VALUE=DATE:19960504
 DTEND;VALUE=DATE:19960504
 URL:https://www.setlist.fm/setlist/the-flaming-lips/1996/first-avenue-minneapolis-mn-4bd46736.html
+URL:geo:44.979965,-93.26384
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#The_Flaming_Lips #First_Avenue #1996_Spring_Tour
@@ -256,6 +278,7 @@ DTSTAMP;TZID=America/Chicago:19960525T200000
 DTSTART;VALUE=DATE:19960525
 DTEND;VALUE=DATE:19960525
 URL:https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Candlebox #FloatRite_Park_Amphitheatre #Lucy_Tour
@@ -267,6 +290,7 @@ DTSTAMP;TZID=America/Chicago:19960525T200000
 DTSTART;VALUE=DATE:19960525
 DTEND;VALUE=DATE:19960525
 URL:https://www.setlist.fm/setlist/everclear/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e534.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Everclear #FloatRite_Park_Amphitheatre #Sparkle_And_Fade
@@ -278,6 +302,7 @@ DTSTAMP;TZID=America/Chicago:19960525T200000
 DTSTART;VALUE=DATE:19960525
 DTEND;VALUE=DATE:19960525
 URL:https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Filter #FloatRite_Park_Amphitheatre #Short_Bus
@@ -289,6 +314,7 @@ DTSTAMP;TZID=America/Chicago:19960525T200000
 DTSTART;VALUE=DATE:19960525
 DTEND;VALUE=DATE:19960525
 URL:https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Garbage #FloatRite_Park_Amphitheatre #Garbage
@@ -300,6 +326,7 @@ DTSTAMP;TZID=America/Chicago:19960525T200000
 DTSTART;VALUE=DATE:19960525
 DTEND;VALUE=DATE:19960525
 URL:https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Goldfinger #FloatRite_Park_Amphitheatre #Goldfinger
@@ -311,6 +338,7 @@ DTSTAMP;TZID=America/Chicago:19960525T200000
 DTSTART;VALUE=DATE:19960525
 DTEND;VALUE=DATE:19960525
 URL:https://www.setlist.fm/setlist/iggy-pop/1996/float-rite-park-amphitheatre-somerset-wi-13c4e535.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Iggy_Pop #FloatRite_Park_Amphitheatre #Naughty_Little_Doggie
@@ -322,6 +350,7 @@ DTSTAMP;TZID=America/Chicago:19960525T200000
 DTSTART;VALUE=DATE:19960525
 DTEND;VALUE=DATE:19960525
 URL:https://www.setlist.fm/setlist/no-doubt/1996/float-rite-park-amphitheatre-somerset-wi-13c4e52d.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#No_Doubt #FloatRite_Park_Amphitheatre #Tragic_Kingdom
@@ -333,6 +362,7 @@ DTSTAMP;TZID=America/Chicago:19960628T200000
 DTSTART;VALUE=DATE:19960628
 DTEND;VALUE=DATE:19960628
 URL:https://www.setlist.fm/setlist/ben-folds-five/1996/iowa-state-fairgrounds-des-moines-ia-53e60ba9.html
+URL:geo:41.600544,-93.60911
 LOCATION:Iowa State Fairgrounds, Des Moines, IA
 GEO:41.600544;-93.60911
 DESCRIPTION:#Ben_Folds_Five #Iowa_State_Fairgrounds #Lollapalooza_1996
@@ -344,6 +374,7 @@ DTSTAMP;TZID=America/Chicago:19960628T200000
 DTSTART;VALUE=DATE:19960628
 DTEND;VALUE=DATE:19960628
 URL:https://www.setlist.fm/setlist/metallica/1996/iowa-state-fairgrounds-des-moines-ia-6bd6da6e.html
+URL:geo:41.600544,-93.60911
 LOCATION:Iowa State Fairgrounds, Des Moines, IA
 GEO:41.600544;-93.60911
 DESCRIPTION:#Metallica #Iowa_State_Fairgrounds #Lollapalooza_1996
@@ -355,6 +386,7 @@ DTSTAMP;TZID=America/Chicago:19960628T200000
 DTSTART;VALUE=DATE:19960628
 DTEND;VALUE=DATE:19960628
 URL:https://www.setlist.fm/setlist/ramones/1996/iowa-state-fairgrounds-des-moines-ia-7bc52a60.html
+URL:geo:41.600544,-93.60911
 LOCATION:Iowa State Fairgrounds, Des Moines, IA
 GEO:41.600544;-93.60911
 DESCRIPTION:#Ramones #Iowa_State_Fairgrounds #Lollapalooza_1996
@@ -366,6 +398,7 @@ DTSTAMP;TZID=America/Chicago:19960628T200000
 DTSTART;VALUE=DATE:19960628
 DTEND;VALUE=DATE:19960628
 URL:https://www.setlist.fm/setlist/rancid/1996/iowa-state-fairgrounds-des-moines-ia-6bfa42f2.html
+URL:geo:41.600544,-93.60911
 LOCATION:Iowa State Fairgrounds, Des Moines, IA
 GEO:41.600544;-93.60911
 DESCRIPTION:#Rancid #Iowa_State_Fairgrounds #Lollapalooza_1996
@@ -377,6 +410,7 @@ DTSTAMP;TZID=America/Chicago:19960628T200000
 DTSTART;VALUE=DATE:19960628
 DTEND;VALUE=DATE:19960628
 URL:https://www.setlist.fm/setlist/screaming-trees/1996/iowa-state-fairgrounds-des-moines-ia-13e7f93d.html
+URL:geo:41.600544,-93.60911
 LOCATION:Iowa State Fairgrounds, Des Moines, IA
 GEO:41.600544;-93.60911
 DESCRIPTION:#Screaming_Trees #Iowa_State_Fairgrounds #Lollapalooza_1996
@@ -388,6 +422,7 @@ DTSTAMP;TZID=America/Chicago:19960628T200000
 DTSTART;VALUE=DATE:19960628
 DTEND;VALUE=DATE:19960628
 URL:https://www.setlist.fm/setlist/soundgarden/1996/iowa-state-fairgrounds-des-moines-ia-3bd35820.html
+URL:geo:41.600544,-93.60911
 LOCATION:Iowa State Fairgrounds, Des Moines, IA
 GEO:41.600544;-93.60911
 DESCRIPTION:#Soundgarden #Iowa_State_Fairgrounds #Lollapalooza_1996
@@ -399,6 +434,7 @@ DTSTAMP;TZID=America/Chicago:19960628T200000
 DTSTART;VALUE=DATE:19960628
 DTEND;VALUE=DATE:19960628
 URL:https://www.setlist.fm/setlist/waylon-jennings/1996/iowa-state-fairgrounds-des-moines-ia-2bdf60d6.html
+URL:geo:41.600544,-93.60911
 LOCATION:Iowa State Fairgrounds, Des Moines, IA
 GEO:41.600544;-93.60911
 DESCRIPTION:#Waylon_Jennings #Iowa_State_Fairgrounds #Lollapalooza_1996
@@ -410,6 +446,7 @@ DTSTAMP;TZID=America/Chicago:19960915T200000
 DTSTART;VALUE=DATE:19960915
 DTEND;VALUE=DATE:19960915
 URL:https://www.setlist.fm/setlist/rage-against-the-machine/1996/roy-wilkins-auditorium-st-paul-mn-73d45271.html
+URL:geo:44.944,-93.093
 LOCATION:Roy Wilkins Auditorium, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Rage_Against_the_Machine #Roy_Wilkins_Auditorium #Evil_Empire
@@ -421,6 +458,7 @@ DTSTAMP;TZID=America/Chicago:19961204T200000
 DTSTART;VALUE=DATE:19961204
 DTEND;VALUE=DATE:19961204
 URL:https://www.setlist.fm/setlist/danzig/1996/target-center-minneapolis-mn-2bdf60c2.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Danzig #Target_Center #Danzig_V
@@ -432,6 +470,7 @@ DTSTAMP;TZID=America/Chicago:19961204T200000
 DTSTART;VALUE=DATE:19961204
 DTEND;VALUE=DATE:19961204
 URL:https://www.setlist.fm/setlist/the-wallflowers/1996/target-center-minneapolis-mn-3bdf60c0.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#The_Wallflowers #Target_Center #Bringing_Down_the_Horse
@@ -443,6 +482,7 @@ DTSTAMP;TZID=America/Chicago:19970524T200000
 DTSTART;VALUE=DATE:19970524
 DTEND;VALUE=DATE:19970524
 URL:https://www.setlist.fm/setlist/beck/1997/float-rite-park-amphitheatre-somerset-wi-7bda4260.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Beck #FloatRite_Park_Amphitheatre #Odelay
@@ -454,6 +494,7 @@ DTSTAMP;TZID=America/Chicago:19970524T200000
 DTSTART;VALUE=DATE:19970524
 DTEND;VALUE=DATE:19970524
 URL:https://www.setlist.fm/setlist/matchbox-twenty/1997/float-rite-park-amphitheatre-somerset-wi-befbd7a.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Matchbox_Twenty #FloatRite_Park_Amphitheatre #Yourself_or_Someone_Like_You
@@ -465,6 +506,7 @@ DTSTAMP;TZID=America/Chicago:19970524T200000
 DTSTART;VALUE=DATE:19970524
 DTEND;VALUE=DATE:19970524
 URL:https://www.setlist.fm/setlist/skunk-anansie/1997/float-rite-park-amphitheatre-somerset-wi-3bec94d4.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Skunk_Anansie #FloatRite_Park_Amphitheatre #Stoosh
@@ -476,6 +518,7 @@ DTSTAMP;TZID=America/Chicago:19970524T200000
 DTSTART;VALUE=DATE:19970524
 DTEND;VALUE=DATE:19970524
 URL:https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#The_Verve_Pipe #FloatRite_Park_Amphitheatre #Villains
@@ -487,6 +530,7 @@ DTSTAMP;TZID=America/Chicago:19970525T200000
 DTSTART;VALUE=DATE:19970525
 DTEND;VALUE=DATE:19970525
 URL:https://www.setlist.fm/setlist/iggy-pop/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c0.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Iggy_Pop #FloatRite_Park_Amphitheatre #Naughty_Little_Doggie
@@ -498,6 +542,7 @@ DTSTAMP;TZID=America/Chicago:19970525T200000
 DTSTART;VALUE=DATE:19970525
 DTEND;VALUE=DATE:19970525
 URL:https://www.setlist.fm/setlist/rollins-band/1997/float-rite-park-amphitheatre-somerset-wi-13fe89e1.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Rollins_Band #FloatRite_Park_Amphitheatre #Come_In_And_Burn
@@ -509,6 +554,7 @@ DTSTAMP;TZID=America/Chicago:19970525T200000
 DTSTART;VALUE=DATE:19970525
 DTEND;VALUE=DATE:19970525
 URL:https://www.setlist.fm/setlist/sevendust/1997/float-rite-park-amphitheatre-somerset-wi-13eb5571.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Sevendust #FloatRite_Park_Amphitheatre #Sevendust
@@ -520,6 +566,7 @@ DTSTAMP;TZID=America/Chicago:19971023T200000
 DTSTART;VALUE=DATE:19971023
 DTEND;VALUE=DATE:19971023
 URL:https://www.setlist.fm/setlist/foo-fighters/1997/roy-wilkins-auditorium-st-paul-mn-4bdd4342.html
+URL:geo:44.944,-93.093
 LOCATION:Roy Wilkins Auditorium, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Foo_Fighters #Roy_Wilkins_Auditorium #The_Colour_and_the_Shape
@@ -531,6 +578,7 @@ DTSTAMP;TZID=America/Chicago:19980630T200000
 DTSTART;VALUE=DATE:19980630
 DTEND;VALUE=DATE:19980630
 URL:https://www.setlist.fm/setlist/pearl-jam/1998/target-center-minneapolis-mn-43d66707.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Pearl_Jam #Target_Center #Yield
@@ -542,6 +590,7 @@ DTSTAMP;TZID=America/Chicago:19980717T200000
 DTSTART;VALUE=DATE:19980717
 DTEND;VALUE=DATE:19980717
 URL:https://www.setlist.fm/setlist/the-smashing-pumpkins/1998/block-e-at-hennepin-avenue-minneapolis-mn-5bd72f48.html
+URL:geo:44.979965,-93.26384
 LOCATION:Block E at Hennepin Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#The_Smashing_Pumpkins #Block_E_at_Hennepin_Avenue #An_Evening_with_the_Smashing_Pumpkins
@@ -553,6 +602,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/bad-religion/1998/float-rite-park-amphitheatre-somerset-wi-5bfdf764.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Bad_Religion #FloatRite_Park_Amphitheatre #Vans_Warped_Tour_1998
@@ -564,6 +614,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/coal-chamber/1998/float-rite-park-amphitheatre-somerset-wi-33de1881.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Coal_Chamber #FloatRite_Park_Amphitheatre #Ozzfest_1998
@@ -575,6 +626,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Deftones #FloatRite_Park_Amphitheatre #Vans_Warped_Tour_1998
@@ -586,6 +638,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/incubus/1998/float-rite-park-amphitheatre-somerset-wi-7bd632e4.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Incubus #FloatRite_Park_Amphitheatre #Ozzfest_1998
@@ -597,6 +650,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Motrhead #FloatRite_Park_Amphitheatre #Snake_Bite_Love
@@ -608,6 +662,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/nofx/1998/float-rite-park-amphitheatre-somerset-wi-5bdf6bd4.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#NOFX #FloatRite_Park_Amphitheatre #Vans_Warped_Tour_1998
@@ -619,6 +674,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Ozzy_Osbourne #FloatRite_Park_Amphitheatre #The_Ozzman_Cometh
@@ -630,6 +686,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/sevendust/1998/float-rite-park-amphitheatre-somerset-wi-4bd1139e.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Sevendust #FloatRite_Park_Amphitheatre #Ozzfest_1998
@@ -641,6 +698,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/soulfly/1998/float-rite-park-amphitheatre-somerset-wi-33dfe8d5.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Soulfly #FloatRite_Park_Amphitheatre #Ozzfest_1998
@@ -652,6 +710,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/system-of-a-down/1998/float-rite-park-amphitheatre-somerset-wi-3bde188c.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#System_of_a_Down #FloatRite_Park_Amphitheatre #Ozzfest_1998
@@ -663,6 +722,7 @@ DTSTAMP;TZID=America/Chicago:19980718T200000
 DTSTART;VALUE=DATE:19980718
 DTEND;VALUE=DATE:19980718
 URL:https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html
+URL:geo:45.124413,-92.67354
 LOCATION:Float-Rite Park Amphitheatre, Somerset, WI
 GEO:45.124413;-92.67354
 DESCRIPTION:#Tool #FloatRite_Park_Amphitheatre #nima
@@ -674,6 +734,7 @@ DTSTAMP;TZID=America/Chicago:19981219T200000
 DTSTART;VALUE=DATE:19981219
 DTEND;VALUE=DATE:19981219
 URL:https://www.setlist.fm/setlist/garbage/1998/target-center-minneapolis-mn-33ded099.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Garbage #Target_Center #Version_20
@@ -685,6 +746,7 @@ DTSTAMP;TZID=America/Chicago:19981219T200000
 DTSTART;VALUE=DATE:19981219
 DTEND;VALUE=DATE:19981219
 URL:https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#The_Goo_Goo_Dolls #Target_Center #Dizzy_Up_the_Girl
@@ -696,6 +758,7 @@ DTSTAMP;TZID=America/Chicago:20010331T200000
 DTSTART;VALUE=DATE:20010331
 DTEND;VALUE=DATE:20010331
 URL:https://www.setlist.fm/setlist/a-perfect-circle/2001/roy-wilkins-auditorium-st-paul-mn-33d08c49.html
+URL:geo:44.944,-93.093
 LOCATION:Roy Wilkins Auditorium, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#A_Perfect_Circle #Roy_Wilkins_Auditorium #Mer_de_noms
@@ -707,6 +770,7 @@ DTSTAMP;TZID=America/Chicago:20010331T200000
 DTSTART;VALUE=DATE:20010331
 DTEND;VALUE=DATE:20010331
 URL:https://www.setlist.fm/setlist/snake-river-conspiracy/2001/roy-wilkins-auditorium-st-paul-mn-73f492ad.html
+URL:geo:44.944,-93.093
 LOCATION:Roy Wilkins Auditorium, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Snake_River_Conspiracy #Roy_Wilkins_Auditorium #Sonic_Jihad
@@ -718,6 +782,7 @@ DTSTAMP;TZID=America/Chicago:20010906T200000
 DTSTART;VALUE=DATE:20010906
 DTEND;VALUE=DATE:20010906
 URL:https://www.setlist.fm/setlist/tool/2001/xcel-energy-center-st-paul-mn-73d462c1.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center #Lateralus
@@ -729,6 +794,7 @@ DTSTAMP;TZID=America/Chicago:20020308T200000
 DTSTART;VALUE=DATE:20020308
 DTEND;VALUE=DATE:20020308
 URL:https://www.setlist.fm/setlist/local-h/2002/the-quest-minneapolis-mn-13d84561.html
+URL:geo:44.979965,-93.26384
 LOCATION:The Quest, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Local_H #The_Quest #Here_Comes_the_Zoo
@@ -740,6 +806,7 @@ DTSTAMP;TZID=America/Chicago:20020904T200000
 DTSTART;VALUE=DATE:20020904
 DTEND;VALUE=DATE:20020904
 URL:https://www.setlist.fm/setlist/tool/2002/xcel-energy-center-st-paul-mn-43de9343.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center #Inside_The_Outside
@@ -751,6 +818,7 @@ DTSTAMP;TZID=America/Chicago:20031205T200000
 DTSTART;VALUE=DATE:20031205
 DTEND;VALUE=DATE:20031205
 URL:https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#A_Perfect_Circle #Xcel_Energy_Center #Thirteenth_Step
@@ -762,6 +830,7 @@ DTSTAMP;TZID=America/Chicago:20070626T200000
 DTSTART;VALUE=DATE:20070626
 DTEND;VALUE=DATE:20070626
 URL:https://www.setlist.fm/setlist/tool/2007/xcel-energy-center-st-paul-mn-13d63d59.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center #10000_Days
@@ -773,6 +842,7 @@ DTSTAMP;TZID=America/Chicago:20080606T200000
 DTSTART;VALUE=DATE:20080606
 DTEND;VALUE=DATE:20080606
 URL:https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-4bd6ab3a.html
+URL:geo:51.508415,-0.12553275
 LOCATION:Wembley Stadium, London, ENG
 GEO:51.508415;-0.12553275
 DESCRIPTION:#Foo_Fighters #Wembley_Stadium #Echoes_Silence_Patience_and_Grace
@@ -784,6 +854,7 @@ DTSTAMP;TZID=America/Chicago:20080607T200000
 DTSTART;VALUE=DATE:20080607
 DTEND;VALUE=DATE:20080607
 URL:https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-53d6ab39.html
+URL:geo:51.508415,-0.12553275
 LOCATION:Wembley Stadium, London, ENG
 GEO:51.508415;-0.12553275
 DESCRIPTION:#Foo_Fighters #Wembley_Stadium #Echoes_Silence_Patience_and_Grace
@@ -795,6 +866,7 @@ DTSTAMP;TZID=America/Chicago:20100701T200000
 DTSTART;VALUE=DATE:20100701
 DTEND;VALUE=DATE:20100701
 URL:https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d406cb.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center #2010_Summer_Tour
@@ -806,6 +878,7 @@ DTSTAMP;TZID=America/Chicago:20140411T200000
 DTSTART;VALUE=DATE:20140411
 DTEND;VALUE=DATE:20140411
 URL:https://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html
+URL:geo:44.979965,-93.26384
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Toadies #First_Avenue #Rubberneck_20th_Anniversary
@@ -817,6 +890,7 @@ DTSTAMP;TZID=America/Chicago:20150822T200000
 DTSTART;VALUE=DATE:20150822
 DTEND;VALUE=DATE:20150822
 URL:https://www.setlist.fm/setlist/foo-fighters/2015/xcel-energy-center-st-paul-mn-63f7d247.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Foo_Fighters #Xcel_Energy_Center #Sonic_Highways_World_Tour
@@ -828,6 +902,7 @@ DTSTAMP;TZID=America/Chicago:20160420T200000
 DTSTART;VALUE=DATE:20160420
 DTEND;VALUE=DATE:20160420
 URL:https://www.setlist.fm/setlist/filter/2016/mill-city-nights-minneapolis-mn-1bf1e1ac.html
+URL:geo:44.979965,-93.26384
 LOCATION:Mill City Nights, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Filter #Mill_City_Nights #Make_America_Hate_Again
@@ -839,6 +914,7 @@ DTSTAMP;TZID=America/Chicago:20170726T200000
 DTSTART;VALUE=DATE:20170726
 DTEND;VALUE=DATE:20170726
 URL:https://www.setlist.fm/setlist/roger-waters/2017/xcel-energy-center-st-paul-mn-13e581d9.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Roger_Waters #Xcel_Energy_Center #Us__Them_Tour
@@ -850,6 +926,7 @@ DTSTAMP;TZID=America/Chicago:20170802T200000
 DTSTART;VALUE=DATE:20170802
 DTEND;VALUE=DATE:20170802
 URL:https://www.setlist.fm/setlist/clutch/2017/vetter-stone-amphitheater-mankato-mn-3e5cd1b.html
+URL:geo:44.163578,-93.9994
 LOCATION:Vetter Stone Amphitheater, Mankato, MN
 GEO:44.163578;-93.9994
 DESCRIPTION:#Clutch #Vetter_Stone_Amphitheater #Psychic_Warfare
@@ -861,6 +938,7 @@ DTSTAMP;TZID=America/Chicago:20170802T200000
 DTSTART;VALUE=DATE:20170802
 DTEND;VALUE=DATE:20170802
 URL:https://www.setlist.fm/setlist/primus/2017/vetter-stone-amphitheater-mankato-mn-73e5d2e9.html
+URL:geo:44.163578,-93.9994
 LOCATION:Vetter Stone Amphitheater, Mankato, MN
 GEO:44.163578;-93.9994
 DESCRIPTION:#Primus #Vetter_Stone_Amphitheater #2017_Summer_US_Tour
@@ -872,6 +950,7 @@ DTSTAMP;TZID=America/Chicago:20170917T200000
 DTSTART;VALUE=DATE:20170917
 DTEND;VALUE=DATE:20170917
 URL:https://www.setlist.fm/setlist/the-flaming-lips/2017/myth-maplewood-mn-3be21024.html
+URL:geo:44.953022,-92.99522
 LOCATION:Myth, Maplewood, MN
 GEO:44.953022;-92.99522
 DESCRIPTION:#The_Flaming_Lips #Myth #2017_Summer_Tour
@@ -883,6 +962,7 @@ DTSTAMP;TZID=America/Chicago:20171111T200000
 DTSTART;VALUE=DATE:20171111
 DTEND;VALUE=DATE:20171111
 URL:https://www.setlist.fm/setlist/foo-fighters/2017/denny-sanford-premier-center-sioux-falls-sd-4be0a796.html
+URL:geo:43.549976,-96.700325
 LOCATION:Denny Sanford Premier Center, Sioux Falls, SD
 GEO:43.549976;-96.700325
 DESCRIPTION:#Foo_Fighters #Denny_Sanford_Premier_Center #Concrete_and_Gold
@@ -894,6 +974,7 @@ DTSTAMP;TZID=America/Chicago:20171125T200000
 DTSTART;VALUE=DATE:20171125
 DTEND;VALUE=DATE:20171125
 URL:https://www.setlist.fm/setlist/a-perfect-circle/2017/xcel-energy-center-st-paul-mn-43e03f6f.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#A_Perfect_Circle #Xcel_Energy_Center #Fall_2017
@@ -905,6 +986,7 @@ DTSTAMP;TZID=America/Chicago:20180809T200000
 DTSTART;VALUE=DATE:20180809
 DTEND;VALUE=DATE:20180809
 URL:https://www.setlist.fm/setlist/firehouse/2018/brown-county-fairgrounds-new-ulm-mn-63e8be13.html
+URL:geo:44.3125,-94.45306
 LOCATION:Brown County Fairgrounds, New Ulm, MN
 GEO:44.3125;-94.45306
 DESCRIPTION:#FireHouse #Brown_County_Fairgrounds #Rock_You_Tonight__Tour_2018
@@ -916,6 +998,7 @@ DTSTAMP;TZID=America/Chicago:20180913T200000
 DTSTART;VALUE=DATE:20180913
 DTEND;VALUE=DATE:20180913
 URL:https://www.setlist.fm/setlist/beck/2018/minneapolis-armory-minneapolis-mn-2be990f2.html
+URL:geo:44.979965,-93.26384
 LOCATION:Minneapolis Armory, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Beck #Minneapolis_Armory #Colors
@@ -927,6 +1010,7 @@ DTSTAMP;TZID=America/Chicago:20181018T200000
 DTSTART;VALUE=DATE:20181018
 DTEND;VALUE=DATE:20181018
 URL:https://www.setlist.fm/setlist/foo-fighters/2018/xcel-energy-center-st-paul-mn-3b968020.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Foo_Fighters #Xcel_Energy_Center #Concrete_and_Gold
@@ -938,6 +1022,7 @@ DTSTAMP;TZID=America/Chicago:20181024T200000
 DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181024
 URL:https://www.setlist.fm/setlist/troy-trombone-shorty-andrews-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html
+URL:geo:29.955,-90.075
 LOCATION:Champions Square, New Orleans, LA
 GEO:29.955;-90.075
 DESCRIPTION:#Troy_Trombone_Shorty_Andrews__Orleans_Avenue #Champions_Square #Trombone_Shortys_Voodoo_Threauxdown
@@ -949,6 +1034,7 @@ DTSTAMP;TZID=America/Chicago:20190201T200000
 DTSTART;VALUE=DATE:20190201
 DTEND;VALUE=DATE:20190201
 URL:https://www.setlist.fm/setlist/tesla/2019/mystic-showroom-at-mystic-lake-casino-prior-lake-mn-2b95d0f6.html
+URL:geo:44.7133,-93.42273
 LOCATION:Mystic Showroom at Mystic Lake Casino, Prior Lake, MN
 GEO:44.7133;-93.42273
 DESCRIPTION:#Tesla #Mystic_Showroom_at_Mystic_Lake_Casino #Shock
@@ -960,6 +1046,7 @@ DTSTAMP;TZID=America/Chicago:20190702T200000
 DTSTART;VALUE=DATE:20190702
 DTEND;VALUE=DATE:20190702
 URL:https://www.setlist.fm/setlist/bad-religion/2019/first-avenue-minneapolis-mn-5b915be4.html
+URL:geo:44.979965,-93.26384
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Bad_Religion #First_Avenue #Age_of_Unreason_Tour
@@ -971,6 +1058,7 @@ DTSTAMP;TZID=America/Chicago:20190702T200000
 DTSTART;VALUE=DATE:20190702
 DTEND;VALUE=DATE:20190702
 URL:https://www.setlist.fm/setlist/dave-hause/2019/first-avenue-minneapolis-mn-b915106.html
+URL:geo:44.979965,-93.26384
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Dave_Hause #First_Avenue #Summer_2019
@@ -982,6 +1070,7 @@ DTSTAMP;TZID=America/Chicago:20201212T200000
 DTSTART;VALUE=DATE:20201212
 DTEND;VALUE=DATE:20201212
 URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-383bd13.html
+URL:geo:34.090008,-118.36175
 LOCATION:The Roxy, West Hollywood, CA
 GEO:34.090008;-118.36175
 DESCRIPTION:#Bad_Religion #The_Roxy #Decades_Filmed_Live_at_the_Roxy
@@ -993,6 +1082,7 @@ DTSTAMP;TZID=America/Chicago:20201219T200000
 DTSTART;VALUE=DATE:20201219
 DTEND;VALUE=DATE:20201219
 URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-b83a94e.html
+URL:geo:34.090008,-118.36175
 LOCATION:The Roxy, West Hollywood, CA
 GEO:34.090008;-118.36175
 DESCRIPTION:#Bad_Religion #The_Roxy #Decades_Filmed_Live_at_the_Roxy
@@ -1004,6 +1094,7 @@ DTSTAMP;TZID=America/Chicago:20201226T200000
 DTSTART;VALUE=DATE:20201226
 DTEND;VALUE=DATE:20201226
 URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-3b838c0c.html
+URL:geo:34.090008,-118.36175
 LOCATION:The Roxy, West Hollywood, CA
 GEO:34.090008;-118.36175
 DESCRIPTION:#Bad_Religion #The_Roxy #Decades_Filmed_Live_at_the_Roxy
@@ -1015,6 +1106,7 @@ DTSTAMP;TZID=America/Chicago:20210102T200000
 DTSTART;VALUE=DATE:20210102
 DTEND;VALUE=DATE:20210102
 URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-7b83f620.html
+URL:geo:34.090008,-118.36175
 LOCATION:The Roxy, West Hollywood, CA
 GEO:34.090008;-118.36175
 DESCRIPTION:#Bad_Religion #The_Roxy #Decades_Filmed_Live_at_the_Roxy
@@ -1026,6 +1118,7 @@ DTSTAMP;TZID=America/Chicago:20210605T200000
 DTSTART;VALUE=DATE:20210605
 DTEND;VALUE=DATE:20210605
 URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-338e1ca9.html
+URL:geo:34.090008,-118.36175
 LOCATION:The Roxy, West Hollywood, CA
 GEO:34.090008;-118.36175
 DESCRIPTION:#Bad_Religion #The_Roxy #Decades_Filmed_Live_at_the_Roxy
@@ -1037,6 +1130,7 @@ DTSTAMP;TZID=America/Chicago:20210612T200000
 DTSTART;VALUE=DATE:20210612
 DTEND;VALUE=DATE:20210612
 URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-438e0767.html
+URL:geo:34.090008,-118.36175
 LOCATION:The Roxy, West Hollywood, CA
 GEO:34.090008;-118.36175
 DESCRIPTION:#Bad_Religion #The_Roxy #Decades_Filmed_Live_at_the_Roxy
@@ -1048,6 +1142,7 @@ DTSTAMP;TZID=America/Chicago:20210619T200000
 DTSTART;VALUE=DATE:20210619
 DTEND;VALUE=DATE:20210619
 URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-4b8e6bda.html
+URL:geo:34.090008,-118.36175
 LOCATION:The Roxy, West Hollywood, CA
 GEO:34.090008;-118.36175
 DESCRIPTION:#Bad_Religion #The_Roxy #Decades_Filmed_Live_at_the_Roxy
@@ -1059,6 +1154,7 @@ DTSTAMP;TZID=America/Chicago:20210626T200000
 DTSTART;VALUE=DATE:20210626
 DTEND;VALUE=DATE:20210626
 URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-538e4fbd.html
+URL:geo:34.090008,-118.36175
 LOCATION:The Roxy, West Hollywood, CA
 GEO:34.090008;-118.36175
 DESCRIPTION:#Bad_Religion #The_Roxy #Decades_Filmed_Live_at_the_Roxy
@@ -1070,6 +1166,7 @@ DTSTAMP;TZID=America/Chicago:20210912T200000
 DTSTART;VALUE=DATE:20210912
 DTEND;VALUE=DATE:20210912
 URL:https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html
+URL:geo:44.163578,-93.9994
 LOCATION:Vetter Stone Amphitheater, Mankato, MN
 GEO:44.163578;-93.9994
 DESCRIPTION:#Everclear #Vetter_Stone_Amphitheater #Summerland_Tour_2021
@@ -1081,6 +1178,7 @@ DTSTAMP;TZID=America/Chicago:20210912T200000
 DTSTART;VALUE=DATE:20210912
 DTEND;VALUE=DATE:20210912
 URL:https://www.setlist.fm/setlist/hoobastank/2021/vetter-stone-amphitheater-mankato-mn-2b8c0cae.html
+URL:geo:44.163578,-93.9994
 LOCATION:Vetter Stone Amphitheater, Mankato, MN
 GEO:44.163578;-93.9994
 DESCRIPTION:#Hoobastank #Vetter_Stone_Amphitheater #Summerland_Tour_2021
@@ -1092,6 +1190,7 @@ DTSTAMP;TZID=America/Chicago:20210912T200000
 DTSTART;VALUE=DATE:20210912
 DTEND;VALUE=DATE:20210912
 URL:https://www.setlist.fm/setlist/living-colour/2021/vetter-stone-amphitheater-mankato-mn-338c0ca9.html
+URL:geo:44.163578,-93.9994
 LOCATION:Vetter Stone Amphitheater, Mankato, MN
 GEO:44.163578;-93.9994
 DESCRIPTION:#Living_Colour #Vetter_Stone_Amphitheater #Summerland_Tour_2021
@@ -1103,6 +1202,7 @@ DTSTAMP;TZID=America/Chicago:20220313T200000
 DTSTART;VALUE=DATE:20220313
 DTEND;VALUE=DATE:20220313
 URL:https://www.setlist.fm/setlist/tool/2022/target-center-minneapolis-mn-b89e1fe.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Tool #Target_Center #Fear_Inoculum_2nd_Leg
@@ -1114,6 +1214,7 @@ DTSTAMP;TZID=America/Chicago:20220408T200000
 DTSTART;VALUE=DATE:20220408
 DTEND;VALUE=DATE:20220408
 URL:https://www.setlist.fm/setlist/the-flaming-lips/2022/palace-theatre-st-paul-mn-43b68bcb.html
+URL:geo:44.944,-93.093
 LOCATION:Palace Theatre, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#The_Flaming_Lips #Palace_Theatre #American_Head
@@ -1125,6 +1226,7 @@ DTSTAMP;TZID=America/Chicago:20220730T200000
 DTSTART;VALUE=DATE:20220730
 DTEND;VALUE=DATE:20220730
 URL:https://www.setlist.fm/setlist/roger-waters/2022/target-center-minneapolis-mn-33b21cf1.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Roger_Waters #Target_Center #This_Is_Not_a_Drill
@@ -1136,6 +1238,7 @@ DTSTAMP;TZID=America/Chicago:20220826T200000
 DTSTART;VALUE=DATE:20220826
 DTEND;VALUE=DATE:20220826
 URL:https://www.setlist.fm/setlist/kevin-hart/2022/target-center-minneapolis-mn-23b37403.html
+URL:geo:44.979965,-93.26384
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Kevin_Hart #Target_Center #Reality_Check
@@ -1147,6 +1250,7 @@ DTSTAMP;TZID=America/Chicago:20221007T200000
 DTSTART;VALUE=DATE:20221007
 DTEND;VALUE=DATE:20221007
 URL:https://www.setlist.fm/setlist/nashville-pussy/2022/first-avenue-minneapolis-mn-73b1cac5.html
+URL:geo:44.979965,-93.26384
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Nashville_Pussy #First_Avenue #Eaten_Alive
@@ -1158,6 +1262,7 @@ DTSTAMP;TZID=America/Chicago:20221007T200000
 DTSTART;VALUE=DATE:20221007
 DTEND;VALUE=DATE:20221007
 URL:https://www.setlist.fm/setlist/toadies/2022/first-avenue-minneapolis-mn-6bb1cac2.html
+URL:geo:44.979965,-93.26384
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Toadies #First_Avenue #Rubberneck_25th_Anniversary
@@ -1169,6 +1274,7 @@ DTSTAMP;TZID=America/Chicago:20230831T200000
 DTSTART;VALUE=DATE:20230831
 DTEND;VALUE=DATE:20230831
 URL:https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-7ba54a74.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Pearl_Jam #Xcel_Energy_Center #US_Tour_2023
@@ -1180,6 +1286,7 @@ DTSTAMP;TZID=America/Chicago:20230902T200000
 DTSTART;VALUE=DATE:20230902
 DTEND;VALUE=DATE:20230902
 URL:https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-4ba2b342.html
+URL:geo:44.944,-93.093
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Pearl_Jam #Xcel_Energy_Center #US_Tour_2023
@@ -1191,6 +1298,7 @@ DTSTAMP;TZID=America/Chicago:20231016T200000
 DTSTART;VALUE=DATE:20231016
 DTEND;VALUE=DATE:20231016
 URL:https://www.setlist.fm/setlist/bad-religion/2023/uptown-theater-minneapolis-mn-23a0b00b.html
+URL:geo:44.979965,-93.26384
 LOCATION:Uptown Theater, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Bad_Religion #Uptown_Theater #North_America_2023
