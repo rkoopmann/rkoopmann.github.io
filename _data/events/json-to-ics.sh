@@ -21,10 +21,9 @@ DTSTAMP;TZID=America/Chicago:\(.eventDate | split("-") | .[2] + .[1] + .[0])T200
 DTSTART;VALUE=DATE:\(.eventDate | split("-") | .[2] + .[1] + .[0])
 DTEND;VALUE=DATE:\(.eventDate | split("-") | .[2] + .[1] + .[0])
 URL:\(.url)
-URL:geo:\(.venue.city.coords.lat),\(.venue.city.coords.long)
 LOCATION:\(.venue.name), \(.venue.city.name), \(.venue.city.stateCode)
 GEO:\(.venue.city.coords.lat);\(.venue.city.coords.long)
-DESCRIPTION:#\(.artist.name | gsub("[^A-Za-z0-9 ]"; "") | gsub(" "; "_")) #\(.venue.name | gsub("[^A-Za-z0-9 ]"; "") | gsub(" "; "_")) #\(.tour.name | gsub("[^A-Za-z0-9 ]"; "")? | gsub(" "; "_")?)
+DESCRIPTION:#\(.artist.name | gsub("[^A-Za-z0-9 ]"; "") | gsub(" "; "_")) #\(.venue.name | gsub("[^A-Za-z0-9 ]"; "") | gsub(" "; "_")) #\(.tour.name | gsub("[^A-Za-z0-9 ]"; "")? | gsub(" "; "_")?) geo:\(.venue.city.coords.lat),\(.venue.city.coords.long)
 END:VEVENT"' | sed "s/$/$CRLF/" >> "${output_file}"
 
 echo "END:VCALENDAR" >> "${output_file}"
