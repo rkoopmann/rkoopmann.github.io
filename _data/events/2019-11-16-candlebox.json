@@ -1,8 +1,8 @@
 {
 	"id": "39a813f",
-	"versionId": "g4b9df34a",
+	"versionId": "g2b8274fe",
 	"eventDate": "16-11-2019",
-	"lastUpdated": "2023-08-03T19:37:50.918+0000",
+	"lastUpdated": "2023-10-19T16:19:11.099+0000",
 	"artist": {
 		"mbid": "8e9516ba-f417-47dd-a8a5-8998b94553f8",
 		"name": "Candlebox",
@@ -28,6 +28,9 @@
 			}
 		},
 		"url": "https://www.setlist.fm/venue/the-cabooze-minneapolis-mn-usa-3d6c507.html"
+	},
+	"tour": {
+		"name": "2019 US Tour"
 	},
 	"sets": {
 		"set": [

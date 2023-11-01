@@ -1,6 +1,32 @@
 {
 	"Event": [
 		{
+			"Id": "5ba07338",
+			"Date": "2023-10-31",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Tool",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/tool/2023/xcel-energy-center-st-paul-mn-5ba07338.html"
+		},
+		{
+			"Id": "5ba06308",
+			"Date": "2023-10-31",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Steel Beans",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/steel-beans/2023/xcel-energy-center-st-paul-mn-5ba06308.html"
+		},
+		{
 			"Id": "53a09b0d",
 			"Date": "2023-10-16",
 			"Venue": "Uptown Theater",

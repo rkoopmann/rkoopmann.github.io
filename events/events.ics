@@ -2152,4 +2152,26 @@ LOCATION:Uptown Theater, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#SPEED_OF_LIGHT #Uptown_Theater geo:44.979965,-93.26384
 END:VEVENT
+BEGIN:VEVENT
+UID:5ba06308
+SUMMARY:Steel Beans
+DTSTAMP;TZID=America/Chicago:20231031T200000
+DTSTART;VALUE=DATE:20231031
+DTEND;VALUE=DATE:20231031
+URL:https://www.setlist.fm/setlist/steel-beans/2023/xcel-energy-center-st-paul-mn-5ba06308.html
+LOCATION:Xcel Energy Center, St. Paul, MN
+GEO:44.944;-93.093
+DESCRIPTION:#Steel_Beans #Xcel_Energy_Center geo:44.944,-93.093
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba07338
+SUMMARY:Tool
+DTSTAMP;TZID=America/Chicago:20231031T200000
+DTSTART;VALUE=DATE:20231031
+DTEND;VALUE=DATE:20231031
+URL:https://www.setlist.fm/setlist/tool/2023/xcel-energy-center-st-paul-mn-5ba07338.html
+LOCATION:Xcel Energy Center, St. Paul, MN
+GEO:44.944;-93.093
+DESCRIPTION:#Tool #Xcel_Energy_Center geo:44.944,-93.093
+END:VEVENT
 END:VCALENDAR
