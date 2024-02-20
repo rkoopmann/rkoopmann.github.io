@@ -1,8 +1,8 @@
 {
 	"id": "5ba07338",
-	"versionId": "g4b80278a",
+	"versionId": "g4b8f9bde",
 	"eventDate": "31-10-2023",
-	"lastUpdated": "2023-11-01T04:34:01.687+0000",
+	"lastUpdated": "2023-11-21T02:50:23.885+0000",
 	"artist": {
 		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
 		"name": "Tool",
@@ -39,6 +39,10 @@
 				"encore": 0,
 				"song": [
 					{
+						"name": "Third Eye Intro",
+						"tape": true
+					},
+					{
 						"name": "Fear Inoculum"
 					},
 					{
@@ -49,7 +53,7 @@
 					},
 					{
 						"name": "Rosetta Stoned",
-						"info": "Proceeded by Lost Keys intro"
+						"info": "preceded by Lost Keys intro"
 					},
 					{
 						"name": "Pneuma"
@@ -67,7 +71,8 @@
 				"encore": 0,
 				"song": [
 					{
-						"name": "Chocolate Chip Trip"
+						"name": "Chocolate Chip Trip",
+						"info": "Extended"
 					},
 					{
 						"name": "Culling Voices"
@@ -76,7 +81,8 @@
 						"name": "Invincible"
 					},
 					{
-						"name": "Swamp Song"
+						"name": "Swamp Song",
+						"info": "False Start by Justin. First time song used as a setlist closer."
 					},
 					{
 						"name": "Dancing Queen",
@@ -86,5 +92,6 @@
 			}
 		]
 	},
+	"info": "Tool Halloween Show in Minnesota. Band Preformed 'Swamp Song' in costume",
 	"url": "https://www.setlist.fm/setlist/tool/2023/xcel-energy-center-st-paul-mn-5ba07338.html"
 }

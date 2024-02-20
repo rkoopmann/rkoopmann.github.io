@@ -1471,28 +1471,6 @@ GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center geo:44.944,-93.093
 END:VEVENT
 BEGIN:VEVENT
-UID:4bd6ab3a
-SUMMARY:Foo Fighters
-DTSTAMP;TZID=America/Chicago:20080606T200000
-DTSTART;VALUE=DATE:20080606
-DTEND;VALUE=DATE:20080606
-URL:https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-4bd6ab3a.html
-LOCATION:Wembley Stadium, London, ENG
-GEO:51.508415;-0.12553275
-DESCRIPTION:#Foo_Fighters #Wembley_Stadium geo:51.508415,-0.12553275
-END:VEVENT
-BEGIN:VEVENT
-UID:53d6ab39
-SUMMARY:Foo Fighters
-DTSTAMP;TZID=America/Chicago:20080607T200000
-DTSTART;VALUE=DATE:20080607
-DTEND;VALUE=DATE:20080607
-URL:https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-53d6ab39.html
-LOCATION:Wembley Stadium, London, ENG
-GEO:51.508415;-0.12553275
-DESCRIPTION:#Foo_Fighters #Wembley_Stadium geo:51.508415,-0.12553275
-END:VEVENT
-BEGIN:VEVENT
 UID:63d406cb
 SUMMARY:Tool
 DTSTAMP;TZID=America/Chicago:20100701T200000
@@ -1779,138 +1757,6 @@ GEO:44.979965;-93.26384
 DESCRIPTION:#Candlebox #The_Cabooze geo:44.979965,-93.26384
 END:VEVENT
 BEGIN:VEVENT
-UID:4384770b
-SUMMARY:Clutch
-DTSTAMP;TZID=America/Chicago:20200807T200000
-DTSTART;VALUE=DATE:20200807
-DTEND;VALUE=DATE:20200807
-URL:https://www.setlist.fm/setlist/clutch/2020/doom-saloon-frederick-md-4384770b.html
-LOCATION:Doom Saloon, Frederick, MD
-GEO:39.41427;-77.41054
-DESCRIPTION:#Clutch #Doom_Saloon geo:39.41427,-77.41054
-END:VEVENT
-BEGIN:VEVENT
-UID:6b8236da
-SUMMARY:Foo Fighters
-DTSTAMP;TZID=America/Chicago:20201114T200000
-DTSTART;VALUE=DATE:20201114
-DTEND;VALUE=DATE:20201114
-URL:https://www.setlist.fm/setlist/foo-fighters/2020/the-roxy-west-hollywood-ca-6b8236da.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Foo_Fighters #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
-UID:383bd2f
-SUMMARY:Primus
-DTSTAMP;TZID=America/Chicago:20201211T200000
-DTSTART;VALUE=DATE:20201211
-DTEND;VALUE=DATE:20201211
-URL:https://www.setlist.fm/setlist/primus/2020/pachyderm-station-sebastopol-ca-383bd2f.html
-LOCATION:Pachyderm Station, Sebastopol, CA
-GEO:38.402138;-122.82388
-DESCRIPTION:#Primus #Pachyderm_Station geo:38.402138,-122.82388
-END:VEVENT
-BEGIN:VEVENT
-UID:383bd13
-SUMMARY:Bad Religion
-DTSTAMP;TZID=America/Chicago:20201212T200000
-DTSTART;VALUE=DATE:20201212
-DTEND;VALUE=DATE:20201212
-URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-383bd13.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Bad_Religion #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
-UID:b83ad0e
-SUMMARY:Foo Fighters
-DTSTAMP;TZID=America/Chicago:20201215T200000
-DTSTART;VALUE=DATE:20201215
-DTEND;VALUE=DATE:20201215
-URL:https://www.setlist.fm/setlist/foo-fighters/2020/the-theatre-at-ace-hotel-los-angeles-ca-b83ad0e.html
-LOCATION:The Theatre at Ace Hotel, Los Angeles, CA
-GEO:34.052;-118.244
-DESCRIPTION:#Foo_Fighters #The_Theatre_at_Ace_Hotel geo:34.052,-118.244
-END:VEVENT
-BEGIN:VEVENT
-UID:b83a94e
-SUMMARY:Bad Religion
-DTSTAMP;TZID=America/Chicago:20201219T200000
-DTSTART;VALUE=DATE:20201219
-DTEND;VALUE=DATE:20201219
-URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-b83a94e.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Bad_Religion #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
-UID:3b838c0c
-SUMMARY:Bad Religion
-DTSTAMP;TZID=America/Chicago:20201226T200000
-DTSTART;VALUE=DATE:20201226
-DTEND;VALUE=DATE:20201226
-URL:https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-3b838c0c.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Bad_Religion #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
-UID:7b83f620
-SUMMARY:Bad Religion
-DTSTAMP;TZID=America/Chicago:20210102T200000
-DTSTART;VALUE=DATE:20210102
-DTEND;VALUE=DATE:20210102
-URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-7b83f620.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Bad_Religion #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
-UID:338e1ca9
-SUMMARY:Bad Religion
-DTSTAMP;TZID=America/Chicago:20210605T200000
-DTSTART;VALUE=DATE:20210605
-DTEND;VALUE=DATE:20210605
-URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-338e1ca9.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Bad_Religion #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
-UID:438e0767
-SUMMARY:Bad Religion
-DTSTAMP;TZID=America/Chicago:20210612T200000
-DTSTART;VALUE=DATE:20210612
-DTEND;VALUE=DATE:20210612
-URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-438e0767.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Bad_Religion #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
-UID:4b8e6bda
-SUMMARY:Bad Religion
-DTSTAMP;TZID=America/Chicago:20210619T200000
-DTSTART;VALUE=DATE:20210619
-DTEND;VALUE=DATE:20210619
-URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-4b8e6bda.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Bad_Religion #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
-UID:538e4fbd
-SUMMARY:Bad Religion
-DTSTAMP;TZID=America/Chicago:20210626T200000
-DTSTART;VALUE=DATE:20210626
-DTEND;VALUE=DATE:20210626
-URL:https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-538e4fbd.html
-LOCATION:The Roxy, West Hollywood, CA
-GEO:34.090008;-118.36175
-DESCRIPTION:#Bad_Religion #The_Roxy geo:34.090008,-118.36175
-END:VEVENT
-BEGIN:VEVENT
 UID:238c0cab
 SUMMARY:Everclear
 DTSTAMP;TZID=America/Chicago:20210912T200000
@@ -1944,17 +1790,6 @@ GEO:44.163578;-93.9994
 DESCRIPTION:#Living_Colour #Vetter_Stone_Amphitheater geo:44.163578,-93.9994
 END:VEVENT
 BEGIN:VEVENT
-UID:738a4ee1
-SUMMARY:Clutch
-DTSTAMP;TZID=America/Chicago:20211126T200000
-DTSTART;VALUE=DATE:20211126
-DTEND;VALUE=DATE:20211126
-URL:https://www.setlist.fm/setlist/clutch/2021/doom-saloon-frederick-md-738a4ee1.html
-LOCATION:Doom Saloon, Frederick, MD
-GEO:39.41427;-77.41054
-DESCRIPTION:#Clutch #Doom_Saloon geo:39.41427,-77.41054
-END:VEVENT
-BEGIN:VEVENT
 UID:b89e1fe
 SUMMARY:Tool
 DTSTAMP;TZID=America/Chicago:20220313T200000
@@ -1964,17 +1799,6 @@ URL:https://www.setlist.fm/setlist/tool/2022/target-center-minneapolis-mn-b89e1f
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Tool #Target_Center geo:44.979965,-93.26384
-END:VEVENT
-BEGIN:VEVENT
-UID:5b892348
-SUMMARY:Foo Fighters
-DTSTAMP;TZID=America/Chicago:20220320T200000
-DTSTART;VALUE=DATE:20220320
-DTEND;VALUE=DATE:20220320
-URL:https://www.setlist.fm/setlist/foo-fighters/2022/hipodromo-de-san-isidro-san-isidro-argentina-5b892348.html
-LOCATION:Hipódromo de San Isidro, San Isidro, 01
-GEO:-34.470833;-58.52861
-DESCRIPTION:#Foo_Fighters #Hipdromo_de_San_Isidro geo:-34.470833,-58.52861
 END:VEVENT
 BEGIN:VEVENT
 UID:4bb68bca
@@ -2021,17 +1845,6 @@ GEO:44.979965;-93.26384
 DESCRIPTION:#Kevin_Hart #Target_Center geo:44.979965,-93.26384
 END:VEVENT
 BEGIN:VEVENT
-UID:3b0a5bb
-SUMMARY:Various Artists
-DTSTAMP;TZID=America/Chicago:20220903T200000
-DTSTART;VALUE=DATE:20220903
-DTEND;VALUE=DATE:20220903
-URL:https://www.setlist.fm/setlist/various-artists/2022/wembley-stadium-london-england-3b0a5bb.html
-LOCATION:Wembley Stadium, London, ENG
-GEO:51.508415;-0.12553275
-DESCRIPTION:#Various_Artists #Wembley_Stadium geo:51.508415,-0.12553275
-END:VEVENT
-BEGIN:VEVENT
 UID:73b1cac5
 SUMMARY:Nashville Pussy
 DTSTAMP;TZID=America/Chicago:20221007T200000
@@ -2074,17 +1887,6 @@ URL:https://www.setlist.fm/setlist/jon-lovitz/2023/the-laugh-factory-las-vegas-n
 LOCATION:The Laugh Factory, Las Vegas, NV
 GEO:36.17497;-115.13722
 DESCRIPTION:#Jon_Lovitz #The_Laugh_Factory geo:36.17497,-115.13722
-END:VEVENT
-BEGIN:VEVENT
-UID:33b938ed
-SUMMARY:Foo Fighters
-DTSTAMP;TZID=America/Chicago:20230521T200000
-DTSTART;VALUE=DATE:20230521
-DTEND;VALUE=DATE:20230521
-URL:https://www.setlist.fm/setlist/foo-fighters/2023/studio-606-los-angeles-ca-33b938ed.html
-LOCATION:Studio 606, Los Angeles, CA
-GEO:34.052;-118.244
-DESCRIPTION:#Foo_Fighters #Studio_606 geo:34.052,-118.244
 END:VEVENT
 BEGIN:VEVENT
 UID:6ba54a5a
@@ -2143,14 +1945,14 @@ DESCRIPTION:#Bad_Religion #Uptown_Theater geo:44.979965,-93.26384
 END:VEVENT
 BEGIN:VEVENT
 UID:53a09b0d
-SUMMARY:SPEED OF LIGHT
+SUMMARY:Speed of Light
 DTSTAMP;TZID=America/Chicago:20231016T200000
 DTSTART;VALUE=DATE:20231016
 DTEND;VALUE=DATE:20231016
 URL:https://www.setlist.fm/setlist/speed-of-light/2023/uptown-theater-minneapolis-mn-53a09b0d.html
 LOCATION:Uptown Theater, Minneapolis, MN
 GEO:44.979965;-93.26384
-DESCRIPTION:#SPEED_OF_LIGHT #Uptown_Theater geo:44.979965,-93.26384
+DESCRIPTION:#Speed_of_Light #Uptown_Theater geo:44.979965,-93.26384
 END:VEVENT
 BEGIN:VEVENT
 UID:5ba06308
@@ -2173,5 +1975,16 @@ URL:https://www.setlist.fm/setlist/tool/2023/xcel-energy-center-st-paul-mn-5ba07
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center geo:44.944,-93.093
+END:VEVENT
+BEGIN:VEVENT
+UID:73a1e2ad
+SUMMARY:Adam Sandler
+DTSTAMP;TZID=America/Chicago:20231112T200000
+DTSTART;VALUE=DATE:20231112
+DTEND;VALUE=DATE:20231112
+URL:https://www.setlist.fm/setlist/adam-sandler/2023/target-center-minneapolis-mn-73a1e2ad.html
+LOCATION:Target Center, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Adam_Sandler #Target_Center geo:44.979965,-93.26384
 END:VEVENT
 END:VCALENDAR

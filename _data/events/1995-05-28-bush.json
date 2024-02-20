@@ -1,8 +1,8 @@
 {
 	"id": "bce490a",
-	"versionId": "g1bfc6d90",
+	"versionId": "g5b8aeb50",
 	"eventDate": "28-05-1995",
-	"lastUpdated": "2022-09-05T20:48:06.803+0000",
+	"lastUpdated": "2023-12-18T14:27:36.027+0000",
 	"artist": {
 		"mbid": "93ccd76c-3790-4435-a8bf-02bc26294b93",
 		"name": "Bush",
@@ -28,6 +28,9 @@
 			}
 		},
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Sixteen Stone"
 	},
 	"sets": {
 		"set": []

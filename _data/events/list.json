@@ -1,6 +1,19 @@
 {
 	"Event": [
 		{
+			"Id": "73a1e2ad",
+			"Date": "2023-11-12",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Adam Sandler",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/adam-sandler/2023/target-center-minneapolis-mn-73a1e2ad.html"
+		},
+		{
 			"Id": "5ba07338",
 			"Date": "2023-10-31",
 			"Venue": "Xcel Energy Center",
@@ -34,7 +47,7 @@
 			"State": "Minnesota",
 			"Lat": 44.979965,
 			"Long": -93.26384,
-			"Artist": "SPEED OF LIGHT",
+			"Artist": "Speed of Light",
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/speed-of-light/2023/uptown-theater-minneapolis-mn-53a09b0d.html"
@@ -105,19 +118,6 @@
 			"Link": "https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-6ba54a5a.html"
 		},
 		{
-			"Id": "33b938ed",
-			"Date": "2023-05-21",
-			"Venue": "Studio 606",
-			"City": "Los Angeles",
-			"State": "California",
-			"Lat": 34.052,
-			"Long": -118.244,
-			"Artist": "Foo Fighters",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/foo-fighters/2023/studio-606-los-angeles-ca-33b938ed.html"
-		},
-		{
 			"Id": "43b8739b",
 			"Date": "2023-04-28",
 			"Venue": "The Laugh Factory",
@@ -168,19 +168,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/toadies/2022/first-avenue-minneapolis-mn-6bb1cac2.html"
-		},
-		{
-			"Id": "3b0a5bb",
-			"Date": "2022-09-03",
-			"Venue": "Wembley Stadium",
-			"City": "London",
-			"State": "England",
-			"Lat": 51.508415,
-			"Long": -0.12553275,
-			"Artist": "Various Artists",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/various-artists/2022/wembley-stadium-london-england-3b0a5bb.html"
 		},
 		{
 			"Id": "23b37403",
@@ -235,19 +222,6 @@
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/2022/palace-theatre-st-paul-mn-43b68bcb.html"
 		},
 		{
-			"Id": "5b892348",
-			"Date": "2022-03-20",
-			"Venue": "Hipódromo de San Isidro",
-			"City": "San Isidro",
-			"State": "Buenos Aires",
-			"Lat": -34.470833,
-			"Long": -58.52861,
-			"Artist": "Foo Fighters",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/foo-fighters/2022/hipodromo-de-san-isidro-san-isidro-argentina-5b892348.html"
-		},
-		{
 			"Id": "b89e1fe",
 			"Date": "2022-03-13",
 			"Venue": "Target Center",
@@ -259,19 +233,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2022/target-center-minneapolis-mn-b89e1fe.html"
-		},
-		{
-			"Id": "738a4ee1",
-			"Date": "2021-11-26",
-			"Venue": "Doom Saloon",
-			"City": "Frederick",
-			"State": "Maryland",
-			"Lat": 39.41427,
-			"Long": -77.41054,
-			"Artist": "Clutch",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/clutch/2021/doom-saloon-frederick-md-738a4ee1.html"
 		},
 		{
 			"Id": "338c0ca9",
@@ -311,162 +272,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html"
-		},
-		{
-			"Id": "538e4fbd",
-			"Date": "2021-06-26",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Bad Religion",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-538e4fbd.html"
-		},
-		{
-			"Id": "4b8e6bda",
-			"Date": "2021-06-19",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Bad Religion",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-4b8e6bda.html"
-		},
-		{
-			"Id": "438e0767",
-			"Date": "2021-06-12",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Bad Religion",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-438e0767.html"
-		},
-		{
-			"Id": "338e1ca9",
-			"Date": "2021-06-05",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Bad Religion",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-338e1ca9.html"
-		},
-		{
-			"Id": "7b83f620",
-			"Date": "2021-01-02",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Bad Religion",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2021/the-roxy-west-hollywood-ca-7b83f620.html"
-		},
-		{
-			"Id": "3b838c0c",
-			"Date": "2020-12-26",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Bad Religion",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-3b838c0c.html"
-		},
-		{
-			"Id": "b83a94e",
-			"Date": "2020-12-19",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Bad Religion",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-b83a94e.html"
-		},
-		{
-			"Id": "b83ad0e",
-			"Date": "2020-12-15",
-			"Venue": "The Theatre at Ace Hotel",
-			"City": "Los Angeles",
-			"State": "California",
-			"Lat": 34.052,
-			"Long": -118.244,
-			"Artist": "Foo Fighters",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/foo-fighters/2020/the-theatre-at-ace-hotel-los-angeles-ca-b83ad0e.html"
-		},
-		{
-			"Id": "383bd13",
-			"Date": "2020-12-12",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Bad Religion",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/bad-religion/2020/the-roxy-west-hollywood-ca-383bd13.html"
-		},
-		{
-			"Id": "383bd2f",
-			"Date": "2020-12-11",
-			"Venue": "Pachyderm Station",
-			"City": "Sebastopol",
-			"State": "California",
-			"Lat": 38.402138,
-			"Long": -122.82388,
-			"Artist": "Primus",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/primus/2020/pachyderm-station-sebastopol-ca-383bd2f.html"
-		},
-		{
-			"Id": "6b8236da",
-			"Date": "2020-11-14",
-			"Venue": "The Roxy",
-			"City": "West Hollywood",
-			"State": "California",
-			"Lat": 34.090008,
-			"Long": -118.36175,
-			"Artist": "Foo Fighters",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/foo-fighters/2020/the-roxy-west-hollywood-ca-6b8236da.html"
-		},
-		{
-			"Id": "4384770b",
-			"Date": "2020-08-07",
-			"Venue": "Doom Saloon",
-			"City": "Frederick",
-			"State": "Maryland",
-			"Lat": 39.41427,
-			"Long": -77.41054,
-			"Artist": "Clutch",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/clutch/2020/doom-saloon-frederick-md-4384770b.html"
 		},
 		{
 			"Id": "39a813f",
@@ -805,32 +610,6 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d406cb.html"
-		},
-		{
-			"Id": "53d6ab39",
-			"Date": "2008-06-07",
-			"Venue": "Wembley Stadium",
-			"City": "London",
-			"State": "England",
-			"Lat": 51.508415,
-			"Long": -0.12553275,
-			"Artist": "Foo Fighters",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-53d6ab39.html"
-		},
-		{
-			"Id": "4bd6ab3a",
-			"Date": "2008-06-06",
-			"Venue": "Wembley Stadium",
-			"City": "London",
-			"State": "England",
-			"Lat": 51.508415,
-			"Long": -0.12553275,
-			"Artist": "Foo Fighters",
-			"Tour": "",
-			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/foo-fighters/2008/wembley-stadium-london-england-4bd6ab3a.html"
 		},
 		{
 			"Id": "13d63d59",
