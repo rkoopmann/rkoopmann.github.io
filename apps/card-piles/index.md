@@ -22,4 +22,4 @@ At any rate, [have at it][app].
 
 [app]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
 
-(Here's the [privacy policy](/{{ page.app.slug }}/privacy) if you're interested. tldr; no data collected/shared/retained.)
+(Here's the [privacy policy](/{{ page.app.slug }}/privacy/) if you're interested. tldr; no data collected/shared/retained.)

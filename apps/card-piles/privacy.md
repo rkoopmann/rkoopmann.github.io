@@ -1,7 +1,7 @@
 ---
 layout: app
 title: card piles privacy
-permalink: /card-piles/privacy
+permalink: /card-piles/privacy/
 category: post
 tags:
   - swift

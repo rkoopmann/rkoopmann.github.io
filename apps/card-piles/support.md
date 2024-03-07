@@ -1,7 +1,7 @@
 ---
 layout: app
 title: card piles support
-permalink: /card-piles/support
+permalink: /card-piles/support/
 category: post
 tags:
   - swift
