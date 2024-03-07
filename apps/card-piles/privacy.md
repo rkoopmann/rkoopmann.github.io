@@ -18,14 +18,14 @@ app:
 
 ## Data Collection
 
-[{{ app.name }}][app] does not collect _any_ data.
+[{{ page.app.name }}][app] does not collect _any_ data.
 
 ## Data Sharing
 
-Given the above point, [{{ app.name }}][app] cannot share data. [{{ app.name }}][app] is a SwiftUI app and makes use of Apple's developer libraries exclusively; no external libraries. These Apple libraries do not, to the best of my knowledge, collect data.
+Given the above point, [{{ page.app.name }}][app] cannot share data. [{{ page.app.name }}][app] is a SwiftUI app and makes use of Apple's developer libraries exclusively; no external libraries. These Apple libraries do not, to the best of my knowledge, collect data.
 
 ## Data Retention
 
-Since [{{ app.name }}][app] does not collect data, [{{ app.name }}][app] cannot retain data.
+Since [{{ page.app.name }}][app] does not collect data, [{{ page.app.name }}][app] cannot retain data.
 
 [app]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
