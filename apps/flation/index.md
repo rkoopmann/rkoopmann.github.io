@@ -14,7 +14,9 @@ app:
   slug: flation
 ---
 
-![](./bento.jpg)
+[appstore]: https://apps.apple.com/us/app/{{ pager.app.slug }}/id{{ page.app.id }}
+
+![](./main.jpg)
 
 Introducing [{{ page.app.name }}][appstore] – Your Time Machine for Money Value!
 
@@ -47,7 +49,9 @@ Feel free to use [{{ page.app.name }}][appstore] at your leisure for whatever pu
 
 [{{ page.app.name }}][appstore] is currently free to download and use. At some future point, [{{ page.app.name }}][appstore] may become a paid-up-front app. When this transition occurs, a purchase will be required for continued use of [{{ page.app.name }}][appstore].
 
-All [{{ page.app.name }}][appstore] purchases are final; I cannot issue refunds charged to your Apple ID.
+**Refunds**
+
+All [{{ page.app.name }}][appstore] purchases are final. I cannot issue refunds charged to your Apple ID, but you can ask [Apple](https://support.apple.com/en-us/118223) to do so.
 
 **For Reference Only**
 
@@ -68,4 +72,6 @@ Given the above point, [{{ page.app.name }}][appstore] cannot share data. [{{ pa
 
 Since [{{ page.app.name }}][appstore] does not collect data, [{{ page.app.name }}][appstore] cannot retain data.
 
-[appstore]: https://apps.apple.com/us/app/{{ pager.app.slug }}/id{{ page.app.id }}
+# Support
+
+There's not much that can go wrong with [{{ page.app.name }}][appstore]. That said, if after restarting your device and reproducing the issue you think you've found a bug, please reach out; I don't like bugs either.

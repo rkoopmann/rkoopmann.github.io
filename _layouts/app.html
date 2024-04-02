@@ -12,7 +12,7 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
       <header class="inner">
-        <h1 id="project_title"><a href="/{{ page.dir }}/">{{ page.title }}</a></h1>
+        <h1 id="project_title"><a href="{{ site.url }}/{{ page.dir }}/">{{ page.title }}</a></h1>
         <h2 id="project_tagline">{{ page.app.tagline }}</h2>
 
       </header>
@@ -29,17 +29,13 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <p>
-          <a href="/{{ page.app.slug }}">home</a>
+          <a href="{{ site.url }}/">home</a>
+          ⨳
+          <a href="{{ site.url }}/apps/">apps</a>
           ⨳
           <a href="https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}">buy</a>
-          ⨳
-          <a href="/{{ page.app.slug }}/support/">support</a>
-          ⨳
-          <a href="/{{ page.app.slug }}/about/">about</a>
-          ⨳
-          <a href="/{{ page.app.slug }}/privacy/">privacy</a>
         </p>
-        <p class="copyright">&copy; {{ site.time | date: '%Y' }} <a href="/">rkoopmann</a>. All Rights Reserved.</p>
+        <p class="copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">rkoopmann</a>. All Rights Reserved.</p>
         <!-- ><p>Published with <a href="https://pages.github.com">GitHub Pages</a></p> -->
       </footer>
     </div>
