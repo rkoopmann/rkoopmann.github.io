@@ -3,7 +3,8 @@ layout: post
 title: macros and the data step
 category: sas
 tags:
-- macro
+- sas
+- sas macro
 - data step
 ---
 

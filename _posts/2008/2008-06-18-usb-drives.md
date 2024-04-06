@@ -1,8 +1,9 @@
 ---
 layout: post
-title: wiping usb drives
+title: Wiping USB Drives
 category: sas
 tags:
+- sas
 - tip
 ---
 
@@ -12,15 +13,15 @@ before you give away that usb drive, you might want to wipe it clean. here's a s
 
 delete everything on the drive, then run this program.
 
-    data _null_;  
-        file 'f:\junk.txt';  
-        do m = 1 to 962; /* formatted capacity */  
-            do k = 1 to 1024; /* 1024 kbs in a mb */  
-                do b = 1 to 1024; /* 1024 bytes in a kb */  
-                    put 'x' @;  
-                end;  
-            end;  
-        end;  
+    data _null_;
+        file 'f:\junk.txt';
+        do m = 1 to 962; /* formatted capacity */
+            do k = 1 to 1024; /* 1024 kbs in a mb */
+                do b = 1 to 1024; /* 1024 bytes in a kb */
+                    put 'x' @;
+                end;
+            end;
+        end;
     run;
 
 it can take a while depending on your configuration. a 1GB drive took about 45 minutes to fill up.

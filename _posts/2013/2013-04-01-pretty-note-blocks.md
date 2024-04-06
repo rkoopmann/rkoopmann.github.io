@@ -4,7 +4,8 @@ title: pretty note blocks
 subtitle: wherein i create a sas macro to facilitate making pretty note blocks for sas code
 category: sas
 tags:
-- macro
+- sas
+- sas macro
 summary: here is how i make sas comment blocks a little less jagged.
 ---
 

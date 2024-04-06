@@ -4,7 +4,8 @@ title: rebuilding wide macros
 author: rkoopmann
 category: sas
 tags:
-- macro
+- sas
+- sas macro
 drafted: 2014-07-08
 date: 2014-07-09
 ---

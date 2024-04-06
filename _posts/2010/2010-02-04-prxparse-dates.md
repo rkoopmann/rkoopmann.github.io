@@ -3,7 +3,7 @@ layout: post
 title: prxparse(dates)
 category: sas
 tags:
-- prx
+- regex
 - date values
 ---
 

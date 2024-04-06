@@ -4,6 +4,7 @@ title: benchmarking the sasload statement
 author: rkoopmann
 category: sas
 tags:
+- sas
 - benchmark
 drafted: 2014-07-17
 date: 2014-07-17 12:17:00 -0700

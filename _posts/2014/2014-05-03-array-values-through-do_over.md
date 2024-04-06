@@ -5,8 +5,8 @@ date: 2014-05-03
 drafted: 2014-04-02
 category: sas
 tags:
-- '%array'
-- '%do_over'
+- sas
+- sas macro
 ---
 
 I've been using Ted Clay's `%array` and `%do_over` macros lately. a lot. Everytime I think I've hit a wall with what these two macros can do, I look back at Ted's [Coders' Corner paper][tight-looping] for SUGI 31--that'd be *SGF 2006* in SAS Global Forum terms.

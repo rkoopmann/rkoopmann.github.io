@@ -1,9 +1,10 @@
 ---
 layout: post
-title: sashboards = dashboards in sas?
+title: SAShboards = Dashboards in SAS?
 author: rkoopmann
 category: sas
 tags:
+- sas
 - dashboard
 - tutorial
 link: http://support.sas.com/rnd/datavisualization/dashboards/
@@ -16,10 +17,10 @@ thank you, sas! you finally put up some [great examples][1] on how to create das
 
 i'm dissecting the [telesales][6] and [marketing analysis][7] dashboards…and finding a few new approaches to constructing more usable graphs. good times.
 
-[1]: http://support.sas.com/rnd/datavisualization/dashboards/ 
+[1]: http://support.sas.com/rnd/datavisualization/dashboards/
 [2]: http://www.b-eye-network.com/authors/index.php?a=79&
 [3]: http://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601999/ref=pd_rhf_f_2/103-2729875-4252647
-[4]: http://www.amazon.com/Information-Dashboard-Design-Effective-Communication/dp/0596100167/ref=pd_rhf_f_1/103-2729875-4252647 
+[4]: http://www.amazon.com/Information-Dashboard-Design-Effective-Communication/dp/0596100167/ref=pd_rhf_f_1/103-2729875-4252647
 [5]: http://www.edwardtufte.com
 [6]: http://support.sas.com/ctx/samples/index.jsp?sid=1699&tab=output
 [7]: http://support.sas.com/ctx/samples/index.jsp?sid=1700&tab=output

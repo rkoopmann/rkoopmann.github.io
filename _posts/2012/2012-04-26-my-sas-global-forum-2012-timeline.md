@@ -1,8 +1,9 @@
 ---
 layout: post
-title: my sasgf12 timeline
+title: My SAS Global Forum 2012 Timeline
 category: sas
 tags:
+- sas
 - conference
 ---
 
@@ -11,7 +12,7 @@ tags:
 ### Technology Connection and Keynote Presentation
 
 > Presenters from SAS R&D offer a look at what's new and techniques to enhance your current use of SAS. In addition to demos, SAS will review the results of this year's SASware Ballot and present the 2012 User Feedback Award, SAS' most prestigious technical award.
-> 
+>
 > Joe Theismann, entrepreneur and former quarterback for the Washington Redskins, will talk about a Game Plan for Success.
 
 <!--more-->
@@ -37,7 +38,7 @@ tags:
 
 > XML has expanded far beyond the scope originally envisioned by its creators, and this has resulted in the addition of companion standards such as Namespaces in XML and XML Schema. This paper describes how SAS has advanced our XML technology in SAS 9.3 to more fully support these standards. It also examines some of the challenges you might encounter when processing complex XML and describes some best practices to help overcome the challenges.
 
-- nice overview of XML namespaces 
+- nice overview of XML namespaces
 - nothing really 'advanced' here
 
 
@@ -68,13 +69,13 @@ tags:
 > We propose a simulation of large sets of statistical power calculations and the selection of those calculations with appropriate power from a long list of study designs. Typical commercial programs complete all but one parameter and solve for the remaining parameter. We avoid solving equations and, thereby, obtain power for atypical designs. For simplicity, we compute the power for the test, comparing two proportions without assuming either an approximate normality or a common variance. We also extend the log-rank test power calculation to account for various patterns of on-study censoring, study duration, and patient recruitment periods. We generate a new approximation for the censoring adjustment. In so doing, we set out an easy way for others to modify our program for other related power calculations
 
 - Suggests generating data set of calculations with permutation of key stats
-- Users can then lookup or filter these data sets to ge the answer they want. 
+- Users can then lookup or filter these data sets to ge the answer they want.
 
 ### 04:30 PM - 04:50 PM [Quick and Dirty Microsoft Excel Workbooks without Dynamic Data Exchange or the SAS Output Delivery System](http://support.sas.com/resources/papers/proceedings12/264-2012.pdf)
 
 - `Options noxsync;`
 - Basic outline of my monthly update process for PROJECT_NAME.
-- `=OFFEST()` in Excel. 
+- `=OFFEST()` in Excel.
 
 ## Tuesday, April 24 (10 Sessions)
 
@@ -110,7 +111,7 @@ tags:
 
 > A programmer is often asked to “run some frequencies” or “put together a quick
   report” in order to share results with a group. Just as every scientist has a preferred output style (graph, table, figure, list, etc.) every programmer has a preferred way of getting there. The results of posing this question to five colleagues produced a variety of approaches including the use of PROC MEANS, PROC TABULATE, PROC FREQ, and PROC BOXPLOT as well as visualization techniques in JMP.
-  
+
 - a summary of a survey of how five analysts performed a set of tasks
 - only marginally interesting--not really practical
 
@@ -189,7 +190,7 @@ tags:
 > Large surveys have design features like stratification, clustering, and unequal probability of selection. The calculation of weights involves nonresponse adjustments and raking. The analysis includes descriptive statistics such as frequencies, means, and their standard errors. Standard statistical software modules such as PROC FREQ and PROC MEANS underestimate variance as they assume that the data is from a simple random sample. The survey procedures such as SURVEYMEANS and SURVEYFREQ that have been added to SAS/STAT software can compute variances that accurately reflect complex sample design and estimation procedures. This paper compares the complexity of the variance estimation code used in earlier projects with the simplicity of the code that is possible using the survey analysis procedures.
 
 - Use the `SURVEY PROC`s rather than `FREQ`, `MEANS`, `SUMMARY`, `REG`, etc.
-- Compared the old way of doing these survey analysis with the new way using the `SURVEY PROC`s. 
+- Compared the old way of doing these survey analysis with the new way using the `SURVEY PROC`s.
 
 ### 11:00 AM - 11:50 AM [Using SAS for the Design, Analysis, and Visualization of Complex Surveys](http://support.sas.com/resources/papers/proceedings12/343-2012.pdf)
 
@@ -198,5 +199,5 @@ tags:
 - interesting to see a professional survey statistician (and higher-ed faculty member) go through her workflow
 - much reliance on the `SURVEY PROC`s over non-`SURVEY PROC`s
 - The `SURVEY PROC`s are syntacticly similar to non-`SURVEY PROC`s.
-- Non-`SURVEY PROC`s use BY or subsetted data, `SURVEY PROC`s use DOMAIN statement. 
+- Non-`SURVEY PROC`s use BY or subsetted data, `SURVEY PROC`s use DOMAIN statement.
 - `SURVEYREG` cannot plot results. Instead, plot the pseudo population with `GCHART`.

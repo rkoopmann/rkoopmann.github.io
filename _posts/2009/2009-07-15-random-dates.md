@@ -2,7 +2,8 @@
 layout: post
 title: random dates
 category: sas
-tags: 
+tags:
+- sas
 - date values
 - do loop
 ---

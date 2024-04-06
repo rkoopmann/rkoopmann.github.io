@@ -3,6 +3,9 @@ layout: post
 title: last week of quarter
 author: rkoopmann
 category: sas
+tags:
+- sas
+- date values
 date: 2014-05-19
 drafted: 2014-05-03
 ---

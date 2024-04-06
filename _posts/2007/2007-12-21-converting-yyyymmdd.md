@@ -1,10 +1,11 @@
 ---
 layout: post
-title: converting yyyymmdd-type integer to sas date values
+title: Converting YYYYMMDD-Type Integer to SAS Date Values
 author: rkoopmann
 category: sas
 summary: converting integer dates like `20071221` to sas dates like `21DEC2007`.
 tags:
+- sas
 - date values
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: calculating period-to-period changes in sas
+title: Calculating Period-to-Period Changes in SAS
 author: rkoopmann
 category: sas
 tags:
+- sas
 - date values
 summary: calculating period-to-period changes with the lag function.
 ---
@@ -38,11 +39,11 @@ the aggregated data set is probably going to be a proc means output data set. ho
 
 which produces this output:
 
-|        | value |   change |  
-| :----- | ----: | -------: |  
-| 2005Q4 |   100 |        . |  
-| 2006Q1 |   120 |    20.0% |  
-| 2006Q2 |   125 |     4.2% |  
-| 2006Q3 |   120 | (  4.0%) |  
-| 2006Q4 |   145 |    20.8% |  
-| 2007Q1 |   150 |     3.4% |  
+|        | value |   change |
+| :----- | ----: | -------: |
+| 2005Q4 |   100 |        . |
+| 2006Q1 |   120 |    20.0% |
+| 2006Q2 |   125 |     4.2% |
+| 2006Q3 |   120 | (  4.0%) |
+| 2006Q4 |   145 |    20.8% |
+| 2007Q1 |   150 |     3.4% |

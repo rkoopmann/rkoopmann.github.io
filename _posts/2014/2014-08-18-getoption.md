@@ -3,7 +3,8 @@ layout: post
 title: getOption
 category: sas
 tags:
-- macro
+- sas
+- sas macro
 - system options
 date: 2014-08-18 15:32:47 -0500
 ---

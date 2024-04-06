@@ -4,6 +4,8 @@ title: On Interruptions
 link: https://brooksreview.net/further-interruption-survey-analysis/
 author: rkoopmann
 category: post
+tags:
+- analysis
 drafted: 2014-06-14
 date: 2014-07-14
 ---

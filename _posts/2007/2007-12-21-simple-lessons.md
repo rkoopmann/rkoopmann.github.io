@@ -1,9 +1,10 @@
 ---
 layout: post
-title: let that be a lesson to 'ya!
+title: Let That Be a Lesson to 'Ya!
 author: rkoopmann
 category: sas
 tags:
+- sas
 - tip
 ---
 

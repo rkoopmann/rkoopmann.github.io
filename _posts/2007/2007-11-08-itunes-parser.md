@@ -1,9 +1,10 @@
 ---
 layout: post
-title: itunes xml parser
+title: iTunes XML Parser
 author: rkoopmann
 category: sas
 tags:
+- sas
 - xml
 summary: wherein i coerce sas into consuming the iTunes library xml file.
 ---
@@ -18,4 +19,4 @@ my motivation for writing this was pretty simple: to figure out which albums hav
 
 [1]: https://github.com/rkoopmann/sas-quatch/blob/master/google-code-files/itunes.sas
 [2]: https://github.com/rkoopmann/sas-quatch/blob/master/google-code-files/itunes_analyzer.sas
-[3]: https://github.com/rkoopmann/sas-quatch 
+[3]: https://github.com/rkoopmann/sas-quatch

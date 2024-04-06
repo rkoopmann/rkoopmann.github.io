@@ -17,9 +17,7 @@ Recently, Ben put up what I'll call a *porous* paywall on his site, [*The Brooks
 
 Some in the tech blogosphere had doubts this model would work (e.g., Marco, The Beard), but its been a few months since the change and all seems to be going well enough.
 
-At first, I wasn't going to sign up, but the effect of seeing someone whose opinion I respect apparently reporting on last week's events this week was just enough to push me over to the members side of things. Since I like Ben's style, I signed up without much thought--That wasn't true at the time of my discovery, but it is now.
-
-<aside>Let me preface this post by saying I (tend to) prefer to pay for an app or service that I use and like even when the same app or service is offered at no charge (simplenote, instapaper, flickr) or when free alternative apps or services are available (twitter &lt; app.net, delicious &lt; pinboard.in).</aside>
+At first, I wasn't going to sign up, but the effect of seeing someone whose opinion I respect apparently reporting on last week's events this week was just enough to push me over to the members side of things. Since I like Ben's style, I signed up without much thought--That wasn't true at the time of my discovery, but it is now.<label for="mn1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="mn1" class="margin-toggle"/><span class="sidenote">Let me preface this post by saying I (tend to) prefer to pay for an app or service that I use and like even when the same app or service is offered at no charge (simplenote, instapaper, flickr) or when free alternative apps or services are available (twitter &lt; app.net, delicious &lt; pinboard.in).</span>
 
 Fellow followers of the twitter and app.net accounts for *The Brooks Review* may notice that the links are all under the domain `http://tbr.mx` which uses the URL-shortener bitly behind the scenes.
 
@@ -44,28 +42,28 @@ Little Things: Photo Printing — The Brooks Review
 http://tbr.mx/ORBtVW
 
 thebr shortened a link to this page on bitly: <a href='http://tbr.mx/ORBtVW'>http://tbr.mx/ORBtVW</a>
-Source: http://brooksreview.net/2012/09/lt-photo-printing/ 
+Source: http://brooksreview.net/2012/09/lt-photo-printing/
 See who else is talking about this page <a href='http://tbr.mx/ORBtVW+'>http://tbr.mx/ORBtVW+</a>
 
 via Recent Bookmarks from thebr on bitly http://bitly.com/u/thebr.rss
 
-September 04, 2012 at 11:30PM 
+September 04, 2012 at 11:30PM
 
-- - - - - 
+- - - - -
 
 Quote of the Day: Dave Pell — The Brooks Review
 
 http://tbr.mx/NM9b4z
 
 thebr shortened a link to this page on bitly: <a href='http://tbr.mx/NM9b4z'>http://tbr.mx/NM9b4z</a>
-Source: http://t.co/WxPbCT3V 
+Source: http://t.co/WxPbCT3V
 See who else is talking about this page <a href='http://tbr.mx/NM9b4z+'>http://tbr.mx/NM9b4z+</a>
 
 via Recent Bookmarks from thebr on bitly http://bitly.com/u/thebr.rss
 
-September 05, 2012 at 08:39AM 
+September 05, 2012 at 08:39AM
 
-- - - - - 
+- - - - -
 ```
 
 ## Twitter ##

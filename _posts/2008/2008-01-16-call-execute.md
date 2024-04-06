@@ -1,9 +1,10 @@
 ---
 layout: post
-title: the ugly truth about call execute
+title: The Ugly Truth About Call Execute
 category: sas
 tags:
-- macro
+- sas
+- sas macro
 ---
 
 let's start off with a simple macro that spits out some text and the value of a variable:
@@ -22,7 +23,7 @@ now let's try to execute the macro twice, once in a `call execute` statement ('i
     354      %ex(regular, x);
     regular x
     355  run;
-    
+
     NOTE: Numeric values have been converted to character values at the places given by: (Line):(Column).
           353:33
     in call 3
@@ -31,7 +32,7 @@ now let's try to execute the macro twice, once in a `call execute` statement ('i
           user cpu time       0.00 seconds
           system cpu time     0.00 seconds
           Memory                            135k
-    
+
     NOTE: CALL EXECUTE routine executed successfully, but no SAS statements were generated.
 
 notice the placement of the two different macro executions? the `call execute` macro statement was executed after the data step finished while the regular macro statement was executed within the data step. interesting, don't you think?
@@ -45,7 +46,7 @@ it gets better. let's look at how these two beasts behave in a loop:
     regular x
     360      end;
     361  run;
-    
+
     NOTE: Numeric values have been converted to character values at the places given by: (Line):(Column).
           358:35
     in call 1

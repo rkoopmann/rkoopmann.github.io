@@ -4,7 +4,7 @@ title: shifty metadata
 category: sas
 tags:
 - function
-- excel
+- Excel
 date: 2017-07-18 18:00:00 -0500
 ---
 

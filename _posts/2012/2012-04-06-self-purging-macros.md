@@ -3,7 +3,8 @@ layout: post
 title: self-purging macros?
 category: sas
 tags:
-- macro
+- sas
+- sas macro
 ---
 
 unfortunately, this doesn't work:

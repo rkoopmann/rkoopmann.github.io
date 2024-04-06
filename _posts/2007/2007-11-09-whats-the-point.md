@@ -1,14 +1,13 @@
 ---
 layout: post
-title: what's the point of this?
+title: What's the Point of This?
 author: rkoopmann
 category: sas
 tags:
+- sas
 - array
 - do loop
 - rant
-summary: 
-updated: true
 ---
 
 i'm working on some survey data containing a few select all that apply-type items. in the data set, they have the same number of variables, but they aren't dummy variables as i expected. for some reason that escapes me, they "pushed" all the selected response options to the left.
@@ -46,18 +45,18 @@ makes this
 
     OLD 1 2 3 4
     NEW 1 1 1 1
-    
+
     OLD 1 2 4 .
     NEW 1 1 0 1
-    
+
     OLD 2 4 . .
     NEW 0 1 0 1
-    
+
     OLD 1 . . .
     NEW 1 0 0 0
-    
+
     OLD 4 . . .
     NEW 0 0 0 1
-    
+
     OLD . . . .
     NEW 0 0 0 0
