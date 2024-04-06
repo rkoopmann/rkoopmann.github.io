@@ -27,13 +27,34 @@ github_username: rkoopmann
 site:
     author: Richard Koopmann
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+  - scope:
+      path: "assets/pdf"
+    values:
+      pdf: true
+# get a listing of all pdfs, for example
+# {% assign image_files = site.static_files | where: "pdf", true %}
+# {% for myimage in image_files %}
+#   {{ myimage.path }}
+# {% endfor %}
+
+
 collections:
   events:
     output: true
-    permalink: /event/:year/:title/
-  eats:
+    permalink: /event/:title/
+  posts:
     output: true
-    permalink: /eat/:title
+    permalink: /post/:year/:month/:day/:title/
+  tags:
+    output: true
+#   eats:
+#     output: true
+#     permalink: /eat/:title
 
 # Build settings
 markdown: kramdown

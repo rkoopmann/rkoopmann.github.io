@@ -3,13 +3,26 @@ layout: default
 ---
 
 <h1>⨳ {{ page.title}} ⨳</h1>
-<p class="subtitle">{{ page.date | date: "%Y %b %d" }}</p>
 
-{% for artist_name in page.lineup %}
-  <li>{{ artist_name.artist}}{% if artist_name.setlist-link %} <a href="{{artist_name.setlist-link}}">setlist</a>{% endif %}
-{% endfor %}
+<p class="subtitle">{{ page.date | date: "%Y-%m-%d" }}</p>
+<a href="/events/">event</a>
 
 {{ content }}
+
+{% assign pageDt = page.date | date: "%Y-%m-%d" %}
+
+<table>
+<thead>
+<tr><th>Lineup</th></tr>
+</thead>
+<tbody>
+{% for event in site.data.events.list.Event %}
+  {% if event.Date == pageDt %}
+    <tr><td><a href="{{ event.Link }}">{{ event.Artist }}</a></td></tr>
+  {% endif %}
+{% endfor %}
+</tbody>
+</table>
 
 <div class="PageNavigation">
 	{% if page.previous.url %}

@@ -1,0 +1,36 @@
+{
+	"id": "53893785",
+	"versionId": "g4bcfe786",
+	"eventDate": "15-09-1996",
+	"lastUpdated": "2022-03-15T18:58:03.291+0000",
+	"artist": {
+		"mbid": "837cd182-8da4-4c1c-924c-03daf72f0237",
+		"name": "Girls Against Boys",
+		"sortName": "Girls Against Boys",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/girls-against-boys-5bd6c744.html"
+	},
+	"venue": {
+		"id": "2bd63802",
+		"name": "Roy Wilkins Auditorium",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/girls-against-boys/1996/roy-wilkins-auditorium-st-paul-mn-53893785.html"
+}

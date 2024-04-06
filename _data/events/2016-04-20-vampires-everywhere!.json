@@ -1,0 +1,36 @@
+{
+	"id": "33ab1401",
+	"versionId": "g63b1621b",
+	"eventDate": "20-04-2016",
+	"lastUpdated": "2024-04-04T19:18:26.358+0000",
+	"artist": {
+		"mbid": "290dffab-3d4a-4683-a6b4-fb2217e4d539",
+		"name": "Vampires Everywhere!",
+		"sortName": "Vampires Everywhere!",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/vampires-everywhere-13d2e189.html"
+	},
+	"venue": {
+		"id": "43d70b53",
+		"name": "Mill City Nights",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/mill-city-nights-minneapolis-mn-usa-43d70b53.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/vampires-everywhere/2016/mill-city-nights-minneapolis-mn-33ab1401.html"
+}

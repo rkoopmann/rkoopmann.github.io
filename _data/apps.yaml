@@ -1,0 +1,32 @@
+- flation:
+  id: 6479229602
+  date: 2024-03-12
+  shortName: flation
+  fullName: flation
+  tagline: Plot real value & purchase power
+  briefDescription: Provides an historical view of US monetary values over time.
+  urlSlug: flation
+  released: 2024-03-12
+  available: true
+
+- card-piles:
+  id: 6443995531
+  date: 2022-11-05
+  shortName: card piles
+  fullName: card piles
+  tagline: 21 card trick
+  briefDescription: A mobile version of the 21 card trick.
+  urlSlug: card-piles
+  released: 2022-11-05
+  available: true
+
+- do-over:
+  id: 1618131760
+  date: 2022-04-08
+  shortName: do over
+  fullName: do over — text permutations
+  tagline: Like Mail Merge, but for text.
+  briefDescription: Provides useful text permutations and is generally of interest to programmer-types.
+  urlSlug: do-over
+  released: 2022-04-08
+  available: true

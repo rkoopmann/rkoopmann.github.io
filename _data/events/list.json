@@ -521,6 +521,19 @@
 			"Link": "https://www.setlist.fm/setlist/orgy/2016/mill-city-nights-minneapolis-mn-4bf1e38a.html"
 		},
 		{
+			"Id": "33ab1401",
+			"Date": "2016-04-20",
+			"Venue": "Mill City Nights",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Vampires Everywhere!",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/vampires-everywhere/2016/mill-city-nights-minneapolis-mn-33ab1401.html"
+		},
+		{
 			"Id": "1bf1e1ac",
 			"Date": "2016-04-20",
 			"Venue": "Mill City Nights",
@@ -1015,6 +1028,32 @@
 			"Link": "https://www.setlist.fm/setlist/the-smashing-pumpkins/1998/block-e-at-hennepin-avenue-minneapolis-mn-5bd72f48.html"
 		},
 		{
+			"Id": "239fd8bf",
+			"Date": "1998-07-17",
+			"Venue": "Block E at Hennepin Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Dig",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/dig/1998/block-e-at-hennepin-avenue-minneapolis-mn-239fd8bf.html"
+		},
+		{
+			"Id": "13e7d949",
+			"Date": "1998-07-17",
+			"Venue": "Block E at Hennepin Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Cracker",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/cracker/1998/block-e-at-hennepin-avenue-minneapolis-mn-13e7d949.html"
+		},
+		{
 			"Id": "43d66707",
 			"Date": "1998-06-30",
 			"Venue": "Target Center",
@@ -1418,6 +1457,32 @@
 			"Link": "https://www.setlist.fm/setlist/rage-against-the-machine/1996/roy-wilkins-auditorium-st-paul-mn-73d45271.html"
 		},
 		{
+			"Id": "5b893784",
+			"Date": "1996-09-15",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Stanford Prison Experiment",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/stanford-prison-experiment/1996/roy-wilkins-auditorium-st-paul-mn-5b893784.html"
+		},
+		{
+			"Id": "53893785",
+			"Date": "1996-09-15",
+			"Venue": "Roy Wilkins Auditorium",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Girls Against Boys",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/girls-against-boys/1996/roy-wilkins-auditorium-st-paul-mn-53893785.html"
+		},
+		{
 			"Id": "7bc52a60",
 			"Date": "1996-06-28",
 			"Venue": "Iowa State Fairgrounds",
@@ -1663,6 +1728,19 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/1996/first-avenue-minneapolis-mn-4bd46736.html"
+		},
+		{
+			"Id": "33d90481",
+			"Date": "1996-05-04",
+			"Venue": "First Avenue",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Richard Davies",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/richard-davies/1996/first-avenue-minneapolis-mn-33d90481.html"
 		},
 		{
 			"Id": "b9c196a",

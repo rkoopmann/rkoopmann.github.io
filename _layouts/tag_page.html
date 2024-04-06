@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>⨳ <em>{{ page.tag }}</em> ⨳</h1>
+
+{{ content }}
+
+<table>
+<thead>
+<tr><th>Date</th><th>Title</th></tr>
+</thead>
+<tbody>
+{% for post in site.posts %}
+  {% if post.tags contains page.tag %}
+    <tr><td>{{ post.date | date: "%Y-%m-%d" }}</td><td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
+  {% endif %}
+{% endfor %}
+</tbody>
+</table>
+
+<a href="/tag/">Complete tag listing</a>

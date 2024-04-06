@@ -2,8 +2,14 @@
 layout: default
 ---
 
-<h1>⨳ {{ page.title}} ⨳</h1>
-<p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
+<h1>⨳&nbsp;{{ page.title}}&nbsp;⨳</h1>
+<p class="subtitle">{{ page.date | date: "%Y-%m-%d, %A" }}</p>
+<small>
+{% assign word_count = page.content | number_of_words %}
+  ⨳ {{ word_count | divided_by: 250 | floor | plus: 1 }} minute read
+  ⨳ {{ word_count | number_with_delimiter }} words
+  {% for tag in page.tags %}⨳ <em><a href="/tag-{{ tag | slugify }}">{{ tag }}</a></em> {% endfor %} ⨳
+</small>
 
 {{ content }}
 
