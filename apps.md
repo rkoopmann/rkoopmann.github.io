@@ -22,6 +22,6 @@ For the past 10 years or so, I've wanted to get into iOS programming; that never
 {% assign items_by_date = year.items | group_by: "date" %}
 {% for e in items_by_date %}
 {% assign anItem = e.items | first %}
-<div class="index-item">⨳ <span class="post-meta"><tt><a class="post-link" href="/{{ e.urlSlug }}/">{{ e.name | date: "%b %d" }}</a></tt></span> ⨳ <em>{{ anItem.shortName }}</em> ⨳ {{ anItem.briefDescription | normalize_whitespace | markdownify | remove: '<p>' | remove: '</p>' }} ⨳</div>
+<div class="index-item">⨳ <span class="post-meta"><tt><a class="post-link" href="/{{ anItem.urlSlug }}/">{{ e.name | date: "%b %d" }}</a></tt></span> ⨳ <em>{{ anItem.shortName }}</em> ⨳ {{ anItem.briefDescription | normalize_whitespace | markdownify | remove: '<p>' | remove: '</p>' }} ⨳</div>
 {% endfor %}
 {% endfor %}
