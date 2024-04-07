@@ -9,7 +9,7 @@ app:
   slug: epochs
 ---
 
-[appstore]: https://apps.apple.com/us/app/{{ pager.app.slug }}/id{{ page.app.id }}
+[appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
 
 Introducing [{{ page.app.name }}][appstore], the app that lets you make temporal comparisons like never before.
 With epochs, you can easily compare a set of events to another event of your choice, providing valuable insights into the differences between them.
