@@ -1,3 +1,23 @@
+---
+layout: app
+title: epochs
+permalink: /epochs/
+app:
+  id: 6446234945
+  name: epochs
+  tagline: temporal comparisons
+  slug: epochs
+---
+
+[appstore]: https://apps.apple.com/us/app/{{ pager.app.slug }}/id{{ page.app.id }}
+
+Introducing [{{ page.app.name }}][appstore], the app that lets you make temporal comparisons like never before.
+With epochs, you can easily compare a set of events to another event of your choice, providing valuable insights into the differences between them.
+
+Whether you're a history buff or just curious about the past, epochs makes it easy to explore historical events relative to the present.
+
+[{{ page.app.name }}][appstore] is a must-have app for anyone interested in gaining a deeper understanding of the world around them.
+From politics to technology, sports to entertainment, epochs provides a unique perspective that will change the way you see the world.
 # Terms
 
 Feel free to use [{{ page.app.name }}][appstore] at your leisure for whatever purpose you have in mind.
