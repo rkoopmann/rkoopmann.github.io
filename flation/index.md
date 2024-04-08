@@ -14,7 +14,7 @@ app:
   slug: flation
 ---
 
-[appstore]: https://apps.apple.com/us/app/{{ pager.app.slug }}/id{{ page.app.id }}
+[appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
 
 ![](./main.jpg)
 
