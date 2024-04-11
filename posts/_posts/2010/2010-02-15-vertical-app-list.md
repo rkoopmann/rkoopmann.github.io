@@ -2,9 +2,8 @@
 title: the vertical app listing
 layout: post
 category: post
-tags: [ ios ]
-author: rkoopmann
-date: 2010-02-15
+tags:
+- iOS
 ---
 
 or *how apple can fix the iPhone OS home screen mess*

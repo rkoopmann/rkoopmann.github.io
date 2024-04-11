@@ -3,8 +3,8 @@ layout: post
 title: continue-looping
 category: sas
 tags:
-- sas
 - do loop
+- sas
 ---
 
 if you've ever needed to stop processing a loop under certain conditions but pick back up with the next iteration of the loop, use the continue statement.

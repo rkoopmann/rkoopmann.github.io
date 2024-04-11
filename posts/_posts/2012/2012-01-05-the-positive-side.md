@@ -3,6 +3,7 @@ layout: post
 title: the positive side of keeping all your eggs in one basket
 category: sas
 tags:
+- sas
 - tip
 ---
 

@@ -4,6 +4,7 @@ title: scraping the sas training pages
 category: sas
 tags:
 - regex
+- web scraping
 ---
 
 i thought it might be fun to see if i couldn’t pull the sas training catalog and corresponding schedules into a sas data set. easy enough, right?
@@ -19,7 +20,7 @@ sas puts this information online in two places: the [course listing][6] and indi
 first step: get the catalog.
 
     filename Courses url "http://support.sas.com/training/us/crs/" lrecl=1000;
-    
+
     data SAS_Catalog(drop=re_: course_flags i);
         infile Courses scanover;
         format Course_Code $10. Course_Desc $200. Schedule New SAS8 SAS9 LW BKS SGF 4.;
@@ -32,7 +33,7 @@ first step: get the catalog.
             re_lw  = prxparse('/<span class="lw"><nobr>Live Web<\/nobr><\/span>/');
             re_bks = prxparse('/<span class="bks">BKS<\/span>/');
             re_sgf = prxparse('/<img src="\/training\/images\/sgf_icon.gif" width=100 height=14 border=0 alt="SAS Global Forum">/');
-    
+
             re_schedule=prxparse('/<td class="newstext"><a href="http.*\?course_code=(.*)&ctry=us">schedule<\/a>.*<\/td>/');
         end;
         input;
@@ -64,9 +65,9 @@ first step: get the catalog.
         end;
         output;
     run;
-    
+
     filename Courses clear;
-    
+
     proc sort data=SAS_Catalog; by course_code; run;
 
 step two: set up a macro for processing individual course outline pages.
@@ -138,7 +139,7 @@ finally, cycle through each course that has a schedule available.
       calltext = cats('%getSchedule(', course_code, ');');
       call execute(calltext);
     run;
-    
+
     proc sql;
       create table SAS_Training as
       select distinct c.*, s.*

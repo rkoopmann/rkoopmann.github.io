@@ -4,6 +4,7 @@ title: vending machine math
 category: sas
 tags:
 - array
+- sas
 ---
 
 Last week, Andy from [NOTE:](http://www.notecolon.info) introduced me to [code katas](http://www.notecolon.info/2012/01/code-katas.html). Then he posted his first one: vending machine math.
@@ -116,9 +117,9 @@ log, using UK coinage
 
 it's pretty simple to change to US coinage by changing the following statements (i know there are 50 cent pieces, but i've never seen a vending machine use them):
 
-    array coin(5); 
+    array coin(5);
     array value(5) _temporary_ (1,5,10,25,100);
-  
+
 partial log, using US coinage
 
     Price:     70

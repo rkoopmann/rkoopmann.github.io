@@ -2,8 +2,8 @@
 layout: post
 title: a sudden spike
 category: post
-tags: [ meta ]
-author: rkoopmann
+tags:
+- meta
 date: 2009-04-23
 ---
 

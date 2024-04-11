@@ -3,8 +3,8 @@ layout: post
 title: My SAS Global Forum 2012 Timeline
 category: sas
 tags:
-- sas
 - conference
+- sas
 ---
 
 ## Monday, April 23 (7 Sessions)

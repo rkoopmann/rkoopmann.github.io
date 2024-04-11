@@ -3,9 +3,9 @@ layout: post
 title: simulating child's play
 category: sas
 tags:
-- sas
 - array
 - do loop
+- sas
 - simulation
 ---
 

@@ -3,9 +3,9 @@ layout: post
 title: random dates
 category: sas
 tags:
-- sas
 - date values
 - do loop
+- sas
 ---
 
 **this is a cross posting from [this sas discussion forum thread](http://support.sas.com/forums/thread.jspa?threadID=6436).**

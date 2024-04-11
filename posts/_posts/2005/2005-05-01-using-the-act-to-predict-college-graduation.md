@@ -3,8 +3,8 @@ layout: post
 title: Using the ACT to Predict College Graduation
 categories: post
 tags:
-- statistics
 - research
+- statistics
 ---
 
 This was [my][paper] [Master's Thesis][hub] ([local copy][local]).

@@ -4,6 +4,7 @@ title: setting the price early
 category: post
 tags:
 - apple
+- iPad
 summary: early disappointment with the ipad mini pricing disappears with hands-on reviews.
 ---
 

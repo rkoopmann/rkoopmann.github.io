@@ -1,19 +1,17 @@
 ---
 layout: post
 title: finding conventions, establishing standards
-author: rkoopmann
 category: sas
 tags:
 - perl
-drafted: 2014-08-26 17:00:00 -0500
-date: 2014-08-26 22:52:37 -0500
+- sas
 ---
 
 I'm creating a perl script that reads through all `.sas` files in a directory taking note when a SAS macro is being defined.
 
 <!--more-->
 
-I'm in a rut right now trying to figure out how to 
+I'm in a rut right now trying to figure out how to
 
 ```
 %* in SAS, macros can be defined a few different ways;

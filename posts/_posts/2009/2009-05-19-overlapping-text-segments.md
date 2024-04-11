@@ -3,6 +3,7 @@ layout: post
 title: reading overlapping text segments
 category: sas
 tags:
+- sas
 - web scraping
 ---
 
@@ -22,7 +23,7 @@ here’s a nifty little trick for the input statement:
     datalines;
     abcdefghijklmnopqrstuvwxyz
     run;
-    
+
 so i read in 8 characters, back up 2 characters, read in 8 characters, back up 2 characters, …. the result is nice overlapping character segments ripe for parsing.
 
     1093  data _null_;
@@ -46,7 +47,7 @@ so i read in 8 characters, back up 2 characters, read in 8 characters, back up 2
 
 
     1100  run;
-    
+
 the log shows something about sas reading over to the next line, but, whatever.
 
 i may be missing something very obvious here. if you notice, would you please let me know in the comments.

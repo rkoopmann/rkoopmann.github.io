@@ -3,8 +3,9 @@ layout: post
 title: convert to a [hhmmss-type integer to a] sas time - (SO)
 category: sas
 tags:
-- time values
+- sas
 - stack overflow
+- time values
 summary: converting time integers like `144500` into sas dates values like `2:45:00`.
 link: http://stackoverflow.com/questions/16299643/convert-to-a-sas-time
 ---
@@ -31,7 +32,7 @@ I took a slightly different (better?) approach since there were no obvious `HHMM
     161058.262
     235959.999
     run;
-    
+
 from the log:
 
     000000.001    12:00:00.000 AM     0.000

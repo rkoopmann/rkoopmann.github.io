@@ -4,7 +4,6 @@ title: new (to me) music - 2022
 tags:
 - music
 categories: post
-date: 2023-01-02 23:00:00 -0500
 ---
 
 [In](https://www.last.fm/user/rkoopmann/library/artists?from=2010-01-01&to=2010-12-31) [recent](https://www.last.fm/user/rkoopmann/library/artists?from=2011-01-01&to=2011-12-31) [years](https://www.last.fm/user/rkoopmann/library/artists?from=2012-01-01&to=2012-12-31), [my](https://www.last.fm/user/rkoopmann/library/artists?from=2013-01-01&to=2013-12-31) [music](https://www.last.fm/user/rkoopmann/library/artists?from=2014-01-01&to=2014-12-31) [listening](https://www.last.fm/user/rkoopmann/library/artists?from=2015-01-01&to=2015-12-31) [habits](https://www.last.fm/user/rkoopmann/library/artists?from=2016-01-01&to=2016-12-31) [have](https://www.last.fm/user/rkoopmann/library/artists?from=2017-01-01&to=2017-12-31) [been](https://www.last.fm/user/rkoopmann/library/artists?from=2018-01-01&to=2018-12-31) [getting](https://www.last.fm/user/rkoopmann/library/artists?from=2019-01-01&to=2019-12-31) [somewhat](https://www.last.fm/user/rkoopmann/library/artists?from=2020-01-01&to=2020-12-31) [stale](https://www.last.fm/user/rkoopmann/library/artists?from=2021-01-01&to=2021-12-31). I am ware of this. At the end of 2021, I thought it'd be a fun thing to listen to a new album for each week of the year. I set out to only listen to _old_ albums that for whatever reason, I had never listened to before. [don't judge](https://xkcd.com/1053).

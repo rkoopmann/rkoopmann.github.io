@@ -3,8 +3,8 @@ layout: post
 title: Too complex to edit
 category: post
 tags:
-- rant
 - meta
+- rant
 summary: squarespace is dumb.
 ---
 

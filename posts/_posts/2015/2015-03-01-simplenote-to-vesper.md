@@ -5,7 +5,6 @@ categories: post
 tags:
 - app
 link: http://stackoverflow.com/a/14416896/142229
-date: 2015-03-01 20:00:00 -0500
 ---
 
 It started with [a tweet from @benjaminbrooks][ben]:

@@ -3,8 +3,8 @@ layout: post
 title: 'The Missing Format: QYY'
 category: sas
 tags:
-- sas
 - format
+- sas
 ---
 sas has a lot of date-related formats…roman numerals, julian dates, jewish calendars, etc.
 

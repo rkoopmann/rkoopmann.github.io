@@ -4,6 +4,7 @@ title: dates in datetime fields
 category: sas
 tags:
 - date values
+- sas
 ---
 
 Got date values intermingled with datetime values? Here's a brute force way to convert the date values into date time values.
@@ -28,5 +29,5 @@ Log
 
     30NOV10
     12SEP10
-    
+
 Note that if the date value is a product of 86400 (the number of seconds in a day), then timepart(date) will resolve to 0. Fortunately, the next time this will happen (after 01JAN1960) will be 21JUL2196.

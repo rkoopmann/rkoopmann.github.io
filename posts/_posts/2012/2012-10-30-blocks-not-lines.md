@@ -3,9 +3,9 @@ layout: post
 title: blocks, not lines
 category: sas
 tags:
+- debug
 - sas
 - sas macro
-- debug
 summary: someone elightens me on "line" numbering in sas macros and i am grateful.
 link: http://analytics.ncsu.edu/sesug/2007/PO26.pdf
 ---

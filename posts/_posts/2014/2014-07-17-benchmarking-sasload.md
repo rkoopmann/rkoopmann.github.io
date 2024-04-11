@@ -1,13 +1,10 @@
 ---
 layout: post
 title: benchmarking the sasload statement
-author: rkoopmann
 category: sas
 tags:
-- sas
 - benchmark
-drafted: 2014-07-17
-date: 2014-07-17 12:17:00 -0700
+- sas
 ---
 
 in the middle of re-writing some macro code where different datasets were being accessed a number of times, i came across the `sasload` statement being called for each datasets. something like this:

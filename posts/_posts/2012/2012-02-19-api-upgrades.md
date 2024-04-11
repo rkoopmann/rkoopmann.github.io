@@ -3,8 +3,8 @@ layout: post
 title: api upgrades
 category: sas
 tags:
-- sas
 - api
+- sas
 ---
 
 For the past year (maybe two), I've been refining a [SOAP web service consumption macro in SAS 9.2](http://www.wuss.org/proceedings11/Papers_Koopmann_R_74832.pdf). Everything was moving along very nicely.

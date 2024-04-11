@@ -5,6 +5,7 @@ category: sas
 tags:
 - date values
 - function
+- sas
 - technical debt
 summary: input, substring, put or datepart. whichever, really.
 ---

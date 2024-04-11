@@ -3,8 +3,9 @@ layout: post
 title: prxparse(dates)
 category: sas
 tags:
-- regex
 - date values
+- regex
+- sas
 ---
 
 i’ve got some odd character dates that i need to fix. here's some examples:

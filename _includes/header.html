@@ -5,9 +5,11 @@
 	{% unless node.nav_exclude %}
 		{% for p in navigation_pages %}
 			{% if p.navigation_weight %}
-				<a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
-				{{ p.title }}
-				</a>
+			    {% if p.url == page.url %}
+			    <a class="active">{{ p.title }}</a>
+			    {% else %}
+				<a href="{{ p.url }}">{{ p.title }}</a>
+				{% endif %}
 			{% endif %}
 		{% endfor %}
 	{% endunless %}

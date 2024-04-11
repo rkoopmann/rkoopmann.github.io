@@ -3,9 +3,9 @@ layout: post
 title: macros and the data step
 category: sas
 tags:
+- data step
 - sas
 - sas macro
-- data step
 ---
 
 recently, i had a need to use and update a macro variable *within* a data step. i wasn't certain about the timing of things, so i threw together a simple test.

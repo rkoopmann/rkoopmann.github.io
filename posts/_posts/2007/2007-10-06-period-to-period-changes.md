@@ -4,8 +4,8 @@ title: Calculating Period-to-Period Changes in SAS
 author: rkoopmann
 category: sas
 tags:
-- sas
 - date values
+- sas
 summary: calculating period-to-period changes with the lag function.
 ---
 

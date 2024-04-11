@@ -1,29 +1,30 @@
 ---
 layout: app
-title: do over
+title: do over — text permutations
 permalink: /do-over/
 app:
   id: 1618131760
   name: do over
-  tagline: text permutations
+  tagline: Like Mail Merge, but for text.
   slug: do-over-text-permutations
+  urlSlug: do-over
 ---
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
 
 
-![](./do-over-screens.png)
+![](/assets/apps/do-over-screens.png)
 
-[![](./Download_on_the_App_Store.svg)][do over]
+[![](/assets/apps/do-over-download-on-the-app-store.svg)][appstore]
 
 ---
 
-- Want to quickly create some similar text without manually typing everything out? do over can do that.
-- Want to quickly and easily change the values and see the results in realtime? do over can do that.
-- Want to use a different placeholder in the template? do over can do that.
-- Want to see how the merged results will look using different joins? do over can do that.
-- Want to be successful in life? do over, unfortunately, cannot do that.
-- Want to unknowingly share your data with who-knows-who? do over [can't help you with that](./privacy/).
+- Want to quickly create some similar text without manually typing everything out? [{{ page.app.name }}][appstore] can do that.
+- Want to quickly and easily change the values and see the results in realtime? [{{ page.app.name }}][appstore] can do that.
+- Want to use a different placeholder in the template? [{{ page.app.name }}][appstore] can do that.
+- Want to see how the merged results will look using different joins? [{{ page.app.name }}][appstore] can do that.
+- Want to be successful in life? [{{ page.app.name }}][appstore], unfortunately, cannot do that.
+- Want to unknowingly share your data with who-knows-who? [{{ page.app.name }}][appstore] [can't help you with that](./privacy/).
 
 Provide a list of values (`apple banana coconut … zucchini`, for example) along with a template to use (such as `?i. ?`), and do over generates merged output:
 
@@ -35,85 +36,24 @@ Provide a list of values (`apple banana coconut … zucchini`, for example) alon
 
 ---
 
-# Inspiration & Motivation
-
-I used to write a lot of SAS code.
-A pair of SAS macros were transformative for me.
-I'd often found myself mimicking that functionality in bash.
-[I wrote about it.](/post/do-over/)
-
----
-
 # AppClip
 
 **Try it out via an AppClip!** Scan the thingie below for a basic, interactive demo.
 
-![][app-clip]
+![](/assets/apps/do-over-app-clip-code-tagged.svg)
 
 ---
 
 # Shortcuts
 
-Version 1.4 introduces two Shortcuts.app actions:
+Available actions:
 
-- Permutate Text - runs the basic permutations. helper functions (e.g., \days, \help, \1-5) are not available in this action.
-- Resolve Range - resolves ranges (e.g., -10--4, 1-5).
+- **Permutate Text** - runs the basic permutations. helper functions (e.g., \days, \help, \1-5) are not available in this action.
+- **Resolve Range** - resolves ranges (e.g., -10--4, 1-5).
 
 As with most things in Shortcuts.app, you can feed output from one action as a parameter into another action. For example, [this](https://www.icloud.com/shortcuts/2dcec0a841ca49e68a44da686414ffbb) shortcut:
 
-![](./shortcut-chaining-permutations.jpeg){: width="250" }
-
----
-
-# Examples
-
-{% for ex in site.data.app.do-over.examples %}
-
-## {{ ex.heading }}
-
-{{ ex.description }} {% if ex.shortcuts_link %}_[Here]({{- ex.shortcuts_link -}}) is a shortcut demonstrating this._{% endif %}
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Action/Field</th>
-      <th>Value/Setting</th>
-    </tr>
-  </thead>
-  {% for step in ex.steps %}
-  <tbody>
-    <tr>
-      <th colspan="3"></th>
-    </tr>
-    <tr>
-      <th rowspan="5">S<br>T<br>E<br>P<br><br>{{- forloop.index -}}</th>
-      <td style="text-align: right">Values</td>
-      <td><pre>{{- step.values -}}</pre></td>
-    </tr>
-    <tr>
-      <td style="text-align: right">Delimiter</td>
-      <td>{{- step.delimiter -}}</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">Template</td>
-      <td><pre>{{- step.template -}}</pre></td>
-    </tr>
-    <tr>
-      <td style="text-align: right">Placeholder</td>
-      <td>{{- step.placeholder -}}</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">Joiner</td>
-      <td>{{- step.joiner -}}</td>
-    </tr>
-  </tbody>
-  {% endfor %}
-  <tfoot>
-    <tr><th colspan="2">Result</th><td><pre>{{- ex.result -}}</pre></td></tr>
-  </tfoot>
-</table>
-
-{% endfor %}
+![](/assets/apps/do-over-shortcut-chaining-permutations.jpeg){: width="250" }
 
 ---
 
@@ -145,7 +85,7 @@ Since [{{ page.app.name }}][appstore] does not collect data, [{{ page.app.name }
 
 # Support
 
-_do over_ is organized into the following sections:
+[{{ page.app.name }}][appstore] is organized into the following sections:
 
 - **Values** is the place to enter your variables. The adjacent settings button lets you make changes to these raw values.
 - **Result** shows the resulting permutation. The adjacent settings button lets you take actions on the result, including pipine back into the **Values** section.
@@ -162,6 +102,3 @@ There's not much that can go wrong with [{{ page.app.name }}][appstore]. That sa
 
 
 ---
-
-[do over]: https://apps.apple.com/us/app/do-over-text-permutations/id1618131760
-[app-clip]: ./app-clip-code-tagged.svg

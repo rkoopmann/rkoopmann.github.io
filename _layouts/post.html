@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>⨳&nbsp;{{ page.title}}&nbsp;⨳</h1>
-<p class="subtitle">{{ page.date | date: "%Y-%m-%d, %A" }}</p>
+<p class="subtitle">{{ page.date | date: "%Y %b %d, %A" }}</p>
 <small>
 {% assign word_count = page.content | number_of_words %}
   ⨳ {{ word_count | divided_by: 250 | floor | plus: 1 }} minute read

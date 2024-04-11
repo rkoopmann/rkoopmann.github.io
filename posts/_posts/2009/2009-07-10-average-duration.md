@@ -4,6 +4,7 @@ title: calculating average time (duration)
 category: sas
 tags:
 - datetime values
+- sas
 ---
 
 **this is summarizes [my response](http://support.sas.com/forums/message.jspa?messageID=23047#23047) to [a thread](http://support.sas.com/forums/thread.jspa?threadID=6386) on the [SAS Discussion Forums](http://support.sas.com/forums/index.jspa).**

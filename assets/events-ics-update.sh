@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # input_file="list.json"
-output_file="../../events/events.ics"
+output_file="events.ics"
 
 echo "BEGIN:VCALENDAR
 VERSION:2.0
@@ -13,7 +13,7 @@ X-WR-CALDESC:Sourced from selist.fm export files
 X-WR-RELCALID:8765309E-E4AC-4C2C-B9F1-FF78AB91DA97
 X-APPLE-CALENDAR-COLOR:#000080" > "${output_file}"
 
-cat {1,2}*.json | jq -r '. |
+cat ../_data/events/{1,2}*.json | jq -r '. |
 "BEGIN:VEVENT
 UID:\(.id)
 SUMMARY:\(.artist.name)

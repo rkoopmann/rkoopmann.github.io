@@ -4,7 +4,8 @@ title: windows environment variables
 category: sas
 tags:
 - windows
-summary: a mental not for how to fetch windows environment variables in sas.
+- sas
+summary: a mental note for how to fetch windows environment variables in sas.
 ---
 
 essentially,

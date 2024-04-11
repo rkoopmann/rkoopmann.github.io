@@ -2,16 +2,12 @@
 layout: app
 title: flation
 permalink: /flation/
-category: post
-tags:
-  - swift
-  - apps
-date: 2024-03-10 12:00:00 -0500
 app:
   id: 6479229602
   name: flation
   tagline: Plot real value & purchase power
   slug: flation
+  urlSlug: flation
 ---
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}

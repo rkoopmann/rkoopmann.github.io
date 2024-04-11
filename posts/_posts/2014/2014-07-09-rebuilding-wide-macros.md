@@ -6,8 +6,6 @@ category: sas
 tags:
 - sas
 - sas macro
-drafted: 2014-07-08
-date: 2014-07-09
 ---
 
 Recently I needed to pull the values of potentially long macro variables (more than 200 characters) from the dictionary tables (`sashelp.vmacro` in this case). I couldn't simply use the actual macro variable because the main program was dataset-driven. The bottom line was that I needed a dataset containing the macro values in a single variable with one observation per macro variable.

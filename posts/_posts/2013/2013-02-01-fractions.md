@@ -4,6 +4,7 @@ title: writing fractions in html
 category: sas
 tags:
 - html
+- sas
 summary: a blip on making fractions more fraction-like.
 link: http://changelog.ca/log/2008/07/01//blogwriting_fractions_in_html
 ---

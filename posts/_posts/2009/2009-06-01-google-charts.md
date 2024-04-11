@@ -3,8 +3,9 @@ layout: post
 title: encoding data points for use with google charts api calls
 category: sas
 tags:
-- data visualization
 - api
+- data visualization
+- sas
 ---
 
 first step, build encoding tables based on the documentation<!--more-->:
@@ -27,7 +28,7 @@ first step, build encoding tables based on the documentation<!--more-->:
         end;
         drop i j s;
     run;
-    
+
 
 next, encode the data:
 

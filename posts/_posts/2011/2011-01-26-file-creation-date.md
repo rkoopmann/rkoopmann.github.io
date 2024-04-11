@@ -4,9 +4,10 @@ title: how do i read a file's creation date?
 category: sas
 tags:
 - file system
+- sas
 ---
 
-assuming you're on windows, you could read the output from the dos command dir into a sas data set.
+assuming you're on windows, you could read the output from the dos command `dir` into a sas data set.
 
 <!--more-->
 

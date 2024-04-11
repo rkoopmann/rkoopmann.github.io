@@ -4,6 +4,7 @@ title: reading iso dates and datetimes
 category: sas
 tags:
 - datetime values
+- sas
 ---
 
 a while ago, i posted [a method of converting YYYYMMDD-style integers to sas date values](/sas/2007/12/converting-yyyymmdd). today, i needed to convert an YYYYMMDDHHMMSS-style integer to a sas date time value. i could have used the same method of conversion, but i though there had to be a better way. and there is.

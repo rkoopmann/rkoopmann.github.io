@@ -43,4 +43,4 @@ Create a unique list of tags
 {% comment %}
 Count the number of posts per tag and display
 {% endcomment %}
-{% for tag in unique_tags %}{% assign tag_count = 0 %}{% for post in site.posts %}{% if post.tags contains tag %}{% assign tag_count = tag_count | plus: 1 %}{% endif %}{% endfor %}<a href="/tag-{{ tag | slugify }}">⨳ {{ tag }}</a>&nbsp;({{ tag_count }}){% unless forloop.last %}, {% endunless %}{% endfor %}
+{% for tag in unique_tags %}{% assign tag_count = 0 %}{% for post in site.posts %}{% if post.tags contains tag %}{% assign tag_count = tag_count | plus: 1 %}{% endif %}{% endfor %}<a href="/tag-{{ tag | slugify }}">⨳&nbsp;{{ tag }}</a>&nbsp;({{ tag_count }}){% unless forloop.last %}, {% endunless %}{% endfor %}

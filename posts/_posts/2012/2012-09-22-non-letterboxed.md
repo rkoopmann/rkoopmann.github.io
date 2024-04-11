@@ -3,7 +3,7 @@ layout: post
 category: post
 title: The non-letterboxed keyboard
 tags:
-- ios
+- iOS
 - rant
 ---
 

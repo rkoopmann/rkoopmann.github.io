@@ -2,12 +2,9 @@
 layout: post
 title: On Interruptions
 link: https://brooksreview.net/further-interruption-survey-analysis/
-author: rkoopmann
 category: post
 tags:
 - analysis
-drafted: 2014-06-14
-date: 2014-07-14
 ---
 
 Last month, Ben Brooks ran [a poll on his website][the-poll] asking readers their attitudes toward interrupting other people using various writing devices. I reached out to Ben and he provided with me the poll data for analysis.

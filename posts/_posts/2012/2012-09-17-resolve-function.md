@@ -4,6 +4,7 @@ title: resolve function
 category: sas
 tags:
 - function
+- sas
 link: http://kansascode.blogspot.com/2012/07/dynamic-macro-call-/blogusing-resolve.html
 ---
 
@@ -14,10 +15,10 @@ Stumbled across a [nice post](http://kansascode.blogspot.com/2012/07/dynamic-mac
     data rowcounts ;
       length name $16
              rows   8 ;
-      array aname(2, 2) $16 _temporary_ 
-        ( 
+      array aname(2, 2) $16 _temporary_
+        (
             'sashelp.cars', 'Cars Rows'
-          , 'sashelp.class', 'Class Rows' 
+          , 'sashelp.class', 'Class Rows'
         ) ;
       do _n_ = 1 to dim( aname ) ;
         name = aname(_n_, 2) ;

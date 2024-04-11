@@ -3,8 +3,8 @@ layout: post
 title: PROC PWDECODE
 category: sas
 tags:
-- sas
 - hack
+- sas
 ---
 
 just read a posting about how to [encode sas passwords][1]. i've been using encoded passwords for a few years because the prevent casual snoopers from getting access to credentials they shouldn't have. encoded passwords do not, however, prevent decoding. you know, in case you forget your password. normally, if you want to access the resource outside of sas, an encoded password is useless.

@@ -5,6 +5,7 @@ category: sas
 tags:
 - date values
 - format
+- sas
 ---
 
 quick formula to calculate the month of the quarter (JAN, APR, JUL, OCT=1; FEB, MAY, AUG, NOV=2; MAR, JUN, SEP, DEC=3). moq=mod(month(date- value)-1,3)+1; note this is completely poached from an old excel formula.

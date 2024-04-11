@@ -4,10 +4,8 @@ title: last week of quarter
 author: rkoopmann
 category: sas
 tags:
-- sas
 - date values
-date: 2014-05-19
-drafted: 2014-05-03
+- sas
 ---
 
 A coworker recently asked me how I would identify the last week of a quarter when the date variable is formatted as `week.2`.

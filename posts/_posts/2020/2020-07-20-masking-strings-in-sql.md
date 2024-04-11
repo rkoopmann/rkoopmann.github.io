@@ -2,9 +2,9 @@
 layout: post
 title: a function to mask strings
 tags:
+- function
 - sql
 categories: post
-date: 2020-07-20 23:00:00 -0500
 ---
 
 here's a handy function to mask strings while retaining _some_ useful metadata. this is helpful in identifying patterns in identifiers.

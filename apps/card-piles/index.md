@@ -2,16 +2,12 @@
 layout: app
 title: card piles
 permalink: /card-piles/
-category: post
-tags:
-  - swift
-  - apps
-date: 2022-10-26 12:00:00 -0500
 app:
   id: 6443995531
   name: card piles
   tagline: 21 card trick
   slug: card-piles
+  urlSlug: card-piles
 ---
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}

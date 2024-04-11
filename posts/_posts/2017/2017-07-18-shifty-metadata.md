@@ -3,9 +3,9 @@ layout: post
 title: shifty metadata
 category: sas
 tags:
-- function
 - Excel
-date: 2017-07-18 18:00:00 -0500
+- function
+- sas
 ---
 
 I've got a set of Excel files (.xlsx) containing weekly spend breakouts. These files are *supposed* to be formatted identically, but they're not. Across these files, a couple numeric variables are sometimes read as text. That makes stacking data impossible.
