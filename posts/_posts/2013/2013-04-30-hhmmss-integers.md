@@ -1,6 +1,6 @@
 ---
 layout: post
-title: convert to a [hhmmss-type integer to a] sas time - (SO)
+title: Convert to a [hhmmss-Type Integer to a] SAS Time - (SO)
 category: sas
 tags:
 - sas

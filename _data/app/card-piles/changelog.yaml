@@ -1,0 +1,19 @@
+- version: 2024.1
+  date: 2024-01-14
+  diff: https://github.com/rkoopmann/card-piles/compare/v1.1...v2024.1
+  changes:
+    - CHANGED version numbering scheme.
+    - ADDED persistent preferences.
+    - ADDED 65-card option; could keep going, but running out of screen real estate.
+    - ADDED accent color preference.
+
+- version: 1.1
+  date: 2022-10-15
+  diff: https://github.com/rkoopmann/card-piles/compare/v1.0...v1.1
+  changes:
+    - ADDED 15-, 27-, 35-, 45-, & 55-card options.
+
+- version: 1.0
+  date: 2022-10-05
+  changes:
+    - Initial release of 21-card version.

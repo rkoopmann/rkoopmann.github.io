@@ -1,6 +1,6 @@
 ---
 layout: post
-title: benchmarking the sasload statement
+title: Benchmarking the sasload Statement
 category: sas
 tags:
 - benchmark

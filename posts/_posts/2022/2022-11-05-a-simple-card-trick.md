@@ -1,6 +1,6 @@
 ---
 layout: post
-title: card piles
+title: A Simple Card Trick
 tags:
 - app
 - iOS

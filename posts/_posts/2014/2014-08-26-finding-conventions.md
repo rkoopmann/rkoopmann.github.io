@@ -1,6 +1,6 @@
 ---
 layout: post
-title: finding conventions, establishing standards
+title: Finding Conventions, Establishing Standards
 category: sas
 tags:
 - perl

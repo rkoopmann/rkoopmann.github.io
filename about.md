@@ -1,5 +1,5 @@
 ---
-layout: full-width
+layout: default
 title: about
 permalink: /about/
 # navigation_weight: 80

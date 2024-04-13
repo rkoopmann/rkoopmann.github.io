@@ -27,8 +27,8 @@ collections:
   posts:
     output: true
     permalink: /post/:year-:month-:day/
-  tags:
-    output: true
+#   tags:
+#     output: true
 
 markdown: kramdown
 

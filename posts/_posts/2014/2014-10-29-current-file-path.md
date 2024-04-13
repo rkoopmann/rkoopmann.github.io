@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Current file path
+title: Current File Path
 category: sas
 tags:
 - snippet

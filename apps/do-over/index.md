@@ -17,7 +17,7 @@ app:
 
 [![](/assets/apps/do-over-download-on-the-app-store.svg)][appstore]
 
----
+
 
 - Want to quickly create some similar text without manually typing everything out? [{{ page.app.name }}][appstore] can do that.
 - Want to quickly and easily change the values and see the results in realtime? [{{ page.app.name }}][appstore] can do that.
@@ -34,7 +34,7 @@ Provide a list of values (`apple banana coconut … zucchini`, for example) alon
     …
     26. zucchini
 
----
+
 
 # AppClip
 
@@ -42,7 +42,7 @@ Provide a list of values (`apple banana coconut … zucchini`, for example) alon
 
 ![](/assets/apps/do-over-app-clip-code-tagged.svg)
 
----
+
 
 # Shortcuts
 
@@ -55,7 +55,7 @@ As with most things in Shortcuts.app, you can feed output from one action as a p
 
 ![](/assets/apps/do-over-shortcut-chaining-permutations.jpeg){: width="250" }
 
----
+
 
 # Terms
 
@@ -65,7 +65,7 @@ Feel free to use [{{ page.app.name }}][appstore] at your leisure for whatever pu
 
 All [{{ page.app.name }}][appstore] purchases are final. I cannot issue refunds charged to your Apple ID, but you can ask [Apple](https://support.apple.com/en-us/118223) to do so.
 
----
+
 
 # Privacy
 
@@ -81,7 +81,7 @@ Given the above point, [{{ page.app.name }}][appstore] cannot share data. [{{ pa
 
 Since [{{ page.app.name }}][appstore] does not collect data, [{{ page.app.name }}][appstore] cannot retain data.
 
----
+
 
 # Support
 
@@ -99,6 +99,3 @@ Since [{{ page.app.name }}][appstore] does not collect data, [{{ page.app.name }
     - _Do Over_ offers some user actions and technical information related to the app.
 
 There's not much that can go wrong with [{{ page.app.name }}][appstore]. That said, if after restarting your device and reproducing the issue you think you've found a bug, please reach out; I don't like bugs either.
-
-
----

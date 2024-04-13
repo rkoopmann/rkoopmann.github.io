@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-tag: do loop
+tag: do-loop
 permalink: /tag-do-loop/
 ---
 

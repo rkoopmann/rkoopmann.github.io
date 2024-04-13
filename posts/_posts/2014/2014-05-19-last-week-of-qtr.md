@@ -1,6 +1,6 @@
 ---
 layout: post
-title: last week of quarter
+title: Last Week of Quarter
 author: rkoopmann
 category: sas
 tags:

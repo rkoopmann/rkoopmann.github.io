@@ -1515,6 +1515,17 @@ GEO:44.944;-93.093
 DESCRIPTION:#Snake_River_Conspiracy #Xcel_Energy_Center geo:44.944,-93.093
 END:VEVENT
 BEGIN:VEVENT
+UID:2bc228de
+SUMMARY:Isis
+DTSTAMP;TZID=America/Chicago:20070626T200000
+DTSTART;VALUE=DATE:20070626
+DTEND;VALUE=DATE:20070626
+URL:https://www.setlist.fm/setlist/isis/2007/xcel-energy-center-st-paul-mn-2bc228de.html
+LOCATION:Xcel Energy Center, St. Paul, MN
+GEO:44.944;-93.093
+DESCRIPTION:#Isis #Xcel_Energy_Center geo:44.944,-93.093
+END:VEVENT
+BEGIN:VEVENT
 UID:13d63d59
 SUMMARY:Tool
 DTSTAMP;TZID=America/Chicago:20070626T200000
@@ -1524,6 +1535,17 @@ URL:https://www.setlist.fm/setlist/tool/2007/xcel-energy-center-st-paul-mn-13d63
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center geo:44.944,-93.093
+END:VEVENT
+BEGIN:VEVENT
+UID:73d0e6f5
+SUMMARY:Dälek
+DTSTAMP;TZID=America/Chicago:20100701T200000
+DTSTART;VALUE=DATE:20100701
+DTEND;VALUE=DATE:20100701
+URL:https://www.setlist.fm/setlist/dalek/2010/xcel-energy-center-st-paul-mn-73d0e6f5.html
+LOCATION:Xcel Energy Center, St. Paul, MN
+GEO:44.944;-93.093
+DESCRIPTION:#Dlek #Xcel_Energy_Center geo:44.944,-93.093
 END:VEVENT
 BEGIN:VEVENT
 UID:63d406cb
@@ -1579,6 +1601,17 @@ URL:https://www.setlist.fm/setlist/foo-fighters/2015/xcel-energy-center-st-paul-
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Foo_Fighters #Xcel_Energy_Center geo:44.944,-93.093
+END:VEVENT
+BEGIN:VEVENT
+UID:7bf7d214
+SUMMARY:Royal Blood
+DTSTAMP;TZID=America/Chicago:20150822T200000
+DTSTART;VALUE=DATE:20150822
+DTEND;VALUE=DATE:20150822
+URL:https://www.setlist.fm/setlist/royal-blood/2015/xcel-energy-center-st-paul-mn-7bf7d214.html
+LOCATION:Xcel Energy Center, St. Paul, MN
+GEO:44.944;-93.093
+DESCRIPTION:#Royal_Blood #Xcel_Energy_Center geo:44.944,-93.093
 END:VEVENT
 BEGIN:VEVENT
 UID:2bbe901e
@@ -1658,6 +1691,28 @@ GEO:44.163578;-93.9994
 DESCRIPTION:#Primus #Vetter_Stone_Amphitheater geo:44.163578,-93.9994
 END:VEVENT
 BEGIN:VEVENT
+UID:33e21025
+SUMMARY:Chappo
+DTSTAMP;TZID=America/Chicago:20170917T200000
+DTSTART;VALUE=DATE:20170917
+DTEND;VALUE=DATE:20170917
+URL:https://www.setlist.fm/setlist/chappo/2017/myth-maplewood-mn-33e21025.html
+LOCATION:Myth, Maplewood, MN
+GEO:44.953022;-92.99522
+DESCRIPTION:#Chappo #Myth geo:44.953022,-92.99522
+END:VEVENT
+BEGIN:VEVENT
+UID:33e21021
+SUMMARY:Mac DeMarco
+DTSTAMP;TZID=America/Chicago:20170917T200000
+DTSTART;VALUE=DATE:20170917
+DTEND;VALUE=DATE:20170917
+URL:https://www.setlist.fm/setlist/mac-demarco/2017/myth-maplewood-mn-33e21021.html
+LOCATION:Myth, Maplewood, MN
+GEO:44.953022;-92.99522
+DESCRIPTION:#Mac_DeMarco #Myth geo:44.953022,-92.99522
+END:VEVENT
+BEGIN:VEVENT
 UID:3be21024
 SUMMARY:The Flaming Lips
 DTSTAMP;TZID=America/Chicago:20170917T200000
@@ -1700,6 +1755,17 @@ URL:https://www.setlist.fm/setlist/foo-fighters/2017/denny-sanford-premier-cente
 LOCATION:Denny Sanford Premier Center, Sioux Falls, SD
 GEO:43.549976;-96.700325
 DESCRIPTION:#Foo_Fighters #Denny_Sanford_Premier_Center geo:43.549976,-96.700325
+END:VEVENT
+BEGIN:VEVENT
+UID:3e0a5b3
+SUMMARY:The Struts
+DTSTAMP;TZID=America/Chicago:20171111T200000
+DTSTART;VALUE=DATE:20171111
+DTEND;VALUE=DATE:20171111
+URL:https://www.setlist.fm/setlist/the-struts/2017/denny-sanford-premier-center-sioux-falls-sd-3e0a5b3.html
+LOCATION:Denny Sanford Premier Center, Sioux Falls, SD
+GEO:43.549976;-96.700325
+DESCRIPTION:#The_Struts #Denny_Sanford_Premier_Center geo:43.549976,-96.700325
 END:VEVENT
 BEGIN:VEVENT
 UID:43e03f6f
@@ -1755,6 +1821,28 @@ URL:https://www.setlist.fm/setlist/foo-fighters/2018/xcel-energy-center-st-paul-
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Foo_Fighters #Xcel_Energy_Center geo:44.944,-93.093
+END:VEVENT
+BEGIN:VEVENT
+UID:5b9633ac
+SUMMARY:Big Freedia
+DTSTAMP;TZID=America/Chicago:20181024T200000
+DTSTART;VALUE=DATE:20181024
+DTEND;VALUE=DATE:20181024
+URL:https://www.setlist.fm/setlist/big-freedia/2018/champions-square-new-orleans-la-5b9633ac.html
+LOCATION:Champions Square, New Orleans, LA
+GEO:29.955;-90.075
+DESCRIPTION:#Big_Freedia #Champions_Square geo:29.955,-90.075
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9633ae
+SUMMARY:Preservation Hall Jazz Band
+DTSTAMP;TZID=America/Chicago:20181024T200000
+DTSTART;VALUE=DATE:20181024
+DTEND;VALUE=DATE:20181024
+URL:https://www.setlist.fm/setlist/preservation-hall-jazz-band/2018/champions-square-new-orleans-la-4b9633ae.html
+LOCATION:Champions Square, New Orleans, LA
+GEO:29.955;-90.075
+DESCRIPTION:#Preservation_Hall_Jazz_Band #Champions_Square geo:29.955,-90.075
 END:VEVENT
 BEGIN:VEVENT
 UID:439633af

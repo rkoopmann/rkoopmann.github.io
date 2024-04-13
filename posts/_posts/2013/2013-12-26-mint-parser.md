@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-title: 'transactions.pl: a mint parser'
+title: 'transactions.pl: A Mint Parser'
 tags:
 - gist
 - perl

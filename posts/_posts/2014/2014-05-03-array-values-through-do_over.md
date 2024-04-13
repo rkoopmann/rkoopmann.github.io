@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'setting %array values through %do_over'
+title: 'Setting %array Values Through %do_over'
 date: 2014-05-03
 drafted: 2014-04-02
 category: sas

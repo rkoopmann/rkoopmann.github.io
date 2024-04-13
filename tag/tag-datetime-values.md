@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-tag: datetime values
+tag: datetime-values
 permalink: /tag-datetime-values/
 ---
 

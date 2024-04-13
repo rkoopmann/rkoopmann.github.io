@@ -1,6 +1,6 @@
 ---
 layout: post
-title: rebuilding wide macros
+title: Rebuilding Wide Macros
 author: rkoopmann
 category: sas
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new (to me) music - 2022
+title: New (To Me) Music - 2022
 tags:
 - music
 categories: post

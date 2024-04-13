@@ -1,0 +1,39 @@
+{
+	"id": "4b9633ae",
+	"versionId": "5b616f5c",
+	"eventDate": "24-10-2018",
+	"lastUpdated": "2018-10-25T02:36:44.874+0000",
+	"artist": {
+		"mbid": "1a9b4e0d-05e2-4491-83f0-a4a676283f99",
+		"name": "Preservation Hall Jazz Band",
+		"sortName": "Preservation Hall Jazz Band",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/preservation-hall-jazz-band-3d6450b.html"
+	},
+	"venue": {
+		"id": "bd7cdbe",
+		"name": "Champions Square",
+		"city": {
+			"id": "4335045",
+			"name": "New Orleans",
+			"state": "Louisiana",
+			"stateCode": "LA",
+			"coords": {
+				"lat": 29.955,
+				"long": -90.075
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/champions-square-new-orleans-la-usa-bd7cdbe.html"
+	},
+	"tour": {
+		"name": "Trombone Shorty's Voodoo Threauxdown"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/preservation-hall-jazz-band/2018/champions-square-new-orleans-la-4b9633ae.html"
+}

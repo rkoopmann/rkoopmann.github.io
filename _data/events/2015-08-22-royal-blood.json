@@ -1,0 +1,79 @@
+{
+	"id": "7bf7d214",
+	"versionId": "bb025e2",
+	"eventDate": "22-08-2015",
+	"lastUpdated": "2015-09-06T20:28:41.000+0000",
+	"artist": {
+		"mbid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+		"name": "Royal Blood",
+		"sortName": "Royal Blood",
+		"disambiguation": "Brighton UK two piece rock band",
+		"url": "https://www.setlist.fm/setlists/royal-blood-3da6d03.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {
+		"name": "Royal Blood"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "99 Problems",
+						"tape": true
+					},
+					{
+						"name": "Hook, Line \u0026 Sinker",
+						"info": "Live debut"
+					},
+					{
+						"name": "Come on Over"
+					},
+					{
+						"name": "You Can Be So Cruel"
+					},
+					{
+						"name": "Figure It Out"
+					},
+					{
+						"name": "Little Monster"
+					},
+					{
+						"name": "One Trick Pony"
+					},
+					{
+						"name": "Ten Tonne Skeleton"
+					},
+					{
+						"name": "Loose Change"
+					},
+					{
+						"name": "Out of the Black",
+						"info": "with snippet of \"Iron Man\" by Black Sabbath"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/royal-blood/2015/xcel-energy-center-st-paul-mn-7bf7d214.html"
+}

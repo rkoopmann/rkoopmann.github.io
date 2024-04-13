@@ -1,6 +1,6 @@
 ---
 layout: post
-title: setting the price early
+title: Setting the Price Early
 category: post
 tags:
 - apple

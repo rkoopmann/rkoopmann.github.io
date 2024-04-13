@@ -1,5 +1,5 @@
 ---
-layout: full-width
+layout: default
 title: home
 navigation_weight: 0
 ---

@@ -1,0 +1,36 @@
+{
+	"id": "2bc228de",
+	"versionId": "53966325",
+	"eventDate": "26-06-2007",
+	"lastUpdated": "2014-03-20T15:08:51.000+0000",
+	"artist": {
+		"mbid": "5e521e8c-0ab2-44c4-8fd8-14d8d3321265",
+		"name": "Isis",
+		"sortName": "Isis",
+		"disambiguation": "Experimental post-metal band from Boston, USA",
+		"url": "https://www.setlist.fm/setlists/isis-63d6c2c7.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/isis/2007/xcel-energy-center-st-paul-mn-2bc228de.html"
+}

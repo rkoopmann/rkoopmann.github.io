@@ -19,7 +19,7 @@ I had learned this one nearly 30 years ago from a friend in middle school.
 
 At any rate, [have at it][appstore].
 
----
+
 
 # Terms
 
@@ -33,7 +33,7 @@ All [{{ page.app.name }}][appstore] purchases are final. I cannot issue refunds 
 
 [{{ page.app.name }}][appstore] is not intended for, and should not be used for any sort of betting.
 
----
+
 
 # Privacy
 
@@ -49,7 +49,7 @@ Given the above point, [{{ page.app.name }}][appstore] cannot share data. [{{ pa
 
 Since [{{ page.app.name }}][appstore] does not collect data, [{{ page.app.name }}][appstore] cannot retain data.
 
----
+
 
 # Support
 

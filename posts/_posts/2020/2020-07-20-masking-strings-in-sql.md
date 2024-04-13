@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a function to mask strings
+title: A Function to Mask Strings
 tags:
 - function
 - sql

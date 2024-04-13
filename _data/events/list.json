@@ -339,6 +339,32 @@
 			"Link": "https://www.setlist.fm/setlist/tesla/2019/mystic-showroom-at-mystic-lake-casino-prior-lake-mn-2b95d0f6.html"
 		},
 		{
+			"Id": "5b9633ac",
+			"Date": "2018-10-24",
+			"Venue": "Champions Square",
+			"City": "New Orleans",
+			"State": "Louisiana",
+			"Lat": 29.955,
+			"Long": -90.075,
+			"Artist": "Big Freedia",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/big-freedia/2018/champions-square-new-orleans-la-5b9633ac.html"
+		},
+		{
+			"Id": "4b9633ae",
+			"Date": "2018-10-24",
+			"Venue": "Champions Square",
+			"City": "New Orleans",
+			"State": "Louisiana",
+			"Lat": 29.955,
+			"Long": -90.075,
+			"Artist": "Preservation Hall Jazz Band",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/preservation-hall-jazz-band/2018/champions-square-new-orleans-la-4b9633ae.html"
+		},
+		{
 			"Id": "439633af",
 			"Date": "2018-10-24",
 			"Venue": "Champions Square",
@@ -430,6 +456,19 @@
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2017/denny-sanford-premier-center-sioux-falls-sd-4be0a796.html"
 		},
 		{
+			"Id": "3e0a5b3",
+			"Date": "2017-11-11",
+			"Venue": "Denny Sanford Premier Center",
+			"City": "Sioux Falls",
+			"State": "South Dakota",
+			"Lat": 43.549976,
+			"Long": -96.700325,
+			"Artist": "The Struts",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/the-struts/2017/denny-sanford-premier-center-sioux-falls-sd-3e0a5b3.html"
+		},
+		{
 			"Id": "be38df6",
 			"Date": "2017-10-08",
 			"Venue": "First Avenue",
@@ -467,6 +506,32 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/2017/myth-maplewood-mn-3be21024.html"
+		},
+		{
+			"Id": "33e21025",
+			"Date": "2017-09-17",
+			"Venue": "Myth",
+			"City": "Maplewood",
+			"State": "Minnesota",
+			"Lat": 44.953022,
+			"Long": -92.99522,
+			"Artist": "Chappo",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/chappo/2017/myth-maplewood-mn-33e21025.html"
+		},
+		{
+			"Id": "33e21021",
+			"Date": "2017-09-17",
+			"Venue": "Myth",
+			"City": "Maplewood",
+			"State": "Minnesota",
+			"Lat": 44.953022,
+			"Long": -92.99522,
+			"Artist": "Mac DeMarco",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/mac-demarco/2017/myth-maplewood-mn-33e21021.html"
 		},
 		{
 			"Id": "73e5d2e9",
@@ -560,6 +625,19 @@
 			"Link": "https://www.setlist.fm/setlist/chris-porter/2015/acme-comedy-company-minneapolis-mn-2bbe901e.html"
 		},
 		{
+			"Id": "7bf7d214",
+			"Date": "2015-08-22",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Royal Blood",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/royal-blood/2015/xcel-energy-center-st-paul-mn-7bf7d214.html"
+		},
+		{
 			"Id": "63f7d247",
 			"Date": "2015-08-22",
 			"Venue": "Xcel Energy Center",
@@ -612,6 +690,19 @@
 			"Link": "https://www.setlist.fm/setlist/candlebox/2013/busters-sports-bar-and-grill-mankato-mn-63c4562b.html"
 		},
 		{
+			"Id": "73d0e6f5",
+			"Date": "2010-07-01",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Dälek",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/dalek/2010/xcel-energy-center-st-paul-mn-73d0e6f5.html"
+		},
+		{
 			"Id": "63d406cb",
 			"Date": "2010-07-01",
 			"Venue": "Xcel Energy Center",
@@ -623,6 +714,19 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d406cb.html"
+		},
+		{
+			"Id": "2bc228de",
+			"Date": "2007-06-26",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Isis",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/isis/2007/xcel-energy-center-st-paul-mn-2bc228de.html"
 		},
 		{
 			"Id": "13d63d59",

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pretty note blocks
+title: Pretty Note Blocks
 subtitle: wherein i create a sas macro to facilitate making pretty note blocks for sas code
 category: sas
 tags:

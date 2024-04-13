@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-tag: file system
+tag: file-system
 permalink: /tag-file-system/
 ---
 

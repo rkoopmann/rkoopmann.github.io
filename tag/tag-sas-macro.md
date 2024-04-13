@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-tag: sas macro
+tag: sas-macro
 permalink: /tag-sas-macro/
 ---
 

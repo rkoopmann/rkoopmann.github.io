@@ -1,6 +1,6 @@
 ---
 layout: post
-title: shifty metadata
+title: Shifty Metadata
 category: sas
 tags:
 - Excel
