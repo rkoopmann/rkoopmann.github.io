@@ -1,3 +1,14 @@
+- text-player:
+  id: 6479706587
+  date: 2024-06-04
+  shortName: text player
+  fullName: text player
+  tagline: Silent Messages, Loud Impact
+  briefDescription: A tool for visually communicating across short distances in environments that would typically require low whispers or yelling at the top of your lungs.
+  urlSlug: text-player
+  released:
+  available: true
+
 - flation:
   id: 6479229602
   date: 2024-03-12
