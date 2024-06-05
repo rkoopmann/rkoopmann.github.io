@@ -47,6 +47,10 @@ Charades is a fun-enough game to play, but not for us introverts in crowded gymn
 
 Feel free to use [{{ page.app.name }}][appstore] at your leisure for whatever purpose you have in mind.
 
+**Future Versions**
+
+[{{ page.app.name }}][appstore] is currently a paid-up-front app. At some future point, [{{ page.app.name }}][appstore] *may* become a subscription app. When this transition occurs, I'll make every attempt to extend a free subscription for existing customers; a subscription will be required for continued use of [{{ page.app.name }}][appstore].
+
 **Refunds**
 
 All [{{ page.app.name }}][appstore] purchases are final. I cannot issue refunds charged to your Apple ID, but you can ask [Apple](https://support.apple.com/en-us/118223) to do so.
