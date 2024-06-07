@@ -12,9 +12,9 @@ app:
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
 
-![](./main.jpg)
-
 Introducing [{{ page.app.name }}][appstore] – {{ page.app.tagline }}
+
+![](/assets/apps/text-player/movie.mov)
 
 {{ page.app.name }} isn't a revolutionary app, but has been crafted with SwiftUI to assist in visual communication in any setting, and it really shines in situations where silence is golden.
 Harnessing the power of rapid serial visual presentation (RSVP) methodology, {{ page.app.name }} allows you to send clear, concise messages across distances silently.
@@ -38,7 +38,10 @@ Perfect for educators, sports enthusiasts, event organizers, and anyone who valu
 
 Step into the future of silent communication with {{ page.app.name }}.
 
-# Inspiration
+![](/assets/apps/text-player/message.png)
+![](/assets/apps/text-player/tacos.png)
+
+# [Inspiration](/post/2024-06-04/)
 
 During halftime warmups, I'd frequently ask my kid if he needed anything from concessions.
 Charades is a fun-enough game to play, but not for us introverts in crowded gymnasiums.
