@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>Venue: <em>{{ page.venue }}</em></h1>
+
+{{ content }}
+
+{% assign pageVenue = page.venue %}
+
+{% assign venueEvents = site.data.events.list-venues | where: "venue", pageVenue %}
+{% assign venueEvents = site.data.events.list.Event | where: "Venue", pageVenue | sort_natural: "Artist" | sort: "Date" %}
+
+<table>
+<thead>
+<tr><th>Date</th><th>Artist</th></tr>
+</thead>
+<tbody>
+{% for event in venueEvents %}
+<tr><td>{% if event.Date != lastDate %}{{ event.Date }}{% else %}{% endif %}</td><td><a href="/event/artist/{{ event.Artist | slugify }}">{{ event.Artist }}</a></td></tr>
+{% assign lastDate = event.Date %}
+{% endfor %}
+</tbody>
+</table>

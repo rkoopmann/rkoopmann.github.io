@@ -1,8 +1,8 @@
 {
 	"id": "33970c85",
-	"versionId": "1b1e61f4",
+	"versionId": "g6bbac2ba",
 	"eventDate": "22-08-1995",
-	"lastUpdated": "2019-05-06T00:42:01.285+0000",
+	"lastUpdated": "2024-05-10T18:47:20.505+0000",
 	"artist": {
 		"mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f",
 		"name": "Sheryl Crow",
@@ -29,6 +29,7 @@
 		},
 		"url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html"
 	},
+	"tour": {},
 	"sets": {
 		"set": [
 			{
@@ -36,12 +37,48 @@
 				"encore": 0,
 				"song": [
 					{
-						"name": "Run, Baby, Run"
+						"name": "I Wanna Be Your Man"
+					},
+					{
+						"name": "Love Is a Good Thing"
+					},
+					{
+						"name": "Can't Cry Anymore"
+					},
+					{
+						"name": ""
+					},
+					{
+						"name": "Run, Baby Run"
+					},
+					{
+						"name": "Leaving Las Vegas"
+					},
+					{
+						"name": "Keep On Growing"
+					},
+					{
+						"name": "Strong Enough"
+					},
+					{
+						"name": ""
+					},
+					{
+						"name": "jam"
+					},
+					{
+						"name": "The Na-Na Song"
+					},
+					{
+						"name": "I've Got a Feeling"
+					},
+					{
+						"name": "I Shall Believe"
 					}
 				]
 			}
 		]
 	},
-	"info": "H.O.R.D.E. Festival.  Setlist incomplete.",
+	"info": "H.O.R.D.E. Festival",
 	"url": "https://www.setlist.fm/setlist/sheryl-crow/1995/rivers-edge-park-somerset-wi-33970c85.html"
 }

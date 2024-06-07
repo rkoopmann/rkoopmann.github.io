@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% assign pageDt = page.date | date: "%Y-%m-%d" %}
+{% assign theDescription = site.data.event-shows   | where: "date", pageDt    | first %}
+{% assign pageObject = site.data.events.list-dates | where: "date", page.date | first %}
+{% assign lineupObject = pageObject.lineup | natural_sort: "artist.name" %}
+{% assign venueObject = lineupObject | first %}
+
+<h1>Show: {{ page.date }}</h1>
+{% if venueObject.venue.name != "" %}<p>@ <a href="/event/venue/{{ venueObject.venue.name | slugify }}">{{ venueObject.venue.name }}</a>, {{venueObject.venue.city }}, {{ venueObject.venue.state }}</p>{% endif %}
+
+{% for d in theDescription.description %}
+{{ d | markdownify }}
+{% endfor %}
+
+{% for v in theDescription.videos %}
+
+<div><iframe width="560" height="315" src="{{ v }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+{% endfor %}
+
+<table>
+<caption>Show Lineup</caption>
+<thead>
+<tr><th>Artist</th><th>Tour</th><th>setlist</th></tr>
+</thead>
+<tbody>
+{% for item in lineupObject %}
+<tr>
+<td><a class="post-link" href="/event/artist/{{ item.artist.name | slugify }}">{{ item.artist.name }}</a></td>
+<td>{% if item.tour != "" %}<em>{{ item.tour | escape }}</em>{% endif %}</td>
+<td><a href="{{ item.url }}">setlist</a></td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+
+{{ content }}

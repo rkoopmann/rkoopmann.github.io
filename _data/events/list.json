@@ -1,6 +1,19 @@
 {
 	"Event": [
 		{
+			"Id": "4ba92bce",
+			"Date": "2024-05-14",
+			"Venue": "Val Air Ballroom",
+			"City": "West Des Moines",
+			"State": "Iowa",
+			"Lat": 41.571987,
+			"Long": -93.74531,
+			"Artist": "Violent Femmes",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/violent-femmes/2024/val-air-ballroom-west-des-moines-ia-4ba92bce.html"
+		},
+		{
 			"Id": "73a1e2ad",
 			"Date": "2023-11-12",
 			"Venue": "Target Center",
@@ -9,7 +22,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Adam Sandler",
-			"Tour": "",
+			"Tour": "I Missed You",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/adam-sandler/2023/target-center-minneapolis-mn-73a1e2ad.html"
 		},
@@ -22,7 +35,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Tool",
-			"Tour": "",
+			"Tour": "North American Fall Tour 2023",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2023/xcel-energy-center-st-paul-mn-5ba07338.html"
 		},
@@ -61,7 +74,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Bad Religion",
-			"Tour": "",
+			"Tour": "North America 2023",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2023/uptown-theater-minneapolis-mn-23a0b00b.html"
 		},
@@ -74,7 +87,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Pearl Jam",
-			"Tour": "",
+			"Tour": "U.S. Tour 2023",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-4ba2b342.html"
 		},
@@ -100,7 +113,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Pearl Jam",
-			"Tour": "",
+			"Tour": "U.S. Tour 2023",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-7ba54a74.html"
 		},
@@ -152,7 +165,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Nashville Pussy",
-			"Tour": "",
+			"Tour": "Eaten Alive",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/nashville-pussy/2022/first-avenue-minneapolis-mn-73b1cac5.html"
 		},
@@ -165,7 +178,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Toadies",
-			"Tour": "",
+			"Tour": "Rubberneck 25th Anniversary",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/toadies/2022/first-avenue-minneapolis-mn-6bb1cac2.html"
 		},
@@ -178,7 +191,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Kevin Hart",
-			"Tour": "",
+			"Tour": "Reality Check",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/kevin-hart/2022/target-center-minneapolis-mn-23b37403.html"
 		},
@@ -191,7 +204,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Roger Waters",
-			"Tour": "",
+			"Tour": "This Is Not a Drill",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/roger-waters/2022/target-center-minneapolis-mn-33b21cf1.html"
 		},
@@ -217,7 +230,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "The Flaming Lips",
-			"Tour": "",
+			"Tour": "American Head",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/2022/palace-theatre-st-paul-mn-43b68bcb.html"
 		},
@@ -230,9 +243,22 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Tool",
-			"Tour": "",
+			"Tour": "Fear Inoculum 2nd Leg",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2022/target-center-minneapolis-mn-b89e1fe.html"
+		},
+		{
+			"Id": "4b89e372",
+			"Date": "2022-03-13",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "The Acid Helps",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/the-acid-helps/2022/target-center-minneapolis-mn-4b89e372.html"
 		},
 		{
 			"Id": "338c0ca9",
@@ -243,7 +269,7 @@
 			"Lat": 44.163578,
 			"Long": -93.9994,
 			"Artist": "Living Colour",
-			"Tour": "",
+			"Tour": "Summerland Tour 2021",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/living-colour/2021/vetter-stone-amphitheater-mankato-mn-338c0ca9.html"
 		},
@@ -256,7 +282,7 @@
 			"Lat": 44.163578,
 			"Long": -93.9994,
 			"Artist": "Hoobastank",
-			"Tour": "",
+			"Tour": "Summerland Tour 2021",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/hoobastank/2021/vetter-stone-amphitheater-mankato-mn-2b8c0cae.html"
 		},
@@ -269,7 +295,7 @@
 			"Lat": 44.163578,
 			"Long": -93.9994,
 			"Artist": "Everclear",
-			"Tour": "",
+			"Tour": "Summerland Tour 2021",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html"
 		},
@@ -282,9 +308,22 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Candlebox",
-			"Tour": "",
+			"Tour": "2019 US Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/candlebox/2019/the-cabooze-minneapolis-mn-39a813f.html"
+		},
+		{
+			"Id": "4ba9c7da",
+			"Date": "2019-09-13",
+			"Venue": "Acme Comedy Company",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Tim Slagle",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/tim-slagle/2019/acme-comedy-company-minneapolis-mn-4ba9c7da.html"
 		},
 		{
 			"Id": "53914791",
@@ -308,7 +347,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Dave Hause",
-			"Tour": "",
+			"Tour": "Summer 2019",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/dave-hause/2019/first-avenue-minneapolis-mn-b915106.html"
 		},
@@ -321,7 +360,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Bad Religion",
-			"Tour": "",
+			"Tour": "Age of Unreason Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/bad-religion/2019/first-avenue-minneapolis-mn-5b915be4.html"
 		},
@@ -334,9 +373,22 @@
 			"Lat": 44.7133,
 			"Long": -93.42273,
 			"Artist": "Tesla",
-			"Tour": "",
+			"Tour": "Shock",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tesla/2019/mystic-showroom-at-mystic-lake-casino-prior-lake-mn-2b95d0f6.html"
+		},
+		{
+			"Id": "43a9c7e7",
+			"Date": "2018-12-15",
+			"Venue": "Acme Comedy Company",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Dwight Slade",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/dwight-slade/2018/acme-comedy-company-minneapolis-mn-43a9c7e7.html"
 		},
 		{
 			"Id": "5b9633ac",
@@ -360,7 +412,7 @@
 			"Lat": 29.955,
 			"Long": -90.075,
 			"Artist": "Preservation Hall Jazz Band",
-			"Tour": "",
+			"Tour": "Trombone Shorty's Voodoo Threauxdown",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/preservation-hall-jazz-band/2018/champions-square-new-orleans-la-4b9633ae.html"
 		},
@@ -372,10 +424,10 @@
 			"State": "Louisiana",
 			"Lat": 29.955,
 			"Long": -90.075,
-			"Artist": "Troy “Trombone Shorty” Andrews \u0026 Orleans Avenue",
-			"Tour": "",
+			"Artist": "Trombone Shorty \u0026 Orleans Avenue",
+			"Tour": "Trombone Shorty's Voodoo Threauxdown",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/troy-trombone-shorty-andrews-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html"
+			"Link": "https://www.setlist.fm/setlist/trombone-shorty-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html"
 		},
 		{
 			"Id": "3b968020",
@@ -386,13 +438,13 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Foo Fighters",
-			"Tour": "",
+			"Tour": "Concrete and Gold",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2018/xcel-energy-center-st-paul-mn-3b968020.html"
 		},
 		{
-			"Id": "638ade97",
-			"Date": "2018-10-01",
+			"Id": "43a9c7ef",
+			"Date": "2018-10-02",
 			"Venue": "Acme Comedy Company",
 			"City": "Minneapolis",
 			"State": "Minnesota",
@@ -401,7 +453,7 @@
 			"Artist": "Aziz Ansari",
 			"Tour": "",
 			"SongsPlayed": 0,
-			"Link": "https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-638ade97.html"
+			"Link": "https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-43a9c7ef.html"
 		},
 		{
 			"Id": "2be990f2",
@@ -412,7 +464,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Beck",
-			"Tour": "",
+			"Tour": "Colors",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/beck/2018/minneapolis-armory-minneapolis-mn-2be990f2.html"
 		},
@@ -425,9 +477,35 @@
 			"Lat": 44.3125,
 			"Long": -94.45306,
 			"Artist": "FireHouse",
-			"Tour": "",
+			"Tour": "Rock You Tonight - Tour 2018",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/firehouse/2018/brown-county-fairgrounds-new-ulm-mn-63e8be13.html"
+		},
+		{
+			"Id": "4ba9c7f6",
+			"Date": "2018-07-12",
+			"Venue": "Acme Comedy Company",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Rachel Feinstein",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/rachel-feinstein/2018/acme-comedy-company-minneapolis-mn-4ba9c7f6.html"
+		},
+		{
+			"Id": "53a9c7f1",
+			"Date": "2017-12-16",
+			"Venue": "Acme Comedy Company",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Sean Patton",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/sean-patton/2017/acme-comedy-company-minneapolis-mn-53a9c7f1.html"
 		},
 		{
 			"Id": "43e03f6f",
@@ -438,7 +516,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "A Perfect Circle",
-			"Tour": "",
+			"Tour": "Fall 2017",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2017/xcel-energy-center-st-paul-mn-43e03f6f.html"
 		},
@@ -451,7 +529,7 @@
 			"Lat": 43.549976,
 			"Long": -96.700325,
 			"Artist": "Foo Fighters",
-			"Tour": "",
+			"Tour": "Concrete and Gold",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2017/denny-sanford-premier-center-sioux-falls-sd-4be0a796.html"
 		},
@@ -503,7 +581,7 @@
 			"Lat": 44.953022,
 			"Long": -92.99522,
 			"Artist": "The Flaming Lips",
-			"Tour": "",
+			"Tour": "2017 Summer Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/2017/myth-maplewood-mn-3be21024.html"
 		},
@@ -529,7 +607,7 @@
 			"Lat": 44.953022,
 			"Long": -92.99522,
 			"Artist": "Mac DeMarco",
-			"Tour": "",
+			"Tour": "This Old Dog",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/mac-demarco/2017/myth-maplewood-mn-33e21021.html"
 		},
@@ -542,7 +620,7 @@
 			"Lat": 44.163578,
 			"Long": -93.9994,
 			"Artist": "Primus",
-			"Tour": "",
+			"Tour": "2017 Summer U.S. Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/primus/2017/vetter-stone-amphitheater-mankato-mn-73e5d2e9.html"
 		},
@@ -555,7 +633,7 @@
 			"Lat": 44.163578,
 			"Long": -93.9994,
 			"Artist": "Clutch",
-			"Tour": "",
+			"Tour": "Psychic Warfare",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/clutch/2017/vetter-stone-amphitheater-mankato-mn-3e5cd1b.html"
 		},
@@ -568,9 +646,22 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Roger Waters",
-			"Tour": "",
+			"Tour": "Us + Them Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/roger-waters/2017/xcel-energy-center-st-paul-mn-13e581d9.html"
+		},
+		{
+			"Id": "73e7662d",
+			"Date": "2017-06-09",
+			"Venue": "Xcel Energy Center",
+			"City": "St. Paul",
+			"State": "Minnesota",
+			"Lat": 44.944,
+			"Long": -93.093,
+			"Artist": "Tool",
+			"Tour": "North American Tour 2017",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/tool/2017/xcel-energy-center-st-paul-mn-73e7662d.html"
 		},
 		{
 			"Id": "4bf1e38a",
@@ -607,7 +698,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Filter",
-			"Tour": "",
+			"Tour": "Make America Hate Again",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/filter/2016/mill-city-nights-minneapolis-mn-1bf1e1ac.html"
 		},
@@ -633,7 +724,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Royal Blood",
-			"Tour": "",
+			"Tour": "Royal Blood",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/royal-blood/2015/xcel-energy-center-st-paul-mn-7bf7d214.html"
 		},
@@ -646,9 +737,22 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Foo Fighters",
-			"Tour": "",
+			"Tour": "Sonic Highways World Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/2015/xcel-energy-center-st-paul-mn-63f7d247.html"
+		},
+		{
+			"Id": "43a9c7d7",
+			"Date": "2014-12-13",
+			"Venue": "Acme Comedy Company",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Dan Naturman",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/dan-naturman/2014/acme-comedy-company-minneapolis-mn-43a9c7d7.html"
 		},
 		{
 			"Id": "5bc38b28",
@@ -659,7 +763,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Toadies",
-			"Tour": "",
+			"Tour": "Rubberneck 20th Anniversary",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html"
 		},
@@ -690,6 +794,19 @@
 			"Link": "https://www.setlist.fm/setlist/candlebox/2013/busters-sports-bar-and-grill-mankato-mn-63c4562b.html"
 		},
 		{
+			"Id": "13a835cd",
+			"Date": "2013-05-06",
+			"Venue": "Late Show With David Letterman",
+			"City": "New York",
+			"State": "New York",
+			"Lat": 40.714268,
+			"Long": -74.005974,
+			"Artist": "James Blake",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/james-blake/2013/late-show-with-david-letterman-new-york-ny-13a835cd.html"
+		},
+		{
 			"Id": "73d0e6f5",
 			"Date": "2010-07-01",
 			"Venue": "Xcel Energy Center",
@@ -711,9 +828,22 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Tool",
-			"Tour": "",
+			"Tour": "2010 Summer Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d406cb.html"
+		},
+		{
+			"Id": "43a9c71f",
+			"Date": "2009-11-14",
+			"Venue": "Acme Comedy Company",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Bobcat Goldthwait",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/bobcat-goldthwait/2009/acme-comedy-company-minneapolis-mn-43a9c71f.html"
 		},
 		{
 			"Id": "2bc228de",
@@ -737,9 +867,22 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Tool",
-			"Tour": "",
+			"Tour": "10,000 Days",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2007/xcel-energy-center-st-paul-mn-13d63d59.html"
+		},
+		{
+			"Id": "63d6c22b",
+			"Date": "2006-09-16",
+			"Venue": "Target Center",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Tool",
+			"Tour": "10,000 Days",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/tool/2006/target-center-minneapolis-mn-63d6c22b.html"
 		},
 		{
 			"Id": "43c17beb",
@@ -763,7 +906,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "A Perfect Circle",
-			"Tour": "",
+			"Tour": "Thirteenth Step",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html"
 		},
@@ -789,7 +932,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Tool",
-			"Tour": "",
+			"Tour": "Inside The Outside",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2002/xcel-energy-center-st-paul-mn-43de9343.html"
 		},
@@ -815,7 +958,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Local H",
-			"Tour": "",
+			"Tour": "Here Comes the Zoo",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/local-h/2002/the-quest-minneapolis-mn-13d84561.html"
 		},
@@ -828,7 +971,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Tool",
-			"Tour": "",
+			"Tour": "Lateralus",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/2001/xcel-energy-center-st-paul-mn-73d462c1.html"
 		},
@@ -854,7 +997,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Snake River Conspiracy",
-			"Tour": "",
+			"Tour": "Sonic Jihad",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/snake-river-conspiracy/2001/roy-wilkins-auditorium-st-paul-mn-73f492ad.html"
 		},
@@ -867,7 +1010,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "A Perfect Circle",
-			"Tour": "",
+			"Tour": "Mer de noms",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/a-perfect-circle/2001/roy-wilkins-auditorium-st-paul-mn-33d08c49.html"
 		},
@@ -945,7 +1088,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Garbage",
-			"Tour": "",
+			"Tour": "Version 2.0",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/garbage/1998/target-center-minneapolis-mn-33ded099.html"
 		},
@@ -971,7 +1114,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "The Goo Goo Dolls",
-			"Tour": "",
+			"Tour": "Dizzy Up the Girl",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
 		},
@@ -984,7 +1127,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Incubus",
-			"Tour": "",
+			"Tour": "Ozzfest 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/incubus/1998/float-rite-park-amphitheatre-somerset-wi-7bd632e4.html"
 		},
@@ -997,7 +1140,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Motörhead",
-			"Tour": "",
+			"Tour": "Snake Bite Love",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
 		},
@@ -1010,7 +1153,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Bad Religion",
-			"Tour": "",
+			"Tour": "Vans Warped Tour 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/bad-religion/1998/float-rite-park-amphitheatre-somerset-wi-5bfdf764.html"
 		},
@@ -1023,7 +1166,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "NOFX",
-			"Tour": "",
+			"Tour": "Vans Warped Tour 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/nofx/1998/float-rite-park-amphitheatre-somerset-wi-5bdf6bd4.html"
 		},
@@ -1036,7 +1179,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Deftones",
-			"Tour": "",
+			"Tour": "Vans Warped Tour 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html"
 		},
@@ -1049,7 +1192,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Sevendust",
-			"Tour": "",
+			"Tour": "Ozzfest 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/sevendust/1998/float-rite-park-amphitheatre-somerset-wi-4bd1139e.html"
 		},
@@ -1062,7 +1205,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Tool",
-			"Tour": "",
+			"Tour": "Ænima",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html"
 		},
@@ -1075,7 +1218,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "System of a Down",
-			"Tour": "",
+			"Tour": "Ozzfest 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/system-of-a-down/1998/float-rite-park-amphitheatre-somerset-wi-3bde188c.html"
 		},
@@ -1088,7 +1231,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Soulfly",
-			"Tour": "",
+			"Tour": "Ozzfest 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/soulfly/1998/float-rite-park-amphitheatre-somerset-wi-33dfe8d5.html"
 		},
@@ -1101,7 +1244,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Coal Chamber",
-			"Tour": "",
+			"Tour": "Ozzfest 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/coal-chamber/1998/float-rite-park-amphitheatre-somerset-wi-33de1881.html"
 		},
@@ -1114,7 +1257,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Ozzy Osbourne",
-			"Tour": "",
+			"Tour": "The Ozzman Cometh",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html"
 		},
@@ -1127,7 +1270,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "The Smashing Pumpkins",
-			"Tour": "",
+			"Tour": "An Evening with the Smashing Pumpkins",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-smashing-pumpkins/1998/block-e-at-hennepin-avenue-minneapolis-mn-5bd72f48.html"
 		},
@@ -1153,7 +1296,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Cracker",
-			"Tour": "",
+			"Tour": "Gentleman's Blues Tour 1998",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/cracker/1998/block-e-at-hennepin-avenue-minneapolis-mn-13e7d949.html"
 		},
@@ -1166,7 +1309,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Pearl Jam",
-			"Tour": "",
+			"Tour": "Yield",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/pearl-jam/1998/target-center-minneapolis-mn-43d66707.html"
 		},
@@ -1205,7 +1348,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Foo Fighters",
-			"Tour": "",
+			"Tour": "The Colour and the Shape",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/foo-fighters/1997/roy-wilkins-auditorium-st-paul-mn-4bdd4342.html"
 		},
@@ -1309,7 +1452,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Iggy Pop",
-			"Tour": "",
+			"Tour": "Naughty Little Doggie",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/iggy-pop/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c0.html"
 		},
@@ -1322,7 +1465,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Rollins Band",
-			"Tour": "",
+			"Tour": "Come In And Burn",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/rollins-band/1997/float-rite-park-amphitheatre-somerset-wi-13fe89e1.html"
 		},
@@ -1348,7 +1491,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Sevendust",
-			"Tour": "",
+			"Tour": "Sevendust",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/sevendust/1997/float-rite-park-amphitheatre-somerset-wi-13eb5571.html"
 		},
@@ -1361,7 +1504,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Matchbox Twenty",
-			"Tour": "",
+			"Tour": "Yourself or Someone Like You",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/matchbox-twenty/1997/float-rite-park-amphitheatre-somerset-wi-befbd7a.html"
 		},
@@ -1374,7 +1517,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Beck",
-			"Tour": "",
+			"Tour": "Odelay",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/beck/1997/float-rite-park-amphitheatre-somerset-wi-7bda4260.html"
 		},
@@ -1426,7 +1569,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "The Verve Pipe",
-			"Tour": "",
+			"Tour": "Villains",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html"
 		},
@@ -1452,7 +1595,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Skunk Anansie",
-			"Tour": "",
+			"Tour": "Stoosh",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/skunk-anansie/1997/float-rite-park-amphitheatre-somerset-wi-3bec94d4.html"
 		},
@@ -1478,7 +1621,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "The Wallflowers",
-			"Tour": "",
+			"Tour": "Bringing Down the Horse",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-wallflowers/1996/target-center-minneapolis-mn-3bdf60c0.html"
 		},
@@ -1517,7 +1660,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Danzig",
-			"Tour": "",
+			"Tour": "Danzig V",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/danzig/1996/target-center-minneapolis-mn-2bdf60c2.html"
 		},
@@ -1556,7 +1699,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Rage Against the Machine",
-			"Tour": "",
+			"Tour": "Evil Empire",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/rage-against-the-machine/1996/roy-wilkins-auditorium-st-paul-mn-73d45271.html"
 		},
@@ -1595,7 +1738,7 @@
 			"Lat": 41.600544,
 			"Long": -93.60911,
 			"Artist": "Ramones",
-			"Tour": "",
+			"Tour": "Lollapalooza 1996",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/ramones/1996/iowa-state-fairgrounds-des-moines-ia-7bc52a60.html"
 		},
@@ -1608,7 +1751,7 @@
 			"Lat": 41.600544,
 			"Long": -93.60911,
 			"Artist": "Rancid",
-			"Tour": "",
+			"Tour": "Lollapalooza 1996",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/rancid/1996/iowa-state-fairgrounds-des-moines-ia-6bfa42f2.html"
 		},
@@ -1621,7 +1764,7 @@
 			"Lat": 41.600544,
 			"Long": -93.60911,
 			"Artist": "Metallica",
-			"Tour": "",
+			"Tour": "Lollapalooza 1996",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/metallica/1996/iowa-state-fairgrounds-des-moines-ia-6bd6da6e.html"
 		},
@@ -1634,7 +1777,7 @@
 			"Lat": 41.600544,
 			"Long": -93.60911,
 			"Artist": "Ben Folds Five",
-			"Tour": "",
+			"Tour": "Lollapalooza 1996",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/ben-folds-five/1996/iowa-state-fairgrounds-des-moines-ia-53e60ba9.html"
 		},
@@ -1647,7 +1790,7 @@
 			"Lat": 41.600544,
 			"Long": -93.60911,
 			"Artist": "Soundgarden",
-			"Tour": "",
+			"Tour": "Lollapalooza 1996",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/soundgarden/1996/iowa-state-fairgrounds-des-moines-ia-3bd35820.html"
 		},
@@ -1660,7 +1803,7 @@
 			"Lat": 41.600544,
 			"Long": -93.60911,
 			"Artist": "Waylon Jennings",
-			"Tour": "",
+			"Tour": "Lollapalooza 1996",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/waylon-jennings/1996/iowa-state-fairgrounds-des-moines-ia-2bdf60d6.html"
 		},
@@ -1673,7 +1816,7 @@
 			"Lat": 41.600544,
 			"Long": -93.60911,
 			"Artist": "Screaming Trees",
-			"Tour": "",
+			"Tour": "Lollapalooza 1996",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/screaming-trees/1996/iowa-state-fairgrounds-des-moines-ia-13e7f93d.html"
 		},
@@ -1712,7 +1855,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Candlebox",
-			"Tour": "",
+			"Tour": "Lucy Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html"
 		},
@@ -1751,7 +1894,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Goldfinger",
-			"Tour": "",
+			"Tour": "Goldfinger",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html"
 		},
@@ -1764,7 +1907,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Filter",
-			"Tour": "",
+			"Tour": "Short Bus",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html"
 		},
@@ -1777,7 +1920,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Everclear",
-			"Tour": "",
+			"Tour": "Sparkle And Fade",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/everclear/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e534.html"
 		},
@@ -1790,7 +1933,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Garbage",
-			"Tour": "",
+			"Tour": "Garbage",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html"
 		},
@@ -1803,7 +1946,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Iggy Pop",
-			"Tour": "",
+			"Tour": "Naughty Little Doggie",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/iggy-pop/1996/float-rite-park-amphitheatre-somerset-wi-13c4e535.html"
 		},
@@ -1816,7 +1959,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "No Doubt",
-			"Tour": "",
+			"Tour": "Tragic Kingdom",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/no-doubt/1996/float-rite-park-amphitheatre-somerset-wi-13c4e52d.html"
 		},
@@ -1829,7 +1972,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "The Flaming Lips",
-			"Tour": "",
+			"Tour": "1996 Spring Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/1996/first-avenue-minneapolis-mn-4bd46736.html"
 		},
@@ -1868,7 +2011,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Bad Religion",
-			"Tour": "",
+			"Tour": "The Gray Race Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/bad-religion/1996/first-avenue-minneapolis-mn-4bcdd3ea.html"
 		},
@@ -1946,7 +2089,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Oasis",
-			"Tour": "",
+			"Tour": "(What's The Story) Morning Glory?",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/oasis/1995/target-center-minneapolis-mn-3bd798a0.html"
 		},
@@ -1972,7 +2115,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Garbage",
-			"Tour": "",
+			"Tour": "Garbage",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/garbage/1995/target-center-minneapolis-mn-1bf0e524.html"
 		},
@@ -2037,7 +2180,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "White Zombie",
-			"Tour": "",
+			"Tour": "Astro Creep: 2000",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/white-zombie/1995/roy-wilkins-auditorium-st-paul-mn-4bc52b9a.html"
 		},
@@ -2050,7 +2193,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "The Black Crowes",
-			"Tour": "",
+			"Tour": "1995 HORDE Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-black-crowes/1995/rivers-edge-park-somerset-wi-7bd4a260.html"
 		},
@@ -2115,7 +2258,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Wilco",
-			"Tour": "",
+			"Tour": "1995 HORDE Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/wilco/1995/rivers-edge-park-somerset-wi-4bceb77e.html"
 		},
@@ -2128,7 +2271,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "The Rembrandts",
-			"Tour": "",
+			"Tour": "LP Tour 1995",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-rembrandts/1995/rivers-edge-park-somerset-wi-4390f727.html"
 		},
@@ -2167,7 +2310,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "Primus",
-			"Tour": "",
+			"Tour": "Tales From the Punchbowl",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/primus/1995/roy-wilkins-auditorium-st-paul-mn-3bd640ec.html"
 		},
@@ -2193,7 +2336,7 @@
 			"Lat": 44.944,
 			"Long": -93.093,
 			"Artist": "The Offspring",
-			"Tour": "",
+			"Tour": "Smash",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html"
 		},
@@ -2232,7 +2375,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Bush",
-			"Tour": "",
+			"Tour": "Sixteen Stone",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/bush/1995/float-rite-park-amphitheatre-somerset-wi-bce490a.html"
 		},
@@ -2245,7 +2388,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Our Lady Peace",
-			"Tour": "",
+			"Tour": "Naveed Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/our-lady-peace/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9aec.html"
 		},
@@ -2284,7 +2427,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Faith No More",
-			"Tour": "",
+			"Tour": "King For a Day",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html"
 		},
@@ -2297,7 +2440,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Ramones",
-			"Tour": "",
+			"Tour": "Midwest Fests",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/ramones/1995/float-rite-park-amphitheatre-somerset-wi-73d53255.html"
 		},
@@ -2310,7 +2453,7 @@
 			"Lat": 45.124413,
 			"Long": -92.67354,
 			"Artist": "Monster Magnet",
-			"Tour": "",
+			"Tour": "Dopes To Infinity 1995 Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html"
 		},
@@ -2375,7 +2518,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Veruca Salt",
-			"Tour": "",
+			"Tour": "American Thighs",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/veruca-salt/1995/first-avenue-minneapolis-mn-3e65527.html"
 		},
@@ -2414,7 +2557,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "White Zombie",
-			"Tour": "",
+			"Tour": "Astro Creep: 2000",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/white-zombie/1995/target-center-minneapolis-mn-6bc53ed2.html"
 		},
@@ -2427,7 +2570,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Melvins",
-			"Tour": "",
+			"Tour": "Spring 1995 North American Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-1bd14d38.html"
 		},
@@ -2440,7 +2583,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Melvins",
-			"Tour": "",
+			"Tour": "Stoner Witch",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html"
 		},
@@ -2453,7 +2596,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Nine Inch Nails",
-			"Tour": "",
+			"Tour": "Further Down the Spiral",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/nine-inch-nails/1995/target-center-minneapolis-mn-3bd6d8c4.html"
 		},
@@ -2479,7 +2622,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "The Flaming Lips",
-			"Tour": "",
+			"Tour": "1994 Fall \u0026 Winter Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/the-flaming-lips/1994/state-theatre-minneapolis-mn-5bd5bbcc.html"
 		},
@@ -2492,7 +2635,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Candlebox",
-			"Tour": "",
+			"Tour": "Candlebox Tour",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/candlebox/1994/state-theatre-minneapolis-mn-23d9083b.html"
 		},
@@ -2518,7 +2661,7 @@
 			"Lat": 44.979965,
 			"Long": -93.26384,
 			"Artist": "Pink Floyd",
-			"Tour": "",
+			"Tour": "The Division Bell",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/pink-floyd/1994/hubert-h-humphrey-metrodome-minneapolis-mn-63d76673.html"
 		}

@@ -1,0 +1,94 @@
+{
+	"id": "63d6c22b",
+	"versionId": "gbd245de",
+	"eventDate": "16-09-2006",
+	"lastUpdated": "2021-03-27T05:07:59.987+0000",
+	"artist": {
+		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+		"name": "Tool",
+		"sortName": "Tool",
+		"disambiguation": "American rock band",
+		"url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "10,000 Days"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Stinkfist",
+						"info": "extended"
+					},
+					{
+						"name": "The Pot"
+					},
+					{
+						"name": "Forty Six \u0026 2"
+					},
+					{
+						"name": "Jambi"
+					},
+					{
+						"name": "Schism"
+					},
+					{
+						"name": "Lost Keys (Blame Hofmann)"
+					},
+					{
+						"name": "Rosetta Stoned"
+					},
+					{
+						"name": "Wings for Marie (Pt 1)",
+						"info": "Maynard dedicated the song to Mike Van"
+					},
+					{
+						"name": "10,000 Days (Wings, Pt 2)"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Lateralus"
+					},
+					{
+						"name": "Synth intro",
+						"tape": true
+					},
+					{
+						"name": "Vicarious"
+					},
+					{
+						"name": "Ænema"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/tool/2006/target-center-minneapolis-mn-63d6c22b.html"
+}

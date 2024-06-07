@@ -1,0 +1,6318 @@
+[
+  {
+    "artist": "A Perfect Circle",
+    "events": [
+      {
+        "date": "2001-03-31",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": [
+            "Renholdër",
+            "Thinking of You",
+            "Magdalena",
+            "3 Libras (All Main Courses Mix)",
+            "3 Libras",
+            "Breña",
+            "Orestes",
+            "Vacant",
+            "Rose",
+            "Sleeping Beauty",
+            "Over",
+            "Thomas",
+            "Judith",
+            "Ashes to Ashes",
+            "The Hollow"
+          ]
+        },
+        "artist": {
+          "name": "A Perfect Circle",
+          "url": "https://www.setlist.fm/setlists/a-perfect-circle-13d689cd.html"
+        },
+        "tour": "Mer de noms",
+        "url": "https://www.setlist.fm/setlist/a-perfect-circle/2001/roy-wilkins-auditorium-st-paul-mn-33d08c49.html"
+      },
+      {
+        "date": "2003-12-05",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Vanishing",
+            "Pet",
+            "The Hollow",
+            "Magdalena",
+            "Weak and Powerless",
+            "Rose",
+            "Blue",
+            "Thinking of You",
+            "The Package",
+            "3 Libras",
+            "The Nurse Who Loved Me",
+            "Gravity",
+            "Fred's Got Slacks",
+            "The Outsider",
+            "The Noose",
+            "Judith"
+          ]
+        },
+        "artist": {
+          "name": "A Perfect Circle",
+          "url": "https://www.setlist.fm/setlists/a-perfect-circle-13d689cd.html"
+        },
+        "tour": "Thirteenth Step",
+        "url": "https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html"
+      },
+      {
+        "date": "2017-11-25",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "The Package",
+            "The Hollow",
+            "The Noose",
+            "Weak and Powerless",
+            "Rose",
+            "Imagine",
+            "By and Down",
+            "Thomas",
+            "People Are People",
+            "Magdalena",
+            "Vanishing",
+            "Passive",
+            "Gravity",
+            "3 Libras (All Main Courses Mix)",
+            "Hourglass",
+            "Counting Bodies Like Sheep to the Rhythm of the War Drums",
+            "The Doomed",
+            "The Outsider",
+            "Feathers"
+          ]
+        },
+        "artist": {
+          "name": "A Perfect Circle",
+          "url": "https://www.setlist.fm/setlists/a-perfect-circle-13d689cd.html"
+        },
+        "tour": "Fall 2017",
+        "url": "https://www.setlist.fm/setlist/a-perfect-circle/2017/xcel-energy-center-st-paul-mn-43e03f6f.html"
+      }
+    ]
+  },
+  {
+    "artist": "Adam Sandler",
+    "events": [
+      {
+        "date": "2023-11-12",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Sun-Maid Raisins Lady",
+            "Pants Song",
+            "So Tired",
+            "Hot Dog",
+            "Muttering Under Your Breath",
+            "Clinically Depressed",
+            "As Soon as the Dog's Dead",
+            "Scary Shit is Coming",
+            "Q-Tip",
+            "Public Bathroom",
+            "Old Man with a Kid",
+            "Somebody Kill Me",
+            "The Funny Man",
+            "Selfie",
+            "Zit on the Forehead",
+            "Endless Love",
+            "It's Now or Never",
+            "Farley",
+            "Grow Old With You"
+          ]
+        },
+        "artist": {
+          "name": "Adam Sandler",
+          "url": "https://www.setlist.fm/setlists/adam-sandler-7bd632c8.html"
+        },
+        "tour": "I Missed You",
+        "url": "https://www.setlist.fm/setlist/adam-sandler/2023/target-center-minneapolis-mn-73a1e2ad.html"
+      }
+    ]
+  },
+  {
+    "artist": "Aziz Ansari",
+    "events": [
+      {
+        "date": "2018-10-02",
+        "venue": {
+          "name": "Acme Comedy Company",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Aziz Ansari",
+          "url": "https://www.setlist.fm/setlists/aziz-ansari-23d464c7.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-43a9c7ef.html"
+      }
+    ]
+  },
+  {
+    "artist": "Bad Religion",
+    "events": [
+      {
+        "date": "1996-04-30",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "The Gray Race",
+            "No Control",
+            "The Handshake",
+            "21st Century (Digital Boy)",
+            "American Jesus",
+            "Them and Us",
+            "Anesthesia",
+            "What It Is",
+            "Watch It Die",
+            "Modern Man",
+            "Yesterday",
+            "Ten in 2010",
+            "Pessimistic Lines",
+            "You Are (the Government)",
+            "A Walk",
+            "Do What You Want",
+            "Fuck Armageddon... This Is Hell",
+            "Punk Rock Song",
+            "The Streets of America",
+            "Suffer",
+            "Along the Way",
+            "Generator",
+            "Drunk Sincerity",
+            "The Answer",
+            "Leave Mine to Me",
+            "Pity the Dead",
+            "Recipe for Hate",
+            "Infected",
+            "Come Join Us",
+            "Faith Alone",
+            "We're Only Gonna Die",
+            "Cease"
+          ]
+        },
+        "artist": {
+          "name": "Bad Religion",
+          "url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+        },
+        "tour": "The Gray Race Tour",
+        "url": "https://www.setlist.fm/setlist/bad-religion/1996/first-avenue-minneapolis-mn-4bcdd3ea.html"
+      },
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Bad Religion",
+          "url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+        },
+        "tour": "Vans Warped Tour 1998",
+        "url": "https://www.setlist.fm/setlist/bad-religion/1998/float-rite-park-amphitheatre-somerset-wi-5bfdf764.html"
+      },
+      {
+        "date": "2019-07-02",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "Them and Us",
+            "End of History",
+            "Fuck You",
+            "Stranger Than Fiction",
+            "The Dichotomy",
+            "Dearly Beloved",
+            "Chaos From Within",
+            "Anesthesia",
+            "Suffer",
+            "My Sanity",
+            "The Handshake",
+            "Overture",
+            "Sinister Rouge",
+            "Lose Your Head",
+            "Atomic Garden",
+            "Los Angeles Is Burning",
+            "I Want to Conquer the World",
+            "21st Century (Digital Boy)",
+            "Recipe for Hate",
+            "Generator",
+            "No Control",
+            "Against the Grain",
+            "Do What You Want",
+            "You",
+            "Do the Paranoid Style",
+            "Fuck Armageddon... This Is Hell",
+            "Sorrow",
+            "Infected",
+            "American Jesus"
+          ]
+        },
+        "artist": {
+          "name": "Bad Religion",
+          "url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+        },
+        "tour": "Age of Unreason Tour",
+        "url": "https://www.setlist.fm/setlist/bad-religion/2019/first-avenue-minneapolis-mn-5b915be4.html"
+      },
+      {
+        "date": "2023-10-16",
+        "venue": {
+          "name": "Uptown Theater",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/uptown-theater-minneapolis-mn-usa-13d1f5e9.html",
+          "setlist": [
+            "The Defense",
+            "Against the Grain",
+            "Past Is Dead",
+            "Anesthesia",
+            "Wrong Way Kids",
+            "To Another Abyss",
+            "We're Only Gonna Die",
+            "Requiem for Dissent",
+            "Infected",
+            "My Sanity",
+            "Beyond Electric Dreams",
+            "Delirium of Disorder",
+            "No Control",
+            "Do What You Want",
+            "Recipe for Hate",
+            "Fuck You",
+            "Tomorrow",
+            "21st Century (Digital Boy)",
+            "Drunk Sincerity",
+            "Candidate",
+            "I Want to Conquer the World",
+            "Sorrow",
+            "You",
+            "Fuck Armageddon... This Is Hell",
+            "Generator",
+            "American Jesus",
+            "The Boys Are Back in Town"
+          ]
+        },
+        "artist": {
+          "name": "Bad Religion",
+          "url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+        },
+        "tour": "North America 2023",
+        "url": "https://www.setlist.fm/setlist/bad-religion/2023/uptown-theater-minneapolis-mn-23a0b00b.html"
+      }
+    ]
+  },
+  {
+    "artist": "Beck",
+    "events": [
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Devils Haircut",
+            "Loser",
+            "The New Pollution",
+            "Where It's At"
+          ]
+        },
+        "artist": {
+          "name": "Beck",
+          "url": "https://www.setlist.fm/setlists/beck-63d6a2eb.html"
+        },
+        "tour": "Odelay",
+        "url": "https://www.setlist.fm/setlist/beck/1997/float-rite-park-amphitheatre-somerset-wi-7bda4260.html"
+      },
+      {
+        "date": "1998-12-19",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Beck",
+          "url": "https://www.setlist.fm/setlists/beck-63d6a2eb.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/beck/1998/target-center-minneapolis-mn-73c01635.html"
+      },
+      {
+        "date": "2018-09-13",
+        "venue": {
+          "name": "Minneapolis Armory",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/minneapolis-armory-minneapolis-mn-usa-23d77cb3.html",
+          "setlist": [
+            "Devils Haircut",
+            "Loser",
+            "The New Pollution",
+            "Mixed Bizness",
+            "Colors",
+            "Qué Onda Guero",
+            "Debra",
+            "Think I'm in Love",
+            "Earthquake Weather",
+            "l'm So Free",
+            "Lost Cause",
+            "Go It Alone",
+            "Lost Cause",
+            "Take Me With U",
+            "Say Goodbye",
+            "Rowboat",
+            "Blue Moon",
+            "Dreams",
+            "Girl",
+            "Up All Night",
+            "Sexx Laws",
+            "E-Pro",
+            "Wow",
+            "Strawberry Fields Forever",
+            "Where It's At",
+            "Good Times / Miss You / Blue Monday / Once In A Lifetime / In The Air Tonight",
+            "One Foot in the Grave",
+            "Where It's At"
+          ]
+        },
+        "artist": {
+          "name": "Beck",
+          "url": "https://www.setlist.fm/setlists/beck-63d6a2eb.html"
+        },
+        "tour": "Colors",
+        "url": "https://www.setlist.fm/setlist/beck/2018/minneapolis-armory-minneapolis-mn-2be990f2.html"
+      }
+    ]
+  },
+  {
+    "artist": "Ben Folds Five",
+    "events": [
+      {
+        "date": "1996-06-28",
+        "venue": {
+          "name": "Iowa State Fairgrounds",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "geo": [
+            41.600544,
+            -93.60911
+          ],
+          "url": "https://www.setlist.fm/venue/iowa-state-fairgrounds-des-moines-ia-usa-3d2f1d7.html",
+          "setlist": [
+            "Song for the Dumped"
+          ]
+        },
+        "artist": {
+          "name": "Ben Folds Five",
+          "url": "https://www.setlist.fm/setlists/ben-folds-five-23d6a4fb.html"
+        },
+        "tour": "Lollapalooza 1996",
+        "url": "https://www.setlist.fm/setlist/ben-folds-five/1996/iowa-state-fairgrounds-des-moines-ia-53e60ba9.html"
+      }
+    ]
+  },
+  {
+    "artist": "Better Than Ezra",
+    "events": [
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Better Than Ezra",
+          "url": "https://www.setlist.fm/setlists/better-than-ezra-7bd6b6e8.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/better-than-ezra/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7b.html"
+      }
+    ]
+  },
+  {
+    "artist": "Big Bad Voodoo Daddy",
+    "events": [
+      {
+        "date": "1998-12-19",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://www.setlist.fm/setlists/big-bad-voodoo-daddy-5bd69b9c.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/big-bad-voodoo-daddy/1998/target-center-minneapolis-mn-6bc01622.html"
+      }
+    ]
+  },
+  {
+    "artist": "Big Freedia",
+    "events": [
+      {
+        "date": "2018-10-24",
+        "venue": {
+          "name": "Champions Square",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "geo": [
+            29.955,
+            -90.075
+          ],
+          "url": "https://www.setlist.fm/venue/champions-square-new-orleans-la-usa-bd7cdbe.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Big Freedia",
+          "url": "https://www.setlist.fm/setlists/big-freedia-4bd163ba.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/big-freedia/2018/champions-square-new-orleans-la-5b9633ac.html"
+      }
+    ]
+  },
+  {
+    "artist": "Bloodhound Gang",
+    "events": [
+      {
+        "date": "1996-12-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Fire Water Burn",
+            "I Wish I Was Queer So I Could Get Chicks"
+          ]
+        },
+        "artist": {
+          "name": "Bloodhound Gang",
+          "url": "https://www.setlist.fm/setlists/bloodhound-gang-1bd689c4.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/bloodhound-gang/1996/target-center-minneapolis-mn-23df60c3.html"
+      },
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "",
+            "Funky Cold Medina",
+            "Undone - The Sweater Song",
+            "Fire Water Burn"
+          ]
+        },
+        "artist": {
+          "name": "Bloodhound Gang",
+          "url": "https://www.setlist.fm/setlists/bloodhound-gang-1bd689c4.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/bloodhound-gang/1997/float-rite-park-amphitheatre-somerset-wi-63da4263.html"
+      }
+    ]
+  },
+  {
+    "artist": "Blues Traveler",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "River's Edge Park",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html",
+          "setlist": [
+            "But Anyway",
+            "Crash Burn",
+            "Hook",
+            "Mulling It Over",
+            "Miss You",
+            "The Mountains Win Again",
+            "Low Rider",
+            "Run-Around",
+            "Stand",
+            "Mountain Cry"
+          ]
+        },
+        "artist": {
+          "name": "Blues Traveler",
+          "url": "https://www.setlist.fm/setlists/blues-traveler-6bd6def2.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/blues-traveler/1995/rivers-edge-park-somerset-wi-3bd0c884.html"
+      }
+    ]
+  },
+  {
+    "artist": "Bobcat Goldthwait",
+    "events": [
+      {
+        "date": "2009-11-14",
+        "venue": {
+          "name": "Acme Comedy Company",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html",
+          "setlist": [
+            "I pooped a little"
+          ]
+        },
+        "artist": {
+          "name": "Bobcat Goldthwait",
+          "url": "https://www.setlist.fm/setlists/bobcat-goldthwait-2bd6c0f6.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/bobcat-goldthwait/2009/acme-comedy-company-minneapolis-mn-43a9c71f.html"
+      }
+    ]
+  },
+  {
+    "artist": "Bush",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Bush",
+          "url": "https://www.setlist.fm/setlists/bush-1bd6b9ec.html"
+        },
+        "tour": "Sixteen Stone",
+        "url": "https://www.setlist.fm/setlist/bush/1995/float-rite-park-amphitheatre-somerset-wi-bce490a.html"
+      }
+    ]
+  },
+  {
+    "artist": "Candlebox",
+    "events": [
+      {
+        "date": "1994-10-18",
+        "venue": {
+          "name": "State Theatre",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/state-theatre-minneapolis-mn-usa-2bd6c01e.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Candlebox",
+          "url": "https://www.setlist.fm/setlists/candlebox-33d694cd.html"
+        },
+        "tour": "Candlebox Tour",
+        "url": "https://www.setlist.fm/setlist/candlebox/1994/state-theatre-minneapolis-mn-23d9083b.html"
+      },
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Candlebox",
+          "url": "https://www.setlist.fm/setlists/candlebox-33d694cd.html"
+        },
+        "tour": "Lucy Tour",
+        "url": "https://www.setlist.fm/setlist/candlebox/1996/float-rite-park-amphitheatre-somerset-wi-63fa4213.html"
+      },
+      {
+        "date": "2013-08-09",
+        "venue": {
+          "name": "Buster's Sports Bar & Grill",
+          "city": "Mankato",
+          "state": "Minnesota",
+          "geo": [
+            44.163578,
+            -93.9994
+          ],
+          "url": "https://www.setlist.fm/venue/busters-sports-bar-and-grill-mankato-mn-usa-63d52adf.html",
+          "setlist": [
+            "Bitches Brewin'",
+            "Mothers Dream",
+            "Stand",
+            "Believe in It",
+            "Don't You",
+            "Change",
+            "Blossom",
+            "No Sense",
+            "Rooster",
+            "Lucy",
+            "Breathe Me In",
+            "Breathe Me In",
+            "Arrow",
+            "You",
+            "Sweet Summertime",
+            "Sometimes",
+            "Cover Me",
+            "Far Behind",
+            "He Calls Home",
+            "Rain"
+          ]
+        },
+        "artist": {
+          "name": "Candlebox",
+          "url": "https://www.setlist.fm/setlists/candlebox-33d694cd.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/candlebox/2013/busters-sports-bar-and-grill-mankato-mn-63c4562b.html"
+      },
+      {
+        "date": "2019-11-16",
+        "venue": {
+          "name": "The Cabooze",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/the-cabooze-minneapolis-mn-usa-3d6c507.html",
+          "setlist": [
+            "Arrow",
+            "You",
+            "Cover Me",
+            "Don't You",
+            "Blossom",
+            "Simple Lessons",
+            "Sometimes",
+            "Stand",
+            "She Come Over Me",
+            "Vexatious",
+            "Nothing Left to Lose",
+            "Mothers Dream",
+            "Change",
+            "No Sense",
+            "He Calls Home",
+            "Far Behind",
+            "Rain"
+          ]
+        },
+        "artist": {
+          "name": "Candlebox",
+          "url": "https://www.setlist.fm/setlists/candlebox-33d694cd.html"
+        },
+        "tour": "2019 US Tour",
+        "url": "https://www.setlist.fm/setlist/candlebox/2019/the-cabooze-minneapolis-mn-39a813f.html"
+      }
+    ]
+  },
+  {
+    "artist": "Chappo",
+    "events": [
+      {
+        "date": "2017-09-17",
+        "venue": {
+          "name": "Myth",
+          "city": "Maplewood",
+          "state": "Minnesota",
+          "geo": [
+            44.953022,
+            -92.99522
+          ],
+          "url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html",
+          "setlist": [
+            "White Noise",
+            "Outrageous",
+            "Celebrate",
+            "Success",
+            "5-0",
+            "American Dream",
+            "Come Home"
+          ]
+        },
+        "artist": {
+          "name": "Chappo",
+          "url": "https://www.setlist.fm/setlists/chappo-43d2b78f.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/chappo/2017/myth-maplewood-mn-33e21025.html"
+      }
+    ]
+  },
+  {
+    "artist": "Cherry Poppin’ Daddies",
+    "events": [
+      {
+        "date": "1998-12-19",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Cherry Poppin’ Daddies",
+          "url": "https://www.setlist.fm/setlists/cherry-poppin-daddies-53d69b91.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/cherry-poppin-daddies/1998/target-center-minneapolis-mn-73c01629.html"
+      }
+    ]
+  },
+  {
+    "artist": "Chevelle",
+    "events": [
+      {
+        "date": "2002-03-08",
+        "venue": {
+          "name": "The Quest",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/the-quest-minneapolis-mn-usa-2bd2508a.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Chevelle",
+          "url": "https://www.setlist.fm/setlists/chevelle-4bd6bfc2.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/chevelle/2002/the-quest-minneapolis-mn-1bd84564.html"
+      }
+    ]
+  },
+  {
+    "artist": "Chris Porter",
+    "events": [
+      {
+        "date": "2015-12-08",
+        "venue": {
+          "name": "Acme Comedy Company",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Chris Porter",
+          "url": "https://www.setlist.fm/setlists/chris-porter-bc1c972.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/chris-porter/2015/acme-comedy-company-minneapolis-mn-2bbe901e.html"
+      }
+    ]
+  },
+  {
+    "artist": "Clutch",
+    "events": [
+      {
+        "date": "2017-08-02",
+        "venue": {
+          "name": "Vetter Stone Amphitheater",
+          "city": "Mankato",
+          "state": "Minnesota",
+          "geo": [
+            44.163578,
+            -93.9994
+          ],
+          "url": "https://www.setlist.fm/venue/vetter-stone-amphitheater-mankato-mn-usa-13d25111.html",
+          "setlist": [
+            "Vision Quest",
+            "The Elephant Riders",
+            "Electric Worry",
+            "X-Ray Visions",
+            "Firebirds!",
+            "Cyborg Bette",
+            "Decapitation Blues",
+            "Crucial Velocity",
+            "Burning Beard",
+            "Gimme the Keys",
+            "Big News I",
+            "Escape From the Prison Planet",
+            "Passive Restraints",
+            "How to Shake Hands",
+            "The Regulator",
+            "Earth Rocker",
+            "The Mob Goes Wild"
+          ]
+        },
+        "artist": {
+          "name": "Clutch",
+          "url": "https://www.setlist.fm/setlists/clutch-7bd68e44.html"
+        },
+        "tour": "Psychic Warfare",
+        "url": "https://www.setlist.fm/setlist/clutch/2017/vetter-stone-amphitheater-mankato-mn-3e5cd1b.html"
+      }
+    ]
+  },
+  {
+    "artist": "Coal Chamber",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Sway",
+            "Big Truck",
+            "Bradley",
+            "Clock",
+            "Oddity",
+            "Not Living",
+            "Loco"
+          ]
+        },
+        "artist": {
+          "name": "Coal Chamber",
+          "url": "https://www.setlist.fm/setlists/coal-chamber-1bd69920.html"
+        },
+        "tour": "Ozzfest 1998",
+        "url": "https://www.setlist.fm/setlist/coal-chamber/1998/float-rite-park-amphitheatre-somerset-wi-33de1881.html"
+      }
+    ]
+  },
+  {
+    "artist": "Collective Soul",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Collective Soul",
+          "url": "https://www.setlist.fm/setlists/collective-soul-bd6b90e.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/collective-soul/1995/float-rite-park-amphitheatre-somerset-wi-13f451b5.html"
+      }
+    ]
+  },
+  {
+    "artist": "Cracker",
+    "events": [
+      {
+        "date": "1998-07-17",
+        "venue": {
+          "name": "Block E at Hennepin Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/block-e-at-hennepin-avenue-minneapolis-mn-usa-bd60546.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Cracker",
+          "url": "https://www.setlist.fm/setlists/cracker-6bd686e6.html"
+        },
+        "tour": "Gentleman's Blues Tour 1998",
+        "url": "https://www.setlist.fm/setlist/cracker/1998/block-e-at-hennepin-avenue-minneapolis-mn-13e7d949.html"
+      }
+    ]
+  },
+  {
+    "artist": "Crash Test Dummies",
+    "events": [
+      {
+        "date": "1996-12-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Crash Test Dummies",
+          "url": "https://www.setlist.fm/setlists/crash-test-dummies-63d6567f.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/crash-test-dummies/1996/target-center-minneapolis-mn-33df60c1.html"
+      }
+    ]
+  },
+  {
+    "artist": "Dan Naturman",
+    "events": [
+      {
+        "date": "2014-12-13",
+        "venue": {
+          "name": "Acme Comedy Company",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Dan Naturman",
+          "url": "https://www.setlist.fm/setlists/dan-naturman-5bc54fc4.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/dan-naturman/2014/acme-comedy-company-minneapolis-mn-43a9c7d7.html"
+      }
+    ]
+  },
+  {
+    "artist": "Dance Hall Crashers",
+    "events": [
+      {
+        "date": "1996-04-30",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Dance Hall Crashers",
+          "url": "https://www.setlist.fm/setlists/dance-hall-crashers-3d63553.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/dance-hall-crashers/1996/first-avenue-minneapolis-mn-b9c196a.html"
+      }
+    ]
+  },
+  {
+    "artist": "Danzig",
+    "events": [
+      {
+        "date": "1996-12-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Danzig",
+          "url": "https://www.setlist.fm/setlists/danzig-1bd6cdf0.html"
+        },
+        "tour": "Danzig V",
+        "url": "https://www.setlist.fm/setlist/danzig/1996/target-center-minneapolis-mn-2bdf60c2.html"
+      }
+    ]
+  },
+  {
+    "artist": "Dave Hause",
+    "events": [
+      {
+        "date": "2019-07-02",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "Eye Aye I",
+            "Autism Vaccine Blues",
+            "Saboteurs",
+            "Paradise",
+            "We Could Be Kings",
+            "Dirty Fucker",
+            "Jane",
+            "With You",
+            "The Ditch"
+          ]
+        },
+        "artist": {
+          "name": "Dave Hause",
+          "url": "https://www.setlist.fm/setlists/dave-hause-3d491fb.html"
+        },
+        "tour": "Summer 2019",
+        "url": "https://www.setlist.fm/setlist/dave-hause/2019/first-avenue-minneapolis-mn-b915106.html"
+      }
+    ]
+  },
+  {
+    "artist": "Deep Sea Diver",
+    "events": [
+      {
+        "date": "2023-08-31",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Emergency",
+            "Impossible Weight"
+          ]
+        },
+        "artist": {
+          "name": "Deep Sea Diver",
+          "url": "https://www.setlist.fm/setlists/deep-sea-diver-2bdeb49e.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-6ba54a5a.html"
+      },
+      {
+        "date": "2023-09-02",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Lights Out",
+            "Wide Awake",
+            "Wishing",
+            "Shattering the Hourglass",
+            "Emergency",
+            "Shovel",
+            "See In The Dark",
+            "Impossible Weight",
+            "Eyes Are Red (Don't Be Afraid)"
+          ]
+        },
+        "artist": {
+          "name": "Deep Sea Diver",
+          "url": "https://www.setlist.fm/setlists/deep-sea-diver-2bdeb49e.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-43a2af2f.html"
+      }
+    ]
+  },
+  {
+    "artist": "Deftones",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "",
+            "Root",
+            "My Own Summer (Shove It)",
+            "Lotion",
+            "Bored",
+            "7 Words",
+            "Around the Fur",
+            "MX",
+            "Mascara",
+            "Be Quiet and Drive (Far Away)",
+            "Headup"
+          ]
+        },
+        "artist": {
+          "name": "Deftones",
+          "url": "https://www.setlist.fm/setlists/deftones-1bd689cc.html"
+        },
+        "tour": "Vans Warped Tour 1998",
+        "url": "https://www.setlist.fm/setlist/deftones/1998/float-rite-park-amphitheatre-somerset-wi-4bdf6bca.html"
+      }
+    ]
+  },
+  {
+    "artist": "Del Amitri",
+    "events": [
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Del Amitri",
+          "url": "https://www.setlist.fm/setlists/del-amitri-43d6aff7.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/del-amitri/1995/target-center-minneapolis-mn-2b87e852.html"
+      }
+    ]
+  },
+  {
+    "artist": "Dig",
+    "events": [
+      {
+        "date": "1998-07-17",
+        "venue": {
+          "name": "Block E at Hennepin Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/block-e-at-hennepin-avenue-minneapolis-mn-usa-bd60546.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Dig",
+          "url": "https://www.setlist.fm/setlists/dig-1bd73954.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/dig/1998/block-e-at-hennepin-avenue-minneapolis-mn-239fd8bf.html"
+      }
+    ]
+  },
+  {
+    "artist": "Dwight Slade",
+    "events": [
+      {
+        "date": "2018-12-15",
+        "venue": {
+          "name": "Acme Comedy Company",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Dwight Slade",
+          "url": "https://www.setlist.fm/setlists/dwight-slade-4bd387e6.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/dwight-slade/2018/acme-comedy-company-minneapolis-mn-43a9c7e7.html"
+      }
+    ]
+  },
+  {
+    "artist": "Dälek",
+    "events": [
+      {
+        "date": "2010-07-01",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Paragraphs Relentless"
+          ]
+        },
+        "artist": {
+          "name": "Dälek",
+          "url": "https://www.setlist.fm/setlists/dalek-53d647d1.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/dalek/2010/xcel-energy-center-st-paul-mn-73d0e6f5.html"
+      }
+    ]
+  },
+  {
+    "artist": "Everclear",
+    "events": [
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Everclear",
+          "url": "https://www.setlist.fm/setlists/everclear-7bd6b6f4.html"
+        },
+        "tour": "Sparkle And Fade",
+        "url": "https://www.setlist.fm/setlist/everclear/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e534.html"
+      },
+      {
+        "date": "2021-09-12",
+        "venue": {
+          "name": "Vetter Stone Amphitheater",
+          "city": "Mankato",
+          "state": "Minnesota",
+          "geo": [
+            44.163578,
+            -93.9994
+          ],
+          "url": "https://www.setlist.fm/venue/vetter-stone-amphitheater-mankato-mn-usa-13d25111.html",
+          "setlist": [
+            "Summerland",
+            "Everything to Everyone",
+            "Heroin Girl",
+            "Father of Mine",
+            "Strawberry",
+            "Fire Maple Song",
+            "The Man Who Broke His Own Heart",
+            "Wonderful",
+            "White Men in Black Suits",
+            "Heartspark Dollarsign",
+            "I Will Buy You a New Life",
+            "So Much for the Afterglow",
+            "Santa Monica"
+          ]
+        },
+        "artist": {
+          "name": "Everclear",
+          "url": "https://www.setlist.fm/setlists/everclear-7bd6b6f4.html"
+        },
+        "tour": "Summerland Tour 2021",
+        "url": "https://www.setlist.fm/setlist/everclear/2021/vetter-stone-amphitheater-mankato-mn-238c0cab.html"
+      }
+    ]
+  },
+  {
+    "artist": "Faith No More",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Ricochet"
+          ]
+        },
+        "artist": {
+          "name": "Faith No More",
+          "url": "https://www.setlist.fm/setlists/faith-no-more-2bd6b0de.html"
+        },
+        "tour": "King For a Day",
+        "url": "https://www.setlist.fm/setlist/faith-no-more/1995/float-rite-park-amphitheatre-somerset-wi-73f6ba01.html"
+      }
+    ]
+  },
+  {
+    "artist": "Filter",
+    "events": [
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Filter",
+          "url": "https://www.setlist.fm/setlists/filter-13d6a5b5.html"
+        },
+        "tour": "Short Bus",
+        "url": "https://www.setlist.fm/setlist/filter/1996/float-rite-park-amphitheatre-somerset-wi-1bda4110.html"
+      },
+      {
+        "date": "2016-04-20",
+        "venue": {
+          "name": "Mill City Nights",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/mill-city-nights-minneapolis-mn-usa-43d70b53.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Filter",
+          "url": "https://www.setlist.fm/setlists/filter-13d6a5b5.html"
+        },
+        "tour": "Make America Hate Again",
+        "url": "https://www.setlist.fm/setlist/filter/2016/mill-city-nights-minneapolis-mn-1bf1e1ac.html"
+      }
+    ]
+  },
+  {
+    "artist": "FireHouse",
+    "events": [
+      {
+        "date": "2018-08-09",
+        "venue": {
+          "name": "Brown County Fairgrounds",
+          "city": "New Ulm",
+          "state": "Minnesota",
+          "geo": [
+            44.3125,
+            -94.45306
+          ],
+          "url": "https://www.setlist.fm/venue/brown-county-fairgrounds-new-ulm-mn-usa-6bd256ee.html",
+          "setlist": [
+            "Overnight Sensation",
+            "Crash",
+            "Shake & Tumble",
+            "Oughta Be a Law",
+            "All She Wrote",
+            "When I Look Into Your Eyes",
+            "Hold Your Fire",
+            "Don't Walk Away",
+            "Get in Touch",
+            "Temptation",
+            "Drum Solo",
+            "Love Is a Dangerous Thing",
+            "I Live My Life for You",
+            "Love of a Lifetime",
+            "Guitar Solo",
+            "Reach for the Sky",
+            "Helpless",
+            "Don't Treat Me Bad"
+          ]
+        },
+        "artist": {
+          "name": "FireHouse",
+          "url": "https://www.setlist.fm/setlists/firehouse-63d6facf.html"
+        },
+        "tour": "Rock You Tonight - Tour 2018",
+        "url": "https://www.setlist.fm/setlist/firehouse/2018/brown-county-fairgrounds-new-ulm-mn-63e8be13.html"
+      }
+    ]
+  },
+  {
+    "artist": "Flipp",
+    "events": [
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Times of My Life",
+            "La De Da",
+            "I Wish I Was a Planet",
+            "Half a Brain",
+            "Back in Black"
+          ]
+        },
+        "artist": {
+          "name": "Flipp",
+          "url": "https://www.setlist.fm/setlists/flipp-63d492df.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/flipp/1995/target-center-minneapolis-mn-7beafe64.html"
+      },
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Half a Brain",
+            "I Wish I Was a Planet",
+            "Clone Me",
+            "Bubble Gum Machine",
+            "Times of My Life",
+            "Back in Black"
+          ]
+        },
+        "artist": {
+          "name": "Flipp",
+          "url": "https://www.setlist.fm/setlists/flipp-63d492df.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/flipp/1996/float-rite-park-amphitheatre-somerset-wi-63eafe57.html"
+      },
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Clone Me",
+            "I Wish I Was a Planet",
+            "Hairdo",
+            "Schizo Boy",
+            "Bleed",
+            "Half a Brain",
+            "Times of My Life",
+            "Back in Black"
+          ]
+        },
+        "artist": {
+          "name": "Flipp",
+          "url": "https://www.setlist.fm/setlists/flipp-63d492df.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-6beafe1e.html"
+      },
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Clone Me",
+            "I Wish I Was a Planet",
+            "Hairdo",
+            "Schizo Boy",
+            "Bleed",
+            "Half a Brain",
+            "Times of My Life",
+            "Back in Black"
+          ]
+        },
+        "artist": {
+          "name": "Flipp",
+          "url": "https://www.setlist.fm/setlists/flipp-63d492df.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/flipp/1997/float-rite-park-amphitheatre-somerset-wi-73da4251.html"
+      }
+    ]
+  },
+  {
+    "artist": "Foo Fighters",
+    "events": [
+      {
+        "date": "1997-10-23",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": [
+            "This Is a Call",
+            "Hey, Johnny Park!",
+            "Alone + Easy Target",
+            "Monkey Wrench",
+            "Doll",
+            "See You",
+            "My Poor Brain",
+            "Enough Space",
+            "Big Me",
+            "Gas Chamber",
+            "Up in Arms",
+            "The Colour and the Shape",
+            "For All the Cows",
+            "Weenie Beenie",
+            "Outshined",
+            "Everlong",
+            "New Way Home",
+            "Walking After You",
+            "Requiem",
+            "I'll Stick Around"
+          ]
+        },
+        "artist": {
+          "name": "Foo Fighters",
+          "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+        },
+        "tour": "The Colour and the Shape",
+        "url": "https://www.setlist.fm/setlist/foo-fighters/1997/roy-wilkins-auditorium-st-paul-mn-4bdd4342.html"
+      },
+      {
+        "date": "2015-08-22",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Everlong",
+            "Monkey Wrench",
+            "Learn to Fly",
+            "Something From Nothing",
+            "The Pretender",
+            "Big Me",
+            "Congregation",
+            "Walk",
+            "Times Like These",
+            "I'm the One",
+            "Cold Day in the Sun",
+            "Skin and Bones",
+            "My Hero",
+            "Outside",
+            "Breakout",
+            "All My Life",
+            "Under Pressure",
+            "White Limo",
+            "Arlandria",
+            "These Days",
+            "This Is a Call",
+            "Ain't Talkin' 'bout Love",
+            "Panama",
+            "Miss You",
+            "Best of You"
+          ]
+        },
+        "artist": {
+          "name": "Foo Fighters",
+          "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+        },
+        "tour": "Sonic Highways World Tour",
+        "url": "https://www.setlist.fm/setlist/foo-fighters/2015/xcel-energy-center-st-paul-mn-63f7d247.html"
+      },
+      {
+        "date": "2017-11-11",
+        "venue": {
+          "name": "Denny Sanford Premier Center",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "geo": [
+            43.549976,
+            -96.700325
+          ],
+          "url": "https://www.setlist.fm/venue/denny-sanford-premier-center-sioux-falls-sd-usa-73d406f1.html",
+          "setlist": [
+            "Everlong",
+            "Monkey Wrench",
+            "Learn to Fly",
+            "The Pretender",
+            "The Sky Is a Neighborhood",
+            "Rope",
+            "Sunday Rain",
+            "My Hero",
+            "These Days",
+            "Walk",
+            "Run",
+            "Under My Wheels",
+            "You're the One That I Want / Jump / Blitzkrieg Bop",
+            "Under Pressure",
+            "All My Life",
+            "Arlandria",
+            "Times Like These",
+            "Breakout",
+            "Breakdown",
+            "Best of You",
+            "Dirty Water",
+            "This Is a Call",
+            "Let There Be Rock"
+          ]
+        },
+        "artist": {
+          "name": "Foo Fighters",
+          "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+        },
+        "tour": "Concrete and Gold",
+        "url": "https://www.setlist.fm/setlist/foo-fighters/2017/denny-sanford-premier-center-sioux-falls-sd-4be0a796.html"
+      },
+      {
+        "date": "2018-10-18",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Run",
+            "The Sky Is a Neighborhood",
+            "La Dee Da",
+            "Drum Solo",
+            "Sunday Rain",
+            "Something From Nothing",
+            "Walk",
+            "These Days",
+            "The Pretender",
+            "Times Like These",
+            "All My Life",
+            "Learn to Fly",
+            "Breakout",
+            "Guitar Solo / Another One Bites the Dust / Keyboard Solo / Jump / Imagine / Blitzkrieg Bop",
+            "Under Pressure",
+            "My Hero",
+            "Monkey Wrench",
+            "Everlong",
+            "Breakdown",
+            "White Limo",
+            "Cold Day in the Sun",
+            "Best of You"
+          ]
+        },
+        "artist": {
+          "name": "Foo Fighters",
+          "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+        },
+        "tour": "Concrete and Gold",
+        "url": "https://www.setlist.fm/setlist/foo-fighters/2018/xcel-energy-center-st-paul-mn-3b968020.html"
+      }
+    ]
+  },
+  {
+    "artist": "Frank Black and the Catholics",
+    "events": [
+      {
+        "date": "1998-06-30",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Frank Black and the Catholics",
+          "url": "https://www.setlist.fm/setlists/frank-black-and-the-catholics-2bd6847a.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/frank-black-and-the-catholics/1998/target-center-minneapolis-mn-33df608d.html"
+      }
+    ]
+  },
+  {
+    "artist": "Garbage",
+    "events": [
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Garbage",
+          "url": "https://www.setlist.fm/setlists/garbage-4bd6bfe6.html"
+        },
+        "tour": "Garbage",
+        "url": "https://www.setlist.fm/setlist/garbage/1995/target-center-minneapolis-mn-1bf0e524.html"
+      },
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Garbage",
+          "url": "https://www.setlist.fm/setlists/garbage-4bd6bfe6.html"
+        },
+        "tour": "Garbage",
+        "url": "https://www.setlist.fm/setlist/garbage/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e528.html"
+      },
+      {
+        "date": "1998-12-19",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Temptation Waits",
+            "I Think I'm Paranoid",
+            "Special",
+            "Can't Seem to Make You Mine",
+            "Vow",
+            "Stupid Girl",
+            "#1 Crush",
+            "Only Happy When It Rains"
+          ]
+        },
+        "artist": {
+          "name": "Garbage",
+          "url": "https://www.setlist.fm/setlists/garbage-4bd6bfe6.html"
+        },
+        "tour": "Version 2.0",
+        "url": "https://www.setlist.fm/setlist/garbage/1998/target-center-minneapolis-mn-33ded099.html"
+      }
+    ]
+  },
+  {
+    "artist": "Gavin Rossdale",
+    "events": [
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Swallowed",
+            "Glycerine",
+            "Wild Horses"
+          ]
+        },
+        "artist": {
+          "name": "Gavin Rossdale",
+          "url": "https://www.setlist.fm/setlists/gavin-rossdale-2bd6b81e.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/gavin-rossdale/1997/float-rite-park-amphitheatre-somerset-wi-63da4267.html"
+      }
+    ]
+  },
+  {
+    "artist": "Girls Against Boys",
+    "events": [
+      {
+        "date": "1996-09-15",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Girls Against Boys",
+          "url": "https://www.setlist.fm/setlists/girls-against-boys-5bd6c744.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/girls-against-boys/1996/roy-wilkins-auditorium-st-paul-mn-53893785.html"
+      }
+    ]
+  },
+  {
+    "artist": "Goldfinger",
+    "events": [
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Goldfinger",
+          "url": "https://www.setlist.fm/setlists/goldfinger-6bd68aca.html"
+        },
+        "tour": "Goldfinger",
+        "url": "https://www.setlist.fm/setlist/goldfinger/1996/float-rite-park-amphitheatre-somerset-wi-3c4e523.html"
+      }
+    ]
+  },
+  {
+    "artist": "Gravity Kills",
+    "events": [
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Gravity Kills",
+          "url": "https://www.setlist.fm/setlists/gravity-kills-23d678d7.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/gravity-kills/1996/float-rite-park-amphitheatre-somerset-wi-63900a6b.html"
+      }
+    ]
+  },
+  {
+    "artist": "Heartless Bastards",
+    "events": [
+      {
+        "date": "2022-04-08",
+        "venue": {
+          "name": "Palace Theatre",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/palace-theatre-st-paul-mn-usa-4bd567ea.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Heartless Bastards",
+          "url": "https://www.setlist.fm/setlists/heartless-bastards-7bd64ee4.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/heartless-bastards/2022/palace-theatre-st-paul-mn-4bb68bca.html"
+      }
+    ]
+  },
+  {
+    "artist": "Hoobastank",
+    "events": [
+      {
+        "date": "2021-09-12",
+        "venue": {
+          "name": "Vetter Stone Amphitheater",
+          "city": "Mankato",
+          "state": "Minnesota",
+          "geo": [
+            44.163578,
+            -93.9994
+          ],
+          "url": "https://www.setlist.fm/venue/vetter-stone-amphitheater-mankato-mn-usa-13d25111.html",
+          "setlist": [
+            "Pieces",
+            "Out of Control",
+            "Inside of You",
+            "Running Away",
+            "Remember Me",
+            "Born to Lead",
+            "Same Direction",
+            "The Reason",
+            "Crawling in the Dark"
+          ]
+        },
+        "artist": {
+          "name": "Hoobastank",
+          "url": "https://www.setlist.fm/setlists/hoobastank-2bd6bcd6.html"
+        },
+        "tour": "Summerland Tour 2021",
+        "url": "https://www.setlist.fm/setlist/hoobastank/2021/vetter-stone-amphitheater-mankato-mn-2b8c0cae.html"
+      }
+    ]
+  },
+  {
+    "artist": "Iggy Pop",
+    "events": [
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Iggy Pop",
+          "url": "https://www.setlist.fm/setlists/iggy-pop-43d6b7eb.html"
+        },
+        "tour": "Naughty Little Doggie",
+        "url": "https://www.setlist.fm/setlist/iggy-pop/1996/float-rite-park-amphitheatre-somerset-wi-13c4e535.html"
+      },
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Iggy Pop",
+          "url": "https://www.setlist.fm/setlists/iggy-pop-43d6b7eb.html"
+        },
+        "tour": "Naughty Little Doggie",
+        "url": "https://www.setlist.fm/setlist/iggy-pop/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c0.html"
+      }
+    ]
+  },
+  {
+    "artist": "Incubus",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "A Certain Shade of Green",
+            "Hilikus",
+            "Vitamin",
+            "Idiot Box",
+            "Redefine",
+            "Calgone",
+            "New Skin"
+          ]
+        },
+        "artist": {
+          "name": "Incubus",
+          "url": "https://www.setlist.fm/setlists/incubus-1bd68944.html"
+        },
+        "tour": "Ozzfest 1998",
+        "url": "https://www.setlist.fm/setlist/incubus/1998/float-rite-park-amphitheatre-somerset-wi-7bd632e4.html"
+      }
+    ]
+  },
+  {
+    "artist": "Isis",
+    "events": [
+      {
+        "date": "2007-06-26",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Isis",
+          "url": "https://www.setlist.fm/setlists/isis-63d6c2c7.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/isis/2007/xcel-energy-center-st-paul-mn-2bc228de.html"
+      }
+    ]
+  },
+  {
+    "artist": "James Blake",
+    "events": [
+      {
+        "date": "2013-05-06",
+        "venue": {
+          "name": "Late Show With David Letterman",
+          "city": "New York",
+          "state": "New York",
+          "geo": [
+            40.714268,
+            -74.005974
+          ],
+          "url": "https://www.setlist.fm/venue/late-show-with-david-letterman-new-york-ny-usa-3bd624b4.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "James Blake",
+          "url": "https://www.setlist.fm/setlists/james-blake-33d5c461.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/james-blake/2013/late-show-with-david-letterman-new-york-ny-13a835cd.html"
+      }
+    ]
+  },
+  {
+    "artist": "Jon Lovitz",
+    "events": [
+      {
+        "date": "2023-04-28",
+        "venue": {
+          "name": "The Laugh Factory",
+          "city": "Las Vegas",
+          "state": "Nevada",
+          "geo": [
+            36.17497,
+            -115.13722
+          ],
+          "url": "https://www.setlist.fm/venue/the-laugh-factory-las-vegas-nv-usa-53d55b65.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Jon Lovitz",
+          "url": "https://www.setlist.fm/setlists/jon-lovitz-bd3652e.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/jon-lovitz/2023/the-laugh-factory-las-vegas-nv-43b8739b.html"
+      }
+    ]
+  },
+  {
+    "artist": "Kevin Hart",
+    "events": [
+      {
+        "date": "2022-08-26",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Kevin Hart",
+          "url": "https://www.setlist.fm/setlists/kevin-hart-73d2b26d.html"
+        },
+        "tour": "Reality Check",
+        "url": "https://www.setlist.fm/setlist/kevin-hart/2022/target-center-minneapolis-mn-23b37403.html"
+      }
+    ]
+  },
+  {
+    "artist": "Korn",
+    "events": [
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Korn",
+          "url": "https://www.setlist.fm/setlists/korn-4bd6d3fe.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/korn/1996/float-rite-park-amphitheatre-somerset-wi-bda4116.html"
+      }
+    ]
+  },
+  {
+    "artist": "Let's Go Bowling",
+    "events": [
+      {
+        "date": "1995-05-21",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Let's Go Bowling",
+          "url": "https://www.setlist.fm/setlists/lets-go-bowling-2bd67c7a.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/lets-go-bowling/1995/first-avenue-minneapolis-mn-33c2a891.html"
+      }
+    ]
+  },
+  {
+    "artist": "Letters to Cleo",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Letters to Cleo",
+          "url": "https://www.setlist.fm/setlists/letters-to-cleo-bd6895e.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/letters-to-cleo/1995/float-rite-park-amphitheatre-somerset-wi-73fd9ae1.html"
+      }
+    ]
+  },
+  {
+    "artist": "Linda Perry",
+    "events": [
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Linda Perry",
+          "url": "https://www.setlist.fm/setlists/linda-perry-33d670c5.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/linda-perry/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7f.html"
+      }
+    ]
+  },
+  {
+    "artist": "Lisa Loeb",
+    "events": [
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Lisa Loeb",
+          "url": "https://www.setlist.fm/setlists/lisa-loeb-bd6b9fa.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/lisa-loeb/1995/target-center-minneapolis-mn-1b90ed8c.html"
+      }
+    ]
+  },
+  {
+    "artist": "Living Colour",
+    "events": [
+      {
+        "date": "2021-09-12",
+        "venue": {
+          "name": "Vetter Stone Amphitheater",
+          "city": "Mankato",
+          "state": "Minnesota",
+          "geo": [
+            44.163578,
+            -93.9994
+          ],
+          "url": "https://www.setlist.fm/venue/vetter-stone-amphitheater-mankato-mn-usa-13d25111.html",
+          "setlist": [
+            "Type",
+            "Desperate People",
+            "Middle Man",
+            "",
+            "",
+            "Cult of Personality"
+          ]
+        },
+        "artist": {
+          "name": "Living Colour",
+          "url": "https://www.setlist.fm/setlists/living-colour-6bd6ca72.html"
+        },
+        "tour": "Summerland Tour 2021",
+        "url": "https://www.setlist.fm/setlist/living-colour/2021/vetter-stone-amphitheater-mankato-mn-338c0ca9.html"
+      }
+    ]
+  },
+  {
+    "artist": "Local H",
+    "events": [
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Nothing Special"
+          ]
+        },
+        "artist": {
+          "name": "Local H",
+          "url": "https://www.setlist.fm/setlists/local-h-6bd6d6f6.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/local-h/1997/float-rite-park-amphitheatre-somerset-wi-bfe89ca.html"
+      },
+      {
+        "date": "2002-03-08",
+        "venue": {
+          "name": "The Quest",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/the-quest-minneapolis-mn-usa-2bd2508a.html",
+          "setlist": [
+            "Rock & Roll Professionals",
+            "Fritz's Corner",
+            "Hit the Skids or: How I Learned to Stop Worrying and Love the Rock",
+            "Bryn-Mawr Stomp",
+            "Stick to What You Know",
+            "Bound for the Floor",
+            "Hands on the Bible",
+            "Bag of Hammers",
+            "(Baby Wants To) Tame Me",
+            "Half-Life",
+            "All-Right (Oh, Yeah)",
+            "High-Fiving MF",
+            "Smothered in Hugs",
+            "It's So Easy",
+            "What Would You Have Me Do?"
+          ]
+        },
+        "artist": {
+          "name": "Local H",
+          "url": "https://www.setlist.fm/setlists/local-h-6bd6d6f6.html"
+        },
+        "tour": "Here Comes the Zoo",
+        "url": "https://www.setlist.fm/setlist/local-h/2002/the-quest-minneapolis-mn-13d84561.html"
+      },
+      {
+        "date": "2017-10-08",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "How's the Weather Down There?",
+            "Cooler Heads",
+            "\"Cha!\" Said the Kitty",
+            "Gig Bag Road",
+            "Fritz's Corner",
+            "Freshly Fucked",
+            "The Last Picture Show in Zion",
+            "Eddie Vedder",
+            "I Need to Know",
+            "Hands on the Bible",
+            "Bound for the Floor",
+            "John the Baptist Blues",
+            "High-Fiving MF",
+            "Shock the Monkey"
+          ]
+        },
+        "artist": {
+          "name": "Local H",
+          "url": "https://www.setlist.fm/setlists/local-h-6bd6d6f6.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/local-h/2017/first-avenue-minneapolis-mn-be38df6.html"
+      }
+    ]
+  },
+  {
+    "artist": "Lunachicks",
+    "events": [
+      {
+        "date": "1995-06-11",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Lunachicks",
+          "url": "https://www.setlist.fm/setlists/lunachicks-1bd68900.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/lunachicks/1995/roy-wilkins-auditorium-st-paul-mn-2bdf60a2.html"
+      }
+    ]
+  },
+  {
+    "artist": "Mac DeMarco",
+    "events": [
+      {
+        "date": "2017-09-17",
+        "venue": {
+          "name": "Myth",
+          "city": "Maplewood",
+          "state": "Minnesota",
+          "geo": [
+            44.953022,
+            -92.99522
+          ],
+          "url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html",
+          "setlist": [
+            "On the Level",
+            "Salad Days",
+            "No Other Heart",
+            "The Stars Keep On Calling My Name",
+            "This Old Dog",
+            "Cooking Up Something Good",
+            "Ode to Viceroy",
+            "Dreams From Yesterday",
+            "My Kind of Woman",
+            "One More Love Song",
+            "Do Me, Baby",
+            "Freaking Out the Neighborhood",
+            "Chamber of Reflection",
+            "Still Together"
+          ]
+        },
+        "artist": {
+          "name": "Mac DeMarco",
+          "url": "https://www.setlist.fm/setlists/mac-demarco-3d05573.html"
+        },
+        "tour": "This Old Dog",
+        "url": "https://www.setlist.fm/setlist/mac-demarco/2017/myth-maplewood-mn-33e21021.html"
+      }
+    ]
+  },
+  {
+    "artist": "Marcy Playground",
+    "events": [
+      {
+        "date": "1998-12-19",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Marcy Playground",
+          "url": "https://www.setlist.fm/setlists/marcy-playground-13d6cd3d.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/marcy-playground/1998/target-center-minneapolis-mn-63c0162f.html"
+      }
+    ]
+  },
+  {
+    "artist": "Matchbox Twenty",
+    "events": [
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Matchbox Twenty",
+          "url": "https://www.setlist.fm/setlists/matchbox-twenty-6bd6b656.html"
+        },
+        "tour": "Yourself or Someone Like You",
+        "url": "https://www.setlist.fm/setlist/matchbox-twenty/1997/float-rite-park-amphitheatre-somerset-wi-befbd7a.html"
+      }
+    ]
+  },
+  {
+    "artist": "Meat Puppets",
+    "events": [
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Meat Puppets",
+          "url": "https://www.setlist.fm/setlists/meat-puppets-6bd68a12.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/meat-puppets/1995/target-center-minneapolis-mn-beda9ce.html"
+      }
+    ]
+  },
+  {
+    "artist": "Melvins",
+    "events": [
+      {
+        "date": "1995-02-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Melvins",
+          "url": "https://www.setlist.fm/setlists/melvins-63d68a43.html"
+        },
+        "tour": "Stoner Witch",
+        "url": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-4bd7a3da.html"
+      },
+      {
+        "date": "1995-05-13",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Melvins",
+          "url": "https://www.setlist.fm/setlists/melvins-63d68a43.html"
+        },
+        "tour": "Spring 1995 North American Tour",
+        "url": "https://www.setlist.fm/setlist/melvins/1995/target-center-minneapolis-mn-1bd14d38.html"
+      }
+    ]
+  },
+  {
+    "artist": "Meshuggah",
+    "events": [
+      {
+        "date": "2001-09-06",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Meshuggah",
+          "url": "https://www.setlist.fm/setlists/meshuggah-1bd69904.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/meshuggah/2001/xcel-energy-center-st-paul-mn-23d8c007.html"
+      }
+    ]
+  },
+  {
+    "artist": "Metallica",
+    "events": [
+      {
+        "date": "1996-06-28",
+        "venue": {
+          "name": "Iowa State Fairgrounds",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "geo": [
+            41.600544,
+            -93.60911
+          ],
+          "url": "https://www.setlist.fm/venue/iowa-state-fairgrounds-des-moines-ia-usa-3d2f1d7.html",
+          "setlist": [
+            "So What",
+            "Creeping Death",
+            "Sad but True",
+            "Ain't My Bitch",
+            "Whiplash",
+            "Fade to Black",
+            "King Nothing",
+            "One",
+            "Until It Sleeps",
+            "For Whom the Bell Tolls",
+            "Wherever I May Roam",
+            "Nothing Else Matters",
+            "Enter Sandman",
+            "Last Caress",
+            "Master of Puppets",
+            "Overkill"
+          ]
+        },
+        "artist": {
+          "name": "Metallica",
+          "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+        },
+        "tour": "Lollapalooza 1996",
+        "url": "https://www.setlist.fm/setlist/metallica/1996/iowa-state-fairgrounds-des-moines-ia-6bd6da6e.html"
+      }
+    ]
+  },
+  {
+    "artist": "Mike Watt",
+    "events": [
+      {
+        "date": "1995-07-22",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Mike Watt",
+          "url": "https://www.setlist.fm/setlists/mike-watt-13d6e9a9.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/mike-watt/1995/roy-wilkins-auditorium-st-paul-mn-2bdf6006.html"
+      }
+    ]
+  },
+  {
+    "artist": "Monster Magnet",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Spine of God"
+          ]
+        },
+        "artist": {
+          "name": "Monster Magnet",
+          "url": "https://www.setlist.fm/setlists/monster-magnet-7bd68ea0.html"
+        },
+        "tour": "Dopes To Infinity 1995 Tour",
+        "url": "https://www.setlist.fm/setlist/monster-magnet/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9aee.html"
+      }
+    ]
+  },
+  {
+    "artist": "Mother Tongue",
+    "events": [
+      {
+        "date": "1994-10-18",
+        "venue": {
+          "name": "State Theatre",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/state-theatre-minneapolis-mn-usa-2bd6c01e.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Mother Tongue",
+          "url": "https://www.setlist.fm/setlists/mother-tongue-2bd6409a.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/mother-tongue/1994/state-theatre-minneapolis-mn-23835c63.html"
+      }
+    ]
+  },
+  {
+    "artist": "Motörhead",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Iron Fist",
+            "Stay Clean",
+            "Over Your Shoulder",
+            "No Class",
+            "Sacrifice",
+            "Killed by Death",
+            "Ace of Spades",
+            "Overkill"
+          ]
+        },
+        "artist": {
+          "name": "Motörhead",
+          "url": "https://www.setlist.fm/setlists/motorhead-33d68059.html"
+        },
+        "tour": "Snake Bite Love",
+        "url": "https://www.setlist.fm/setlist/motorhead/1998/float-rite-park-amphitheatre-somerset-wi-6bd11af2.html"
+      }
+    ]
+  },
+  {
+    "artist": "NOFX",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "NOFX",
+          "url": "https://www.setlist.fm/setlists/nofx-1bd689c0.html"
+        },
+        "tour": "Vans Warped Tour 1998",
+        "url": "https://www.setlist.fm/setlist/nofx/1998/float-rite-park-amphitheatre-somerset-wi-5bdf6bd4.html"
+      }
+    ]
+  },
+  {
+    "artist": "Nashville Pussy",
+    "events": [
+      {
+        "date": "2022-10-07",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "Gonna Hitchhike Down to Cincinnati and Kick the Shit Outta Your Drunk Daddy",
+            "Go Motherfucker Go",
+            "Til the Meat Falls Off the Bone"
+          ]
+        },
+        "artist": {
+          "name": "Nashville Pussy",
+          "url": "https://www.setlist.fm/setlists/nashville-pussy-73d6a22d.html"
+        },
+        "tour": "Eaten Alive",
+        "url": "https://www.setlist.fm/setlist/nashville-pussy/2022/first-avenue-minneapolis-mn-73b1cac5.html"
+      }
+    ]
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "events": [
+      {
+        "date": "1995-02-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Pinion",
+            "Mr. Self Destruct",
+            "Sin",
+            "March of the Pigs",
+            "Piggy",
+            "Reptile",
+            "Gave Up",
+            "Happiness in Slavery",
+            "Eraser",
+            "Hurt",
+            "The Downward Spiral",
+            "Wish",
+            "Suck",
+            "Down in It",
+            "Head Like a Hole",
+            "Closer",
+            "Dead Souls",
+            "I Do Not Want This",
+            "Something I Can Never Have"
+          ]
+        },
+        "artist": {
+          "name": "Nine Inch Nails",
+          "url": "https://www.setlist.fm/setlists/nine-inch-nails-1bd6a5bc.html"
+        },
+        "tour": "Further Down the Spiral",
+        "url": "https://www.setlist.fm/setlist/nine-inch-nails/1995/target-center-minneapolis-mn-3bd6d8c4.html"
+      }
+    ]
+  },
+  {
+    "artist": "No Doubt",
+    "events": [
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "No Doubt",
+          "url": "https://www.setlist.fm/setlists/no-doubt-3bd6b81c.html"
+        },
+        "tour": "Tragic Kingdom",
+        "url": "https://www.setlist.fm/setlist/no-doubt/1996/float-rite-park-amphitheatre-somerset-wi-13c4e52d.html"
+      }
+    ]
+  },
+  {
+    "artist": "Oasis",
+    "events": [
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Morning Glory",
+            "Acquiesce",
+            "Supersonic",
+            "Hello",
+            "Roll With It",
+            "Some Might Say",
+            "Cigarettes & Alcohol",
+            "Champagne Supernova",
+            "Wonderwall",
+            "Don't Look Back in Anger",
+            "Live Forever",
+            "I Am the Walrus"
+          ]
+        },
+        "artist": {
+          "name": "Oasis",
+          "url": "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
+        },
+        "tour": "(What's The Story) Morning Glory?",
+        "url": "https://www.setlist.fm/setlist/oasis/1995/target-center-minneapolis-mn-3bd798a0.html"
+      }
+    ]
+  },
+  {
+    "artist": "Orgy",
+    "events": [
+      {
+        "date": "2016-04-20",
+        "venue": {
+          "name": "Mill City Nights",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/mill-city-nights-minneapolis-mn-usa-43d70b53.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Orgy",
+          "url": "https://www.setlist.fm/setlists/orgy-bd6a536.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/orgy/2016/mill-city-nights-minneapolis-mn-4bf1e38a.html"
+      }
+    ]
+  },
+  {
+    "artist": "Our Lady Peace",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Our Lady Peace",
+          "url": "https://www.setlist.fm/setlists/our-lady-peace-63d6eeb3.html"
+        },
+        "tour": "Naveed Tour",
+        "url": "https://www.setlist.fm/setlist/our-lady-peace/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9aec.html"
+      }
+    ]
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Believer",
+            "I Don't Know",
+            "Bark at the Moon",
+            "War Pigs",
+            "Desire",
+            "Goodbye to Romance",
+            "No More Tears",
+            "Suicide Solution",
+            "I Don't Want to Change the World",
+            "Mr. Crowley",
+            "Flying High Again",
+            "Crazy Train",
+            "Mama, I'm Coming Home",
+            "Paranoid",
+            "Changes"
+          ]
+        },
+        "artist": {
+          "name": "Ozzy Osbourne",
+          "url": "https://www.setlist.fm/setlists/ozzy-osbourne-1bd681dc.html"
+        },
+        "tour": "The Ozzman Cometh",
+        "url": "https://www.setlist.fm/setlist/ozzy-osbourne/1998/float-rite-park-amphitheatre-somerset-wi-13d05df1.html"
+      }
+    ]
+  },
+  {
+    "artist": "Pearl Jam",
+    "events": [
+      {
+        "date": "1998-06-30",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Sometimes",
+            "Last Exit",
+            "Brain of J.",
+            "Hail, Hail",
+            "Faithfull",
+            "Even Flow",
+            "Corduroy",
+            "I Got Id",
+            "Pilate",
+            "Daughter",
+            "MFC",
+            "Lukin",
+            "Wishlist",
+            "Mankind",
+            "All Those Yesterdays",
+            "Black",
+            "Alive",
+            "Do the Evolution",
+            "Given to Fly",
+            "Leatherman",
+            "Better Man",
+            "Leaving Here",
+            "Porch"
+          ]
+        },
+        "artist": {
+          "name": "Pearl Jam",
+          "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+        },
+        "tour": "Yield",
+        "url": "https://www.setlist.fm/setlist/pearl-jam/1998/target-center-minneapolis-mn-43d66707.html"
+      },
+      {
+        "date": "2023-08-31",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Indifference",
+            "Buckle Up",
+            "Sometimes",
+            "Wishlist",
+            "Black",
+            "Given to Fly",
+            "Mind Your Manners",
+            "Why Go",
+            "Seven O'Clock",
+            "Even Flow",
+            "Dance of the Clairvoyants",
+            "I'm Open",
+            "Insignificance",
+            "Daughter",
+            "Superblood Wolfmoon",
+            "Love Boat Captain",
+            "State of Love and Trust",
+            "Porch",
+            "Wildflowers",
+            "Elderly Woman Behind the Counter in a Small Town",
+            "Go",
+            "Crazy Mary",
+            "Alive",
+            "Yellow Ledbetter"
+          ]
+        },
+        "artist": {
+          "name": "Pearl Jam",
+          "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+        },
+        "tour": "U.S. Tour 2023",
+        "url": "https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-7ba54a74.html"
+      },
+      {
+        "date": "2023-09-02",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Pendulum",
+            "Elderly Woman Behind the Counter in a Small Town",
+            "Off He Goes",
+            "Nothing as It Seems",
+            "Daughter",
+            "Do the Evolution",
+            "Last Exit",
+            "Once",
+            "Who Ever Said",
+            "Brain Damage",
+            "I Am Mine",
+            "Take the Long Way",
+            "Even Flow",
+            "Severed Hand",
+            "In Hiding",
+            "Unthought Known",
+            "Corduroy",
+            "Porch",
+            "I Won't Back Down",
+            "Last Kiss",
+            "Got Some",
+            "Jeremy",
+            "Better Man",
+            "Alive",
+            "Purple Rain"
+          ]
+        },
+        "artist": {
+          "name": "Pearl Jam",
+          "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+        },
+        "tour": "U.S. Tour 2023",
+        "url": "https://www.setlist.fm/setlist/pearl-jam/2023/xcel-energy-center-st-paul-mn-4ba2b342.html"
+      }
+    ]
+  },
+  {
+    "artist": "Phunk Junkeez",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Phunk Junkeez",
+          "url": "https://www.setlist.fm/setlists/phunk-junkeez-33d6dc31.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/phunk-junkeez/1995/float-rite-park-amphitheatre-somerset-wi-7bfd9ae4.html"
+      }
+    ]
+  },
+  {
+    "artist": "Pink Floyd",
+    "events": [
+      {
+        "date": "1994-06-22",
+        "venue": {
+          "name": "Hubert H. Humphrey Metrodome",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/hubert-h-humphrey-metrodome-minneapolis-mn-usa-3bd62414.html",
+          "setlist": [
+            "Astronomy Domine",
+            "Learning to Fly",
+            "What Do You Want From Me",
+            "On the Turning Away",
+            "Take It Back",
+            "Coming Back to Life",
+            "Sorrow",
+            "Keep Talking",
+            "One of These Days",
+            "Shine On You Crazy Diamond (Parts I-V)",
+            "Breathe (In the Air)",
+            "Time",
+            "Breathe (Reprise)",
+            "High Hopes",
+            "The Great Gig in the Sky",
+            "Wish You Were Here",
+            "Us and Them",
+            "Money",
+            "Another Brick in the Wall, Part 2",
+            "Comfortably Numb",
+            "Hey You",
+            "Run Like Hell"
+          ]
+        },
+        "artist": {
+          "name": "Pink Floyd",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+        },
+        "tour": "The Division Bell",
+        "url": "https://www.setlist.fm/setlist/pink-floyd/1994/hubert-h-humphrey-metrodome-minneapolis-mn-63d76673.html"
+      }
+    ]
+  },
+  {
+    "artist": "Polara",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Polara",
+          "url": "https://www.setlist.fm/setlists/polara-43d5cb5b.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/polara/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9ae6.html"
+      }
+    ]
+  },
+  {
+    "artist": "Preservation Hall Jazz Band",
+    "events": [
+      {
+        "date": "2018-10-24",
+        "venue": {
+          "name": "Champions Square",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "geo": [
+            29.955,
+            -90.075
+          ],
+          "url": "https://www.setlist.fm/venue/champions-square-new-orleans-la-usa-bd7cdbe.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://www.setlist.fm/setlists/preservation-hall-jazz-band-3d6450b.html"
+        },
+        "tour": "Trombone Shorty's Voodoo Threauxdown",
+        "url": "https://www.setlist.fm/setlist/preservation-hall-jazz-band/2018/champions-square-new-orleans-la-4b9633ae.html"
+      }
+    ]
+  },
+  {
+    "artist": "Primus",
+    "events": [
+      {
+        "date": "1995-07-22",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": [
+            "Overture/The Big Race",
+            "To Defy the Laws of Tradition",
+            "Those Damned Blue-Collar Tweekers",
+            "Professor Nutbutter's House of Treats",
+            "Year of the Parrot",
+            "Nature Boy",
+            "Here Come the Bastards",
+            "Southbound Pachyderm",
+            "De Anza Jig",
+            "Seas of Cheese",
+            "Pork Soda",
+            "My Name Is Mud",
+            "Jerry Was a Race Car Driver",
+            "Over the Electric Grapevine",
+            "Eleven",
+            "Wynona's Big Brown Beaver",
+            "Pudding Time",
+            "Thieves",
+            "Mr. Knowitall",
+            "Tommy the Cat"
+          ]
+        },
+        "artist": {
+          "name": "Primus",
+          "url": "https://www.setlist.fm/setlists/primus-6bd69e5e.html"
+        },
+        "tour": "Tales From the Punchbowl",
+        "url": "https://www.setlist.fm/setlist/primus/1995/roy-wilkins-auditorium-st-paul-mn-3bd640ec.html"
+      },
+      {
+        "date": "2017-08-02",
+        "venue": {
+          "name": "Vetter Stone Amphitheater",
+          "city": "Mankato",
+          "state": "Minnesota",
+          "geo": [
+            44.163578,
+            -93.9994
+          ],
+          "url": "https://www.setlist.fm/venue/vetter-stone-amphitheater-mankato-mn-usa-13d25111.html",
+          "setlist": [
+            "Those Damned Blue-Collar Tweekers",
+            "Last Salmon Man",
+            "Too Many Puppies",
+            "Sgt. Baker",
+            "Nature Boy",
+            "Wynona's Big Brown Beaver",
+            "American Life",
+            "The Candy Man",
+            "Mr. Krinkle",
+            "Jilly's on Smack",
+            "On the Tweek Again",
+            "Welcome to This World",
+            "Mrs. Blaileen",
+            "My Name Is Mud",
+            "Jerry Was a Race Car Driver",
+            "The Seven",
+            "Mr. Knowitall"
+          ]
+        },
+        "artist": {
+          "name": "Primus",
+          "url": "https://www.setlist.fm/setlists/primus-6bd69e5e.html"
+        },
+        "tour": "2017 Summer U.S. Tour",
+        "url": "https://www.setlist.fm/setlist/primus/2017/vetter-stone-amphitheater-mankato-mn-73e5d2e9.html"
+      }
+    ]
+  },
+  {
+    "artist": "Rachel Feinstein",
+    "events": [
+      {
+        "date": "2018-07-12",
+        "venue": {
+          "name": "Acme Comedy Company",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Rachel Feinstein",
+          "url": "https://www.setlist.fm/setlists/rachel-feinstein-6bc826b2.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/rachel-feinstein/2018/acme-comedy-company-minneapolis-mn-4ba9c7f6.html"
+      }
+    ]
+  },
+  {
+    "artist": "Rage Against the Machine",
+    "events": [
+      {
+        "date": "1996-09-15",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": [
+            "Bulls on Parade",
+            "Know Your Enemy",
+            "Vietnow",
+            "Bombtrack",
+            "Black Steel in the Hour of Chaos",
+            "Without a Face",
+            "Fistful of Steel",
+            "Snakecharmer",
+            "Down Rodeo",
+            "Bullet in the Head",
+            "People of the Sun",
+            "Darkness of Greed",
+            "Killing in the Name",
+            "Freedom"
+          ]
+        },
+        "artist": {
+          "name": "Rage Against the Machine",
+          "url": "https://www.setlist.fm/setlists/rage-against-the-machine-bd68946.html"
+        },
+        "tour": "Evil Empire",
+        "url": "https://www.setlist.fm/setlist/rage-against-the-machine/1996/roy-wilkins-auditorium-st-paul-mn-73d45271.html"
+      }
+    ]
+  },
+  {
+    "artist": "Ramones",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "The Good, the Bad and the Ugly",
+            "Durango 95",
+            "Teenage Lobotomy",
+            "Psycho Therapy",
+            "Blitzkrieg Bop",
+            "Do You Remember Rock 'n' Roll Radio?",
+            "I Believe in Miracles",
+            "Gimme Gimme Shock Treatment",
+            "Rock 'n' Roll High School",
+            "I Wanna Be Sedated",
+            "Have You Ever Seen the Rain?",
+            "I Don't Wanna Grow Up",
+            "Sheena Is a Punk Rocker",
+            "Rockaway Beach",
+            "Pet Sematary",
+            "Take It as It Comes",
+            "Somebody Put Something in My Drink",
+            "7 and 7 Is",
+            "Wart Hog",
+            "Cretin Hop",
+            "Listen to My Heart",
+            "Today Your Love, Tomorrow the World",
+            "Pinhead"
+          ]
+        },
+        "artist": {
+          "name": "Ramones",
+          "url": "https://www.setlist.fm/setlists/ramones-13d6a5cd.html"
+        },
+        "tour": "Midwest Fests",
+        "url": "https://www.setlist.fm/setlist/ramones/1995/float-rite-park-amphitheatre-somerset-wi-73d53255.html"
+      },
+      {
+        "date": "1996-06-28",
+        "venue": {
+          "name": "Iowa State Fairgrounds",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "geo": [
+            41.600544,
+            -93.60911
+          ],
+          "url": "https://www.setlist.fm/venue/iowa-state-fairgrounds-des-moines-ia-usa-3d2f1d7.html",
+          "setlist": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "artist": {
+          "name": "Ramones",
+          "url": "https://www.setlist.fm/setlists/ramones-13d6a5cd.html"
+        },
+        "tour": "Lollapalooza 1996",
+        "url": "https://www.setlist.fm/setlist/ramones/1996/iowa-state-fairgrounds-des-moines-ia-7bc52a60.html"
+      }
+    ]
+  },
+  {
+    "artist": "Rancid",
+    "events": [
+      {
+        "date": "1996-06-28",
+        "venue": {
+          "name": "Iowa State Fairgrounds",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "geo": [
+            41.600544,
+            -93.60911
+          ],
+          "url": "https://www.setlist.fm/venue/iowa-state-fairgrounds-des-moines-ia-usa-3d2f1d7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Rancid",
+          "url": "https://www.setlist.fm/setlists/rancid-13d6898d.html"
+        },
+        "tour": "Lollapalooza 1996",
+        "url": "https://www.setlist.fm/setlist/rancid/1996/iowa-state-fairgrounds-des-moines-ia-6bfa42f2.html"
+      }
+    ]
+  },
+  {
+    "artist": "Red Thunder",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "River's Edge Park",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Red Thunder",
+          "url": "https://www.setlist.fm/setlists/red-thunder-7bd2b208.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/red-thunder/1995/rivers-edge-park-somerset-wi-7bbcc288.html"
+      }
+    ]
+  },
+  {
+    "artist": "Republica",
+    "events": [
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Ready to Go"
+          ]
+        },
+        "artist": {
+          "name": "Republica",
+          "url": "https://www.setlist.fm/setlists/republica-13d6b1bd.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/republica/1997/float-rite-park-amphitheatre-somerset-wi-3fe89df.html"
+      }
+    ]
+  },
+  {
+    "artist": "Reverend Horton Heat",
+    "events": [
+      {
+        "date": "1995-05-13",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Reverend Horton Heat",
+          "url": "https://www.setlist.fm/setlists/reverend-horton-heat-23d6842f.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/reverend-horton-heat/1995/target-center-minneapolis-mn-73c53ed1.html"
+      },
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Reverend Horton Heat",
+          "url": "https://www.setlist.fm/setlists/reverend-horton-heat-23d6842f.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/reverend-horton-heat/1997/float-rite-park-amphitheatre-somerset-wi-13fe89c9.html"
+      },
+      {
+        "date": "2022-10-07",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "Big Sky",
+            "Baddest of the Bad",
+            "One Time for Me",
+            "Five-O Ford",
+            "In Your Wildest Dreams",
+            "Yeah, Right",
+            "Cruisin' for a Bruisin'",
+            "I Could Get Used to It",
+            "Liquor, Beer & Wine",
+            "I Can't Surf",
+            "Jezebel",
+            "Rockin' Dog",
+            "400 Bucks",
+            "Ace of Spades"
+          ]
+        },
+        "artist": {
+          "name": "Reverend Horton Heat",
+          "url": "https://www.setlist.fm/setlists/reverend-horton-heat-23d6842f.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/reverend-horton-heat/2022/first-avenue-minneapolis-mn-7bb1cac0.html"
+      }
+    ]
+  },
+  {
+    "artist": "Richard Davies",
+    "events": [
+      {
+        "date": "1996-05-04",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Richard Davies",
+          "url": "https://www.setlist.fm/setlists/richard-davies-33d4d49d.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/richard-davies/1996/first-avenue-minneapolis-mn-33d90481.html"
+      }
+    ]
+  },
+  {
+    "artist": "Roger Waters",
+    "events": [
+      {
+        "date": "2017-07-26",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Speak to Me",
+            "Breathe (In the Air)",
+            "One of These Days",
+            "Time",
+            "Breathe (Reprise)",
+            "The Great Gig in the Sky",
+            "Welcome to the Machine",
+            "When We Were Young",
+            "Déjà vu",
+            "The Last Refugee",
+            "Picture That",
+            "Wish You Were Here",
+            "The Happiest Days of Our Lives",
+            "Another Brick in the Wall, Part 2",
+            "Another Brick in the Wall, Part 3",
+            "Dogs",
+            "Pigs (Three Different Ones)",
+            "Money",
+            "Us and Them",
+            "Smell the Roses",
+            "Brain Damage",
+            "Eclipse",
+            "Vera",
+            "Bring the Boys Back Home",
+            "Comfortably Numb"
+          ]
+        },
+        "artist": {
+          "name": "Roger Waters",
+          "url": "https://www.setlist.fm/setlists/roger-waters-6bd6ba16.html"
+        },
+        "tour": "Us + Them Tour",
+        "url": "https://www.setlist.fm/setlist/roger-waters/2017/xcel-energy-center-st-paul-mn-13e581d9.html"
+      },
+      {
+        "date": "2022-07-30",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Comfortably Numb",
+            "The Happiest Days of Our Lives",
+            "Another Brick in the Wall, Part 2",
+            "Another Brick in the Wall, Part 3",
+            "The Powers That Be",
+            "The Bravery of Being Out of Range",
+            "The Bar",
+            "Have a Cigar",
+            "Wish You Were Here",
+            "Shine On You Crazy Diamond (Parts VI-IX)",
+            "Sheep",
+            "In the Flesh",
+            "Run Like Hell",
+            "Déjà vu",
+            "Is This the Life We Really Want?",
+            "Money",
+            "Us and Them",
+            "Any Colour You Like",
+            "Brain Damage",
+            "Eclipse",
+            "Two Suns in the Sunset",
+            "The Bar (Reprise)",
+            "Outside the Wall"
+          ]
+        },
+        "artist": {
+          "name": "Roger Waters",
+          "url": "https://www.setlist.fm/setlists/roger-waters-6bd6ba16.html"
+        },
+        "tour": "This Is Not a Drill",
+        "url": "https://www.setlist.fm/setlist/roger-waters/2022/target-center-minneapolis-mn-33b21cf1.html"
+      }
+    ]
+  },
+  {
+    "artist": "Rollins Band",
+    "events": [
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Rollins Band",
+          "url": "https://www.setlist.fm/setlists/rollins-band-63d68edb.html"
+        },
+        "tour": "Come In And Burn",
+        "url": "https://www.setlist.fm/setlist/rollins-band/1997/float-rite-park-amphitheatre-somerset-wi-13fe89e1.html"
+      }
+    ]
+  },
+  {
+    "artist": "Royal Blood",
+    "events": [
+      {
+        "date": "2015-08-22",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "99 Problems",
+            "Hook, Line & Sinker",
+            "Come on Over",
+            "You Can Be So Cruel",
+            "Figure It Out",
+            "Little Monster",
+            "One Trick Pony",
+            "Ten Tonne Skeleton",
+            "Loose Change",
+            "Out of the Black"
+          ]
+        },
+        "artist": {
+          "name": "Royal Blood",
+          "url": "https://www.setlist.fm/setlists/royal-blood-3da6d03.html"
+        },
+        "tour": "Royal Blood",
+        "url": "https://www.setlist.fm/setlist/royal-blood/2015/xcel-energy-center-st-paul-mn-7bf7d214.html"
+      }
+    ]
+  },
+  {
+    "artist": "Screaming Trees",
+    "events": [
+      {
+        "date": "1996-06-28",
+        "venue": {
+          "name": "Iowa State Fairgrounds",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "geo": [
+            41.600544,
+            -93.60911
+          ],
+          "url": "https://www.setlist.fm/venue/iowa-state-fairgrounds-des-moines-ia-usa-3d2f1d7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Screaming Trees",
+          "url": "https://www.setlist.fm/setlists/screaming-trees-bd6892e.html"
+        },
+        "tour": "Lollapalooza 1996",
+        "url": "https://www.setlist.fm/setlist/screaming-trees/1996/iowa-state-fairgrounds-des-moines-ia-13e7f93d.html"
+      }
+    ]
+  },
+  {
+    "artist": "Sean Patton",
+    "events": [
+      {
+        "date": "2017-12-16",
+        "venue": {
+          "name": "Acme Comedy Company",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Sean Patton",
+          "url": "https://www.setlist.fm/setlists/sean-patton-73cd6245.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/sean-patton/2017/acme-comedy-company-minneapolis-mn-53a9c7f1.html"
+      }
+    ]
+  },
+  {
+    "artist": "Semisonic",
+    "events": [
+      {
+        "date": "1998-12-19",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Singing in My Sleep",
+            "Delicious",
+            "Erotic City",
+            "All Worked Out",
+            "Closing Time"
+          ]
+        },
+        "artist": {
+          "name": "Semisonic",
+          "url": "https://www.setlist.fm/setlists/semisonic-3bd6a4f8.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/semisonic/1998/target-center-minneapolis-mn-63c0162b.html"
+      }
+    ]
+  },
+  {
+    "artist": "Sevendust",
+    "events": [
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Sevendust",
+          "url": "https://www.setlist.fm/setlists/sevendust-13d6995d.html"
+        },
+        "tour": "Sevendust",
+        "url": "https://www.setlist.fm/setlist/sevendust/1997/float-rite-park-amphitheatre-somerset-wi-13eb5571.html"
+      },
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Black",
+            "Speak",
+            "Born to Die",
+            "Terminator",
+            "Will It Bleed",
+            "Too Close to Hate",
+            "Bitch"
+          ]
+        },
+        "artist": {
+          "name": "Sevendust",
+          "url": "https://www.setlist.fm/setlists/sevendust-13d6995d.html"
+        },
+        "tour": "Ozzfest 1998",
+        "url": "https://www.setlist.fm/setlist/sevendust/1998/float-rite-park-amphitheatre-somerset-wi-4bd1139e.html"
+      }
+    ]
+  },
+  {
+    "artist": "Sheryl Crow",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "River's Edge Park",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html",
+          "setlist": [
+            "I Wanna Be Your Man",
+            "Love Is a Good Thing",
+            "Can't Cry Anymore",
+            "",
+            "Run, Baby Run",
+            "Leaving Las Vegas",
+            "Keep On Growing",
+            "Strong Enough",
+            "",
+            "jam",
+            "The Na-Na Song",
+            "I've Got a Feeling",
+            "I Shall Believe"
+          ]
+        },
+        "artist": {
+          "name": "Sheryl Crow",
+          "url": "https://www.setlist.fm/setlists/sheryl-crow-73d6be4d.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/sheryl-crow/1995/rivers-edge-park-somerset-wi-33970c85.html"
+      }
+    ]
+  },
+  {
+    "artist": "Skunk Anansie",
+    "events": [
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Skunk Anansie",
+          "url": "https://www.setlist.fm/setlists/skunk-anansie-1bd6bd50.html"
+        },
+        "tour": "Stoosh",
+        "url": "https://www.setlist.fm/setlist/skunk-anansie/1997/float-rite-park-amphitheatre-somerset-wi-3bec94d4.html"
+      }
+    ]
+  },
+  {
+    "artist": "Snake River Conspiracy",
+    "events": [
+      {
+        "date": "2001-03-31",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Snake River Conspiracy",
+          "url": "https://www.setlist.fm/setlists/snake-river-conspiracy-3bd678d4.html"
+        },
+        "tour": "Sonic Jihad",
+        "url": "https://www.setlist.fm/setlist/snake-river-conspiracy/2001/roy-wilkins-auditorium-st-paul-mn-73f492ad.html"
+      },
+      {
+        "date": "2003-12-05",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Snake River Conspiracy",
+          "url": "https://www.setlist.fm/setlists/snake-river-conspiracy-3bd678d4.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/snake-river-conspiracy/2003/xcel-energy-center-st-paul-mn-43c17beb.html"
+      }
+    ]
+  },
+  {
+    "artist": "Social Distortion",
+    "events": [
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Social Distortion",
+          "url": "https://www.setlist.fm/setlists/social-distortion-6bd68aa6.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/social-distortion/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89dc.html"
+      }
+    ]
+  },
+  {
+    "artist": "Soul Coughing",
+    "events": [
+      {
+        "date": "1998-12-19",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Soul Coughing",
+          "url": "https://www.setlist.fm/setlists/soul-coughing-1bd6cd3c.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/soul-coughing/1998/target-center-minneapolis-mn-2bd76cce.html"
+      }
+    ]
+  },
+  {
+    "artist": "Soulfly",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "",
+            "Eye for an Eye",
+            "No Hope = No Fear",
+            "Spit",
+            "Bleed",
+            "Tribe",
+            "Attitude",
+            "Refuse/Resist",
+            "First Commandment"
+          ]
+        },
+        "artist": {
+          "name": "Soulfly",
+          "url": "https://www.setlist.fm/setlists/soulfly-1bd69948.html"
+        },
+        "tour": "Ozzfest 1998",
+        "url": "https://www.setlist.fm/setlist/soulfly/1998/float-rite-park-amphitheatre-somerset-wi-33dfe8d5.html"
+      }
+    ]
+  },
+  {
+    "artist": "Soundgarden",
+    "events": [
+      {
+        "date": "1996-06-28",
+        "venue": {
+          "name": "Iowa State Fairgrounds",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "geo": [
+            41.600544,
+            -93.60911
+          ],
+          "url": "https://www.setlist.fm/venue/iowa-state-fairgrounds-des-moines-ia-usa-3d2f1d7.html",
+          "setlist": [
+            "Spoonman",
+            "Searching With My Good Eye Closed",
+            "Let Me Drown",
+            "Pretty Noose",
+            "Burden in My Hand",
+            "Never the Machine Forever",
+            "Ty Cobb",
+            "Fell on Black Days",
+            "Rusty Cage",
+            "Waiting for the Sun",
+            "Black Hole Sun",
+            "Outshined",
+            "Rhinosaur",
+            "Never Named",
+            "Blow Up the Outside World"
+          ]
+        },
+        "artist": {
+          "name": "Soundgarden",
+          "url": "https://www.setlist.fm/setlists/soundgarden-3d689eb.html"
+        },
+        "tour": "Lollapalooza 1996",
+        "url": "https://www.setlist.fm/setlist/soundgarden/1996/iowa-state-fairgrounds-des-moines-ia-3bd35820.html"
+      }
+    ]
+  },
+  {
+    "artist": "Speed of Light",
+    "events": [
+      {
+        "date": "2023-10-16",
+        "venue": {
+          "name": "Uptown Theater",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/uptown-theater-minneapolis-mn-usa-13d1f5e9.html",
+          "setlist": [
+            "Release",
+            "Kill the Vibe",
+            "Tightrope",
+            "Shuffle My Mind",
+            "Insane",
+            "Feed",
+            "Break",
+            "Change",
+            "Rearview",
+            "Teeth",
+            "Seance/That Girl"
+          ]
+        },
+        "artist": {
+          "name": "Speed of Light",
+          "url": "https://www.setlist.fm/setlists/speed-of-light-1bfe090c.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/speed-of-light/2023/uptown-theater-minneapolis-mn-53a09b0d.html"
+      }
+    ]
+  },
+  {
+    "artist": "Sponge",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Sponge",
+          "url": "https://www.setlist.fm/setlists/sponge-1bd6c1a0.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/sponge/1995/float-rite-park-amphitheatre-somerset-wi-63fd9ae7.html"
+      },
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Sponge",
+          "url": "https://www.setlist.fm/setlists/sponge-1bd6c1a0.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/sponge/1997/float-rite-park-amphitheatre-somerset-wi-3fe89d7.html"
+      }
+    ]
+  },
+  {
+    "artist": "Stanford Prison Experiment",
+    "events": [
+      {
+        "date": "1996-09-15",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Stanford Prison Experiment",
+          "url": "https://www.setlist.fm/setlists/stanford-prison-experiment-3bd08ca4.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/stanford-prison-experiment/1996/roy-wilkins-auditorium-st-paul-mn-5b893784.html"
+      }
+    ]
+  },
+  {
+    "artist": "Steel Beans",
+    "events": [
+      {
+        "date": "2023-10-31",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "St. Paul Freestyle"
+          ]
+        },
+        "artist": {
+          "name": "Steel Beans",
+          "url": "https://www.setlist.fm/setlists/steel-beans-13fd9555.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/steel-beans/2023/xcel-energy-center-st-paul-mn-5ba06308.html"
+      }
+    ]
+  },
+  {
+    "artist": "Sublime with Rome",
+    "events": [
+      {
+        "date": "2019-07-03",
+        "venue": {
+          "name": "Vetter Stone Amphitheater",
+          "city": "Mankato",
+          "state": "Minnesota",
+          "geo": [
+            44.163578,
+            -93.9994
+          ],
+          "url": "https://www.setlist.fm/venue/vetter-stone-amphitheater-mankato-mn-usa-13d25111.html",
+          "setlist": [
+            "Smoke Two Joints",
+            "Wrong Way",
+            "Date Rape",
+            "",
+            "April 29, 1992 (Miami)",
+            "Blackout",
+            "Panic",
+            "40oz. to Freedom",
+            "Garden Grove",
+            "Murdera",
+            "Spiderweb",
+            "",
+            "Badfish",
+            "Let's Go Get Stoned",
+            "",
+            "Doin' Time",
+            "",
+            "What I Got",
+            "Santeria"
+          ]
+        },
+        "artist": {
+          "name": "Sublime with Rome",
+          "url": "https://www.setlist.fm/setlists/sublime-with-rome-1bd5b144.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/sublime-with-rome/2019/vetter-stone-amphitheater-mankato-mn-53914791.html"
+      }
+    ]
+  },
+  {
+    "artist": "Supersuckers",
+    "events": [
+      {
+        "date": "1995-11-09",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Supersuckers",
+          "url": "https://www.setlist.fm/setlists/supersuckers-63d6a233.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/supersuckers/1995/roy-wilkins-auditorium-st-paul-mn-53c52b99.html"
+      },
+      {
+        "date": "2014-04-11",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Supersuckers",
+          "url": "https://www.setlist.fm/setlists/supersuckers-63d6a233.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/supersuckers/2014/first-avenue-minneapolis-mn-23835ca3.html"
+      }
+    ]
+  },
+  {
+    "artist": "System of a Down",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "P.L.U.C.K.",
+            "Suite-Pee"
+          ]
+        },
+        "artist": {
+          "name": "System of a Down",
+          "url": "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+        },
+        "tour": "Ozzfest 1998",
+        "url": "https://www.setlist.fm/setlist/system-of-a-down/1998/float-rite-park-amphitheatre-somerset-wi-3bde188c.html"
+      }
+    ]
+  },
+  {
+    "artist": "Talk Show",
+    "events": [
+      {
+        "date": "1997-10-23",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Talk Show",
+          "url": "https://www.setlist.fm/setlists/talk-show-bd39142.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/talk-show/1997/roy-wilkins-auditorium-st-paul-mn-53cd0399.html"
+      }
+    ]
+  },
+  {
+    "artist": "Tesla",
+    "events": [
+      {
+        "date": "2019-02-01",
+        "venue": {
+          "name": "Mystic Showroom at Mystic Lake Casino",
+          "city": "Prior Lake",
+          "state": "Minnesota",
+          "geo": [
+            44.7133,
+            -93.42273
+          ],
+          "url": "https://www.setlist.fm/venue/mystic-showroom-at-mystic-lake-casino-prior-lake-mn-usa-73d5828d.html",
+          "setlist": [
+            "Welcome to the Jungle",
+            "You Won’t Take Me Alive",
+            "Solution",
+            "Modern Day Cowboy",
+            "Be a Man",
+            "Heaven's Trail (No Way Out)",
+            "Breakin' Free",
+            "Miles Away",
+            "Changes",
+            "Stir It Up",
+            "Call It What You Want",
+            "What You Give",
+            "Shock",
+            "Edison's Medicine (Man Out of Time)",
+            "Love Song",
+            "Little Suzi",
+            "Signs",
+            "Happy Trails",
+            "We Are the Champions"
+          ]
+        },
+        "artist": {
+          "name": "Tesla",
+          "url": "https://www.setlist.fm/setlists/tesla-13d6b505.html"
+        },
+        "tour": "Shock",
+        "url": "https://www.setlist.fm/setlist/tesla/2019/mystic-showroom-at-mystic-lake-casino-prior-lake-mn-2b95d0f6.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Acid Helps",
+    "events": [
+      {
+        "date": "2022-03-13",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Killing An Animal",
+            "Disco Blanco",
+            "Idiot VS. Moron",
+            "Sick City",
+            "Rattled",
+            "This Thing Will Not Die",
+            "All Insane",
+            "Sink Pisser",
+            "LA BREA"
+          ]
+        },
+        "artist": {
+          "name": "The Acid Helps",
+          "url": "https://www.setlist.fm/setlists/the-acid-helps-4bfea7ce.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/the-acid-helps/2022/target-center-minneapolis-mn-4b89e372.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Black Crowes",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "River's Edge Park",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html",
+          "setlist": [
+            "Black Moon Jam",
+            "Black Moon Creeping",
+            "Thick n' Thin",
+            "High Head Blues",
+            "A Conspiracy",
+            "Jam",
+            "My Morning Song",
+            "Descending",
+            "Jealous Again",
+            "Stare It Cold",
+            "Willin'",
+            "Remedy"
+          ]
+        },
+        "artist": {
+          "name": "The Black Crowes",
+          "url": "https://www.setlist.fm/setlists/the-black-crowes-3d69da7.html"
+        },
+        "tour": "1995 HORDE Tour",
+        "url": "https://www.setlist.fm/setlist/the-black-crowes/1995/rivers-edge-park-somerset-wi-7bd4a260.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Flaming Lips",
+    "events": [
+      {
+        "date": "1994-10-18",
+        "venue": {
+          "name": "State Theatre",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/state-theatre-minneapolis-mn-usa-2bd6c01e.html",
+          "setlist": [
+            "When Yer Twenty Two",
+            "Unconsciously Screamin'",
+            "Superhumans",
+            "Halloween on the Barbary Coast",
+            "What's the New Mary Jane",
+            "Under Pressure"
+          ]
+        },
+        "artist": {
+          "name": "The Flaming Lips",
+          "url": "https://www.setlist.fm/setlists/the-flaming-lips-43d6fb1f.html"
+        },
+        "tour": "1994 Fall & Winter Tour",
+        "url": "https://www.setlist.fm/setlist/the-flaming-lips/1994/state-theatre-minneapolis-mn-5bd5bbcc.html"
+      },
+      {
+        "date": "1996-05-04",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "The Abandoned Hospital Ship",
+            "Unconsciously Screamin'",
+            "Take Meta Mars",
+            "Moth in the Incubator",
+            "Put the Waterbug in the Policeman's Ear",
+            "Lightning Strikes the Postman",
+            "Bad Days",
+            "She Don't Use Jelly",
+            "Chewin' the Apple of Your Eye",
+            "When You Smile",
+            "Psychiatric Explorations of the Fetus With Needles",
+            "Placebo Headwound",
+            "What a Wonderful World"
+          ]
+        },
+        "artist": {
+          "name": "The Flaming Lips",
+          "url": "https://www.setlist.fm/setlists/the-flaming-lips-43d6fb1f.html"
+        },
+        "tour": "1996 Spring Tour",
+        "url": "https://www.setlist.fm/setlist/the-flaming-lips/1996/first-avenue-minneapolis-mn-4bd46736.html"
+      },
+      {
+        "date": "2017-09-17",
+        "venue": {
+          "name": "Myth",
+          "city": "Maplewood",
+          "state": "Minnesota",
+          "geo": [
+            44.953022,
+            -92.99522
+          ],
+          "url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html",
+          "setlist": [
+            "Also sprach Zarathustra, op. 30",
+            "Race for the Prize",
+            "Yoshimi Battles the Pink Robots, Pt. 1",
+            "There Should Be Unicorns",
+            "Pompeii Am Götterdämmerung",
+            "The Yeah Yeah Yeah Song (With All Your Power)",
+            "How??",
+            "Space Oddity",
+            "Are You a Hypnotist??",
+            "A Spoonful Weighs a Ton",
+            "She Don't Use Jelly",
+            "Do You Realize??"
+          ]
+        },
+        "artist": {
+          "name": "The Flaming Lips",
+          "url": "https://www.setlist.fm/setlists/the-flaming-lips-43d6fb1f.html"
+        },
+        "tour": "2017 Summer Tour",
+        "url": "https://www.setlist.fm/setlist/the-flaming-lips/2017/myth-maplewood-mn-3be21024.html"
+      },
+      {
+        "date": "2022-04-08",
+        "venue": {
+          "name": "Palace Theatre",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/palace-theatre-st-paul-mn-usa-4bd567ea.html",
+          "setlist": [
+            "My Cosmic Autumn Rebellion",
+            "Do You Realize??",
+            "Turn It On",
+            "Yoshimi Battles the Pink Robots, Pt. 1",
+            "Moth in the Incubator",
+            "Ego Tripping at the Gates of Hell",
+            "Mother I've Taken LSD",
+            "Love Yer Brain",
+            "She Don't Use Jelly",
+            "Silver Trembling Hands",
+            "Waitin' for a Superman",
+            "Dinosaurs on the Mountain",
+            "Feeling Yourself Disintegrate",
+            "Androgynous",
+            "Worm Mountain",
+            "All We Have Is Now",
+            "Race for the Prize"
+          ]
+        },
+        "artist": {
+          "name": "The Flaming Lips",
+          "url": "https://www.setlist.fm/setlists/the-flaming-lips-43d6fb1f.html"
+        },
+        "tour": "American Head",
+        "url": "https://www.setlist.fm/setlist/the-flaming-lips/2022/palace-theatre-st-paul-mn-43b68bcb.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Goo Goo Dolls",
+    "events": [
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "The Goo Goo Dolls",
+          "url": "https://www.setlist.fm/setlists/the-goo-goo-dolls-6bd6b6f6.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1995/target-center-minneapolis-mn-1b90ed88.html"
+      },
+      {
+        "date": "1998-12-19",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Dizzy",
+            "Long Way Down",
+            "Lazy Eye",
+            "Slide",
+            "Black Balloon",
+            "Bullet Proof",
+            "Naked",
+            "Name",
+            "January Friend",
+            "Fallin' Down",
+            "Full Forever",
+            "Broadway",
+            "Another Second Time Around",
+            "Flat Top",
+            "Iris",
+            "There You Are",
+            "Burnin' Up",
+            "Just the Way You Are",
+            "Hate This Place",
+            "Two Days in February"
+          ]
+        },
+        "artist": {
+          "name": "The Goo Goo Dolls",
+          "url": "https://www.setlist.fm/setlists/the-goo-goo-dolls-6bd6b6f6.html"
+        },
+        "tour": "Dizzy Up the Girl",
+        "url": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Jim Rose Circus Sideshow",
+    "events": [
+      {
+        "date": "1995-02-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "The Jim Rose Circus Sideshow",
+          "url": "https://www.setlist.fm/setlists/the-jim-rose-circus-sideshow-2bd0688e.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/the-jim-rose-circus-sideshow/1995/target-center-minneapolis-mn-23df601b.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Mother Hips",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "River's Edge Park",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "The Mother Hips",
+          "url": "https://www.setlist.fm/setlists/the-mother-hips-3d7d93f.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/the-mother-hips/1995/rivers-edge-park-somerset-wi-6bbcc28a.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Offspring",
+    "events": [
+      {
+        "date": "1995-06-11",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": [
+            "Bad Habit",
+            "We Are One",
+            "Killboy Powerhead",
+            "Burn It Up",
+            "Genocide",
+            "Gotta Get Away",
+            "Dirty Magic",
+            "Kick Him When He's Down",
+            "So Alone",
+            "It'll Be a Long Time",
+            "What Happened to You?",
+            "Come Out and Play",
+            "Get It Right",
+            "Nitro (Youth Energy)",
+            "Basket Case",
+            "Undone - The Sweater Song",
+            "Self Esteem",
+            "Smash",
+            "Territorial Pissings"
+          ]
+        },
+        "artist": {
+          "name": "The Offspring",
+          "url": "https://www.setlist.fm/setlists/the-offspring-13d68945.html"
+        },
+        "tour": "Smash",
+        "url": "https://www.setlist.fm/setlist/the-offspring/1995/roy-wilkins-auditorium-st-paul-mn-33df600d.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Rembrandts",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "River's Edge Park",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "The Rembrandts",
+          "url": "https://www.setlist.fm/setlists/the-rembrandts-1bd60504.html"
+        },
+        "tour": "LP Tour 1995",
+        "url": "https://www.setlist.fm/setlist/the-rembrandts/1995/rivers-edge-park-somerset-wi-4390f727.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "events": [
+      {
+        "date": "1998-07-17",
+        "venue": {
+          "name": "Block E at Hennepin Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/block-e-at-hennepin-avenue-minneapolis-mn-usa-bd60546.html",
+          "setlist": [
+            "To Sheila",
+            "Behold! The Night Mare",
+            "Pug",
+            "Tear",
+            "Once Upon a Time",
+            "Ava Adore",
+            "Daphne Descends",
+            "Thru the Eyes of Ruby",
+            "Perfect",
+            "Tonight, Tonight",
+            "Percussion Solo",
+            "Bullet With Butterfly Wings",
+            "Shame",
+            "For Martha",
+            "1979",
+            "Transmission"
+          ]
+        },
+        "artist": {
+          "name": "The Smashing Pumpkins",
+          "url": "https://www.setlist.fm/setlists/the-smashing-pumpkins-23d6e0ab.html"
+        },
+        "tour": "An Evening with the Smashing Pumpkins",
+        "url": "https://www.setlist.fm/setlist/the-smashing-pumpkins/1998/block-e-at-hennepin-avenue-minneapolis-mn-5bd72f48.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Struts",
+    "events": [
+      {
+        "date": "2017-11-11",
+        "venue": {
+          "name": "Denny Sanford Premier Center",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "geo": [
+            43.549976,
+            -96.700325
+          ],
+          "url": "https://www.setlist.fm/venue/denny-sanford-premier-center-sioux-falls-sd-usa-73d406f1.html",
+          "setlist": [
+            "Put Your Hands Up",
+            "These Times Are Changing",
+            "One Night Only",
+            "Primadonna Like Me",
+            "Kiss This",
+            "Put Your Money on Me",
+            "Could Have Been Me",
+            "Where Did She Go"
+          ]
+        },
+        "artist": {
+          "name": "The Struts",
+          "url": "https://www.setlist.fm/setlists/the-struts-bdca536.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/the-struts/2017/denny-sanford-premier-center-sioux-falls-sd-3e0a5b3.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Vandals",
+    "events": [
+      {
+        "date": "1995-06-11",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "The Vandals",
+          "url": "https://www.setlist.fm/setlists/the-vandals-7bd68e90.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/the-vandals/1995/roy-wilkins-auditorium-st-paul-mn-23df60a3.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Verve Pipe",
+    "events": [
+      {
+        "date": "1997-05-24",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "The Freshmen"
+          ]
+        },
+        "artist": {
+          "name": "The Verve Pipe",
+          "url": "https://www.setlist.fm/setlists/the-verve-pipe-43d62357.html"
+        },
+        "tour": "Villains",
+        "url": "https://www.setlist.fm/setlist/the-verve-pipe/1997/float-rite-park-amphitheatre-somerset-wi-3fe89cf.html"
+      }
+    ]
+  },
+  {
+    "artist": "The Wallflowers",
+    "events": [
+      {
+        "date": "1996-12-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "The Wallflowers",
+          "url": "https://www.setlist.fm/setlists/the-wallflowers-7bd6b60c.html"
+        },
+        "tour": "Bringing Down the Horse",
+        "url": "https://www.setlist.fm/setlist/the-wallflowers/1996/target-center-minneapolis-mn-3bdf60c0.html"
+      }
+    ]
+  },
+  {
+    "artist": "Tim Slagle",
+    "events": [
+      {
+        "date": "2019-09-13",
+        "venue": {
+          "name": "Acme Comedy Company",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Tim Slagle",
+          "url": "https://www.setlist.fm/setlists/tim-slagle-2bd3a82e.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/tim-slagle/2019/acme-comedy-company-minneapolis-mn-4ba9c7da.html"
+      }
+    ]
+  },
+  {
+    "artist": "Toadies",
+    "events": [
+      {
+        "date": "1995-11-09",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Toadies",
+          "url": "https://www.setlist.fm/setlists/toadies-63d69eb3.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/toadies/1995/roy-wilkins-auditorium-st-paul-mn-5bc52b98.html"
+      },
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Toadies",
+          "url": "https://www.setlist.fm/setlists/toadies-63d69eb3.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/toadies/1995/target-center-minneapolis-mn-5383dbb5.html"
+      },
+      {
+        "date": "2014-04-11",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "Mexican Hairless",
+            "Mister Love",
+            "Backslider",
+            "Possum Kingdom",
+            "Quitter",
+            "Away",
+            "I Come From the Water",
+            "Tyler",
+            "Happy Face",
+            "Velvet",
+            "I Burn",
+            "Push the Hand",
+            "Song I Hate",
+            "Little Sin",
+            "No Deliverance",
+            "Summer of the Strange",
+            "Heart of Glass",
+            "Dollskin",
+            "Rattler's Revival",
+            "Stop It",
+            "Sweetness",
+            "Hell in High Water"
+          ]
+        },
+        "artist": {
+          "name": "Toadies",
+          "url": "https://www.setlist.fm/setlists/toadies-63d69eb3.html"
+        },
+        "tour": "Rubberneck 20th Anniversary",
+        "url": "https://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc38b28.html"
+      },
+      {
+        "date": "2017-10-08",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "Take Me Alive",
+            "Happy Face",
+            "You Know the Words",
+            "No Deliverance",
+            "When I Die",
+            "I Come From the Water",
+            "Broke Down Stupid",
+            "Summer of the Strange",
+            "Polly Jean",
+            "Dollskin",
+            "Song I Hate",
+            "Possum Kingdom",
+            "Mama Take Me Home",
+            "Sweetness",
+            "I Want Your Love",
+            "Tyler",
+            "I Put a Spell on You",
+            "Rattler's Revival",
+            "I Burn",
+            "Breakdown"
+          ]
+        },
+        "artist": {
+          "name": "Toadies",
+          "url": "https://www.setlist.fm/setlists/toadies-63d69eb3.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/toadies/2017/first-avenue-minneapolis-mn-1be38dfc.html"
+      },
+      {
+        "date": "2022-10-07",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": [
+            "Little Sin",
+            "No Deliverance",
+            "Closer to You",
+            "Jigsaw Girl",
+            "Long Time",
+            "Mexican Hairless",
+            "Mister Love",
+            "Backslider",
+            "Possum Kingdom",
+            "Quitter",
+            "Away",
+            "I Come From the Water",
+            "Tyler",
+            "Happy Face",
+            "Velvet",
+            "I Burn",
+            "I Put a Spell on You",
+            "Charmer",
+            "Push the Hand",
+            "Rattler's Revival"
+          ]
+        },
+        "artist": {
+          "name": "Toadies",
+          "url": "https://www.setlist.fm/setlists/toadies-63d69eb3.html"
+        },
+        "tour": "Rubberneck 25th Anniversary",
+        "url": "https://www.setlist.fm/setlist/toadies/2022/first-avenue-minneapolis-mn-6bb1cac2.html"
+      }
+    ]
+  },
+  {
+    "artist": "Tomahawk",
+    "events": [
+      {
+        "date": "2002-09-04",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Tomahawk",
+          "url": "https://www.setlist.fm/setlists/tomahawk-33d6b0dd.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/tomahawk/2002/xcel-energy-center-st-paul-mn-63de8607.html"
+      }
+    ]
+  },
+  {
+    "artist": "Tonic",
+    "events": [
+      {
+        "date": "1997-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "If You Could Only See",
+            "Celtic Aggression"
+          ]
+        },
+        "artist": {
+          "name": "Tonic",
+          "url": "https://www.setlist.fm/setlists/tonic-1bd6b914.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/tonic/1997/float-rite-park-amphitheatre-somerset-wi-1bfe89c8.html"
+      }
+    ]
+  },
+  {
+    "artist": "Tool",
+    "events": [
+      {
+        "date": "1998-07-18",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": [
+            "Flood",
+            "Hush",
+            "Forty Six & 2",
+            "Stinkfist",
+            "Eulogy",
+            "Sober",
+            "(-) Ions",
+            "Ænema",
+            "Jerk-Off"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "Ænima",
+        "url": "https://www.setlist.fm/setlist/tool/1998/float-rite-park-amphitheatre-somerset-wi-43d5bf33.html"
+      },
+      {
+        "date": "2001-09-06",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Tuva",
+            "The Grudge",
+            "(-) Ions",
+            "Stinkfist",
+            "Forty Six & 2",
+            "Prison Sex",
+            "Schism",
+            "Pushit",
+            "Disposition",
+            "Reflection",
+            "Parabol",
+            "Parabola",
+            "Eon Blue Apocalypse",
+            "The Patient",
+            "Ænema",
+            "Lateralus"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "Lateralus",
+        "url": "https://www.setlist.fm/setlist/tool/2001/xcel-energy-center-st-paul-mn-73d462c1.html"
+      },
+      {
+        "date": "2002-09-04",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Tuva",
+            "Sober",
+            "The Grudge",
+            "(-) Ions",
+            "Stinkfist",
+            "H.",
+            "Schism",
+            "Parabol",
+            "Parabola",
+            "Opiate",
+            "Disposition",
+            "Reflection",
+            "Triad",
+            "Lateralus"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "Inside The Outside",
+        "url": "https://www.setlist.fm/setlist/tool/2002/xcel-energy-center-st-paul-mn-43de9343.html"
+      },
+      {
+        "date": "2006-09-16",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Stinkfist",
+            "The Pot",
+            "Forty Six & 2",
+            "Jambi",
+            "Schism",
+            "Lost Keys (Blame Hofmann)",
+            "Rosetta Stoned",
+            "Wings for Marie (Pt 1)",
+            "10,000 Days (Wings, Pt 2)",
+            "Lateralus",
+            "Synth intro",
+            "Vicarious",
+            "Ænema"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "10,000 Days",
+        "url": "https://www.setlist.fm/setlist/tool/2006/target-center-minneapolis-mn-63d6c22b.html"
+      },
+      {
+        "date": "2007-06-26",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Jambi",
+            "(-) Ions",
+            "Stinkfist",
+            "Forty Six & 2",
+            "Schism",
+            "Lost Keys (Blame Hofmann)",
+            "Rosetta Stoned",
+            "Flood",
+            "Wings for Marie (Pt 1)",
+            "10,000 Days (Wings, Pt 2)",
+            "Lateralus",
+            "Vicarious"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "10,000 Days",
+        "url": "https://www.setlist.fm/setlist/tool/2007/xcel-energy-center-st-paul-mn-13d63d59.html"
+      },
+      {
+        "date": "2010-07-01",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Timothy Leary Speech",
+            "Third Eye",
+            "Jambi",
+            "(-) Ions",
+            "Stinkfist",
+            "Vicarious",
+            "Eon Blue Apocalypse",
+            "The Patient",
+            "Intolerance",
+            "Schism",
+            "Forty Six & 2",
+            "Lateralus",
+            "Ænema"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "2010 Summer Tour",
+        "url": "https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d406cb.html"
+      },
+      {
+        "date": "2017-06-09",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "The Grudge",
+            "Parabol",
+            "Parabola",
+            "Schism",
+            "Opiate",
+            "Ænema",
+            "Descending",
+            "Jambi",
+            "Third Eye",
+            "Forty Six & 2",
+            "Chocolate Chip Trip",
+            "Sweat",
+            "(-) Ions",
+            "Stinkfist"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "North American Tour 2017",
+        "url": "https://www.setlist.fm/setlist/tool/2017/xcel-energy-center-st-paul-mn-73e7662d.html"
+      },
+      {
+        "date": "2022-03-13",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Litanie contre la Peur",
+            "Fear Inoculum",
+            "Opiate",
+            "The Pot",
+            "Pushit",
+            "Pneuma",
+            "The Grudge",
+            "Undertow",
+            "Descending",
+            "Hooker With a Penis",
+            "Chocolate Chip Trip",
+            "Culling Voices",
+            "Invincible"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "Fear Inoculum 2nd Leg",
+        "url": "https://www.setlist.fm/setlist/tool/2022/target-center-minneapolis-mn-b89e1fe.html"
+      },
+      {
+        "date": "2023-10-31",
+        "venue": {
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html",
+          "setlist": [
+            "Third Eye Intro",
+            "Fear Inoculum",
+            "Jambi",
+            "The Pot",
+            "Rosetta Stoned",
+            "Pneuma",
+            "Descending",
+            "The Grudge",
+            "Chocolate Chip Trip",
+            "Culling Voices",
+            "Invincible",
+            "Swamp Song",
+            "Dancing Queen"
+          ]
+        },
+        "artist": {
+          "name": "Tool",
+          "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+        },
+        "tour": "North American Fall Tour 2023",
+        "url": "https://www.setlist.fm/setlist/tool/2023/xcel-energy-center-st-paul-mn-5ba07338.html"
+      }
+    ]
+  },
+  {
+    "artist": "Tracy Bonham",
+    "events": [
+      {
+        "date": "1996-12-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Tracy Bonham",
+          "url": "https://www.setlist.fm/setlists/tracy-bonham-53d6dff9.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/tracy-bonham/1996/target-center-minneapolis-mn-23df60c7.html"
+      }
+    ]
+  },
+  {
+    "artist": "Treble Charger",
+    "events": [
+      {
+        "date": "1997-10-23",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Treble Charger",
+          "url": "https://www.setlist.fm/setlists/treble-charger-33d650e9.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/treble-charger/1997/roy-wilkins-auditorium-st-paul-mn-13f37149.html"
+      }
+    ]
+  },
+  {
+    "artist": "Trombone Shorty & Orleans Avenue",
+    "events": [
+      {
+        "date": "2018-10-24",
+        "venue": {
+          "name": "Champions Square",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "geo": [
+            29.955,
+            -90.075
+          ],
+          "url": "https://www.setlist.fm/venue/champions-square-new-orleans-la-usa-bd7cdbe.html",
+          "setlist": [
+            "",
+            "",
+            "On Your Way Down",
+            "Fire and Brimstone",
+            "",
+            "Something Beautiful",
+            "Brain Stew",
+            "",
+            "",
+            "Do to Me"
+          ]
+        },
+        "artist": {
+          "name": "Trombone Shorty & Orleans Avenue",
+          "url": "https://www.setlist.fm/setlists/trombone-shorty-and-orleans-avenue-53d5bfed.html"
+        },
+        "tour": "Trombone Shorty's Voodoo Threauxdown",
+        "url": "https://www.setlist.fm/setlist/trombone-shorty-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html"
+      }
+    ]
+  },
+  {
+    "artist": "Troy “Trombone Shorty” Andrews & Orleans Avenue",
+    "events": [
+      {
+        "date": "2018-10-24",
+        "venue": {
+          "name": "Champions Square",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "geo": [
+            29.955,
+            -90.075
+          ],
+          "url": "https://www.setlist.fm/venue/champions-square-new-orleans-la-usa-bd7cdbe.html",
+          "setlist": [
+            "",
+            "",
+            "On Your Way Down",
+            "Fire and Brimstone",
+            "",
+            "Something Beautiful",
+            "Brain Stew",
+            "",
+            "",
+            "Do to Me"
+          ]
+        },
+        "artist": {
+          "name": "Troy “Trombone Shorty” Andrews & Orleans Avenue",
+          "url": "https://www.setlist.fm/setlists/troy-trombone-shorty-andrews-and-orleans-avenue-53d5bfed.html"
+        },
+        "tour": "Trombone Shorty's Voodoo Threauxdown",
+        "url": "https://www.setlist.fm/setlist/troy-trombone-shorty-andrews-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html"
+      }
+    ]
+  },
+  {
+    "artist": "Unwritten Law",
+    "events": [
+      {
+        "date": "1996-04-30",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Unwritten Law",
+          "url": "https://www.setlist.fm/setlists/unwritten-law-bd611de.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/unwritten-law/1996/first-avenue-minneapolis-mn-139c1975.html"
+      }
+    ]
+  },
+  {
+    "artist": "Vampires Everywhere!",
+    "events": [
+      {
+        "date": "2016-04-20",
+        "venue": {
+          "name": "Mill City Nights",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/mill-city-nights-minneapolis-mn-usa-43d70b53.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Vampires Everywhere!",
+          "url": "https://www.setlist.fm/setlists/vampires-everywhere-13d2e189.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/vampires-everywhere/2016/mill-city-nights-minneapolis-mn-33ab1401.html"
+      }
+    ]
+  },
+  {
+    "artist": "Veruca Salt",
+    "events": [
+      {
+        "date": "1995-05-21",
+        "venue": {
+          "name": "First Avenue",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Veruca Salt",
+          "url": "https://www.setlist.fm/setlists/veruca-salt-2bd6a49a.html"
+        },
+        "tour": "American Thighs",
+        "url": "https://www.setlist.fm/setlist/veruca-salt/1995/first-avenue-minneapolis-mn-3e65527.html"
+      }
+    ]
+  },
+  {
+    "artist": "Violent Femmes",
+    "events": [
+      {
+        "date": "1995-12-09",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Violent Femmes",
+          "url": "https://www.setlist.fm/setlists/violent-femmes-3bd78878.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/violent-femmes/1995/target-center-minneapolis-mn-5b83dbb4.html"
+      },
+      {
+        "date": "1996-05-25",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Violent Femmes",
+          "url": "https://www.setlist.fm/setlists/violent-femmes-3bd78878.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/violent-femmes/1996/float-rite-park-amphitheatre-somerset-wi-7bc87e28.html"
+      },
+      {
+        "date": "1996-12-04",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Violent Femmes",
+          "url": "https://www.setlist.fm/setlists/violent-femmes-3bd78878.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/violent-femmes/1996/target-center-minneapolis-mn-2bdf60c6.html"
+      },
+      {
+        "date": "2024-05-14",
+        "venue": {
+          "name": "Val Air Ballroom",
+          "city": "West Des Moines",
+          "state": "Iowa",
+          "geo": [
+            41.571987,
+            -93.74531
+          ],
+          "url": "https://www.setlist.fm/venue/val-air-ballroom-west-des-moines-ia-usa-53d653c9.html",
+          "setlist": [
+            "Country Death Song",
+            "I Hear the Rain",
+            "Never Tell",
+            "Jesus Walking on the Water",
+            "I Know It's True But I'm Sorry to Say",
+            "Hallowed Ground",
+            "Sweet Misery Blues",
+            "Black Girls",
+            "It's Gonna Rain",
+            "Blister in the Sun",
+            "Kiss Off",
+            "Please Do Not Go",
+            "Add It Up",
+            "Confessions",
+            "Prove My Love",
+            "Promise",
+            "To the Kill",
+            "Gone Daddy Gone",
+            "Good Feeling",
+            "I Held Her in My Arms",
+            "American Music"
+          ]
+        },
+        "artist": {
+          "name": "Violent Femmes",
+          "url": "https://www.setlist.fm/setlists/violent-femmes-3bd78878.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/violent-femmes/2024/val-air-ballroom-west-des-moines-ia-4ba92bce.html"
+      }
+    ]
+  },
+  {
+    "artist": "Waylon Jennings",
+    "events": [
+      {
+        "date": "1996-06-28",
+        "venue": {
+          "name": "Iowa State Fairgrounds",
+          "city": "Des Moines",
+          "state": "Iowa",
+          "geo": [
+            41.600544,
+            -93.60911
+          ],
+          "url": "https://www.setlist.fm/venue/iowa-state-fairgrounds-des-moines-ia-usa-3d2f1d7.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Waylon Jennings",
+          "url": "https://www.setlist.fm/setlists/waylon-jennings-23d6dcc7.html"
+        },
+        "tour": "Lollapalooza 1996",
+        "url": "https://www.setlist.fm/setlist/waylon-jennings/1996/iowa-state-fairgrounds-des-moines-ia-2bdf60d6.html"
+      }
+    ]
+  },
+  {
+    "artist": "White Zombie",
+    "events": [
+      {
+        "date": "1995-05-13",
+        "venue": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "geo": [
+            44.979965,
+            -93.26384
+          ],
+          "url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html",
+          "setlist": [
+            "Electric Head, Part 1: The Agony",
+            "Super-Charger Heaven",
+            "Real Solution #9",
+            "Black Sunshine",
+            "Welcome to Planet Motherfucker/Psychoholic Slag",
+            "I Am Legend",
+            "Electric Head, Part 2: The Ecstasy",
+            "I, Zombie",
+            "More Human Than Human",
+            "El Phantasmo and the Chicken-Run Blast-O-Rama",
+            "Creature of the Wheel",
+            "Soul Crusher",
+            "Thunder Kiss '65",
+            "Grease Paint and Monkey Brains",
+            "Children of the Grave",
+            "Blood, Milk and Sky"
+          ]
+        },
+        "artist": {
+          "name": "White Zombie",
+          "url": "https://www.setlist.fm/setlists/white-zombie-6bd692c2.html"
+        },
+        "tour": "Astro Creep: 2000",
+        "url": "https://www.setlist.fm/setlist/white-zombie/1995/target-center-minneapolis-mn-6bc53ed2.html"
+      },
+      {
+        "date": "1995-11-09",
+        "venue": {
+          "name": "Roy Wilkins Auditorium",
+          "city": "St. Paul",
+          "state": "Minnesota",
+          "geo": [
+            44.944,
+            -93.093
+          ],
+          "url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html",
+          "setlist": [
+            "Electric Head, Part 1: The Agony",
+            "Creature of the Wheel",
+            "Black Sunshine",
+            "Electric Head, Part 2: The Ecstasy",
+            "More Human Than Human",
+            "Children of the Grave"
+          ]
+        },
+        "artist": {
+          "name": "White Zombie",
+          "url": "https://www.setlist.fm/setlists/white-zombie-6bd692c2.html"
+        },
+        "tour": "Astro Creep: 2000",
+        "url": "https://www.setlist.fm/setlist/white-zombie/1995/roy-wilkins-auditorium-st-paul-mn-4bc52b9a.html"
+      }
+    ]
+  },
+  {
+    "artist": "Wilco",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "River's Edge Park",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Wilco",
+          "url": "https://www.setlist.fm/setlists/wilco-23d6982b.html"
+        },
+        "tour": "1995 HORDE Tour",
+        "url": "https://www.setlist.fm/setlist/wilco/1995/rivers-edge-park-somerset-wi-4bceb77e.html"
+      }
+    ]
+  },
+  {
+    "artist": "Ziggy Marley",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "River's Edge Park",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Ziggy Marley",
+          "url": "https://www.setlist.fm/setlists/ziggy-marley-13d6d901.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/ziggy-marley/1995/rivers-edge-park-somerset-wi-73bcc289.html"
+      }
+    ]
+  },
+  {
+    "artist": "Ziggy Marley & The Melody Makers",
+    "events": [
+      {
+        "date": "1995-08-22",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "Ziggy Marley & The Melody Makers",
+          "url": "https://www.setlist.fm/setlists/ziggy-marley-and-the-melody-makers-5bd6d38c.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/ziggy-marley-and-the-melody-makers/1995/float-rite-park-amphitheatre-somerset-wi-5b970f78.html"
+      }
+    ]
+  },
+  {
+    "artist": "face to face",
+    "events": [
+      {
+        "date": "1995-05-28",
+        "venue": {
+          "name": "Float-Rite Park Amphitheatre",
+          "city": "Somerset",
+          "state": "Wisconsin",
+          "geo": [
+            45.124413,
+            -92.67354
+          ],
+          "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
+          "setlist": []
+        },
+        "artist": {
+          "name": "face to face",
+          "url": "https://www.setlist.fm/setlists/face-to-face-63d68a33.html"
+        },
+        "tour": null,
+        "url": "https://www.setlist.fm/setlist/face-to-face/1995/float-rite-park-amphitheatre-somerset-wi-6bfd9ae2.html"
+      }
+    ]
+  }
+]

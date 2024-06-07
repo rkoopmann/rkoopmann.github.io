@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% assign theDescription = site.data.event-artists | where: "artist", page.artist | first %}
+{% assign artistObject = site.data.events.list-artists | where_exp: "x", "x.artist == page.artist" | first %}
+{% assign events_by_year = artistObject.events | group_by_exp: "e", "e.date | date: '%Y'" | reverse %}
+
+<style>
+div.index-item {
+  text-indent: -4em !important;
+  padding-left: 4em !important;
+}
+</style>
+
+<h1>Artist: <em>{{ page.artist }}</em></h1>
+
+{{ theDescription.description | markdownify }}
+
+{{ content }}
+
+{% for year in events_by_year %}
+<p><tt><strong>{{ year.name }}</strong></tt></p>
+{% assign dates = year.items | reverse %}
+  {% for item in dates %}
+  <div class="index-item"><span class="post-meta"><tt><a class="post-link" href="/event/{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%b %d" }}</a></tt></span>{% if item.tour != "" %}&mdash;<em>{{ item.tour | escape }}</em>{% endif %}{% if item.venue.name != "" %} @ <a href="/event/venue/{{ item.venue.name | slugify }}">{{ item.venue.name }}</a>{% endif %}&mdash;<a href="{{ item.url }}">setlist page</a></div>
+  {% endfor %}
+{% endfor %}

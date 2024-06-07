@@ -7,7 +7,7 @@
 		"mbid": "5e521e8c-0ab2-44c4-8fd8-14d8d3321265",
 		"name": "Isis",
 		"sortName": "Isis",
-		"disambiguation": "Experimental post-metal band from Boston, USA",
+		"disambiguation": "experimental post‐metal band from Boston, US",
 		"url": "https://www.setlist.fm/setlists/isis-63d6c2c7.html"
 	},
 	"venue": {
@@ -29,6 +29,7 @@
 		},
 		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
 	},
+	"tour": {},
 	"sets": {
 		"set": []
 	},

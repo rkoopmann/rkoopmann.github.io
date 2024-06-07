@@ -1,0 +1,72 @@
+{
+	"id": "4b89e372",
+	"versionId": "gbcfd932",
+	"eventDate": "13-03-2022",
+	"lastUpdated": "2022-03-16T10:54:56.995+0000",
+	"artist": {
+		"mbid": "f8aa4c4f-4929-4ab2-8875-faba58d0cd5e",
+		"name": "The Acid Helps",
+		"sortName": "Acid Helps, The",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/the-acid-helps-4bfea7ce.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Killing An Animal"
+					},
+					{
+						"name": "Disco Blanco"
+					},
+					{
+						"name": "Idiot VS. Moron"
+					},
+					{
+						"name": "Sick City"
+					},
+					{
+						"name": "Rattled"
+					},
+					{
+						"name": "This Thing Will Not Die"
+					},
+					{
+						"name": "All Insane"
+					},
+					{
+						"name": "Sink Pisser"
+					},
+					{
+						"name": "LA BREA"
+					}
+				]
+			}
+		]
+	},
+	"info": "Opening act for Tool.",
+	"url": "https://www.setlist.fm/setlist/the-acid-helps/2022/target-center-minneapolis-mn-4b89e372.html"
+}

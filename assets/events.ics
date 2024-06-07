@@ -1515,6 +1515,17 @@ GEO:44.944;-93.093
 DESCRIPTION:#Snake_River_Conspiracy #Xcel_Energy_Center geo:44.944,-93.093
 END:VEVENT
 BEGIN:VEVENT
+UID:63d6c22b
+SUMMARY:Tool
+DTSTAMP;TZID=America/Chicago:20060916T200000
+DTSTART;VALUE=DATE:20060916
+DTEND;VALUE=DATE:20060916
+URL:https://www.setlist.fm/setlist/tool/2006/target-center-minneapolis-mn-63d6c22b.html
+LOCATION:Target Center, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Tool #Target_Center geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
 UID:2bc228de
 SUMMARY:Isis
 DTSTAMP;TZID=America/Chicago:20070626T200000
@@ -1537,6 +1548,17 @@ GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center geo:44.944,-93.093
 END:VEVENT
 BEGIN:VEVENT
+UID:43a9c71f
+SUMMARY:Bobcat Goldthwait
+DTSTAMP;TZID=America/Chicago:20091114T200000
+DTSTART;VALUE=DATE:20091114
+DTEND;VALUE=DATE:20091114
+URL:https://www.setlist.fm/setlist/bobcat-goldthwait/2009/acme-comedy-company-minneapolis-mn-43a9c71f.html
+LOCATION:Acme Comedy Company, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Bobcat_Goldthwait #Acme_Comedy_Company geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
 UID:73d0e6f5
 SUMMARY:Dälek
 DTSTAMP;TZID=America/Chicago:20100701T200000
@@ -1557,6 +1579,17 @@ URL:https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d40
 LOCATION:Xcel Energy Center, St. Paul, MN
 GEO:44.944;-93.093
 DESCRIPTION:#Tool #Xcel_Energy_Center geo:44.944,-93.093
+END:VEVENT
+BEGIN:VEVENT
+UID:13a835cd
+SUMMARY:James Blake
+DTSTAMP;TZID=America/Chicago:20130506T200000
+DTSTART;VALUE=DATE:20130506
+DTEND;VALUE=DATE:20130506
+URL:https://www.setlist.fm/setlist/james-blake/2013/late-show-with-david-letterman-new-york-ny-13a835cd.html
+LOCATION:Late Show With David Letterman, New York, NY
+GEO:40.714268;-74.005974
+DESCRIPTION:#James_Blake #Late_Show_With_David_Letterman geo:40.714268,-74.005974
 END:VEVENT
 BEGIN:VEVENT
 UID:63c4562b
@@ -1590,6 +1623,17 @@ URL:https://www.setlist.fm/setlist/toadies/2014/first-avenue-minneapolis-mn-5bc3
 LOCATION:First Avenue, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Toadies #First_Avenue geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:43a9c7d7
+SUMMARY:Dan Naturman
+DTSTAMP;TZID=America/Chicago:20141213T200000
+DTSTART;VALUE=DATE:20141213
+DTEND;VALUE=DATE:20141213
+URL:https://www.setlist.fm/setlist/dan-naturman/2014/acme-comedy-company-minneapolis-mn-43a9c7d7.html
+LOCATION:Acme Comedy Company, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Dan_Naturman #Acme_Comedy_Company geo:44.979965,-93.26384
 END:VEVENT
 BEGIN:VEVENT
 UID:63f7d247
@@ -1656,6 +1700,17 @@ URL:https://www.setlist.fm/setlist/vampires-everywhere/2016/mill-city-nights-min
 LOCATION:Mill City Nights, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Vampires_Everywhere #Mill_City_Nights geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:73e7662d
+SUMMARY:Tool
+DTSTAMP;TZID=America/Chicago:20170609T200000
+DTSTART;VALUE=DATE:20170609
+DTEND;VALUE=DATE:20170609
+URL:https://www.setlist.fm/setlist/tool/2017/xcel-energy-center-st-paul-mn-73e7662d.html
+LOCATION:Xcel Energy Center, St. Paul, MN
+GEO:44.944;-93.093
+DESCRIPTION:#Tool #Xcel_Energy_Center geo:44.944,-93.093
 END:VEVENT
 BEGIN:VEVENT
 UID:13e581d9
@@ -1779,6 +1834,28 @@ GEO:44.944;-93.093
 DESCRIPTION:#A_Perfect_Circle #Xcel_Energy_Center geo:44.944,-93.093
 END:VEVENT
 BEGIN:VEVENT
+UID:53a9c7f1
+SUMMARY:Sean Patton
+DTSTAMP;TZID=America/Chicago:20171216T200000
+DTSTART;VALUE=DATE:20171216
+DTEND;VALUE=DATE:20171216
+URL:https://www.setlist.fm/setlist/sean-patton/2017/acme-comedy-company-minneapolis-mn-53a9c7f1.html
+LOCATION:Acme Comedy Company, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Sean_Patton #Acme_Comedy_Company geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba9c7f6
+SUMMARY:Rachel Feinstein
+DTSTAMP;TZID=America/Chicago:20180712T200000
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180712
+URL:https://www.setlist.fm/setlist/rachel-feinstein/2018/acme-comedy-company-minneapolis-mn-4ba9c7f6.html
+LOCATION:Acme Comedy Company, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Rachel_Feinstein #Acme_Comedy_Company geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
 UID:63e8be13
 SUMMARY:FireHouse
 DTSTAMP;TZID=America/Chicago:20180809T200000
@@ -1801,12 +1878,12 @@ GEO:44.979965;-93.26384
 DESCRIPTION:#Beck #Minneapolis_Armory geo:44.979965,-93.26384
 END:VEVENT
 BEGIN:VEVENT
-UID:638ade97
+UID:43a9c7ef
 SUMMARY:Aziz Ansari
-DTSTAMP;TZID=America/Chicago:20181001T200000
-DTSTART;VALUE=DATE:20181001
-DTEND;VALUE=DATE:20181001
-URL:https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-638ade97.html
+DTSTAMP;TZID=America/Chicago:20181002T200000
+DTSTART;VALUE=DATE:20181002
+DTEND;VALUE=DATE:20181002
+URL:https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-43a9c7ef.html
 LOCATION:Acme Comedy Company, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Aziz_Ansari #Acme_Comedy_Company geo:44.979965,-93.26384
@@ -1846,6 +1923,17 @@ DESCRIPTION:#Preservation_Hall_Jazz_Band #Champions_Square geo:29.955,-90.075
 END:VEVENT
 BEGIN:VEVENT
 UID:439633af
+SUMMARY:Trombone Shorty & Orleans Avenue
+DTSTAMP;TZID=America/Chicago:20181024T200000
+DTSTART;VALUE=DATE:20181024
+DTEND;VALUE=DATE:20181024
+URL:https://www.setlist.fm/setlist/trombone-shorty-and-orleans-avenue/2018/champions-square-new-orleans-la-439633af.html
+LOCATION:Champions Square, New Orleans, LA
+GEO:29.955;-90.075
+DESCRIPTION:#Trombone_Shorty__Orleans_Avenue #Champions_Square geo:29.955,-90.075
+END:VEVENT
+BEGIN:VEVENT
+UID:439633af
 SUMMARY:Troy “Trombone Shorty” Andrews & Orleans Avenue
 DTSTAMP;TZID=America/Chicago:20181024T200000
 DTSTART;VALUE=DATE:20181024
@@ -1854,6 +1942,17 @@ URL:https://www.setlist.fm/setlist/troy-trombone-shorty-andrews-and-orleans-aven
 LOCATION:Champions Square, New Orleans, LA
 GEO:29.955;-90.075
 DESCRIPTION:#Troy_Trombone_Shorty_Andrews__Orleans_Avenue #Champions_Square geo:29.955,-90.075
+END:VEVENT
+BEGIN:VEVENT
+UID:43a9c7e7
+SUMMARY:Dwight Slade
+DTSTAMP;TZID=America/Chicago:20181215T200000
+DTSTART;VALUE=DATE:20181215
+DTEND;VALUE=DATE:20181215
+URL:https://www.setlist.fm/setlist/dwight-slade/2018/acme-comedy-company-minneapolis-mn-43a9c7e7.html
+LOCATION:Acme Comedy Company, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Dwight_Slade #Acme_Comedy_Company geo:44.979965,-93.26384
 END:VEVENT
 BEGIN:VEVENT
 UID:2b95d0f6
@@ -1900,6 +1999,17 @@ GEO:44.163578;-93.9994
 DESCRIPTION:#Sublime_with_Rome #Vetter_Stone_Amphitheater geo:44.163578,-93.9994
 END:VEVENT
 BEGIN:VEVENT
+UID:4ba9c7da
+SUMMARY:Tim Slagle
+DTSTAMP;TZID=America/Chicago:20190913T200000
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190913
+URL:https://www.setlist.fm/setlist/tim-slagle/2019/acme-comedy-company-minneapolis-mn-4ba9c7da.html
+LOCATION:Acme Comedy Company, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Tim_Slagle #Acme_Comedy_Company geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
 UID:39a813f
 SUMMARY:Candlebox
 DTSTAMP;TZID=America/Chicago:20191116T200000
@@ -1942,6 +2052,17 @@ URL:https://www.setlist.fm/setlist/living-colour/2021/vetter-stone-amphitheater-
 LOCATION:Vetter Stone Amphitheater, Mankato, MN
 GEO:44.163578;-93.9994
 DESCRIPTION:#Living_Colour #Vetter_Stone_Amphitheater geo:44.163578,-93.9994
+END:VEVENT
+BEGIN:VEVENT
+UID:4b89e372
+SUMMARY:The Acid Helps
+DTSTAMP;TZID=America/Chicago:20220313T200000
+DTSTART;VALUE=DATE:20220313
+DTEND;VALUE=DATE:20220313
+URL:https://www.setlist.fm/setlist/the-acid-helps/2022/target-center-minneapolis-mn-4b89e372.html
+LOCATION:Target Center, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#The_Acid_Helps #Target_Center geo:44.979965,-93.26384
 END:VEVENT
 BEGIN:VEVENT
 UID:b89e1fe
@@ -2140,5 +2261,16 @@ URL:https://www.setlist.fm/setlist/adam-sandler/2023/target-center-minneapolis-m
 LOCATION:Target Center, Minneapolis, MN
 GEO:44.979965;-93.26384
 DESCRIPTION:#Adam_Sandler #Target_Center geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba92bce
+SUMMARY:Violent Femmes
+DTSTAMP;TZID=America/Chicago:20240514T200000
+DTSTART;VALUE=DATE:20240514
+DTEND;VALUE=DATE:20240514
+URL:https://www.setlist.fm/setlist/violent-femmes/2024/val-air-ballroom-west-des-moines-ia-4ba92bce.html
+LOCATION:Val Air Ballroom, West Des Moines, IA
+GEO:41.571987;-93.74531
+DESCRIPTION:#Violent_Femmes #Val_Air_Ballroom geo:41.571987,-93.74531
 END:VEVENT
 END:VCALENDAR

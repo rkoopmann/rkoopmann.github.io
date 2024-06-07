@@ -1,0 +1,37 @@
+{
+	"id": "13a835cd",
+	"versionId": "g23bca8c3",
+	"eventDate": "06-05-2013",
+	"lastUpdated": "2024-04-22T00:49:32.418+0000",
+	"artist": {
+		"mbid": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+		"name": "James Blake",
+		"sortName": "Blake, James",
+		"disambiguation": "English singer and producer",
+		"url": "https://www.setlist.fm/setlists/james-blake-33d5c461.html"
+	},
+	"venue": {
+		"id": "3bd624b4",
+		"name": "Late Show With David Letterman",
+		"city": {
+			"id": "5128581",
+			"name": "New York",
+			"state": "New York",
+			"stateCode": "NY",
+			"coords": {
+				"lat": 40.714268,
+				"long": -74.005974
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/late-show-with-david-letterman-new-york-ny-usa-3bd624b4.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/james-blake/2013/late-show-with-david-letterman-new-york-ny-13a835cd.html"
+}
