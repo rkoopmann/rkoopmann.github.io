@@ -2,21 +2,20 @@
 layout: default
 ---
 
-<h1>⨳ <em>{{ page.tag }}</em> ⨳</h1>
+<h1><em>{{ page.tag }}</em></h1>
+
+{% assign tagDescription = site.data.tags | where: "tag", page.tag | first %}
+{{ tagDescription.description | markdownify }}
 
 {{ content }}
 
-<table>
-<thead>
-<tr><th>Date</th><th>Title</th></tr>
-</thead>
-<tbody>
-{% for post in site.posts %}
-  {% if post.tags contains page.tag %}
-    <tr><td>{{ post.date | date: "%Y-%m-%d" }}</td><td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
-  {% endif %}
+{% assign posts_with_tag = site.posts | where_exp: "p", "p.tags contains page.tag" %}
+{% assign posts_by_year = posts_with_tag | group_by_exp: "p", "p.date | date: '%Y'" %}
+{% for year in posts_by_year %}
+<p><tt><strong>{{ year.name }}</strong></tt></p>
+  {% for post in year.items %}
+  <div class="index-item"><span class="post-meta"><tt><a class="post-link" href="{{ post.url }}">{{ post.date | date: "%b %d" }}</a></tt></span>&mdash;<em>{{ post.title | escape }}</em></div>
+  {% endfor %}
 {% endfor %}
-</tbody>
-</table>
 
-<a href="/tag/">Complete tag listing</a>
+<p><a href="/tag/">Complete tag listing</a></p>

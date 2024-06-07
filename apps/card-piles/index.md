@@ -12,14 +12,11 @@ app:
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
 
-
 I made another iOS app. This one is a "magic" trick. Actually, it's just process of elimination by restructuring a 2-dimension array. It's the [21 card trick](https://en.wikipedia.org/wiki/Twenty-One_Card_Trick).
 
 I had learned this one nearly 30 years ago from a friend in middle school.
 
 At any rate, [have at it][appstore].
-
-
 
 # Terms
 
@@ -32,8 +29,6 @@ All [{{ page.app.name }}][appstore] purchases are final. I cannot issue refunds 
 **For Entertainment Only**
 
 [{{ page.app.name }}][appstore] is not intended for, and should not be used for any sort of betting.
-
-
 
 # Privacy
 
@@ -48,8 +43,6 @@ Given the above point, [{{ page.app.name }}][appstore] cannot share data. [{{ pa
 **Data Retention**
 
 Since [{{ page.app.name }}][appstore] does not collect data, [{{ page.app.name }}][appstore] cannot retain data.
-
-
 
 # Support
 

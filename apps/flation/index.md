@@ -12,7 +12,7 @@ app:
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
 
-![](./main.jpg)
+![](/assets/apps/flation/main.jpg)
 
 Introducing [{{ page.app.name }}][appstore] – Your Time Machine for Money Value!
 
@@ -32,7 +32,6 @@ Download [{{ page.app.name }}][appstore] now and start your journey through the 
 
 Calculations based on [U.S. Consumer Price Index (CPI)](https://www.bls.gov/cpi/), "a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services." Data via [U.S. Bureau of Labor Statistics](https://data.bls.gov/timeseries/CUUR0000SA0).
 
-
 # Inspiration
 
 I wanted to play a simple app to calculate an arbitrary value in terms of point-in-time purchasing power and real value. I also wanted a simple visualization of these calculation over time.
@@ -41,10 +40,6 @@ I wanted to play a simple app to calculate an arbitrary value in terms of point-
 
 Feel free to use [{{ page.app.name }}][appstore] at your leisure for whatever purpose you have in mind.
 
-**Future Versions**
-
-[{{ page.app.name }}][appstore] is currently free to download and use. At some future point, [{{ page.app.name }}][appstore] may become a paid-up-front app. When this transition occurs, a purchase will be required for continued use of [{{ page.app.name }}][appstore].
-
 **Refunds**
 
 All [{{ page.app.name }}][appstore] purchases are final. I cannot issue refunds charged to your Apple ID, but you can ask [Apple](https://support.apple.com/en-us/118223) to do so.
@@ -52,7 +47,6 @@ All [{{ page.app.name }}][appstore] purchases are final. I cannot issue refunds 
 **For Reference Only**
 
 [{{ page.app.name }}][appstore] is not intended for, and should not be used for future-looking purchase power or real value.
-
 
 # Privacy
 

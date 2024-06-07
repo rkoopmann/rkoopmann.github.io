@@ -344,10 +344,8 @@ header > nav.group, body footer {
   padding-top: 2rem;
 }
 
-nav.group a.active:before{ content:"⨳ ";} // escaped unicode for the carats and then a space on active menu links
-//nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
-nav.group a.active:after{ content:" ⨳" ;}
-//nav.group a.active:after{ content:"\000a0\0003e" ;}
+nav.group a.active:before{ content:"\002A33 ";} // ⨳
+nav.group a.active:after { content:" \002A33";} // ⨳
 
 header > nav  a{
   font-size: 1.2rem;
@@ -615,4 +613,9 @@ hr.slender {
 
 .PageNavigation .next {
   text-align: right;
+}
+
+div.index-item {
+  text-indent: -4em !important;
+  padding-left: 4em !important;
 }

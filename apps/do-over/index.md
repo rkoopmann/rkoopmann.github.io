@@ -12,12 +12,9 @@ app:
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
 
+![](/assets/apps/do-over/screens.png)
 
-![](/assets/apps/do-over-screens.png)
-
-[![](/assets/apps/do-over-download-on-the-app-store.svg)][appstore]
-
-
+[![](/assets/apps/do-over/download-on-the-app-store.svg)][appstore]
 
 - Want to quickly create some similar text without manually typing everything out? [{{ page.app.name }}][appstore] can do that.
 - Want to quickly and easily change the values and see the results in realtime? [{{ page.app.name }}][appstore] can do that.
@@ -34,15 +31,11 @@ Provide a list of values (`apple banana coconut … zucchini`, for example) alon
     …
     26. zucchini
 
-
-
 # AppClip
 
 **Try it out via an AppClip!** Scan the thingie below for a basic, interactive demo.
 
-![](/assets/apps/do-over-app-clip-code-tagged.svg)
-
-
+![](/assets/apps/do-over/app-clip-code-tagged.svg)
 
 # Shortcuts
 
@@ -53,9 +46,7 @@ Available actions:
 
 As with most things in Shortcuts.app, you can feed output from one action as a parameter into another action. For example, [this](https://www.icloud.com/shortcuts/2dcec0a841ca49e68a44da686414ffbb) shortcut:
 
-![](/assets/apps/do-over-shortcut-chaining-permutations.jpeg){: width="250" }
-
-
+![](/assets/apps/do-over/shortcut-chaining-permutations.jpeg){: width="250" }
 
 # Terms
 
@@ -64,8 +55,6 @@ Feel free to use [{{ page.app.name }}][appstore] at your leisure for whatever pu
 **Refunds**
 
 All [{{ page.app.name }}][appstore] purchases are final. I cannot issue refunds charged to your Apple ID, but you can ask [Apple](https://support.apple.com/en-us/118223) to do so.
-
-
 
 # Privacy
 
@@ -80,8 +69,6 @@ Given the above point, [{{ page.app.name }}][appstore] cannot share data. [{{ pa
 **Data Retention**
 
 Since [{{ page.app.name }}][appstore] does not collect data, [{{ page.app.name }}][appstore] cannot retain data.
-
-
 
 # Support
 
