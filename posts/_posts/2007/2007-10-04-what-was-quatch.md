@@ -11,7 +11,7 @@ Check out that awesome banner!
 
 ![](/assets/img/quatch.png)
 
-> quatch is a a few things:
+> quatch <del>is</del> <ins>was</ins> a a few things:
 > - it's somewhat of a repository for interesting sas-related tidbits that i develop or discover.
 > - it's the official blog for the open-source [sas-quatch](https://web.archive.org/web/20091206020155/http://sas-quatch.googlecode.com/) project. a work-in-progress of great sas macros.
 > - it's possibly a way for me to get into more [sas](http://support.sas.com/usergroups/namerica/allregconf.html) [conferences](http://support.sas.com/usergroups/namerica/singleday.html).
