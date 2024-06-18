@@ -1,21 +1,28 @@
-- version: 2024.5.15
+-
+  version: 2024.6.17
+  date: 2024-06-17
+  changes:
+    - Extended CPI data
+    - Refactored color selectors in settings
+-
+  version: 2024.5.15
   date: 2024-05-15
   changes:
     - Extended CPI data
-
-- version: 2024.4.22
+-
+  version: 2024.4.22
   date: 2024-04-22
   changes:
     - Extended CPI data
-
-- version: 2024.4.9
+-
+  version: 2024.4.9
   date: 2024-04-10
   changes:
     - ADDED chartting for purchase power and real value.
     - ADDED interactive scrubbing for charts when device is in landscape.
     - ADDED About & Settings screens.
-
-- version: 2024.3.10
+-
+  version: 2024.3.10
   date: 2024-03-12
   changes:
     - Initial release
