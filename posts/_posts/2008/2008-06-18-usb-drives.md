@@ -5,6 +5,7 @@ category: sas
 tags:
 - sas
 - tip
+- quatch
 ---
 
 before you give away that usb drive, you might want to wipe it clean. here's a short (in terms of lines) but long (in terms of execution time) program to do just that. before you start, go to my computer and determine the formatted capacity of the drive.

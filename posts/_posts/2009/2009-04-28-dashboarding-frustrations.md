@@ -5,6 +5,7 @@ category: sas
 tags:
 - dashboard
 - sas
+- quatch
 ---
 
 I've gone through the work of creating a dashboard using SAS/GRAPH and summary data sets. I've got my autoexec to re-build the dashboard on a daily basis, which takes roughly 5 minutes each morning. it works.

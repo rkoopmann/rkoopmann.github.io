@@ -6,6 +6,7 @@ category: sas
 tags:
 - sas
 - tip
+- quatch
 ---
 
 when i was young and reckless, i would change variable names to something a little more succinct and personally meaningful. i mean, `email` has a better ring to it than does `person_email_address`.

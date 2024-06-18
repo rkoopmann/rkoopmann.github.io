@@ -6,6 +6,7 @@ category: sas
 tags:
 - date values
 - sas
+- quatch
 summary: calculating period-to-period changes with the lag function.
 ---
 

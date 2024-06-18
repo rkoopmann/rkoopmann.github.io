@@ -5,6 +5,7 @@ category: sas
 tags:
 - regex
 - web scraping
+- quatch
 ---
 
 i thought it might be fun to see if i couldn’t pull the sas training catalog and corresponding schedules into a sas data set. easy enough, right?

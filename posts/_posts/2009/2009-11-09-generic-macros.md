@@ -5,6 +5,7 @@ category: sas
 tags:
 - sas
 - sas macro
+- quatch
 ---
 
 i've been using sas for roughly 5 years now. for the past few years, i've been building up my toolbox of what i call 'utility macros'. these are macros that are generic enough to be used in a wide variety of situations, but perform very specific, routine, and/or tedious tasks.

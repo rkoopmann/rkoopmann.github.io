@@ -6,6 +6,7 @@ tags:
 - date values
 - informats
 - sas
+- quatch
 ---
 
 [a while ago](http://quatch.koopmann.us/post/2918942598/reading-non-standard-datetime-values), i took the hack shortcut of reading character datetime stamps into datetime values. i even went so far as suggesting a regex would be a better solution.

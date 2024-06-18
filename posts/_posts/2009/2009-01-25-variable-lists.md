@@ -4,6 +4,7 @@ title: SAS Variable Lists
 category: sas
 tags:
 - tip
+- quatch
 ---
 
 last week, there was [a blog post](http://jaredprins.squarespace.com/blog/2009/1/23/sas-and-character-variable-lists.html) regarding the use of variable lists on variables with character suffixes (e.g., `TestA--TestG`). i added my clarifications via [a comment](http://jaredprins.squarespace.com/blog/2009/1/23/sas-and-character-variable-lists.html#comments), but thought some examples would be more useful. let’s fire up sas (9.1.3) and get going.

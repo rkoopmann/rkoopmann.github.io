@@ -5,6 +5,7 @@ category: sas
 tags:
 - sas
 - sas macro
+- quatch
 ---
 
 let's start off with a simple macro that spits out some text and the value of a variable:

@@ -5,6 +5,7 @@ category: sas
 tags:
 - datetime values
 - sas
+- quatch
 ---
 
 another datetime posting. this time, i needed to read in datetime values with the following format: `DD/MM/YYYY HH:MM:SS AM` where the leading zeros are optional for the day, month, and hour portion.

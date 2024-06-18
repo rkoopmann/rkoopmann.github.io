@@ -8,6 +8,7 @@ tags:
 - do loop
 - rant
 - sas
+- quatch
 ---
 
 i'm working on some survey data containing a few select all that apply-type items. in the data set, they have the same number of variables, but they aren't dummy variables as i expected. for some reason that escapes me, they "pushed" all the selected response options to the left.

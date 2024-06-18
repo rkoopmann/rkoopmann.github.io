@@ -7,6 +7,7 @@ tags:
 - dashboard
 - sas
 - tutorial
+- quatch
 link: http://support.sas.com/rnd/datavisualization/dashboards/
 summary: sas *finally* posts some sample code for generating dashboards; this pleases me.
 ---

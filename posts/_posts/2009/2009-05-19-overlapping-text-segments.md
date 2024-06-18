@@ -5,6 +5,7 @@ category: sas
 tags:
 - sas
 - web scraping
+- quatch
 ---
 
 if you’re in the same boat as me, you’ve got sas 9.1.3 sp4 installed under windows. the thing about sas 9.1.3 sp4 running under windows is the lrecl is limited to 32,767 characters. (even though the [sas kb says 1mb](http://support.sas.com/kb/19/345.html), that doesn’t appear to be true. at least not for me.)
