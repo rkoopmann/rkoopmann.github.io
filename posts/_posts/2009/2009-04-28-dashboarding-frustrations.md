@@ -1,6 +1,6 @@
 ---
 layout: post
-title: frustrations with dashboarding in sas 9.1.3
+title: Frustrations With Dashboarding in SAS 9.1.3
 category: sas
 tags:
 - dashboard

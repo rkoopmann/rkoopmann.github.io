@@ -1,6 +1,6 @@
 ---
 layout: post
-title: windows environment variables
+title: Windows Environment Variables
 category: sas
 tags:
 - windows

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the positive side of keeping all your eggs in one basket
+title: The Positive Side of Keeping All Your Eggs in One Basket
 category: sas
 tags:
 - sas

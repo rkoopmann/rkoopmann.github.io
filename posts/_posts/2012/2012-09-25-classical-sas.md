@@ -1,6 +1,6 @@
 ---
 layout: post
-title: classical sas
+title: Classical SAS
 category: sas
 tags:
 - music

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my k'nex iphone stand
+title: My k'nex iPhone Stand
 category: post
 tags:
 - diy

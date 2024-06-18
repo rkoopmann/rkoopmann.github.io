@@ -1,6 +1,6 @@
 ---
 layout: post
-title: calculating average time (duration)
+title: Calculating Average Time (Duration)
 category: sas
 tags:
 - datetime values

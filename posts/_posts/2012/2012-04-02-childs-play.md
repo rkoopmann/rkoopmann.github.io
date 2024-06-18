@@ -1,6 +1,6 @@
 ---
 layout: post
-title: simulating child's play
+title: Simulating Child's Play
 category: sas
 tags:
 - array

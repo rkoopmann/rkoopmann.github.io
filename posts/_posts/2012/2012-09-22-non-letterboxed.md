@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-title: The non-letterboxed keyboard
+title: The Non-Letterboxed Keyboard
 tags:
 - iOS
 - rant

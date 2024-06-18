@@ -1,6 +1,6 @@
 ---
 layout: post
-title: free app idea
+title: Free App Idea
 category: post
 tags:
 - iOS

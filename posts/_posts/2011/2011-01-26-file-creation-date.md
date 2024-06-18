@@ -1,6 +1,6 @@
 ---
 layout: post
-title: how do i read a file's creation date?
+title: How Do I Read a File's Creation Date?
 category: sas
 tags:
 - file system

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: month of quarter variable
+title: Month of Quarter Variable
 category: sas
 tags:
 - date values

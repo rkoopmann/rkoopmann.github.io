@@ -1,6 +1,6 @@
 ---
 layout: post
-title: scraping the sas training pages
+title: Scraping the SAS Training Pages
 category: sas
 tags:
 - regex
@@ -11,11 +11,11 @@ i thought it might be fun to see if i couldn’t pull the sas training catalog a
 
 <!--more-->
 
-**Hello [SAS Tech Report][1] readers!** *be sure to check out the rest of [this blog][2] and [accompanying project][3]. you can [follow this blog via your rss reader][4] and [follow me on twitter][5]. now back to the post…*
+**Hello [SAS Tech Report](http://www.sas.com/news/newsletter/tech/2009_4.html) readers!** *be sure to check out the rest of [this blog](/) <s>and accompanying project</s>. you can [follow this blog via your rss reader](/feed.json) and <s>follow me on twitter</s>. now back to the post…*
 
 **UPDATE:** *it turns out that SAS has changed some things on their training site that affects the parsing of individual course schedules. they’ve apparently eliminated the directory for the print versions of the schedules. i’ll look into modifying the code when i find some free time. now back to the post…*
 
-sas puts this information online in two places: the [course listing][6] and individual course outline pages (for example, [SAS Report Writing 1: Using Procedures and ODS][7]).
+sas puts this information online in two places: the [course listing](http://support.sas.com/training/us/crs/) and individual course outline pages (for example, [SAS Report Writing 1: Using Procedures and ODS](http://support.sas.com/training/us/crs/pr/rpt1.html)).
 
 first step: get the catalog.
 
@@ -150,13 +150,4 @@ finally, cycle through each course that has a schedule available.
       ;
     quit;
 
-see? it was easy. oh, the file can be downloaded [here][8].
-
-[1]:http://www.sas.com/news/newsletter/tech/2009_4.html
-[2]:/
-[3]:http://github.com/rkoopmann/sas-quatch
-[4]:/sas/feed.xml
-[5]:http://twitter.com/rkoopmann
-[6]:http://support.sas.com/training/us/crs/
-[7]:http://support.sas.com/training/us/crs/pr/rpt1.html
-[8]:http://sas-quatch.googlecode.com/files/sas%20training.sas
+see? it was easy. oh, the file can be downloaded [here](/assets/sas/sas-training.sas).

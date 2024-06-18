@@ -41,15 +41,9 @@ Let's see how well Vesper sticks for me now that everything is in it.
 
 **Apps Used:**
 
-* [Vesper][0] (iOS) $8.
-* [Simplenote][1] (iOS) $0. _Notational Velocity or nvALT on OS X would probably also have the information needed, but you'd need to wrangle that data yourself._
-* iExplorer (OS X). _For pulling and pushing data to your iOS device. I used version 2.2.1.6. [v. 3.6.6.0][2] might work?_
-* [SQLPro for SQLite Pro][3] (OS X). At one point, this was $2; it's now $20. _If you're cozy with tromping around the terminal with SQLite, you don't really need an SQLite app. I'm cozy enough, but still prefer to use the app._
+* [Vesper](https://itunes.apple.com/us/app/vesper/id655895325) (iOS) $8.
+* [Simplenote](https://itunes.apple.com/us/app/simplenote/id289429962) (iOS) $0. _Notational Velocity or nvALT on OS X would probably also have the information needed, but you'd need to wrangle that data yourself._
+* iExplorer (OS X). _For pulling and pushing data to your iOS device. I used version 2.2.1.6. [v. 3.6.6.0](http://www.macroplant.com/iexplorer/) might work?_
+* [SQLPro for SQLite Pro](https://itunes.apple.com/us/app/sqlpro-for-sqlite-sql-database/id586001240) (OS X). At one point, this was $2; it's now $20. _If you're cozy with tromping around the terminal with SQLite, you don't really need an SQLite app. I'm cozy enough, but still prefer to use the app._
 
 **Fair Warning**: You should never, _ever_ run code you don't understand. Backup your data. This works for me, but my Simplenote notes are fairly...simple. your results may differ. if this breaks anything, it's probably operator error. please email marco.
-
-
-[0]: https://itunes.apple.com/us/app/vesper/id655895325?mt=8&at=10l4LH
-[1]: https://itunes.apple.com/us/app/simplenote/id289429962?mt=8&at=10l4LH
-[2]: http://www.macroplant.com/iexplorer/
-[3]: https://itunes.apple.com/us/app/sqlpro-for-sqlite-sql-database/id586001240?mt=12&at=10l4LH

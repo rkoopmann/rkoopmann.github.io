@@ -1,6 +1,6 @@
 ---
 layout: post
-title: an mmddyyyy hhmmss informat. kinda.
+title: An mmddyyyy hhmmss Informat. Kinda.
 category: sas
 tags:
 - date values

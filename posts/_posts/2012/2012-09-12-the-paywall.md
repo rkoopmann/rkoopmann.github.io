@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The paywall, the backdoor, and twitter
+title: The Paywall, the Backdoor, and Twitter
 subtitle: "how twitter facilitated a backdoor to Ben Brooks' paywall"
 category: post
 tags:

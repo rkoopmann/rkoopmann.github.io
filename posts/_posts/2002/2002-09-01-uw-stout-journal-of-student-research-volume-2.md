@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'UW-Stout Journal of Student Research Volume 2: Alcohol and Other Drug Perceptions Survey'
+title: UW-Stout Journal of Student Research Volume 2
+subtitle: Alcohol and Other Drug Perceptions Survey
 categories: post
 tags:
 - research

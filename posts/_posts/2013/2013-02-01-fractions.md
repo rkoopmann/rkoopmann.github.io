@@ -1,6 +1,6 @@
 ---
 layout: post
-title: writing fractions in html
+title: Writing Fractions in html
 category: sas
 tags:
 - html

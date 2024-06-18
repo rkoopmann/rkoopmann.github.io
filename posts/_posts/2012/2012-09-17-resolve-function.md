@@ -1,6 +1,6 @@
 ---
 layout: post
-title: resolve function
+title: resolve Function
 category: sas
 tags:
 - function

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dates in datetime fields
+title: Dates in Datetime Fields
 category: sas
 tags:
 - date values

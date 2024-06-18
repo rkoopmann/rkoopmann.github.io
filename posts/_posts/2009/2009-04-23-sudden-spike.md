@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a sudden spike
+title: A Sudden Spike
 category: post
 tags:
 - meta

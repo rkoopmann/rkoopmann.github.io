@@ -1,6 +1,6 @@
 ---
 layout: post
-title: random dates
+title: Random Dates
 category: sas
 tags:
 - date values

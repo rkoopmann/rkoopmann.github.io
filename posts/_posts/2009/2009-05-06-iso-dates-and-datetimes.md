@@ -1,8 +1,9 @@
 ---
 layout: post
-title: reading iso dates and datetimes
+title: Reading ISO Dates and Datetimes
 category: sas
 tags:
+- date values
 - datetime values
 - sas
 ---

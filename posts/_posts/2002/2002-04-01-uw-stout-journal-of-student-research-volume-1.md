@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'UW-Stout Journal of Student Research Volume 1: The Relationship between Perceived Organizational Justice and Organizational Citizenship Behaviors: A Review of the Literature'
+title: UW-Stout Journal of Student Research Volume 1
+subtitle: "The Relationship between Perceived Organizational Justice and Organizational Citizenship Behaviors: A Review of the Literature"
 categories: post
 tags:
 - research

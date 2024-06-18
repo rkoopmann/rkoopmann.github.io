@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reading overlapping text segments
+title: Reading Overlapping Text Segments
 category: sas
 tags:
 - sas

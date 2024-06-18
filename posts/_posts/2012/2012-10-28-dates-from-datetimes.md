@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dates from date times
+title: Dates From Datetimes
 category: sas
 tags:
 - date values

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blocks, not lines
+title: Blocks, Not Lines
 category: sas
 tags:
 - debug

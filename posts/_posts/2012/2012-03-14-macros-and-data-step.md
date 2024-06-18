@@ -1,6 +1,6 @@
 ---
 layout: post
-title: macros and the data step
+title: Macros and the DATA Step
 category: sas
 tags:
 - data step

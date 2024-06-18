@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the utility of generic macros
+title: The Utility of Generic Macros
 category: sas
 tags:
 - sas

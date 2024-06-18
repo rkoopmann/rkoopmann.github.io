@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reading non-standard datetime values
+title: Reading Non-Standard Datetime Values
 category: sas
 tags:
 - datetime values

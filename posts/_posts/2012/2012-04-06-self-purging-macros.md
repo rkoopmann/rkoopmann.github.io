@@ -1,6 +1,6 @@
 ---
 layout: post
-title: self-purging macros?
+title: Self-Purging Macros?
 category: sas
 tags:
 - sas

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: why i look forward to collection calls
+title: Why I Look Forward to Collection Calls
 category: post
 tags:
 - rant

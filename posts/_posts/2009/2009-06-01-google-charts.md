@@ -1,6 +1,6 @@
 ---
 layout: post
-title: encoding data points for use with google charts api calls
+title: Encoding Data Points for Use With Google Charts API Calls
 category: sas
 tags:
 - api
@@ -75,5 +75,7 @@ next, encode the data:
 
 
 fire up your browser and paste the URL that was copied to your clipboard, and you get this:
+
+![](/assets/img/2009-06-01-chart.png)
 
 ![gchart](http://chart.apis.google.com/chart?cht=lc&chs=250x100&chd=s:FGGFFGHGHIJHIJKIJLMJJLNKLNPMNPSNPRUPPRVPRUYSTWbU&chco=FF000099,0000FF66)

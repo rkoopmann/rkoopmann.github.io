@@ -1,5 +1,5 @@
 ---
-title: the vertical app listing
+title: The Vertical App Listing
 layout: post
 category: post
 tags:

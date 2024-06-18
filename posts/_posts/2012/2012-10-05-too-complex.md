@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Too complex to edit
+title: Too Complex to Edit
 category: post
 tags:
 - meta

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a small portion of a large number…
+title: A Small Portion of a Large Number…
 category: post
 summary: basic math on the large number that is the Romney's 2011 tax bill.
 tags:

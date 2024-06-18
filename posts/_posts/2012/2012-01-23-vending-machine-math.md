@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vending machine math
+title: Vending Machine Math
 category: sas
 tags:
 - array
