@@ -18,7 +18,7 @@ div.index-item {
 
 {% assign topVenues = site.data.events.list-venues | where_exp: "e", "e.show.size >= 2" %}
 
-{{ topVenues | size }} of the venues are repeats: {% for e in topVenues %}_[{{ e.venue }}](/event/venue/{{ e.venue | slugify }})_ ({{ e.show | size }}×){% unless forloop.last %}, {% endunless %}{% endfor %}
+Some of the venues are repeats: {% for e in topVenues %}_[{{ e.venue }}](/event/venue/{{ e.venue | slugify }})_ ({{ e.show.size }}×){% unless forloop.last %}, {% endunless %}{% endfor %}
 
 ## Full Listing
 

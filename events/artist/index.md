@@ -19,7 +19,7 @@ div.index-item {
 
 ## Repeats
 
-{{ topArtists | size }} artists are repeats: {% for e in topArtists %}_[{{ e.artist }}](/event/artist/{{ e.artist | slugify }})_ ({{ e.events | size }}×){% unless forloop.last %}, {% endunless %}{% endfor %}
+Some artists are repeats: {% for e in topArtists %}_[{{ e.artist }}](/event/artist/{{ e.artist | slugify }})_ ({{ e.events.size }}×){% unless forloop.last %}, {% endunless %}{% endfor %}
 
 
 ## Full Listing
