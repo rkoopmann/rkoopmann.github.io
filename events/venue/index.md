@@ -35,4 +35,7 @@ Here's the complete listing of venues which I had tickets to attend; Despite my 
   {% endfor %}
 {% endfor %}
 
-{% include setlist-data-footer.html %}
+<footer>
+	<hr class="slender">
+	<p style="color:grey"><em>The underlying data is sourced from <a href="https://www.setlist.fm/concerts/rkoopmann">my setlist page</a> and gathered and processed via <a href="/post/2020-04-07/">my setlist.fm.go</a> script. At times, this page may lag behind, but I try to keep it up to date.</em></p>
+</footer>

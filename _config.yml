@@ -32,7 +32,7 @@ collections:
 
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
