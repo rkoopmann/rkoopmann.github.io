@@ -70,7 +70,7 @@ END:VEVENT"' | sed "s/$/$CRLF/" >> "${output_file}"
   echo
 }
 
-function refreshEventShows(){
+function refreshEventShowPages(){
   echo "${FUNCNAME[0]}"
 
   xListing=$(jq -r '.[] | .date' _data/events/list-dates.json)
@@ -91,30 +91,30 @@ permalink: /event/$x/
   echo
 }
 
-function refreshEventArtists(){
+function refreshEventArtistPages(){
   echo "${FUNCNAME[0]}"
   xListing=$(jq -r '.[] | .artist' _data/events/list-artists.json)
 
   cd events/artist/
-  preclean index.md
+  preclean *.md index.md
 
   IFS=$'\n\t' && for x in ${xListing}; do
-    xSlug="$(echo ${x} | tr 'A-Z' 'a-z' | tr ' ' '-' | tr -d "'’" | tr -d '"“”')"
+    xSlug="$(echo ${x} | tr 'A-Z' 'a-z' | tr ' ' '-' | tr -d "'’" | tr -d '&?!."“”' | sed 's/--/-/g')"
     echo -e "---\nlayout: event_artist_page\nartist: ${x}\npermalink: /event/artist/${xSlug}/\n---\n\n" > ${xSlug}.md
   done
   cd $pwd
   echo
 }
 
-function refreshEventVenues(){
+function refreshEventVenuePages(){
   echo "${FUNCNAME[0]}"
   xListing=$(jq -r '.[] | .venue' _data/events/list-venues.json)
 
   cd events/venue
-  preclean index.md
+  preclean *.md index.md
 
   IFS=$'\n\t' && for x in ${xListing}; do
-    xSlug="$(echo ${x} | tr 'A-Z' 'a-z' | tr ' ' '-' | tr -d "'’" | tr -d '"“”')"
+    xSlug="$(echo ${x} | tr 'A-Z' 'a-z' | tr ' ' '-' | tr -d "'’" | tr -d '"“”.')"
     echo -n "---
 layout: event_venue_page
 venue: ${x}
@@ -129,15 +129,13 @@ permalink: /event/venue/${xSlug}/
 
 function refreshSitemapYaml(){
   echo "${FUNCNAME[0]}"
-  cd _data
-  echo "" > sitemap.yaml
+  echo "" > _data/sitemap.yaml
   for f in $(find . -type f -name "*.md"); do
-    echo "- file: $f" >> sitemap.yaml
+    echo "- file: $f" >> _data/sitemap.yaml
     sed -n '/^---$/,/^---$/p' "$f" \
     | sed '/^---$/d; s/^/  /g' \
-    >> sitemap.yaml
+    >> _data/sitemap.yaml
   done
-  cd $pwd
   echo
 }
 
@@ -146,7 +144,7 @@ function refreshTags(){
   tagListing=$(yq '.[] | .tags[] | [.]' _data/sitemap.yaml | sed 's/^- //g; s/ /-/g;' | sort -u)
 
   cd tags
-  preclean index.md
+  preclean *.md index.md
 
   IFS=$'\n\t' && for tag in ${tagListing}; do
     echo -n "---
@@ -176,9 +174,8 @@ function dockerPullRun(){
 }
 
 function preclean() {
-  echo "${FUNCNAME[0]}"
-  find . -maxdepth 1 -type f -not -name "${1:-index.md}" -exec rm -f {} \;
-  echo
+  echo "..${FUNCNAME[0]}"
+  find . -maxdepth 1 -type f -name "${1:-*.md}"-not -name "${2:-index.md}" -exec rm -f {} \;
 }
 
 function main() {
@@ -186,15 +183,16 @@ function main() {
 
   pwd=$(pwd)
   cleanFolder
+  refreshSitemapYaml
   processSetlistFiles
   refreshEventIcs
 
   ### update assets/list-dates.json for d3 viz
   jq '[reduce .Event[] as $item ({}; .[$item.Date] += [$item.Artist]) | to_entries | sort_by(.key) | .[] | {date: .key, artists: .value | unique}]' _data/events/list.json > assets/list-dates.json
 
-  refreshEventShows
-  refreshEventArtists
-  refreshEventVenues
+  refreshEventShowPages
+  refreshEventArtistPages
+  refreshEventVenuePages
   refreshTags
   dockerPullRun
   echo

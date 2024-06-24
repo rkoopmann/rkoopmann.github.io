@@ -1900,6 +1900,10 @@
   layout: event_artist_page
   artist: Collective Soul
   permalink: /event/artist/collective-soul/
+- file: ./events/artist/troy-trombone-shorty-andrews-orleans-avenue.md
+  layout: event_artist_page
+  artist: Troy “Trombone Shorty” Andrews & Orleans Avenue
+  permalink: /event/artist/troy-trombone-shorty-andrews-orleans-avenue/
 - file: ./events/artist/marcy-playground.md
   layout: event_artist_page
   artist: Marcy Playground
@@ -2072,6 +2076,10 @@
   layout: event_artist_page
   artist: Garbage
   permalink: /event/artist/garbage/
+- file: ./events/artist/trombone-shorty-orleans-avenue.md
+  layout: event_artist_page
+  artist: Trombone Shorty & Orleans Avenue
+  permalink: /event/artist/trombone-shorty-orleans-avenue/
 - file: ./events/artist/rollins-band.md
   layout: event_artist_page
   artist: Rollins Band
@@ -2481,6 +2489,10 @@
   layout: event_artist_page
   artist: Gavin Rossdale
   permalink: /event/artist/gavin-rossdale/
+- file: ./events/artist/ziggy-marley-the-melody-makers.md
+  layout: event_artist_page
+  artist: Ziggy Marley & The Melody Makers
+  permalink: /event/artist/ziggy-marley-the-melody-makers/
 - file: ./events/artist/a-perfect-circle.md
   layout: event_artist_page
   artist: A Perfect Circle
