@@ -1,7 +1,7 @@
 ---
 layout: default
 title: events
-permalink: /events/
+permalink: /event/
 navigation_weight: 40
 category: index
 ---
@@ -66,7 +66,7 @@ Here's the complete listing of events which I had tickets to attend; Despite my 
   {% assign eventDate = item.date | date: "%Y-%m-%d" %}
   {% assign eventArtists = site.data.events.list.Event | where_exp: "e", "e.Date == eventDate" | natural_sort: "Artist" %}
   {% assign eventArtistCount = eventArtists | size %}
-  <div class="index-item"><span class="post-meta"><tt><a class="post-link" href="/event/{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%b %d" }}</a></tt></span>&mdash;{% if eventArtistCount == 0 %}<s>{% endif %}<em>{{ item.show | escape }}</em>{% if eventArtistCount == 0 %}</s>{% endif %}{% if eventArtistCount > 0 %}&mdash;Lineup: {% for a in eventArtists %}{% if eventArtistCount > 1 and forloop.last %}& {% endif %}{{ a.Artist }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</div>
+  <div class="index-item"><span class="post-meta"><tt><a class="post-link" href="/event/{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%b %d" }}</a></tt></span> &mdash; {% if eventArtistCount == 0 %}<s>{% endif %}<em>{{ item.show | escape }}</em>{% if eventArtistCount == 0 %}</s>{% endif %}{% if eventArtistCount > 0 %} &mdash; Lineup: {% for a in eventArtists %}{% if eventArtistCount > 1 and forloop.last %}& {% endif %}{{ a.Artist }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</div>
   {% endfor %}
 {% endfor %}
 

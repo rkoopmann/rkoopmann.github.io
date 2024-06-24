@@ -5,7 +5,7 @@
   fullName: text player
   tagline: Silent Messages, Loud Impact
   briefDescription: A tool for visually communicating across short distances in environments that would typically require low whispers or yelling at the top of your lungs.
-  urlSlug: text-player
+  url: text-player
   released:
   available: true
 
@@ -16,7 +16,7 @@
   fullName: flation
   tagline: Plot real value & purchase power
   briefDescription: Provides an historical view of US monetary values over time.
-  urlSlug: flation
+  url: flation
   released: 2024-03-12
   available: true
 
@@ -27,7 +27,7 @@
   fullName: card piles
   tagline: 21 card trick
   briefDescription: A mobile version of the 21 card trick.
-  urlSlug: card-piles
+  url: card-piles
   released: 2022-11-05
   available: true
 
@@ -38,6 +38,6 @@
   fullName: do over — text permutations
   tagline: Like Mail Merge, but for text.
   briefDescription: Provides useful text permutations and is generally of interest to programmer-types.
-  urlSlug: do-over
+  url: do-over
   released: 2022-04-08
   available: true

@@ -7,7 +7,7 @@ app:
   name: flation
   tagline: Plot real value & purchase power
   slug: flation
-  urlSlug: flation
+  url: flation
 ---
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}

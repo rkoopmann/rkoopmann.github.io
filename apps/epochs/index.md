@@ -7,7 +7,7 @@ app:
   name: epochs
   tagline: temporal comparisons
   slug: epochs
-  urlSlug: epochs
+  url: epochs
 ---
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
@@ -27,8 +27,6 @@ In listening to various podcasts featuring Merlin, while all hosts and guests we
 > John F. Kennedy's 1961 inauguration was closer to Theodore Roosevelt's 1901 inauguration (59y 4m 6d) than it was to Joe Biden's 2021 inauguration (60y 0m 0d).
 
 I thought it would be fun to have an app help people to come up with similar quips.
-
----
 
 Introducing [{{ page.app.name }}][appstore], the app that lets you make temporal comparisons like never before.
 With epochs, you can easily compare a set of events to another event of your choice, providing valuable insights into the differences between them.
@@ -51,8 +49,6 @@ Key features of epochs include:
 
 Download [{{ page.app.name }}][appstore] today and start exploring your own personalized library of events to better understand the past and present.
 
----
-
 # Terms
 
 Feel free to use [{{ page.app.name }}][appstore] at your leisure for whatever purpose you have in mind.
@@ -61,8 +57,6 @@ Feel free to use [{{ page.app.name }}][appstore] at your leisure for whatever pu
 
 All [{{ page.app.name }}][appstore] purchases are final.
 I cannot issue refunds charged to your Apple ID, but you can ask [Apple](https://support.apple.com/en-us/118223) to do so.
-
----
 
 # Privacy
 
@@ -83,8 +77,6 @@ Since [{{ page.app.name }}][appstore] does not collect data, [{{ page.app.name }
 **Data Loss**
 
 [{{ page.app.name }}][appstore] does not have the ability to write to your calendars, so don't come crying to me about lost data.
-
----
 
 # Support
 

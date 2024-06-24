@@ -1,7 +1,9 @@
 ---
 layout: default
-title: tag index
+title: tags
 permalink: /tag/
+category: index
+navigation_weight: 90
 ---
 
 # Tag Index

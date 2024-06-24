@@ -7,7 +7,7 @@ app:
   name: card piles
   tagline: 21 card trick
   slug: card-piles
-  urlSlug: card-piles
+  url: card-piles
 ---
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}

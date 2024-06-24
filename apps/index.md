@@ -1,7 +1,7 @@
 ---
 layout: default
 title: apps
-permalink: /apps/
+permalink: /app/
 category: index
 navigation_weight: 20
 ---
@@ -21,6 +21,6 @@ From 2010 to 2020 or so, I wanted to get into iOS programming; that never really
   {% assign items_by_date = year.items | group_by: "date" %}
   {% for e in items_by_date %}
     {% assign anItem = e.items | first %}
-<div class="index-item"><span class="post-meta"><tt><a class="post-link" href="/{{ anItem.urlSlug }}/">{{ e.name | date: "%b %d" }}</a></tt></span>&mdash;<em>{{ anItem.shortName }}</em>&mdash;{{ anItem.briefDescription | normalize_whitespace | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+<div class="index-item"><span class="post-meta"><tt><a class="post-link" href="/{{ anItem.url }}/">{{ e.name | date: "%b %d" }}</a></tt></span> &mdash; <em>{{ anItem.shortName }}</em> &mdash; {{ anItem.briefDescription | normalize_whitespace | markdownify | remove: '<p>' | remove: '</p>' }}</div>
   {% endfor %}
 {% endfor %}

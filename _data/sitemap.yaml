@@ -153,6 +153,15 @@
   - iOS
   - SwiftUI
   categories: post
+- file: ./posts/_posts/2024/2024-06-04-text-player.md
+  layout: post
+  title: Text Player
+  categories: post
+  tags:
+  - app
+  - iOS
+  - iPad
+  - SwiftUI
 - file: ./posts/_posts/2024/2024-04-26-some-jekyll-tools.md
   layout: post
   title: Some Jekyll Tools
@@ -172,6 +181,12 @@
   - iPad
   - SwiftUI
   mathjax: true
+- file: ./posts/_posts/2024/2024-06-16-vision-pro.md
+  layout: post
+  title: Thoughts from an Apple Vision Pro demo
+  categories: post
+  tags:
+  - Apple Vision Pro
 - file: ./posts/_posts/2023/2023-01-02-new-to-me-music.md
   layout: post
   title: New (To Me) Music - 2022
@@ -823,7 +838,7 @@
   - rant
   - sas
   - quatch
-- file: ./posts/_posts/2007/2007-10-05-comp'd-at-the-palace.md
+- file: ./posts/_posts/2007/2007-10-05-compd-at-the-palace.md
   layout: post
   title: Comp'd at the Palace
   author: rkoopmann
@@ -1163,168 +1178,262 @@
   - research
 - file: ./posts/_drafts/datagraph.md
   date: 2021-12-16
+- file: ./posts/index.md
+  layout: default
+  title: posts
+  permalink: /post/
+  navigation_weight: 10
+  category: index
 - file: ./hover.md
   layout: redirect
   permalink: /hover/
   redirect: https://hover.com/C8xeUnQd
-- file: ./resume.md
+- file: ./tags/SwiftUI.md
+  layout: tag_page
+  tag: SwiftUI
+  permalink: /tag/SwiftUI/
+- file: ./tags/sampling.md
+  layout: tag_page
+  tag: sampling
+  permalink: /tag/sampling/
+- file: ./tags/debug.md
+  layout: tag_page
+  tag: debug
+  permalink: /tag/debug/
+- file: ./tags/gist.md
+  layout: tag_page
+  tag: gist
+  permalink: /tag/gist/
+- file: ./tags/golang.md
+  layout: tag_page
+  tag: golang
+  permalink: /tag/golang/
+- file: ./tags/tracker.md
+  layout: tag_page
+  tag: tracker
+  permalink: /tag/tracker/
+- file: ./tags/app.md
+  layout: tag_page
+  tag: app
+  permalink: /tag/app/
+- file: ./tags/data-visualization.md
+  layout: tag_page
+  tag: data visualization
+  permalink: /tag/data-visualization/
+- file: ./tags/dashboard.md
+  layout: tag_page
+  tag: dashboard
+  permalink: /tag/dashboard/
+- file: ./tags/api.md
+  layout: tag_page
+  tag: api
+  permalink: /tag/api/
+- file: ./tags/informats.md
+  layout: tag_page
+  tag: informats
+  permalink: /tag/informats/
+- file: ./tags/music.md
+  layout: tag_page
+  tag: music
+  permalink: /tag/music/
+- file: ./tags/twitter.md
+  layout: tag_page
+  tag: twitter
+  permalink: /tag/twitter/
+- file: ./tags/regex.md
+  layout: tag_page
+  tag: regex
+  permalink: /tag/regex/
+- file: ./tags/apple.md
+  layout: tag_page
+  tag: apple
+  permalink: /tag/apple/
+- file: ./tags/data-step.md
+  layout: tag_page
+  tag: data step
+  permalink: /tag/data-step/
+- file: ./tags/quatch.md
+  layout: tag_page
+  tag: quatch
+  permalink: /tag/quatch/
+- file: ./tags/conference.md
+  layout: tag_page
+  tag: conference
+  permalink: /tag/conference/
+- file: ./tags/json.md
+  layout: tag_page
+  tag: json
+  permalink: /tag/json/
+- file: ./tags/date.md
+  layout: tag_page
+  tag: date
+  permalink: /tag/date/
+- file: ./tags/meta.md
+  layout: tag_page
+  tag: meta
+  permalink: /tag/meta/
+- file: ./tags/sas-macro.md
+  layout: tag_page
+  tag: sas macro
+  permalink: /tag/sas-macro/
+- file: ./tags/file-system.md
+  layout: tag_page
+  tag: file system
+  permalink: /tag/file-system/
+- file: ./tags/iPad.md
+  layout: tag_page
+  tag: iPad
+  permalink: /tag/iPad/
+- file: ./tags/function.md
+  layout: tag_page
+  tag: function
+  permalink: /tag/function/
+- file: ./tags/sql.md
+  layout: tag_page
+  tag: sql
+  permalink: /tag/sql/
+- file: ./tags/windows.md
+  layout: tag_page
+  tag: windows
+  permalink: /tag/windows/
+- file: ./tags/statistics.md
+  layout: tag_page
+  tag: statistics
+  permalink: /tag/statistics/
+- file: ./tags/array.md
+  layout: tag_page
+  tag: array
+  permalink: /tag/array/
+- file: ./tags/analysis.md
+  layout: tag_page
+  tag: analysis
+  permalink: /tag/analysis/
+- file: ./tags/benchmark.md
+  layout: tag_page
+  tag: benchmark
+  permalink: /tag/benchmark/
+- file: ./tags/travel.md
+  layout: tag_page
+  tag: travel
+  permalink: /tag/travel/
+- file: ./tags/system-options.md
+  layout: tag_page
+  tag: system options
+  permalink: /tag/system-options/
+- file: ./tags/macOS.md
+  layout: tag_page
+  tag: macOS
+  permalink: /tag/macOS/
+- file: ./tags/research.md
+  layout: tag_page
+  tag: research
+  permalink: /tag/research/
+- file: ./tags/Apple-Vision-Pro.md
+  layout: tag_page
+  tag: Apple Vision Pro
+  permalink: /tag/Apple-Vision-Pro/
+- file: ./tags/tutorial.md
+  layout: tag_page
+  tag: tutorial
+  permalink: /tag/tutorial/
+- file: ./tags/index.md
   layout: default
-  title: resume
-  permalink: /resume/
+  title: tags
+  permalink: /tag/
   category: index
-  resume:
-  - title: Experience
-    institutions:
-    - name: Collective Measures
-      location: Minneapolis, MN
-      dates: [2021, Current]
-      link: https://collectivemeasures.com
-      titles:
-      - name: Principal Data Engineer
-        dates: [2021, Current]
-        description: Lead designer & developer of advanced analytic solutions.
-        achievements:
-        - name: Developed cloud-first media mix modeling solution that works across all clients.
-        - name: Developed revenue impact analysis to help clients understand how historical marketing events impact subsequent sales.
-        - name: Developed an end-to-end reporting pipeline with data-driven conditions; this allows for configurable reporting with output in a variety of formats (HTML, PDF, PPTX) with various delivery methods (email, sftp, file-based).
-        - name: Transitioned monthly manual billing process to automated process with hourly updates; this ensures consistency and reduces billing mistakes.
-        vendors: [NOAA, St. Louis Federal Reserve Economic Data, Bureau of Labor Statistics, Tableau API]
-        technologies: [Big Query, Machine Learning, Compute Engine, Cloud Storage, Artifact Registry, Tableau GUI, git, R/RStudio, DataGraph, Docker, REST API, Linux (Ubuntu) shell]
-    - name: Ovative Group
-      location: Minneapolis, MN
-      dates: [2015, 2021]
-      link: https://ovative.com
-      titles:
-      - name: Sr. Data Engineer
-        note: Project Manager-level
-        dates: [2018, 2021]
-        achievements:
-        - name: Architect standard data schemas and ingestion, processing, & reporting pipelines using lessons learned from several legacy projects. This streamlined the on-boarding process for new clients reducing time-to-reporting from 9 months to 4-5 weeks.
-        - name: Migrated processes and workflows from local Windows workstations to offsite and cloud-based Linux machines. This allowed new clients to be setup within a matter of days vs. weeks and without the need to adjust timings for existing clients.
-        - name: Transitioned Ovative's Data Engineering processes from manual SAS workflows running on Windows workstations, to scheduled SAS pipelines running on Linux-based SAS Server, to a hybrid local + cloud mixture of shell scripts on Linux VMs accessing BigQuery data, to entirely cloud-based Airflow-orchestrated pipelines integrated with the Google Cloud Platform.
-        - name: Converted proprietary, SAS-based workflows to open-source workflows. This removed dependency for SAS software and reduced expenses by roughly ($10k license, $20k vm & storage) and opened up roughly 2 fte per year.
-        - name: Developed pipeline to pull time logging and issue tracking data via APIs, load into BigQuery, and send alerts for late/missing data entry.
-        - name: Administrator for internal Windows Tableau Server and external Linux Tableau Server involving end-user support, troubleshooting connections with Big Query.
-        - name: Transitioned from custom-per-client processes to standardized, product-based processes.
-        vendors: [Google Analytics, Responsys, Sizmek, ClearSaleing by eBay, Insight by Adobe, Ensighten Pulse, Tableau API]
-        technologies: [Google Cloud Platform, Big Query, Cloud Storage, Compute Engine, Linux (Ubuntu & Alpine), MS Active Directory, MS SQL Server, Cerberus FTP Server, Perl, PHP, BASE SAS (Linux), SAS Enterprise Guide (Windows), SAS Macro Language, Tableau Desktop, Tableau Server (Windows & Linux), Python, R, Airflow (Apache Beam), Kubernetes, Docker, git, BATS (Bash Automated Testing System), CI/CD, gitops, JSON, jq, YAML, yq]
-      - name: Sr. Data Analyst
-        dates: [2015, 2018]
-        achievements:
-        - name: Automate existing manual reporting needs via SQL + SAS.
-        - name: Connect online to offline data sources.
-        - name: Automate data pulls from internal & external sources including Email, API, and FTP.
-        - name: Developed conference room dashboard to display daily calendar for all rooms along with random selection of current clients.
-        vendors: [CoreMetrics by IBM, Google Analytics, Responsys, Sizmek, ClearSaleing by eBay, Insight by Adobe, Tableau API]
-        technologies: [Google Cloud Platform, Big Query, Cloud Storage, Compute Engine, Linux (Ubuntu), MS Active Directory, MS SQL Server, Cerberus FTP Server, Perl, PHP, BASE SAS (Linux), SAS Enterprise Guide (Windows), SAS Macro Language, Tableau Desktop, Tableau Server administration (Windows & Linux), R, JSON, yq]
-    - name: MarketShare Partners
-      note: acquired by Neustar in 2015
-      location: Los Angeles, CA
-      dates: [2012, 2015]
-      link: https://web.archive.org/web/20070322164040/http://www.marketsharepartners.com/
-      titles:
-      - name: Sr. Data Specialist
-        dates: [2012, 2015]
-        description:
-        achievements:
-        - name: Normalize raw data in support of programatic marketing attribution modeling for national brands including Home Depot, Best Buy, Cigna, JCP, Mattel, Sherwin Williams, EDMC, and Hyatt.
-        - name: Developed robust charting macro in SAS to facilitate data visualizations, exploratory data analysis, and data validations.
-        - name: Served as lead developer, project manager, and ScrumMaster for creating a responsive self-serve data validation and visualization web application based on Excel prototype using Agile methodology.
-        - name: Developed an extensible SAS macro framework for performing various validation tasks on arbitrary SAS datasets while collecting standardized results from these tasks. Other analysts were able to add custom tasks using a provided macro template. Personally developed a set of 30 SAS macros and oversaw development of 20 more by other analysts. These macros were made available through custom web interface across organization facilitating data validation checks and generating data visualizations to non-SAS users.
-        - name: Enhance existing SAS macros for new requirements & maintain backwards compatibility.
-        - name: Developed SAS macro to pull Crimson Hexagon data directly using Web Services API.
-        vendors: [Client-provided data]
-        technologies: [Apache, BASE SAS (Windows & Linux), Bootstrap framework, D3.js (Data-Driven Documents), Excel, JavaScript, jQuery, JSON, Linux, MySQL, Perl, PHP, Python, SAS Enterprise Guide, SAS Macro Language, SAS Studio, SAS/ETS, SAS/GRAPH, SAS/IntrNet, SAS/STAT, SFTP, SOAP/REST Web Service API, SAS XML Mapper, SQL, SSH, Tableau, XML, Yii framework]
-    - name: Carleton College
-      link: https://www.carleton.edu
-      location: Northfield, MN
-      dates: [2007]
-      titles:
-      - name: Independent Consulting
-        dates: [2007]
-        note: Contract
-        achievements:
-        - name: Performed data cleaning to support data analysis for Campus Climate Survey.
-        - name: Provided cleaned data, scripts, and report to Director of Institutional Research and Assessment.
-        technologies: [SPSS, Word, Excel, PowerPoint]
-        vendors: [Client-provided data]
-    - name: Capella University
-      location: Minneapolis, MN
-      dates: [2003, 2012]
-      link: https://capella.edu
-      titles:
-      - name: Sr. Research Analyst
-        dates: [2005, 2012]
-        achievements:
-        - name: Responsible for designing, drawing segmented samples, administration, statistical analysis, and reporting on of most institutional surveys to address internal and external data needs.
-        - name: Developed system for extracting population samples, for tracking the responsiveness of extracted samples, internal reporting and planning needs.
-        - name: Designed, implemented, and analyzed an experiment to determine effects of lottery-based incentive on survey research.
-        - name: Provided SAS support for internal analyst community and helped to get new analysts set up with analytical tools as needed.
-        - name: Developed standard SAS macros to extract common data sets (Alumni lists, Student transcripts, Prospect lists, etc.) from source systems.
-        - name: Created and maintained a shared, university-wide standard SAS profile.
-        - name: Developed SAS macro to pull arbitrary survey submissions and survey content to create SAS dataset (used third-party Web Services API).
-        - name: Worked with BI group to incorporate survey data into data warehouse.
-        - name: Project manager for migrating hundreds of surveys to new third-party survey platform and trained survey owners throughout company to use the new platform. Served as support for the duration of this migration.
-        - name: Transitioned SPSS, SQL, SAS codebase through multiple system changes (Brio to iStrategy to PeopleSoft to EDW).
-        - name: Developed new dashboards in many environments (SAS, ProClarity, PerformancePoint, Tableau).
-        - name: Created and facilitated several SAS workshops for internal analyst community with topics including DATA Step, Data Warehouse + PROC SQL, Reporting Techniques, & SAS/Graph.
-        - name: Provide and track sample pulls for internal and external research needs.
-        - name: Transitioned all internal institutional surveys to upgraded survey platform.
-        - name: Fulfilled data needs for quarterly SEC filings and earnings reports, and annual accreditation and regulatory reporting needs.
-        - name: Performed reliability and validity analysis on institutional surveys.
-        - name: Performed and interpreted advanced statistical analysis (e.g., logistic regression, factor analysis, text analysis).
-        technologies: [Excel, JavaScript, JSON, OLAP, Oracle, MS SQL Server Management Studio, PeopleSoft, PerformancePoint, Perl, Perl, ProClarity, SAS Enterprise Guide, SAS Enterprise Miner, SAS Macro Language, SAS Studio, SAS Text Miner, SAS/BASE, SAS/CONNECT, SAS/ETS, SAS/GRAPH, SAS/SHARE, SAS/STAT, SOAP/REST Web Service API, SAS XML Mapper, SQL, Tableau, Vovici / WebSurveyor, XML]
-        vendors: [Vovici / WebSurveyor]
-  
-      - name: Research Anlayst
-        dates: [2004, 2005]
-        achievements:
-        - name: Responsible for all aspects of mid- and end-of-course evaluations.
-        - name: Increased responsibility for alumni and withdrawn student surveys (admin & report).
-        - name: Reduced end-of-course evaluation processing time from 1 hour to 5 minutes with SAS.
-        - name: Performed and interpreted intermediate statistical analysis (e.g., ANOVA, linear regression).
-        technologies: [Access, Brio, Excel, MS SQL Server Management Studio, PowerCampus, SAS, SPSS, SPSS Macro, SPSS Syntax, SQL, VBA]
-  
-      - name: Data Analyst
-        note: Contract
-        dates: [2003, 2004]
-        achievements:
-        - name: Responsible for administering course evaluations, analyzing  and reporting results.
-        - name: Reduced end-of-course evaluation processing time from 1 week to 1 hour using existing technologies (hundreds of manual Excel manipulations to Excel VBA).
-        - name: Provided analytical and technical support for Academic Policy and Research analysts for AQIP and state regulatory needs.
-        - name: Performed basic statistical analysis (e.g., t-test, chi-square, correlation).
-        technologies: [Access, Brio, Excel, PowerCampus, SPSS, SPSS Macro, SPSS Syntax, VBA]
-  - title: Education
-    institutions:
-    - name: University of Wisconsin-Stout
-      location: Menomonie, WI
-      dates: [2001, 2005]
-      link: https://uwstout.edu
-      titles:
-      - name: Master of Science
-        achievements:
-        - name: Applied Industrial / Organizational Psychology
-          link: https://www.uwstout.edu/programs/ms-applied-industrial-organizational-psychology
-        - name: _Using the ACT to Predict College Graduation_
-          link: https://minds.wisconsin.edu/handle/1793/41685
-    - name: Minnesota State University, Mankato
-      location: Mankato, MN
-      dates: [1997, 2001]
-      link: https://mnsu.edu
-      titles:
-      - name: Bachelor of Science
-        achievements:
-        - name: Major in Psychology
-          link: https://www.mnsu.edu/academics/academic-catalog/undergraduate/psychology/psychology-bs/
-        - name: Minor in Technical Communications
-          link: https://www.mnsu.edu/academics/academic-catalog/undergraduate/english/technical-communication-minor/
-  
-- file: ./apps-index.md
-  layout: default
-  title: apps
-  permalink: /apps/
-  category: index
-  navigation_weight: 20
+  navigation_weight: 90
+- file: ./tags/technical-debt.md
+  layout: tag_page
+  tag: technical debt
+  permalink: /tag/technical-debt/
+- file: ./tags/do-loop.md
+  layout: tag_page
+  tag: do loop
+  permalink: /tag/do-loop/
+- file: ./tags/simulation.md
+  layout: tag_page
+  tag: simulation
+  permalink: /tag/simulation/
+- file: ./tags/time-values.md
+  layout: tag_page
+  tag: time values
+  permalink: /tag/time-values/
+- file: ./tags/rant.md
+  layout: tag_page
+  tag: rant
+  permalink: /tag/rant/
+- file: ./tags/datetime-values.md
+  layout: tag_page
+  tag: datetime values
+  permalink: /tag/datetime-values/
+- file: ./tags/sas.md
+  layout: tag_page
+  tag: sas
+  permalink: /tag/sas/
+- file: ./tags/iOS.md
+  layout: tag_page
+  tag: iOS
+  permalink: /tag/iOS/
+- file: ./tags/stack-overflow.md
+  layout: tag_page
+  tag: stack overflow
+  permalink: /tag/stack-overflow/
+- file: ./tags/format.md
+  layout: tag_page
+  tag: format
+  permalink: /tag/format/
+- file: ./tags/xml.md
+  layout: tag_page
+  tag: xml
+  permalink: /tag/xml/
+- file: ./tags/review.md
+  layout: tag_page
+  tag: review
+  permalink: /tag/review/
+- file: ./tags/Excel.md
+  layout: tag_page
+  tag: Excel
+  permalink: /tag/Excel/
+- file: ./tags/snippet.md
+  layout: tag_page
+  tag: snippet
+  permalink: /tag/snippet/
+- file: ./tags/[].md
+  layout: tag_page
+  tag: []
+  permalink: /tag/[]/
+- file: ./tags/perl.md
+  layout: tag_page
+  tag: perl
+  permalink: /tag/perl/
+- file: ./tags/hack.md
+  layout: tag_page
+  tag: hack
+  permalink: /tag/hack/
+- file: ./tags/web-scraping.md
+  layout: tag_page
+  tag: web scraping
+  permalink: /tag/web-scraping/
+- file: ./tags/diy.md
+  layout: tag_page
+  tag: diy
+  permalink: /tag/diy/
+- file: ./tags/bash.md
+  layout: tag_page
+  tag: bash
+  permalink: /tag/bash/
+- file: ./tags/html.md
+  layout: tag_page
+  tag: html
+  permalink: /tag/html/
+- file: ./tags/tip.md
+  layout: tag_page
+  tag: tip
+  permalink: /tag/tip/
+- file: ./tags/date-values.md
+  layout: tag_page
+  tag: date values
+  permalink: /tag/date-values/
 - file: ./fastmail.md
   layout: redirect
   permalink: /fastmail/
@@ -1332,12 +1441,8 @@
 - file: ./index.md
   layout: default
   title: home
-  navigation_weight: 0
-- file: ./events-index.md
-  layout: default
-  title: events
-  permalink: /events/
-  navigation_weight: 40
+  permalink: /
+  navigation_weight: 00
   category: index
 - file: ./404.md
   layout: default
@@ -1354,6 +1459,10 @@
   layout: event_show_page
   date: 2018-10-24
   permalink: /event/2018-10-24/
+- file: ./events/show/2009-11-14.md
+  layout: event_show_page
+  date: 2009-11-14
+  permalink: /event/2009-11-14/
 - file: ./events/show/1997-05-01.md
   layout: event_show_page
   date: 1997-05-01
@@ -1382,6 +1491,10 @@
   layout: event_show_page
   date: 2001-03-31
   permalink: /event/2001-03-31/
+- file: ./events/show/2017-12-16.md
+  layout: event_show_page
+  date: 2017-12-16
+  permalink: /event/2017-12-16/
 - file: ./events/show/2020-08-05.md
   layout: event_show_page
   title: Roger Waters
@@ -1427,6 +1540,10 @@
   layout: event_show_page
   date: 2019-07-02
   permalink: /event/2019-07-02/
+- file: ./events/show/2018-12-15.md
+  layout: event_show_page
+  date: 2018-12-15
+  permalink: /event/2018-12-15/
 - file: ./events/show/1997-05-24.md
   layout: event_show_page
   date: 1997-05-24
@@ -1435,6 +1552,10 @@
   layout: event_show_page
   date: 2017-09-17
   permalink: /event/2017-09-17/
+- file: ./events/show/2018-07-12.md
+  layout: event_show_page
+  date: 2018-07-12
+  permalink: /event/2018-07-12/
 - file: ./events/show/1997-10-23.md
   layout: event_show_page
   date: 1997-10-23
@@ -1507,6 +1628,10 @@
   layout: event_show_page
   date: 1995-11-09
   permalink: /event/1995-11-09/
+- file: ./events/show/2014-12-13.md
+  layout: event_show_page
+  date: 2014-12-13
+  permalink: /event/2014-12-13/
 - file: ./events/show/2018-10-18.md
   layout: event_show_page
   date: 2018-10-18
@@ -1515,6 +1640,11 @@
   layout: event_show_page
   date: 2019-11-16
   permalink: /event/2019-11-16/
+- file: ./events/show/index.md
+  layout: default
+  title: shows
+  permalink: /event/show/
+  category: index
 - file: ./events/show/2017-11-11.md
   layout: event_show_page
   date: 2017-11-11
@@ -1611,6 +1741,10 @@
   layout: event_show_page
   date: 2018-09-13
   permalink: /event/2018-09-13/
+- file: ./events/show/2019-09-13.md
+  layout: event_show_page
+  date: 2019-09-13
+  permalink: /event/2019-09-13/
 - file: ./events/show/2015-08-22.md
   layout: event_show_page
   date: 2015-08-22
@@ -1643,6 +1777,12 @@
   layout: event_show_page
   date: 2017-07-26
   permalink: /event/2017-07-26/
+- file: ./events/index.md
+  layout: default
+  title: events
+  permalink: /event/
+  navigation_weight: 40
+  category: index
 - file: ./events/venue/state-theatre.md
   layout: event_venue_page
   venue: State Theatre
@@ -1655,10 +1795,6 @@
   layout: event_venue_page
   venue: Vetter Stone Amphitheater
   permalink: /event/venue/vetter-stone-amphitheater/
-- file: ./events/venue/hubert-h.-humphrey-metrodome.md
-  layout: event_venue_page
-  venue: Hubert H. Humphrey Metrodome
-  permalink: /event/venue/hubert-h.-humphrey-metrodome/
 - file: ./events/venue/rivers-edge-park.md
   layout: event_venue_page
   venue: River's Edge Park
@@ -1711,6 +1847,11 @@
   layout: event_venue_page
   venue: Minneapolis Armory
   permalink: /event/venue/minneapolis-armory/
+- file: ./events/venue/index.md
+  layout: default
+  title: venues
+  permalink: /event/venue/
+  category: index
 - file: ./events/venue/mystic-showroom-at-mystic-lake-casino.md
   layout: event_venue_page
   venue: Mystic Showroom at Mystic Lake Casino
@@ -1735,6 +1876,10 @@
   layout: event_venue_page
   venue: Palace Theatre
   permalink: /event/venue/palace-theatre/
+- file: ./events/venue/hubert-h-humphrey-metrodome.md
+  layout: event_venue_page
+  venue: Hubert H. Humphrey Metrodome
+  permalink: /event/venue/hubert-h-humphrey-metrodome/
 - file: ./events/venue/float-rite-park-amphitheatre.md
   layout: event_venue_page
   venue: Float-Rite Park Amphitheatre
@@ -1779,6 +1924,10 @@
   layout: event_artist_page
   artist: Treble Charger
   permalink: /event/artist/treble-charger/
+- file: ./events/artist/ziggy-marley--the-melody-makers.md
+  layout: event_artist_page
+  artist: Ziggy Marley & The Melody Makers
+  permalink: /event/artist/ziggy-marley--the-melody-makers/
 - file: ./events/artist/dälek.md
   layout: event_artist_page
   artist: Dälek
@@ -1875,6 +2024,10 @@
   layout: event_artist_page
   artist: The Vandals
   permalink: /event/artist/the-vandals/
+- file: ./events/artist/troy-trombone-shorty-andrews--orleans-avenue.md
+  layout: event_artist_page
+  artist: Troy “Trombone Shorty” Andrews & Orleans Avenue
+  permalink: /event/artist/troy-trombone-shorty-andrews--orleans-avenue/
 - file: ./events/artist/roger-waters.md
   layout: event_artist_page
   artist: Roger Waters
@@ -1883,6 +2036,10 @@
   layout: event_artist_page
   artist: Tool
   permalink: /event/artist/tool/
+- file: ./events/artist/trombone-shorty--orleans-avenue.md
+  layout: event_artist_page
+  artist: Trombone Shorty & Orleans Avenue
+  permalink: /event/artist/trombone-shorty--orleans-avenue/
 - file: ./events/artist/lisa-loeb.md
   layout: event_artist_page
   artist: Lisa Loeb
@@ -2059,6 +2216,10 @@
   layout: event_artist_page
   artist: Preservation Hall Jazz Band
   permalink: /event/artist/preservation-hall-jazz-band/
+- file: ./events/artist/vampires-everywhere.md
+  layout: event_artist_page
+  artist: Vampires Everywhere!
+  permalink: /event/artist/vampires-everywhere/
 - file: ./events/artist/unwritten-law.md
   layout: event_artist_page
   artist: Unwritten Law
@@ -2079,6 +2240,15 @@
   layout: event_artist_page
   artist: Ozzy Osbourne
   permalink: /event/artist/ozzy-osbourne/
+- file: ./events/artist/trombone-shorty-&-orleans-avenue.md
+  layout: event_artist_page
+  artist: Trombone Shorty & Orleans Avenue
+  permalink: /event/artist/trombone-shorty-&-orleans-avenue/
+- file: ./events/artist/index.md
+  layout: default
+  title: artists
+  permalink: /event/artist/
+  category: index
 - file: ./events/artist/the-jim-rose-circus-sideshow.md
   layout: event_artist_page
   artist: The Jim Rose Circus Sideshow
@@ -2343,10 +2513,6 @@
   layout: event_artist_page
   artist: Republica
   permalink: /event/artist/republica/
-- file: ./tag-index.md
-  layout: default
-  title: tag index
-  permalink: /tag/
 - file: ./about.md
   layout: default
   title: about
@@ -2361,7 +2527,7 @@
     name: flation
     tagline: Plot real value & purchase power
     slug: flation
-    urlSlug: flation
+    url: flation
 - file: ./apps/flation/index.md
   layout: app
   title: flation
@@ -2371,7 +2537,7 @@
     name: flation
     tagline: Plot real value & purchase power
     slug: flation
-    urlSlug: flation
+    url: flation
 - file: ./apps/text-player/changelog.md
   layout: app
   title: text player Release Notes
@@ -2381,7 +2547,7 @@
     name: text player
     tagline: Silent Messages, Loud Impact
     slug: text-player
-    urlSlug: text-player
+    url: text-player
 - file: ./apps/text-player/index.md
   layout: app
   title: text player
@@ -2391,7 +2557,7 @@
     name: text player
     tagline: Silent Messages, Loud Impact
     slug: text-player
-    urlSlug: text-player
+    url: text-player
 - file: ./apps/card-piles/changelog.md
   layout: app
   title: card piles Release Notes
@@ -2401,7 +2567,7 @@
     name: card piles
     tagline: 21 card trick
     slug: card-piles
-    urlSlug: card-piles
+    url: card-piles
 - file: ./apps/card-piles/index.md
   layout: app
   title: card piles
@@ -2411,7 +2577,13 @@
     name: card piles
     tagline: 21 card trick
     slug: card-piles
-    urlSlug: card-piles
+    url: card-piles
+- file: ./apps/index.md
+  layout: default
+  title: apps
+  permalink: /app/
+  category: index
+  navigation_weight: 20
 - file: ./apps/epochs/changelog.md
   layout: app
   title: epochs Release Notes
@@ -2421,7 +2593,7 @@
     name: epochs
     tagline: temporal comparisons
     slug: epochs
-    urlSlug: epochs
+    url: epochs
 - file: ./apps/epochs/index.md
   layout: app
   title: epochs
@@ -2431,7 +2603,7 @@
     name: epochs
     tagline: temporal comparisons
     slug: epochs
-    urlSlug: epochs
+    url: epochs
 - file: ./apps/do-over/examples.md
   layout: app
   title: do over — text permutations
@@ -2441,7 +2613,7 @@
     name: do over
     tagline: Like Mail Merge, but for text.
     slug: do-over-text-permutations
-    urlSlug: do-over
+    url: do-over
   
   example:
     -
@@ -2526,7 +2698,7 @@
     name: do over
     tagline: Like Mail Merge, but for text.
     slug: do-over-text-permutations
-    urlSlug: do-over
+    url: do-over
 - file: ./apps/do-over/index.md
   layout: app
   title: do over — text permutations
@@ -2536,7 +2708,7 @@
     name: do over
     tagline: Like Mail Merge, but for text.
     slug: do-over-text-permutations
-    urlSlug: do-over
+    url: do-over
 - file: ./apps/dice-card-race/changelog.md
   layout: app
   title: dice card race Release Notes
@@ -2546,20 +2718,7 @@
     name: dice card race
     tagline: horse racing game without the hassle
     slug: dice-card-race
-    urlSlug: dice-card-race
-- file: ./apps/dice-card-race/privacy.md
-  layout: app
-  title: card dice race privacy
-  permalink: /card-dice-race/privacy
-  category: post
-  tags:
-    - swift
-    - apps
-  date: 2024-03-01 12:00:00 -0500
-  app:
-    id: 6476467192
-    tagline: horse racing game without the hassle
-    slug: card-dice-race
+    url: dice-card-race
 - file: ./apps/dice-card-race/index.md
   layout: app
   title: dice card race
@@ -2569,270 +2728,4 @@
     name: dice card race
     tagline: horse racing game without the hassle
     slug: dice-card-race
-    urlSlug: dice-card-race
-- file: ./apps/dice-card-race/terms.md
-  layout: app
-  title: card dice race terms of use
-  permalink: /card-dice-race/terms
-  category: post
-  tags:
-    - swift
-    - apps
-  date: 2024-03-01 12:00:00 -0500
-  app:
-    id: 6476467192
-    tagline: horse racing game without the hassle
-    slug: card-dice-race
-- file: ./apps/dice-card-race/about.md
-  layout: app
-  title: about card dice race
-  permalink: /card-dice-race/about
-  category: post
-  tags:
-    - swift
-    - apps
-  date: 2024-03-01 12:00:00 -0500
-  app:
-    id: 6476467192
-    tagline: horse racing game without the hassle
-    slug: card-dice-race
-- file: ./tag/swift.md
-  layout: tag_page
-  tag: swift
-  permalink: /tag/swift/
-- file: ./tag/SwiftUI.md
-  layout: tag_page
-  tag: SwiftUI
-  permalink: /tag/SwiftUI/
-- file: ./tag/sampling.md
-  layout: tag_page
-  tag: sampling
-  permalink: /tag/sampling/
-- file: ./tag/debug.md
-  layout: tag_page
-  tag: debug
-  permalink: /tag/debug/
-- file: ./tag/gist.md
-  layout: tag_page
-  tag: gist
-  permalink: /tag/gist/
-- file: ./tag/golang.md
-  layout: tag_page
-  tag: golang
-  permalink: /tag/golang/
-- file: ./tag/tracker.md
-  layout: tag_page
-  tag: tracker
-  permalink: /tag/tracker/
-- file: ./tag/app.md
-  layout: tag_page
-  tag: app
-  permalink: /tag/app/
-- file: ./tag/data-visualization.md
-  layout: tag_page
-  tag: data visualization
-  permalink: /tag/data-visualization/
-- file: ./tag/dashboard.md
-  layout: tag_page
-  tag: dashboard
-  permalink: /tag/dashboard/
-- file: ./tag/api.md
-  layout: tag_page
-  tag: api
-  permalink: /tag/api/
-- file: ./tag/informats.md
-  layout: tag_page
-  tag: informats
-  permalink: /tag/informats/
-- file: ./tag/music.md
-  layout: tag_page
-  tag: music
-  permalink: /tag/music/
-- file: ./tag/twitter.md
-  layout: tag_page
-  tag: twitter
-  permalink: /tag/twitter/
-- file: ./tag/regex.md
-  layout: tag_page
-  tag: regex
-  permalink: /tag/regex/
-- file: ./tag/apple.md
-  layout: tag_page
-  tag: apple
-  permalink: /tag/apple/
-- file: ./tag/data-step.md
-  layout: tag_page
-  tag: data step
-  permalink: /tag/data-step/
-- file: ./tag/quatch.md
-  layout: tag_page
-  tag: quatch
-  permalink: /tag/quatch/
-- file: ./tag/conference.md
-  layout: tag_page
-  tag: conference
-  permalink: /tag/conference/
-- file: ./tag/json.md
-  layout: tag_page
-  tag: json
-  permalink: /tag/json/
-- file: ./tag/date.md
-  layout: tag_page
-  tag: date
-  permalink: /tag/date/
-- file: ./tag/meta.md
-  layout: tag_page
-  tag: meta
-  permalink: /tag/meta/
-- file: ./tag/sas-macro.md
-  layout: tag_page
-  tag: sas macro
-  permalink: /tag/sas-macro/
-- file: ./tag/file-system.md
-  layout: tag_page
-  tag: file system
-  permalink: /tag/file-system/
-- file: ./tag/iPad.md
-  layout: tag_page
-  tag: iPad
-  permalink: /tag/iPad/
-- file: ./tag/function.md
-  layout: tag_page
-  tag: function
-  permalink: /tag/function/
-- file: ./tag/sql.md
-  layout: tag_page
-  tag: sql
-  permalink: /tag/sql/
-- file: ./tag/windows.md
-  layout: tag_page
-  tag: windows
-  permalink: /tag/windows/
-- file: ./tag/statistics.md
-  layout: tag_page
-  tag: statistics
-  permalink: /tag/statistics/
-- file: ./tag/array.md
-  layout: tag_page
-  tag: array
-  permalink: /tag/array/
-- file: ./tag/analysis.md
-  layout: tag_page
-  tag: analysis
-  permalink: /tag/analysis/
-- file: ./tag/benchmark.md
-  layout: tag_page
-  tag: benchmark
-  permalink: /tag/benchmark/
-- file: ./tag/travel.md
-  layout: tag_page
-  tag: travel
-  permalink: /tag/travel/
-- file: ./tag/system-options.md
-  layout: tag_page
-  tag: system options
-  permalink: /tag/system-options/
-- file: ./tag/macOS.md
-  layout: tag_page
-  tag: macOS
-  permalink: /tag/macOS/
-- file: ./tag/research.md
-  layout: tag_page
-  tag: research
-  permalink: /tag/research/
-- file: ./tag/tutorial.md
-  layout: tag_page
-  tag: tutorial
-  permalink: /tag/tutorial/
-- file: ./tag/technical-debt.md
-  layout: tag_page
-  tag: technical debt
-  permalink: /tag/technical-debt/
-- file: ./tag/do-loop.md
-  layout: tag_page
-  tag: do loop
-  permalink: /tag/do-loop/
-- file: ./tag/simulation.md
-  layout: tag_page
-  tag: simulation
-  permalink: /tag/simulation/
-- file: ./tag/time-values.md
-  layout: tag_page
-  tag: time values
-  permalink: /tag/time-values/
-- file: ./tag/rant.md
-  layout: tag_page
-  tag: rant
-  permalink: /tag/rant/
-- file: ./tag/datetime-values.md
-  layout: tag_page
-  tag: datetime values
-  permalink: /tag/datetime-values/
-- file: ./tag/sas.md
-  layout: tag_page
-  tag: sas
-  permalink: /tag/sas/
-- file: ./tag/iOS.md
-  layout: tag_page
-  tag: iOS
-  permalink: /tag/iOS/
-- file: ./tag/stack-overflow.md
-  layout: tag_page
-  tag: stack overflow
-  permalink: /tag/stack-overflow/
-- file: ./tag/format.md
-  layout: tag_page
-  tag: format
-  permalink: /tag/format/
-- file: ./tag/xml.md
-  layout: tag_page
-  tag: xml
-  permalink: /tag/xml/
-- file: ./tag/review.md
-  layout: tag_page
-  tag: review
-  permalink: /tag/review/
-- file: ./tag/apps.md
-  layout: tag_page
-  tag: apps
-  permalink: /tag/apps/
-- file: ./tag/Excel.md
-  layout: tag_page
-  tag: Excel
-  permalink: /tag/Excel/
-- file: ./tag/snippet.md
-  layout: tag_page
-  tag: snippet
-  permalink: /tag/snippet/
-- file: ./tag/perl.md
-  layout: tag_page
-  tag: perl
-  permalink: /tag/perl/
-- file: ./tag/hack.md
-  layout: tag_page
-  tag: hack
-  permalink: /tag/hack/
-- file: ./tag/web-scraping.md
-  layout: tag_page
-  tag: web scraping
-  permalink: /tag/web-scraping/
-- file: ./tag/diy.md
-  layout: tag_page
-  tag: diy
-  permalink: /tag/diy/
-- file: ./tag/bash.md
-  layout: tag_page
-  tag: bash
-  permalink: /tag/bash/
-- file: ./tag/html.md
-  layout: tag_page
-  tag: html
-  permalink: /tag/html/
-- file: ./tag/tip.md
-  layout: tag_page
-  tag: tip
-  permalink: /tag/tip/
-- file: ./tag/date-values.md
-  layout: tag_page
-  tag: date values
-  permalink: /tag/date-values/
+    url: dice-card-race

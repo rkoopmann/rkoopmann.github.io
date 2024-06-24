@@ -7,7 +7,7 @@ app:
   name: do over
   tagline: Like Mail Merge, but for text.
   slug: do-over-text-permutations
-  urlSlug: do-over
+  url: do-over
 
 example:
   -

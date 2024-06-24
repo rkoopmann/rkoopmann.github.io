@@ -7,7 +7,7 @@ app:
   name: text player
   tagline: Silent Messages, Loud Impact
   slug: text-player
-  urlSlug: text-player
+  url: text-player
 ---
 
 [appstore]: https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}
