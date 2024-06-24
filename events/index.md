@@ -16,7 +16,7 @@ category: index
 {% assign firstShow  = site.data.events.list.Event | last %}
 
 {% assign topArtists = site.data.events.list-artists | where_exp: "e", "e.events.size >= 2" %}
-{% assign topVenues = site.data.events.list-venues   | where_exp: "e", "e.show.size   >= 2" %}
+{% assign topVenues = site.data.events.list-venues | where_exp: "e", "e.show.size >= 2" %}
 
 <style>
 div.index-item {
