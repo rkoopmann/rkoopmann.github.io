@@ -37,7 +37,7 @@ The 90's remain a bit of a blur.
 
 _These stats do not include upcoming, postponed, or otherwise cancelled events._
 
-Between {{ firstShow | map: "Date" }} and {{ lastShow | map: "Date" }}, I've attended {{ eventList | size }} performances, {{ artistList | size }} [artists](/event/artist/) ({{ topArtists | size }} repeats), {{ dateList | size }} [shows](/event/show/), {{ venueList | size }} [venues](/event/venue/) ({{ topVenues | size }} repeats), {{ cityList | size }} cities, & {{ stateList | size }} states.
+Between {{ firstShow | map: "Date" }} and {{ lastShow | map: "Date" }}, I've attended {{ eventList | size }} performances, {{ artistList | size }} [artists](/event/artist/), {{ dateList | size }} [shows](/event/show/), {{ venueList | size }} [venues](/event/venue/), {{ cityList | size }} cities, & {{ stateList | size }} states.
 
 Here's a timeline showing cumulative [performances](/event/show/) I've attended. The vertical lines mark festivals which are generally responsible to large bumps. Festivals are nice (depending on weather), but I've sworn off going to them after [Vans Warped Tour coincided with Ozzfest 1998](/event/1998-07-18), a wonderful show, but just too many bands across too many stages without a good schedule.
 
