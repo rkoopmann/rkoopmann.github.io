@@ -316,7 +316,8 @@
   {
     "date": "2013-08-09",
     "artists": [
-      "Candlebox"
+      "Candlebox",
+      "Open Air Stereo"
     ]
   },
   {
@@ -567,6 +568,25 @@
     "date": "2024-05-14",
     "artists": [
       "Violent Femmes"
+    ]
+  },
+  {
+    "date": "2024-06-30",
+    "artists": [
+      "Zane Lamprey"
+    ]
+  },
+  {
+    "date": "2024-07-28",
+    "artists": [
+      "Foo Fighters",
+      "Pretenders"
+    ]
+  },
+  {
+    "date": "2024-07-31",
+    "artists": [
+      "Dukes of Dixieland"
     ]
   }
 ]

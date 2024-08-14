@@ -1,0 +1,37 @@
+{
+	"id": "4b559366",
+	"versionId": "g2ba1401a",
+	"eventDate": "31-07-2024",
+	"lastUpdated": "2024-08-01T02:07:28.701+0000",
+	"artist": {
+		"mbid": "593bef40-b1cd-4b90-8900-98c1e5cd1ae7",
+		"name": "Dukes of Dixieland",
+		"sortName": "Dukes of Dixieland",
+		"disambiguation": "1974 reboot",
+		"url": "https://www.setlist.fm/setlists/dukes-of-dixieland-4bc8efde.html"
+	},
+	"venue": {
+		"id": "4bd5fb26",
+		"name": "Steamboat Natchez",
+		"city": {
+			"id": "4335045",
+			"name": "New Orleans",
+			"state": "Louisiana",
+			"stateCode": "LA",
+			"coords": {
+				"lat": 29.955,
+				"long": -90.075
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/steamboat-natchez-new-orleans-la-usa-4bd5fb26.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/dukes-of-dixieland/2024/steamboat-natchez-new-orleans-la-4b559366.html"
+}

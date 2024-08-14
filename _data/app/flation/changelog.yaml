@@ -1,4 +1,10 @@
 -
+  version: 2024.7.16
+  date: 2024-07-16
+  changes:
+    - ADDED two new options for chart padding -- All data after start & All data before end
+    - Extended CPI data
+-
   version: 2024.6.17
   date: 2024-06-17
   changes:

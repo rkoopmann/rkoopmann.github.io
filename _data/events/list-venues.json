@@ -388,6 +388,26 @@
             },
             "tour": null,
             "url": "https://www.setlist.fm/setlist/candlebox/2013/busters-sports-bar-and-grill-mankato-mn-63c4562b.html"
+          },
+          {
+            "date": "2013-08-09",
+            "venue": {
+              "name": "Buster's Sports Bar & Grill",
+              "city": "Mankato",
+              "state": "Minnesota",
+              "geo": [
+                44.163578,
+                -93.9994
+              ],
+              "url": "https://www.setlist.fm/venue/busters-sports-bar-and-grill-mankato-mn-usa-63d52adf.html",
+              "setlist": []
+            },
+            "artist": {
+              "name": "Open Air Stereo",
+              "url": "https://www.setlist.fm/setlists/open-air-stereo-23da28df.html"
+            },
+            "tour": null,
+            "url": "https://www.setlist.fm/setlist/open-air-stereo/2013/busters-sports-bar-and-grill-mankato-mn-3b543078.html"
           }
         ]
       }
@@ -1661,7 +1681,9 @@
                 -92.67354
               ],
               "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
-              "setlist": []
+              "setlist": [
+                "Good"
+              ]
             },
             "artist": {
               "name": "Better Than Ezra",
@@ -1734,7 +1756,9 @@
                 -92.67354
               ],
               "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
-              "setlist": []
+              "setlist": [
+                "Push"
+              ]
             },
             "artist": {
               "name": "Matchbox Twenty",
@@ -2655,6 +2679,36 @@
     ]
   },
   {
+    "venue": "Mankato Brewery",
+    "show": [
+      {
+        "date": "2024-06-30",
+        "lineup": [
+          {
+            "date": "2024-06-30",
+            "venue": {
+              "name": "Mankato Brewery",
+              "city": "North Mankato",
+              "state": "Minnesota",
+              "geo": [
+                44.1733,
+                -94.03385
+              ],
+              "url": "https://www.setlist.fm/venue/mankato-brewery-north-mankato-mn-usa-63d39e7b.html",
+              "setlist": []
+            },
+            "artist": {
+              "name": "Zane Lamprey",
+              "url": "https://www.setlist.fm/setlists/zane-lamprey-33fcc8c9.html"
+            },
+            "tour": null,
+            "url": "https://www.setlist.fm/setlist/zane-lamprey/2024/mankato-brewery-north-mankato-mn-6b576af2.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "venue": "Mill City Nights",
     "show": [
       {
@@ -3080,7 +3134,7 @@
                 "Love Is a Good Thing",
                 "Can't Cry Anymore",
                 "",
-                "Run, Baby Run",
+                "Run, Baby, Run",
                 "Leaving Las Vegas",
                 "Keep On Growing",
                 "Strong Enough",
@@ -3762,6 +3816,36 @@
             },
             "tour": "1994 Fall & Winter Tour",
             "url": "https://www.setlist.fm/setlist/the-flaming-lips/1994/state-theatre-minneapolis-mn-5bd5bbcc.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "venue": "Steamboat Natchez",
+    "show": [
+      {
+        "date": "2024-07-31",
+        "lineup": [
+          {
+            "date": "2024-07-31",
+            "venue": {
+              "name": "Steamboat Natchez",
+              "city": "New Orleans",
+              "state": "Louisiana",
+              "geo": [
+                29.955,
+                -90.075
+              ],
+              "url": "https://www.setlist.fm/venue/steamboat-natchez-new-orleans-la-usa-4bd5fb26.html",
+              "setlist": []
+            },
+            "artist": {
+              "name": "Dukes of Dixieland",
+              "url": "https://www.setlist.fm/setlists/dukes-of-dixieland-4bc8efde.html"
+            },
+            "tour": null,
+            "url": "https://www.setlist.fm/setlist/dukes-of-dixieland/2024/steamboat-natchez-new-orleans-la-4b559366.html"
           }
         ]
       }
@@ -4763,6 +4847,97 @@
             },
             "tour": "I Missed You",
             "url": "https://www.setlist.fm/setlist/adam-sandler/2023/target-center-minneapolis-mn-73a1e2ad.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "venue": "Target Field",
+    "show": [
+      {
+        "date": "2024-07-28",
+        "lineup": [
+          {
+            "date": "2024-07-28",
+            "venue": {
+              "name": "Target Field",
+              "city": "Minneapolis",
+              "state": "Minnesota",
+              "geo": [
+                44.979965,
+                -93.26384
+              ],
+              "url": "https://www.setlist.fm/venue/target-field-minneapolis-mn-usa-33d710bd.html",
+              "setlist": [
+                "All My Life",
+                "No Son of Mine",
+                "Rescued",
+                "The Pretender",
+                "Walk",
+                "Times Like These",
+                "Generator",
+                "La Dee Da",
+                "Breakout",
+                "Eruption / Thunderstruck / Sabotage / Keyboard Solo / Blitzkrieg Bop / March of the Pigs",
+                "My Hero",
+                "The Sky Is a Neighborhood",
+                "Learn to Fly",
+                "Arlandria",
+                "These Days",
+                "Stairway to Heaven",
+                "Skin and Bones",
+                "Under You",
+                "Nothing at All",
+                "This Is a Call",
+                "Show Me How",
+                "Monkey Wrench",
+                "Aurora",
+                "Best of You",
+                "The Teacher",
+                "Everlong"
+              ]
+            },
+            "artist": {
+              "name": "Foo Fighters",
+              "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+            },
+            "tour": "Everything or Nothing at All",
+            "url": "https://www.setlist.fm/setlist/foo-fighters/2024/target-field-minneapolis-mn-4bab9f16.html"
+          },
+          {
+            "date": "2024-07-28",
+            "venue": {
+              "name": "Target Field",
+              "city": "Minneapolis",
+              "state": "Minnesota",
+              "geo": [
+                44.979965,
+                -93.26384
+              ],
+              "url": "https://www.setlist.fm/venue/target-field-minneapolis-mn-usa-33d710bd.html",
+              "setlist": [
+                "Let the Sun Come In",
+                "Hate for Sale",
+                "My City Was Gone",
+                "Turf Accountant Daddy",
+                "Kid",
+                "Junkie Walk",
+                "Stop Your Sobbing",
+                "Back on the Chain Gang",
+                "Don't Get Me Wrong",
+                "Hymn to Her",
+                "Mystery Achievement",
+                "I'll Stand by You",
+                "Middle of the Road"
+              ]
+            },
+            "artist": {
+              "name": "Pretenders",
+              "url": "https://www.setlist.fm/setlists/pretenders-33d6b815.html"
+            },
+            "tour": "US Tour 2024",
+            "url": "https://www.setlist.fm/setlist/pretenders/2024/target-field-minneapolis-mn-3ba8f434.html"
           }
         ]
       }

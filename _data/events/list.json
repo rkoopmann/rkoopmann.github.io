@@ -1,6 +1,58 @@
 {
 	"Event": [
 		{
+			"Id": "4b559366",
+			"Date": "2024-07-31",
+			"Venue": "Steamboat Natchez",
+			"City": "New Orleans",
+			"State": "Louisiana",
+			"Lat": 29.955,
+			"Long": -90.075,
+			"Artist": "Dukes of Dixieland",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/dukes-of-dixieland/2024/steamboat-natchez-new-orleans-la-4b559366.html"
+		},
+		{
+			"Id": "4bab9f16",
+			"Date": "2024-07-28",
+			"Venue": "Target Field",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Foo Fighters",
+			"Tour": "Everything or Nothing at All",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/foo-fighters/2024/target-field-minneapolis-mn-4bab9f16.html"
+		},
+		{
+			"Id": "3ba8f434",
+			"Date": "2024-07-28",
+			"Venue": "Target Field",
+			"City": "Minneapolis",
+			"State": "Minnesota",
+			"Lat": 44.979965,
+			"Long": -93.26384,
+			"Artist": "Pretenders",
+			"Tour": "US Tour 2024",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/pretenders/2024/target-field-minneapolis-mn-3ba8f434.html"
+		},
+		{
+			"Id": "6b576af2",
+			"Date": "2024-06-30",
+			"Venue": "Mankato Brewery",
+			"City": "North Mankato",
+			"State": "Minnesota",
+			"Lat": 44.1733,
+			"Long": -94.03385,
+			"Artist": "Zane Lamprey",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/zane-lamprey/2024/mankato-brewery-north-mankato-mn-6b576af2.html"
+		},
+		{
 			"Id": "4ba92bce",
 			"Date": "2024-05-14",
 			"Venue": "Val Air Ballroom",
@@ -792,6 +844,19 @@
 			"Tour": "",
 			"SongsPlayed": 0,
 			"Link": "https://www.setlist.fm/setlist/candlebox/2013/busters-sports-bar-and-grill-mankato-mn-63c4562b.html"
+		},
+		{
+			"Id": "3b543078",
+			"Date": "2013-08-09",
+			"Venue": "Buster's Sports Bar \u0026 Grill",
+			"City": "Mankato",
+			"State": "Minnesota",
+			"Lat": 44.163578,
+			"Long": -93.9994,
+			"Artist": "Open Air Stereo",
+			"Tour": "",
+			"SongsPlayed": 0,
+			"Link": "https://www.setlist.fm/setlist/open-air-stereo/2013/busters-sports-bar-and-grill-mankato-mn-3b543078.html"
 		},
 		{
 			"Id": "13a835cd",

@@ -1603,6 +1603,17 @@ GEO:44.163578;-93.9994
 DESCRIPTION:#Candlebox #Busters_Sports_Bar__Grill geo:44.163578,-93.9994
 END:VEVENT
 BEGIN:VEVENT
+UID:3b543078
+SUMMARY:Open Air Stereo
+DTSTAMP;TZID=America/Chicago:20130809T200000
+DTSTART;VALUE=DATE:20130809
+DTEND;VALUE=DATE:20130809
+URL:https://www.setlist.fm/setlist/open-air-stereo/2013/busters-sports-bar-and-grill-mankato-mn-3b543078.html
+LOCATION:Buster's Sports Bar & Grill, Mankato, MN
+GEO:44.163578;-93.9994
+DESCRIPTION:#Open_Air_Stereo #Busters_Sports_Bar__Grill geo:44.163578,-93.9994
+END:VEVENT
+BEGIN:VEVENT
 UID:23835ca3
 SUMMARY:Supersuckers
 DTSTAMP;TZID=America/Chicago:20140411T200000
@@ -2272,5 +2283,49 @@ URL:https://www.setlist.fm/setlist/violent-femmes/2024/val-air-ballroom-west-des
 LOCATION:Val Air Ballroom, West Des Moines, IA
 GEO:41.571987;-93.74531
 DESCRIPTION:#Violent_Femmes #Val_Air_Ballroom geo:41.571987,-93.74531
+END:VEVENT
+BEGIN:VEVENT
+UID:6b576af2
+SUMMARY:Zane Lamprey
+DTSTAMP;TZID=America/Chicago:20240630T200000
+DTSTART;VALUE=DATE:20240630
+DTEND;VALUE=DATE:20240630
+URL:https://www.setlist.fm/setlist/zane-lamprey/2024/mankato-brewery-north-mankato-mn-6b576af2.html
+LOCATION:Mankato Brewery, North Mankato, MN
+GEO:44.1733;-94.03385
+DESCRIPTION:#Zane_Lamprey #Mankato_Brewery geo:44.1733,-94.03385
+END:VEVENT
+BEGIN:VEVENT
+UID:4bab9f16
+SUMMARY:Foo Fighters
+DTSTAMP;TZID=America/Chicago:20240728T200000
+DTSTART;VALUE=DATE:20240728
+DTEND;VALUE=DATE:20240728
+URL:https://www.setlist.fm/setlist/foo-fighters/2024/target-field-minneapolis-mn-4bab9f16.html
+LOCATION:Target Field, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Foo_Fighters #Target_Field geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:3ba8f434
+SUMMARY:Pretenders
+DTSTAMP;TZID=America/Chicago:20240728T200000
+DTSTART;VALUE=DATE:20240728
+DTEND;VALUE=DATE:20240728
+URL:https://www.setlist.fm/setlist/pretenders/2024/target-field-minneapolis-mn-3ba8f434.html
+LOCATION:Target Field, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Pretenders #Target_Field geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:4b559366
+SUMMARY:Dukes of Dixieland
+DTSTAMP;TZID=America/Chicago:20240731T200000
+DTSTART;VALUE=DATE:20240731
+DTEND;VALUE=DATE:20240731
+URL:https://www.setlist.fm/setlist/dukes-of-dixieland/2024/steamboat-natchez-new-orleans-la-4b559366.html
+LOCATION:Steamboat Natchez, New Orleans, LA
+GEO:29.955;-90.075
+DESCRIPTION:#Dukes_of_Dixieland #Steamboat_Natchez geo:29.955,-90.075
 END:VEVENT
 END:VCALENDAR

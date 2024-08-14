@@ -1,0 +1,145 @@
+{
+	"id": "4bab9f16",
+	"versionId": "g53a12f95",
+	"eventDate": "28-07-2024",
+	"lastUpdated": "2024-07-29T12:10:32.442+0000",
+	"artist": {
+		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+		"name": "Foo Fighters",
+		"sortName": "Foo Fighters",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+	},
+	"venue": {
+		"id": "33d710bd",
+		"name": "Target Field",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-field-minneapolis-mn-usa-33d710bd.html"
+	},
+	"tour": {
+		"name": "Everything or Nothing at All"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "All My Life"
+					},
+					{
+						"name": "No Son of Mine",
+						"info": "with snippets of “Paranoid” by Black Sabbath and “Enter Sandman” by Metallica"
+					},
+					{
+						"name": "Rescued"
+					},
+					{
+						"name": "The Pretender"
+					},
+					{
+						"name": "Walk"
+					},
+					{
+						"name": "Times Like These"
+					},
+					{
+						"name": "Generator"
+					},
+					{
+						"name": "La Dee Da"
+					},
+					{
+						"name": "Breakout"
+					},
+					{
+						"name": "Eruption / Thunderstruck / Sabotage / Keyboard Solo / Blitzkrieg Bop / March of the Pigs"
+					},
+					{
+						"name": "My Hero",
+						"info": "dedicated to Hüsker Dü"
+					},
+					{
+						"name": "The Sky Is a Neighborhood"
+					},
+					{
+						"name": "Learn to Fly"
+					},
+					{
+						"name": "Arlandria"
+					},
+					{
+						"name": "These Days"
+					},
+					{
+						"name": "Stairway to Heaven",
+						"info": "partial; acoustic; Dave on guitar, Rami on accordion"
+					},
+					{
+						"name": "Skin and Bones",
+						"info": "acoustic, Dave on guitar; Rami on accordion"
+					},
+					{
+						"name": "Under You",
+						"info": "Dave solo acoustic"
+					},
+					{
+						"name": "Nothing at All",
+						"info": "with “Blackbird” snippet"
+					},
+					{
+						"name": "This Is a Call"
+					},
+					{
+						"name": "Show Me How",
+						"with": {
+							"mbid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+							"name": "Violet Grohl",
+							"sortName": "Grohl, Violet",
+							"disambiguation": "",
+							"url": "https://www.setlist.fm/setlists/violet-grohl-73f7768d.html"
+						}
+					},
+					{
+						"name": "Monkey Wrench"
+					},
+					{
+						"name": "Aurora",
+						"info": "dedicated to Taylor Hawkins"
+					},
+					{
+						"name": "Best of You"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "The Teacher"
+					},
+					{
+						"name": "Everlong"
+					}
+				]
+			}
+		]
+	},
+	"info": "15 minute rain delay to show start time",
+	"url": "https://www.setlist.fm/setlist/foo-fighters/2024/target-field-minneapolis-mn-4bab9f16.html"
+}

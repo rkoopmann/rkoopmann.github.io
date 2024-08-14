@@ -36,6 +36,7 @@ html, body { height: 100%; }
 html{
     text-align: baseline;
     font-size: 11px;
+    font: -apple-system-body;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
@@ -346,8 +347,13 @@ header > nav.group, body footer {
 
 nav.group a {text-transform: lowercase;}
 nav.group a.active {text-transform: uppercase;}
-nav.group a.active:before{ content:"\002A33 ";} // ⨳
-nav.group a.active:after { content:" \002A33";} // ⨳
+nav.group a.active:before{ content:"\002A33";} // ⨳
+nav.group a.active:after { content:"\002A33";} // ⨳
+div > strong {
+    text-transform: uppercase;
+    // color: #c00;
+    font-family: monospace;
+}
 
 header > nav  a {
   font-size: 1.2rem;

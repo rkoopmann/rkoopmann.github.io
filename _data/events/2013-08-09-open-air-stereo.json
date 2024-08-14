@@ -1,0 +1,37 @@
+{
+	"id": "3b543078",
+	"versionId": "g7ba31a4c",
+	"eventDate": "09-08-2013",
+	"lastUpdated": "2024-07-17T13:41:53.516+0000",
+	"artist": {
+		"mbid": "b07a5795-68f9-484d-a2c3-ecb39dabd03a",
+		"name": "Open Air Stereo",
+		"sortName": "Open Air Stereo",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/open-air-stereo-23da28df.html"
+	},
+	"venue": {
+		"id": "63d52adf",
+		"name": "Buster's Sports Bar \u0026 Grill",
+		"city": {
+			"id": "5036420",
+			"name": "Mankato",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.163578,
+				"long": -93.9994
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/busters-sports-bar-and-grill-mankato-mn-usa-63d52adf.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/open-air-stereo/2013/busters-sports-bar-and-grill-mankato-mn-3b543078.html"
+}

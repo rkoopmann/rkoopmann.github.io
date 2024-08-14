@@ -1,5 +1,6 @@
 -
   artist: A Perfect Circle
+  url: https://www.aperfectcircle.com
   description:
 -
   artist: Adam Sandler
@@ -9,7 +10,8 @@
   description:
 -
   artist: Bad Religion
-  description: "I got hooked on Bad Religion after attending one of their _The Gray Race Tour_ with some friends who were _really_ into BR; by the end of the show, I was like my friends."
+  url: https://badreligion.com
+  description: "I got hooked on Bad Religion after seeing them on _The Gray Race Tour_ with some friends who were _really_ into BR; by the end of the show, I was like my friends."
 -
   artist: Beck
   description:

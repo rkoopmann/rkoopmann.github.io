@@ -1,8 +1,8 @@
 {
 	"id": "63d406cb",
-	"versionId": "g73b556fd",
+	"versionId": "g23ae44cf",
 	"eventDate": "01-07-2010",
-	"lastUpdated": "2024-03-02T15:29:05.160+0000",
+	"lastUpdated": "2024-08-08T06:08:24.666+0000",
 	"artist": {
 		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
 		"name": "Tool",
@@ -72,8 +72,7 @@
 						"info": "extended bridge"
 					},
 					{
-						"name": "Schism",
-						"info": "\"Maynards Dick\" Tease"
+						"name": "Schism"
 					},
 					{
 						"name": "Forty Six \u0026 2",

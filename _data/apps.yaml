@@ -9,6 +9,28 @@
   released:
   available: true
 
+- dice-card-race:
+  id: 6476467192
+  date: 2024-03-01
+  shortName: Dice Card Race
+  fullName: Dice Card Race
+  tagline: Virtual Horse Racing Game
+  briefDescription: A mobile version for simulating or keeping score of a horse racing game without the board, ponies, cards, dice, or chips.
+  url: dice-card-race
+  released:
+  available: false
+
+- epochs:
+  id: 6446234945
+  date: 2023-11-10
+  shortName: epochs
+  fullName: epochs
+  tagline: temporal comparisons
+  briefDescription: Surfaces temporal differences among disjointed events and may be of interest to those of us who enjoy saying things like "Nirvana's _Nevermind_ ([1991-09-24](https://en.wikipedia.org/wiki/Nevermind)) is closer to The Beatles first gig ([1960-08-17](https://en.wikipedia.org/wiki/The_Beatles_timeline)) than it is to today."
+  url: epochs
+  released:
+  available: false
+
 - flation:
   id: 6479229602
   date: 2024-03-12

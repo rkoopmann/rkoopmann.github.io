@@ -1,8 +1,8 @@
 {
 	"id": "3efbd7b",
-	"versionId": "377659b",
+	"versionId": "g13a119b5",
 	"eventDate": "24-05-1997",
-	"lastUpdated": "2018-02-28T14:39:53.889+0000",
+	"lastUpdated": "2024-07-29T21:25:51.327+0000",
 	"artist": {
 		"mbid": "7986c185-d91d-4204-8ee2-eac5d503fe39",
 		"name": "Better Than Ezra",
@@ -31,7 +31,17 @@
 	},
 	"tour": {},
 	"sets": {
-		"set": []
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Good"
+					}
+				]
+			}
+		]
 	},
 	"url": "https://www.setlist.fm/setlist/better-than-ezra/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7b.html"
 }

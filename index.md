@@ -30,21 +30,16 @@ div.index-item {
   {% assign eventArtistCount = eventArtists | size %}
   {% if eventArtistCount > 0 %}
     <span class="post-meta">
-    <tt><a class="post-link" href="/event/{{ anItem.date }}">{{ e.name | date: "%b %d" }}</a></tt>
-  </span>
-  &mdash;
-  <strong style="text-transform: uppercase">Event</strong> {% for a in eventArtists %} ⨳ <a href="/event/artist/{{ a.Artist | slugify }}">{{ a.Artist }}</a>{% endfor %} ⨳
+      <tt><a class="post-link" href="/event/{{ anItem.date }}">{{ e.name | date: "%b %d" }}</a></tt>
+    </span>
+    &mdash;
+    {% for a in eventArtists %} ⨳ <a href="/event/artist/{{ a.Artist | slugify }}">{{ a.Artist }}</a>{% endfor %} ⨳
   {% else %}
-  <span class="post-meta">
-    <tt><a class="post-link" href="{{ anItem.url }}">{{ e.name | date: "%b %d" }}</a></tt>
-  </span>
-  &mdash;
-  <strong style="text-transform: uppercase">Post</strong>
-  <em>{{ anItem.title }}</em>
-  {% endif %}
-  {% if anItem.tags != nil %}
-  {% assign theseTags = anItem.tags | sort %}
-  {% for tag in theseTags %}⨳ <em><a href="/tag/{{ tag | slugify }}">{{ tag }}</a></em> {% endfor %} ⨳
+    <span class="post-meta">
+      <tt><a class="post-link" href="{{ anItem.url }}">{{ e.name | date: "%b %d" }}</a></tt>
+    </span>
+    &mdash;
+    <em>{{ anItem.title }}</em>
   {% endif %}
 </div>
   {% endfor %}

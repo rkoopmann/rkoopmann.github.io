@@ -1398,10 +1398,6 @@
   layout: tag_page
   tag: snippet
   permalink: /tag/snippet/
-- file: ./tags/[].md
-  layout: tag_page
-  tag: []
-  permalink: /tag/[]/
 - file: ./tags/perl.md
   layout: tag_page
   tag: perl
@@ -1491,6 +1487,10 @@
   layout: event_show_page
   date: 2001-03-31
   permalink: /event/2001-03-31/
+- file: ./events/show/2024-06-30.md
+  layout: event_show_page
+  date: 2024-06-30
+  permalink: /event/2024-06-30/
 - file: ./events/show/2017-12-16.md
   layout: event_show_page
   date: 2017-12-16
@@ -1624,6 +1624,10 @@
   layout: event_show_page
   date: 1998-07-18
   permalink: /event/1998-07-18/
+- file: ./events/show/2024-07-31.md
+  layout: event_show_page
+  date: 2024-07-31
+  permalink: /event/2024-07-31/
 - file: ./events/show/1995-11-09.md
   layout: event_show_page
   date: 1995-11-09
@@ -1693,6 +1697,10 @@
   layout: event_show_page
   date: 1996-12-04
   permalink: /event/1996-12-04/
+- file: ./events/show/2024-07-28.md
+  layout: event_show_page
+  date: 2024-07-28
+  permalink: /event/2024-07-28/
 - file: ./events/show/2017-06-09.md
   layout: event_show_page
   date: 2017-06-09
@@ -1847,6 +1855,14 @@
   layout: event_venue_page
   venue: Minneapolis Armory
   permalink: /event/venue/minneapolis-armory/
+- file: ./events/venue/mankato-brewery.md
+  layout: event_venue_page
+  venue: Mankato Brewery
+  permalink: /event/venue/mankato-brewery/
+- file: ./events/venue/steamboat-natchez.md
+  layout: event_venue_page
+  venue: Steamboat Natchez
+  permalink: /event/venue/steamboat-natchez/
 - file: ./events/venue/index.md
   layout: default
   title: venues
@@ -1896,6 +1912,10 @@
   layout: event_venue_page
   venue: Denny Sanford Premier Center
   permalink: /event/venue/denny-sanford-premier-center/
+- file: ./events/venue/target-field.md
+  layout: event_venue_page
+  venue: Target Field
+  permalink: /event/venue/target-field/
 - file: ./events/artist/collective-soul.md
   layout: event_artist_page
   artist: Collective Soul
@@ -1928,10 +1948,6 @@
   layout: event_artist_page
   artist: Treble Charger
   permalink: /event/artist/treble-charger/
-- file: ./events/artist/ziggy-marley--the-melody-makers.md
-  layout: event_artist_page
-  artist: Ziggy Marley & The Melody Makers
-  permalink: /event/artist/ziggy-marley--the-melody-makers/
 - file: ./events/artist/dälek.md
   layout: event_artist_page
   artist: Dälek
@@ -2024,14 +2040,14 @@
   layout: event_artist_page
   artist: Nashville Pussy
   permalink: /event/artist/nashville-pussy/
+- file: ./events/artist/zane-lamprey.md
+  layout: event_artist_page
+  artist: Zane Lamprey
+  permalink: /event/artist/zane-lamprey/
 - file: ./events/artist/the-vandals.md
   layout: event_artist_page
   artist: The Vandals
   permalink: /event/artist/the-vandals/
-- file: ./events/artist/troy-trombone-shorty-andrews--orleans-avenue.md
-  layout: event_artist_page
-  artist: Troy “Trombone Shorty” Andrews & Orleans Avenue
-  permalink: /event/artist/troy-trombone-shorty-andrews--orleans-avenue/
 - file: ./events/artist/roger-waters.md
   layout: event_artist_page
   artist: Roger Waters
@@ -2040,10 +2056,6 @@
   layout: event_artist_page
   artist: Tool
   permalink: /event/artist/tool/
-- file: ./events/artist/trombone-shorty--orleans-avenue.md
-  layout: event_artist_page
-  artist: Trombone Shorty & Orleans Avenue
-  permalink: /event/artist/trombone-shorty--orleans-avenue/
 - file: ./events/artist/lisa-loeb.md
   layout: event_artist_page
   artist: Lisa Loeb
@@ -2156,10 +2168,6 @@
   layout: event_artist_page
   artist: Stanford Prison Experiment
   permalink: /event/artist/stanford-prison-experiment/
-- file: ./events/artist/vampires-everywhere!.md
-  layout: event_artist_page
-  artist: Vampires Everywhere!
-  permalink: /event/artist/vampires-everywhere!/
 - file: ./events/artist/wilco.md
   layout: event_artist_page
   artist: Wilco
@@ -2172,10 +2180,6 @@
   layout: event_artist_page
   artist: Supersuckers
   permalink: /event/artist/supersuckers/
-- file: ./events/artist/troy-trombone-shorty-andrews-&-orleans-avenue.md
-  layout: event_artist_page
-  artist: Troy “Trombone Shorty” Andrews & Orleans Avenue
-  permalink: /event/artist/troy-trombone-shorty-andrews-&-orleans-avenue/
 - file: ./events/artist/the-rembrandts.md
   layout: event_artist_page
   artist: The Rembrandts
@@ -2248,10 +2252,6 @@
   layout: event_artist_page
   artist: Ozzy Osbourne
   permalink: /event/artist/ozzy-osbourne/
-- file: ./events/artist/trombone-shorty-&-orleans-avenue.md
-  layout: event_artist_page
-  artist: Trombone Shorty & Orleans Avenue
-  permalink: /event/artist/trombone-shorty-&-orleans-avenue/
 - file: ./events/artist/index.md
   layout: default
   title: artists
@@ -2313,6 +2313,10 @@
   layout: event_artist_page
   artist: Coal Chamber
   permalink: /event/artist/coal-chamber/
+- file: ./events/artist/dukes-of-dixieland.md
+  layout: event_artist_page
+  artist: Dukes of Dixieland
+  permalink: /event/artist/dukes-of-dixieland/
 - file: ./events/artist/our-lady-peace.md
   layout: event_artist_page
   artist: Our Lady Peace
@@ -2365,6 +2369,10 @@
   layout: event_artist_page
   artist: Blues Traveler
   permalink: /event/artist/blues-traveler/
+- file: ./events/artist/pretenders.md
+  layout: event_artist_page
+  artist: Pretenders
+  permalink: /event/artist/pretenders/
 - file: ./events/artist/richard-davies.md
   layout: event_artist_page
   artist: Richard Davies
@@ -2405,6 +2413,10 @@
   layout: event_artist_page
   artist: The Acid Helps
   permalink: /event/artist/the-acid-helps/
+- file: ./events/artist/open-air-stereo.md
+  layout: event_artist_page
+  artist: Open Air Stereo
+  permalink: /event/artist/open-air-stereo/
 - file: ./events/artist/jon-lovitz.md
   layout: event_artist_page
   artist: Jon Lovitz
@@ -2477,10 +2489,6 @@
   layout: event_artist_page
   artist: Candlebox
   permalink: /event/artist/candlebox/
-- file: ./events/artist/ziggy-marley-&-the-melody-makers.md
-  layout: event_artist_page
-  artist: Ziggy Marley & The Melody Makers
-  permalink: /event/artist/ziggy-marley-&-the-melody-makers/
 - file: ./events/artist/nine-inch-nails.md
   layout: event_artist_page
   artist: Nine Inch Nails

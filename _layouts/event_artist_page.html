@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% assign theDescription = site.data.event-artists | where: "artist", page.artist | first %}
-{% assign artistObject = site.data.events.list-artists | where_exp: "x", "x.artist == page.artist" | first %}
-{% assign events_by_year = artistObject.events | group_by_exp: "e", "e.date | date: '%Y'" | reverse %}
+{% assign artistObject   = site.data.event-artists | where: "artist", page.artist | first %}
+{% assign eventsObject   = site.data.events.list-artists | where_exp: "x", "x.artist == page.artist" | first %}
+{% assign events_by_year = eventsObject.events | group_by_exp: "e", "e.date | date: '%Y'" | reverse %}
 
 <style>
 div.index-item {
@@ -15,7 +15,9 @@ div.index-item {
 
 <h1><em>{{ page.artist }}</em></h1>
 
-{{ theDescription.description | markdownify }}
+{% if artistObject.url != "" %}<a href="{{ artistObject.url }}" target="_blank">www</a>{% endif %}
+
+{{ artistObject.description | markdownify }}
 
 {{ content }}
 
@@ -23,6 +25,6 @@ div.index-item {
 <p><tt><strong>{{ year.name }}</strong></tt></p>
 {% assign dates = year.items | reverse %}
   {% for item in dates %}
-  <div class="index-item"><span class="post-meta"><tt><a class="post-link" href="/event/{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%b %d" }}</a></tt></span>{% if item.tour != "" %}&mdash;<em>{{ item.tour | escape }}</em>{% endif %}{% if item.venue.name != "" %} @ <a href="/event/venue/{{ item.venue.name | slugify }}">{{ item.venue.name }}</a>{% endif %}&mdash;<a href="{{ item.url }}">setlist page</a></div>
+  <div class="index-item"><span class="post-meta"><tt><a class="post-link" href="/event/{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%b %d" }}</a></tt></span>{% if item.tour != "" %} &mdash; <em>{{ item.tour | escape }}</em>{% endif %}{% if item.venue.name != "" %} @ <a href="/event/venue/{{ item.venue.name | slugify }}">{{ item.venue.name }}</a>{% endif %}</div>
   {% endfor %}
 {% endfor %}
