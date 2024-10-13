@@ -1,0 +1,69 @@
+{
+	"id": "b57056a",
+	"versionId": "g3bac780c",
+	"eventDate": "20-08-2024",
+	"lastUpdated": "2024-08-23T07:25:03.808+0000",
+	"artist": {
+		"mbid": "a86d6e1f-e76b-4f25-8afa-38cfeb50e089",
+		"name": "Codefendants",
+		"sortName": "Codefendants",
+		"disambiguation": "hip-hop/punk group formed by Fat Mike of NOFX and Sam King",
+		"url": "https://www.setlist.fm/setlists/codefendants-73fad61d.html"
+	},
+	"venue": {
+		"id": "3bd52880",
+		"name": "Myth",
+		"city": {
+			"id": "5036588",
+			"name": "Maplewood",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.953022,
+				"long": -92.99522
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Def Cons"
+					},
+					{
+						"name": "Abscessed"
+					},
+					{
+						"name": "Counting Back from 13"
+					},
+					{
+						"name": "Bad Business"
+					},
+					{
+						"name": "Suicide by Pigs"
+					},
+					{
+						"name": "Disaster Scenes"
+					},
+					{
+						"name": "Fast Ones"
+					},
+					{
+						"name": "Sell Me Youth"
+					}
+				]
+			}
+		]
+	},
+	"info": "Members of Zeta filled in on drums and guitar/keyboard",
+	"url": "https://www.setlist.fm/setlist/codefendants/2024/myth-maplewood-mn-b57056a.html"
+}

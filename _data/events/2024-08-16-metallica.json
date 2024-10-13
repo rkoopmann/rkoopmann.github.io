@@ -1,0 +1,104 @@
+{
+	"id": "2babacbe",
+	"versionId": "g73ad3e2d",
+	"eventDate": "16-08-2024",
+	"lastUpdated": "2024-08-29T06:04:31.888+0000",
+	"artist": {
+		"mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+		"name": "Metallica",
+		"sortName": "Metallica",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+	},
+	"venue": {
+		"id": "43d253af",
+		"name": "U.S. Bank Stadium",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/us-bank-stadium-minneapolis-mn-usa-43d253af.html"
+	},
+	"tour": {
+		"name": "M72 World Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+						"tape": true
+					},
+					{
+						"name": "The Ecstasy of Gold",
+						"tape": true
+					},
+					{
+						"name": "Creeping Death"
+					},
+					{
+						"name": "Harvester of Sorrow"
+					},
+					{
+						"name": "Hit the Lights"
+					},
+					{
+						"name": "King Nothing"
+					},
+					{
+						"name": "72 Seasons"
+					},
+					{
+						"name": "If Darkness Had a Son"
+					},
+					{
+						"name": "Kirk and Rob Doodle",
+						"info": "\"Minneapolis Funkatropolis Purple #1\""
+					},
+					{
+						"name": "Fade to Black"
+					},
+					{
+						"name": "Shadows Follow"
+					},
+					{
+						"name": "Orion"
+					},
+					{
+						"name": "Nothing Else Matters",
+						"info": "With extended Kirk intro"
+					},
+					{
+						"name": "Sad but True"
+					},
+					{
+						"name": "Blackened"
+					},
+					{
+						"name": "Fuel"
+					},
+					{
+						"name": "Seek \u0026 Destroy"
+					},
+					{
+						"name": "Master of Puppets"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/metallica/2024/us-bank-stadium-minneapolis-mn-2babacbe.html"
+}

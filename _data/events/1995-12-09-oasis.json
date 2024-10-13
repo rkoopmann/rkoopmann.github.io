@@ -1,13 +1,13 @@
 {
 	"id": "3bd798a0",
-	"versionId": "2382881b",
+	"versionId": "g63adca87",
 	"eventDate": "09-12-1995",
-	"lastUpdated": "2015-01-06T15:12:45.000+0000",
+	"lastUpdated": "2024-08-28T21:46:32.894+0000",
 	"artist": {
 		"mbid": "39ab1aed-75e0-4140-bd47-540276886b60",
 		"name": "Oasis",
 		"sortName": "Oasis",
-		"disambiguation": "1991–2009 Britpop",
+		"disambiguation": "Noel \u0026 Liam Gallagher",
 		"url": "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
 	},
 	"venue": {
@@ -30,7 +30,7 @@
 		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
 	},
 	"tour": {
-		"name": "(What's The Story) Morning Glory?"
+		"name": "(What's the Story) Morning Glory?"
 	},
 	"sets": {
 		"set": [

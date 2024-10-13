@@ -19,7 +19,7 @@ Here's the complete listing of events which I had tickets to attend; Despite my 
 {% assign items_by_year = site.data.event-shows | group_by_exp: "x", "x.date | date:'%Y'" | reverse %}
 
 {% for year in items_by_year %}
-<tt><strong>{{ year.name }}</strong></tt>
+<tt><strong>{{ year.name }}</strong></tt>{% if year.name == "2020" %} &mdash; <em>COVID</em>{% endif %}
   {% assign dates = year.items | reverse %}
   {% for item in dates %}
   {% assign eventDate = item.date | date: "%Y-%m-%d" %}

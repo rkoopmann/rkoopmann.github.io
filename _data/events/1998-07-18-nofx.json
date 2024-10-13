@@ -1,8 +1,8 @@
 {
 	"id": "5bdf6bd4",
-	"versionId": "bab516e",
+	"versionId": "gbaaa11e",
 	"eventDate": "18-07-1998",
-	"lastUpdated": "2016-09-16T17:59:47.000+0000",
+	"lastUpdated": "2024-09-03T07:24:05.581+0000",
 	"artist": {
 		"mbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4",
 		"name": "NOFX",
@@ -33,7 +33,42 @@
 		"name": "Vans Warped Tour 1998"
 	},
 	"sets": {
-		"set": []
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Linoleum"
+					},
+					{
+						"name": "Six Pack Girls"
+					},
+					{
+						"name": "Hobophobic (Scared of Bums)"
+					},
+					{
+						"name": "Monosyllabic Girl"
+					},
+					{
+						"name": "I Wanna Be an Alcoholic"
+					},
+					{
+						"name": "Punk Guy"
+					},
+					{
+						"name": "Fuck the Kids"
+					},
+					{
+						"name": "Fuck the Kids II"
+					},
+					{
+						"name": "The Moron Brothers"
+					}
+				]
+			}
+		]
 	},
+	"info": "Setlist incomplete",
 	"url": "https://www.setlist.fm/setlist/nofx/1998/float-rite-park-amphitheatre-somerset-wi-5bdf6bd4.html"
 }

@@ -13,7 +13,7 @@ div.index-item {
 }
 </style>
 
-Here's some things; Some are good, some are okay, a lot are stupid.
+Here's some things I've written over the years; Some are good, some are okay, a lot are stupid.
 
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for year in posts_by_year %}

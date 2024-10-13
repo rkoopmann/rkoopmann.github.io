@@ -2328,4 +2328,81 @@ LOCATION:Steamboat Natchez, New Orleans, LA
 GEO:29.955;-90.075
 DESCRIPTION:#Dukes_of_Dixieland #Steamboat_Natchez geo:29.955,-90.075
 END:VEVENT
+BEGIN:VEVENT
+UID:2babacbe
+SUMMARY:Metallica
+DTSTAMP;TZID=America/Chicago:20240816T200000
+DTSTART;VALUE=DATE:20240816
+DTEND;VALUE=DATE:20240816
+URL:https://www.setlist.fm/setlist/metallica/2024/us-bank-stadium-minneapolis-mn-2babacbe.html
+LOCATION:U.S. Bank Stadium, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Metallica #US_Bank_Stadium geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:4bab1b0a
+SUMMARY:Pantera
+DTSTAMP;TZID=America/Chicago:20240816T200000
+DTSTART;VALUE=DATE:20240816
+DTEND;VALUE=DATE:20240816
+URL:https://www.setlist.fm/setlist/pantera/2024/us-bank-stadium-minneapolis-mn-4bab1b0a.html
+LOCATION:U.S. Bank Stadium, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Pantera #US_Bank_Stadium geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:3babacbc
+SUMMARY:Metallica
+DTSTAMP;TZID=America/Chicago:20240818T200000
+DTSTART;VALUE=DATE:20240818
+DTEND;VALUE=DATE:20240818
+URL:https://www.setlist.fm/setlist/metallica/2024/us-bank-stadium-minneapolis-mn-3babacbc.html
+LOCATION:U.S. Bank Stadium, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Metallica #US_Bank_Stadium geo:44.979965,-93.26384
+END:VEVENT
+BEGIN:VEVENT
+UID:1b570574
+SUMMARY:Banner Pilot
+DTSTAMP;TZID=America/Chicago:20240820T200000
+DTSTART;VALUE=DATE:20240820
+DTEND;VALUE=DATE:20240820
+URL:https://www.setlist.fm/setlist/banner-pilot/2024/myth-maplewood-mn-1b570574.html
+LOCATION:Myth, Maplewood, MN
+GEO:44.953022;-92.99522
+DESCRIPTION:#Banner_Pilot #Myth geo:44.953022,-92.99522
+END:VEVENT
+BEGIN:VEVENT
+UID:b57056a
+SUMMARY:Codefendants
+DTSTAMP;TZID=America/Chicago:20240820T200000
+DTSTART;VALUE=DATE:20240820
+DTEND;VALUE=DATE:20240820
+URL:https://www.setlist.fm/setlist/codefendants/2024/myth-maplewood-mn-b57056a.html
+LOCATION:Myth, Maplewood, MN
+GEO:44.953022;-92.99522
+DESCRIPTION:#Codefendants #Myth geo:44.953022,-92.99522
+END:VEVENT
+BEGIN:VEVENT
+UID:b56a14a
+SUMMARY:NOFX
+DTSTAMP;TZID=America/Chicago:20240820T200000
+DTSTART;VALUE=DATE:20240820
+DTEND;VALUE=DATE:20240820
+URL:https://www.setlist.fm/setlist/nofx/2024/myth-maplewood-mn-b56a14a.html
+LOCATION:Myth, Maplewood, MN
+GEO:44.953022;-92.99522
+DESCRIPTION:#NOFX #Myth geo:44.953022,-92.99522
+END:VEVENT
+BEGIN:VEVENT
+UID:7b53c290
+SUMMARY:Jeff Arcuri
+DTSTAMP;TZID=America/Chicago:20240922T200000
+DTSTART;VALUE=DATE:20240922
+DTEND;VALUE=DATE:20240922
+URL:https://www.setlist.fm/setlist/jeff-arcuri/2024/state-theatre-minneapolis-mn-7b53c290.html
+LOCATION:State Theatre, Minneapolis, MN
+GEO:44.979965;-93.26384
+DESCRIPTION:#Jeff_Arcuri #State_Theatre geo:44.979965,-93.26384
+END:VEVENT
 END:VCALENDAR

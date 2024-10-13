@@ -1,8 +1,8 @@
 {
 	"id": "4bab9f16",
-	"versionId": "g53a12f95",
+	"versionId": "g5bace3a4",
 	"eventDate": "28-07-2024",
-	"lastUpdated": "2024-07-29T12:10:32.442+0000",
+	"lastUpdated": "2024-08-19T17:51:45.260+0000",
 	"artist": {
 		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
 		"name": "Foo Fighters",
@@ -55,7 +55,8 @@
 						"name": "Walk"
 					},
 					{
-						"name": "Times Like These"
+						"name": "Times Like These",
+						"info": "Dave and Rami into full band"
 					},
 					{
 						"name": "Generator"
@@ -71,7 +72,7 @@
 					},
 					{
 						"name": "My Hero",
-						"info": "dedicated to Hüsker Dü"
+						"info": "Dave solo into full band; dedicated to Hüsker Dü"
 					},
 					{
 						"name": "The Sky Is a Neighborhood"
@@ -115,7 +116,8 @@
 						}
 					},
 					{
-						"name": "Monkey Wrench"
+						"name": "Monkey Wrench",
+						"info": "with Van Halen's \"Hot for Teacher\" snippet"
 					},
 					{
 						"name": "Aurora",

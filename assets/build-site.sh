@@ -91,6 +91,10 @@ permalink: /event/$x/
   echo
 }
 
+function slugify() {
+  echo "$1" | tr 'A-Z' 'a-z' | sed -e "s/[ .’']/-/g;" | tr ' .' '--' | tr -d '&?!"“”' | sed 's/--/-/g'
+}
+
 function refreshEventArtistPages(){
   echo "${FUNCNAME[0]}"
   xListing=$(jq -r '.[] | .artist' _data/events/list-artists.json)
@@ -99,7 +103,8 @@ function refreshEventArtistPages(){
   preclean *.md index.md
 
   IFS=$'\n\t' && for x in ${xListing}; do
-    xSlug="$(echo ${x} | tr 'A-Z' 'a-z' | tr ' ' '-' | tr -d "'’" | tr -d '&?!."“”' | sed 's/--/-/g')"
+    #xSlug="$(echo ${x} | tr 'A-Z' 'a-z' | tr ' ' '-' | tr -d "'’" | tr -d '&?!."“”' | sed 's/--/-/g')"
+    xSlug=$(slugify "${x}")
     echo -e "---\nlayout: event_artist_page\nartist: ${x}\npermalink: /event/artist/${xSlug}/\n---\n\n" > ${xSlug}.md
   done
   cd $pwd
@@ -114,7 +119,8 @@ function refreshEventVenuePages(){
   preclean *.md index.md
 
   IFS=$'\n\t' && for x in ${xListing}; do
-    xSlug="$(echo ${x} | tr 'A-Z' 'a-z' | tr ' ' '-' | tr -d "'’" | tr -d '"“”.')"
+    #xSlug="$(echo ${x} | tr 'A-Z' 'a-z' | tr ' ' '-' | tr -d "'’" | tr -d '"“”.')"
+    xSlug=$(slugify "${x}")
     echo -n "---
 layout: event_venue_page
 venue: ${x}

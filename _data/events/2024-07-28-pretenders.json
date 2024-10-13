@@ -1,13 +1,13 @@
 {
 	"id": "3ba8f434",
-	"versionId": "g53af2385",
+	"versionId": "g23af1037",
 	"eventDate": "28-07-2024",
-	"lastUpdated": "2024-08-13T13:56:19.938+0000",
+	"lastUpdated": "2024-08-14T02:22:20.809+0000",
 	"artist": {
 		"mbid": "e9c832b0-384b-4ee6-aec0-111372784aac",
 		"name": "Pretenders",
 		"sortName": "Pretenders",
-		"disambiguation": "English–American rock band",
+		"disambiguation": "English‐American rock band",
 		"url": "https://www.setlist.fm/setlists/pretenders-33d6b815.html"
 	},
 	"venue": {
@@ -69,6 +69,9 @@
 						"name": "Don't Get Me Wrong"
 					},
 					{
+						"name": "Bad Boys Get Spanked"
+					},
+					{
 						"name": "Hymn to Her",
 						"info": "dedicated to Taylor Hawkins and Mimi Parker; tour debut"
 					},
@@ -85,6 +88,6 @@
 			}
 		]
 	},
-	"info": "Setlist incomplete and out of order",
+	"info": "Setlist out of order",
 	"url": "https://www.setlist.fm/setlist/pretenders/2024/target-field-minneapolis-mn-3ba8f434.html"
 }

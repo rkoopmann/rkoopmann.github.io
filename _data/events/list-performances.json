@@ -1116,7 +1116,7 @@
       "name": "Oasis",
       "url": "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
     },
-    "tour": "(What's The Story) Morning Glory?",
+    "tour": "(What's the Story) Morning Glory?",
     "url": "https://www.setlist.fm/setlist/oasis/1995/target-center-minneapolis-mn-3bd798a0.html"
   },
   {
@@ -2743,7 +2743,17 @@
         -92.67354
       ],
       "url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html",
-      "setlist": []
+      "setlist": [
+        "Linoleum",
+        "Six Pack Girls",
+        "Hobophobic (Scared of Bums)",
+        "Monosyllabic Girl",
+        "I Wanna Be an Alcoholic",
+        "Punk Guy",
+        "Fuck the Kids",
+        "Fuck the Kids II",
+        "The Moron Brothers"
+      ]
     },
     "artist": {
       "name": "NOFX",
@@ -5682,6 +5692,7 @@
         "Stop Your Sobbing",
         "Back on the Chain Gang",
         "Don't Get Me Wrong",
+        "Bad Boys Get Spanked",
         "Hymn to Her",
         "Mystery Achievement",
         "I'll Stand by You",
@@ -5714,5 +5725,256 @@
     },
     "tour": null,
     "url": "https://www.setlist.fm/setlist/dukes-of-dixieland/2024/steamboat-natchez-new-orleans-la-4b559366.html"
+  },
+  {
+    "date": "2024-08-16",
+    "venue": {
+      "name": "U.S. Bank Stadium",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "geo": [
+        44.979965,
+        -93.26384
+      ],
+      "url": "https://www.setlist.fm/venue/us-bank-stadium-minneapolis-mn-usa-43d253af.html",
+      "setlist": [
+        "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+        "The Ecstasy of Gold",
+        "Creeping Death",
+        "Harvester of Sorrow",
+        "Hit the Lights",
+        "King Nothing",
+        "72 Seasons",
+        "If Darkness Had a Son",
+        "Kirk and Rob Doodle",
+        "Fade to Black",
+        "Shadows Follow",
+        "Orion",
+        "Nothing Else Matters",
+        "Sad but True",
+        "Blackened",
+        "Fuel",
+        "Seek & Destroy",
+        "Master of Puppets"
+      ]
+    },
+    "artist": {
+      "name": "Metallica",
+      "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+    },
+    "tour": "M72 World Tour",
+    "url": "https://www.setlist.fm/setlist/metallica/2024/us-bank-stadium-minneapolis-mn-2babacbe.html"
+  },
+  {
+    "date": "2024-08-16",
+    "venue": {
+      "name": "U.S. Bank Stadium",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "geo": [
+        44.979965,
+        -93.26384
+      ],
+      "url": "https://www.setlist.fm/venue/us-bank-stadium-minneapolis-mn-usa-43d253af.html",
+      "setlist": [
+        "Regular People (Conceit)",
+        "In Heaven (Lady in the Radiator Song)",
+        "A New Level",
+        "Mouth for War",
+        "Strength Beyond Strength",
+        "Becoming",
+        "I'm Broken",
+        "Cemetery Gates",
+        "5 Minutes Alone",
+        "This Love",
+        "Fucking Hostile",
+        "Walk",
+        "Domination / Hollow",
+        "Cowboys From Hell"
+      ]
+    },
+    "artist": {
+      "name": "Pantera",
+      "url": "https://www.setlist.fm/setlists/pantera-63d68e8b.html"
+    },
+    "tour": null,
+    "url": "https://www.setlist.fm/setlist/pantera/2024/us-bank-stadium-minneapolis-mn-4bab1b0a.html"
+  },
+  {
+    "date": "2024-08-18",
+    "venue": {
+      "name": "U.S. Bank Stadium",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "geo": [
+        44.979965,
+        -93.26384
+      ],
+      "url": "https://www.setlist.fm/venue/us-bank-stadium-minneapolis-mn-usa-43d253af.html",
+      "setlist": [
+        "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+        "The Ecstasy of Gold",
+        "Whiplash",
+        "For Whom the Bell Tolls",
+        "Ride the Lightning",
+        "Until It Sleeps",
+        "Lux Æterna",
+        "Screaming Suicide",
+        "Kirk and Rob Doodle",
+        "The Day That Never Comes",
+        "Wherever I May Roam",
+        "The Call of Ktulu",
+        "The Unforgiven",
+        "Inamorata",
+        "Battery",
+        "Moth Into Flame",
+        "One",
+        "Enter Sandman"
+      ]
+    },
+    "artist": {
+      "name": "Metallica",
+      "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+    },
+    "tour": "M72 World Tour",
+    "url": "https://www.setlist.fm/setlist/metallica/2024/us-bank-stadium-minneapolis-mn-3babacbc.html"
+  },
+  {
+    "date": "2024-08-20",
+    "venue": {
+      "name": "Myth",
+      "city": "Maplewood",
+      "state": "Minnesota",
+      "geo": [
+        44.953022,
+        -92.99522
+      ],
+      "url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html",
+      "setlist": [
+        "Alchemy",
+        "Spanish Reds",
+        "Effigy",
+        "Empty Lot",
+        "Starting at an Ending",
+        "Drains to the Mississippi",
+        "Modern Shakes",
+        "Hold Fast",
+        "Intervention",
+        "Division Street",
+        "Central Standard",
+        "Skeleton Key",
+        "Bender"
+      ]
+    },
+    "artist": {
+      "name": "Banner Pilot",
+      "url": "https://www.setlist.fm/setlists/banner-pilot-13d701ad.html"
+    },
+    "tour": null,
+    "url": "https://www.setlist.fm/setlist/banner-pilot/2024/myth-maplewood-mn-1b570574.html"
+  },
+  {
+    "date": "2024-08-20",
+    "venue": {
+      "name": "Myth",
+      "city": "Maplewood",
+      "state": "Minnesota",
+      "geo": [
+        44.953022,
+        -92.99522
+      ],
+      "url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html",
+      "setlist": [
+        "Def Cons",
+        "Abscessed",
+        "Counting Back from 13",
+        "Bad Business",
+        "Suicide by Pigs",
+        "Disaster Scenes",
+        "Fast Ones",
+        "Sell Me Youth"
+      ]
+    },
+    "artist": {
+      "name": "Codefendants",
+      "url": "https://www.setlist.fm/setlists/codefendants-73fad61d.html"
+    },
+    "tour": null,
+    "url": "https://www.setlist.fm/setlist/codefendants/2024/myth-maplewood-mn-b57056a.html"
+  },
+  {
+    "date": "2024-08-20",
+    "venue": {
+      "name": "Myth",
+      "city": "Maplewood",
+      "state": "Minnesota",
+      "geo": [
+        44.953022,
+        -92.99522
+      ],
+      "url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html",
+      "setlist": [
+        "Time Warp",
+        "Dinosaurs Will Die",
+        "Stickin' in My Eye",
+        "Leave It Alone",
+        "Bob",
+        "Seeing Double at the Triple Rock",
+        "Kids of the K-Hole",
+        "Quart in Session",
+        "All Outta Angst",
+        "Perfect Government",
+        "Six Pack Girls",
+        "I Love You More Than I Hate Me",
+        "Fuck the Kids (Revisited)",
+        "Juice Head",
+        "Hobophobic (Scared of Bums)",
+        "Monosyllabic Girl",
+        "I'm Telling Tim",
+        "Instant Crassic",
+        "Can't Get the Stink Out",
+        "See Her Pee",
+        "I Wanna Be an Alcoholic",
+        "Fuck the Kids",
+        "Eat the Meek",
+        "Six Years on Dope",
+        "72 Hookers",
+        "180 Degrees",
+        "Murder the Government",
+        "The Brews",
+        "Soul Doubt",
+        "Linoleum",
+        "Franco Un-American",
+        "Bottles to the Ground",
+        "Kill All the White Man",
+        "The Decline"
+      ]
+    },
+    "artist": {
+      "name": "NOFX",
+      "url": "https://www.setlist.fm/setlists/nofx-1bd689c0.html"
+    },
+    "tour": "Final Tour",
+    "url": "https://www.setlist.fm/setlist/nofx/2024/myth-maplewood-mn-b56a14a.html"
+  },
+  {
+    "date": "2024-09-22",
+    "venue": {
+      "name": "State Theatre",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "geo": [
+        44.979965,
+        -93.26384
+      ],
+      "url": "https://www.setlist.fm/venue/state-theatre-minneapolis-mn-usa-2bd6c01e.html",
+      "setlist": []
+    },
+    "artist": {
+      "name": "Jeff Arcuri",
+      "url": "https://www.setlist.fm/setlists/jeff-arcuri-5be41b18.html"
+    },
+    "tour": null,
+    "url": "https://www.setlist.fm/setlist/jeff-arcuri/2024/state-theatre-minneapolis-mn-7b53c290.html"
   }
 ]

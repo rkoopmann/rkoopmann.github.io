@@ -1,0 +1,105 @@
+{
+	"id": "3babacbc",
+	"versionId": "g6bad3e26",
+	"eventDate": "18-08-2024",
+	"lastUpdated": "2024-08-29T06:06:13.188+0000",
+	"artist": {
+		"mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+		"name": "Metallica",
+		"sortName": "Metallica",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+	},
+	"venue": {
+		"id": "43d253af",
+		"name": "U.S. Bank Stadium",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/us-bank-stadium-minneapolis-mn-usa-43d253af.html"
+	},
+	"tour": {
+		"name": "M72 World Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+						"tape": true
+					},
+					{
+						"name": "The Ecstasy of Gold",
+						"tape": true
+					},
+					{
+						"name": "Whiplash"
+					},
+					{
+						"name": "For Whom the Bell Tolls"
+					},
+					{
+						"name": "Ride the Lightning"
+					},
+					{
+						"name": "Until It Sleeps"
+					},
+					{
+						"name": "Lux Æterna"
+					},
+					{
+						"name": "Screaming Suicide"
+					},
+					{
+						"name": "Kirk and Rob Doodle",
+						"info": "Sonny Curtis’ “Love is All Around” a cappella \u0026 Ozzy Osbourne's “Over the Mountain\""
+					},
+					{
+						"name": "The Day That Never Comes"
+					},
+					{
+						"name": "Wherever I May Roam"
+					},
+					{
+						"name": "The Call of Ktulu",
+						"info": "Dedicated to Cliff Burton"
+					},
+					{
+						"name": "The Unforgiven"
+					},
+					{
+						"name": "Inamorata"
+					},
+					{
+						"name": "Battery"
+					},
+					{
+						"name": "Moth Into Flame",
+						"info": "False start due to James coming in on a 4 count and not 8 count"
+					},
+					{
+						"name": "One"
+					},
+					{
+						"name": "Enter Sandman"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/metallica/2024/us-bank-stadium-minneapolis-mn-3babacbc.html"
+}

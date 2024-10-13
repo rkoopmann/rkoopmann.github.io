@@ -1512,6 +1512,10 @@
   layout: event_show_page
   date: 2022-10-07
   permalink: /event/2022-10-07/
+- file: ./events/show/2024-08-16.md
+  layout: event_show_page
+  date: 2024-08-16
+  permalink: /event/2024-08-16/
 - file: ./events/show/2001-09-06.md
   layout: event_show_page
   date: 2001-09-06
@@ -1624,6 +1628,10 @@
   layout: event_show_page
   date: 1998-07-18
   permalink: /event/1998-07-18/
+- file: ./events/show/2024-08-18.md
+  layout: event_show_page
+  date: 2024-08-18
+  permalink: /event/2024-08-18/
 - file: ./events/show/2024-07-31.md
   layout: event_show_page
   date: 2024-07-31
@@ -1761,6 +1769,10 @@
   layout: event_show_page
   date: 2018-08-09
   permalink: /event/2018-08-09/
+- file: ./events/show/2024-08-20.md
+  layout: event_show_page
+  date: 2024-08-20
+  permalink: /event/2024-08-20/
 - file: ./events/show/1995-06-11.md
   layout: event_show_page
   date: 1995-06-11
@@ -1803,6 +1815,10 @@
   layout: event_venue_page
   venue: Vetter Stone Amphitheater
   permalink: /event/venue/vetter-stone-amphitheater/
+- file: ./events/venue/river-s-edge-park.md
+  layout: event_venue_page
+  venue: River's Edge Park
+  permalink: /event/venue/river-s-edge-park/
 - file: ./events/venue/rivers-edge-park.md
   layout: event_venue_page
   venue: River's Edge Park
@@ -1811,6 +1827,10 @@
   layout: event_venue_page
   venue: The Laugh Factory
   permalink: /event/venue/the-laugh-factory/
+- file: ./events/venue/u.s.-bank-stadium.md
+  layout: event_venue_page
+  venue: U.S. Bank Stadium
+  permalink: /event/venue/u.s.-bank-stadium/
 - file: ./events/venue/myth.md
   layout: event_venue_page
   venue: Myth
@@ -1819,6 +1839,10 @@
   layout: event_venue_page
   venue: Uptown Theater
   permalink: /event/venue/uptown-theater/
+- file: ./events/venue/river's-edge-park.md
+  layout: event_venue_page
+  venue: River's Edge Park
+  permalink: /event/venue/river's-edge-park/
 - file: ./events/venue/mill-city-nights.md
   layout: event_venue_page
   venue: Mill City Nights
@@ -1827,6 +1851,10 @@
   layout: event_venue_page
   venue: Late Show With David Letterman
   permalink: /event/venue/late-show-with-david-letterman/
+- file: ./events/venue/buster-s-sports-bar-grill.md
+  layout: event_venue_page
+  venue: Buster's Sports Bar & Grill
+  permalink: /event/venue/buster-s-sports-bar-grill/
 - file: ./events/venue/target-center.md
   layout: event_venue_page
   venue: Target Center
@@ -1872,14 +1900,14 @@
   layout: event_venue_page
   venue: Mystic Showroom at Mystic Lake Casino
   permalink: /event/venue/mystic-showroom-at-mystic-lake-casino/
-- file: ./events/venue/busters-sports-bar-&-grill.md
-  layout: event_venue_page
-  venue: Buster's Sports Bar & Grill
-  permalink: /event/venue/busters-sports-bar-&-grill/
 - file: ./events/venue/brown-county-fairgrounds.md
   layout: event_venue_page
   venue: Brown County Fairgrounds
   permalink: /event/venue/brown-county-fairgrounds/
+- file: ./events/venue/u-s-bank-stadium.md
+  layout: event_venue_page
+  venue: U.S. Bank Stadium
+  permalink: /event/venue/u-s-bank-stadium/
 - file: ./events/venue/iowa-state-fairgrounds.md
   layout: event_venue_page
   venue: Iowa State Fairgrounds
@@ -1892,6 +1920,10 @@
   layout: event_venue_page
   venue: Palace Theatre
   permalink: /event/venue/palace-theatre/
+- file: ./events/venue/.md
+  layout: event_venue_page
+  venue: Xcel Energy Center
+  permalink: /event/venue//
 - file: ./events/venue/hubert-h-humphrey-metrodome.md
   layout: event_venue_page
   venue: Hubert H. Humphrey Metrodome
@@ -1916,6 +1948,10 @@
   layout: event_venue_page
   venue: Target Field
   permalink: /event/venue/target-field/
+- file: ./events/venue/busters-sports-bar-grill.md
+  layout: event_venue_page
+  venue: Buster's Sports Bar & Grill
+  permalink: /event/venue/busters-sports-bar-grill/
 - file: ./events/artist/collective-soul.md
   layout: event_artist_page
   artist: Collective Soul
@@ -2048,6 +2084,10 @@
   layout: event_artist_page
   artist: The Vandals
   permalink: /event/artist/the-vandals/
+- file: ./events/artist/banner-pilot.md
+  layout: event_artist_page
+  artist: Banner Pilot
+  permalink: /event/artist/banner-pilot/
 - file: ./events/artist/roger-waters.md
   layout: event_artist_page
   artist: Roger Waters
@@ -2056,6 +2096,10 @@
   layout: event_artist_page
   artist: Tool
   permalink: /event/artist/tool/
+- file: ./events/artist/codefendants.md
+  layout: event_artist_page
+  artist: Codefendants
+  permalink: /event/artist/codefendants/
 - file: ./events/artist/lisa-loeb.md
   layout: event_artist_page
   artist: Lisa Loeb
@@ -2248,6 +2292,14 @@
   layout: event_artist_page
   artist: Danzig
   permalink: /event/artist/danzig/
+- file: ./events/artist/let-s-go-bowling.md
+  layout: event_artist_page
+  artist: Let's Go Bowling
+  permalink: /event/artist/let-s-go-bowling/
+- file: ./events/artist/pantera.md
+  layout: event_artist_page
+  artist: Pantera
+  permalink: /event/artist/pantera/
 - file: ./events/artist/ozzy-osbourne.md
   layout: event_artist_page
   artist: Ozzy Osbourne
@@ -2497,6 +2549,10 @@
   layout: event_artist_page
   artist: Gavin Rossdale
   permalink: /event/artist/gavin-rossdale/
+- file: ./events/artist/let's-go-bowling.md
+  layout: event_artist_page
+  artist: Let's Go Bowling
+  permalink: /event/artist/let's-go-bowling/
 - file: ./events/artist/ziggy-marley-the-melody-makers.md
   layout: event_artist_page
   artist: Ziggy Marley & The Melody Makers

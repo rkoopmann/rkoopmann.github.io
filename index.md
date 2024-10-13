@@ -33,13 +33,18 @@ div.index-item {
       <tt><a class="post-link" href="/event/{{ anItem.date }}">{{ e.name | date: "%b %d" }}</a></tt>
     </span>
     &mdash;
-    {% for a in eventArtists %} ⨳ <a href="/event/artist/{{ a.Artist | slugify }}">{{ a.Artist }}</a>{% endfor %} ⨳
+    {% assign artists = "" | split: "" %}
+    {% for item in eventArtists %}
+        {% assign artists = artists | push: item.Artist %}
+    {% endfor %}
+    {% assign sorted_artists = artists | sort %}
+    {% for a in sorted_artists %} ⨳ {{ a }}{% endfor %} ⨳
   {% else %}
     <span class="post-meta">
       <tt><a class="post-link" href="{{ anItem.url }}">{{ e.name | date: "%b %d" }}</a></tt>
     </span>
     &mdash;
-    <em>{{ anItem.title }}</em>
+    ⨳ <em>{{ anItem.title }}</em> ⨳
   {% endif %}
 </div>
   {% endfor %}

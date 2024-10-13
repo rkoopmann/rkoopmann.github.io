@@ -1,0 +1,84 @@
+{
+	"id": "1b570574",
+	"versionId": "g1bac3178",
+	"eventDate": "20-08-2024",
+	"lastUpdated": "2024-08-21T07:20:28.869+0000",
+	"artist": {
+		"mbid": "d1edcf89-93ea-4b8b-83f6-702fe27385ed",
+		"name": "Banner Pilot",
+		"sortName": "Banner Pilot",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/banner-pilot-13d701ad.html"
+	},
+	"venue": {
+		"id": "3bd52880",
+		"name": "Myth",
+		"city": {
+			"id": "5036588",
+			"name": "Maplewood",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.953022,
+				"long": -92.99522
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Alchemy"
+					},
+					{
+						"name": "Spanish Reds"
+					},
+					{
+						"name": "Effigy"
+					},
+					{
+						"name": "Empty Lot"
+					},
+					{
+						"name": "Starting at an Ending"
+					},
+					{
+						"name": "Drains to the Mississippi"
+					},
+					{
+						"name": "Modern Shakes"
+					},
+					{
+						"name": "Hold Fast"
+					},
+					{
+						"name": "Intervention"
+					},
+					{
+						"name": "Division Street"
+					},
+					{
+						"name": "Central Standard"
+					},
+					{
+						"name": "Skeleton Key"
+					},
+					{
+						"name": "Bender"
+					}
+				]
+			}
+		]
+	},
+	"info": "Kody Templeman from Teenage Bottlerocket filled in on rhythm guitar and backing vocals",
+	"url": "https://www.setlist.fm/setlist/banner-pilot/2024/myth-maplewood-mn-1b570574.html"
+}
