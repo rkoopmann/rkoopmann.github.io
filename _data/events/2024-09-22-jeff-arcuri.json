@@ -1,8 +1,8 @@
 {
 	"id": "7b53c290",
-	"versionId": "g5ba83758",
+	"versionId": "g2b52e46a",
 	"eventDate": "22-09-2024",
-	"lastUpdated": "2024-09-23T14:59:01.960+0000",
+	"lastUpdated": "2024-11-06T02:44:54.388+0000",
 	"artist": {
 		"mbid": "c9c0cbeb-f054-476f-8e13-27506d7513e5",
 		"name": "Jeff Arcuri",
@@ -29,7 +29,9 @@
 		},
 		"url": "https://www.setlist.fm/venue/state-theatre-minneapolis-mn-usa-2bd6c01e.html"
 	},
-	"tour": {},
+	"tour": {
+		"name": "Full Beans Fall Tour"
+	},
 	"sets": {
 		"set": []
 	},

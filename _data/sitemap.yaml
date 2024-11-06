@@ -2176,6 +2176,10 @@
   layout: event_artist_page
   artist: The Goo Goo Dolls
   permalink: /event/artist/the-goo-goo-dolls/
+- file: ./events/artist/jeff-arcuri.md
+  layout: event_artist_page
+  artist: Jeff Arcuri
+  permalink: /event/artist/jeff-arcuri/
 - file: ./events/artist/pink-floyd.md
   layout: event_artist_page
   artist: Pink Floyd

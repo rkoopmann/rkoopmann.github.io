@@ -1,8 +1,8 @@
 {
 	"id": "73f6ba01",
-	"versionId": "gbfc6d92",
+	"versionId": "g5b55b7f0",
 	"eventDate": "28-05-1995",
-	"lastUpdated": "2022-09-05T20:47:37.959+0000",
+	"lastUpdated": "2024-10-27T13:44:30.105+0000",
 	"artist": {
 		"mbid": "b15ebd71-a252-417d-9e1c-3e6863da68f8",
 		"name": "Faith No More",
@@ -30,7 +30,7 @@
 		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
 	},
 	"tour": {
-		"name": "King For a Day"
+		"name": "King for a Day"
 	},
 	"sets": {
 		"set": [
