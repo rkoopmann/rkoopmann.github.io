@@ -13,39 +13,62 @@ div.index-item {
 }
 </style>
 
-{% assign most_recent_posts = site.posts | sort: 'date' | reverse | slice: 0, 10 %}
-{% assign most_recent_events = site.data.events.list-dates | sort: 'date' | reverse | slice: 0, 10 %}
+Here's some things; Some are good, some are okay, a lot are stupid.
 
-{% assign most_recents = most_recent_posts | concat: most_recent_events | sort: 'date' | reverse | slice: 0, 10 %}
-
-{% assign items_by_year = most_recents | sort: 'date' | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
-{% for year in items_by_year %}
-  <tt><strong>{{ year.name }}</strong></tt>
-  {% assign items_by_date = year.items | group_by: "date" %}
-  {% for e in items_by_date %}
-    {% assign anItem = e.items | first %}
-<div class="index-item">
-  {% assign eventDate = anItem.date | date: "%Y-%m-%d" %}
-  {% assign eventArtists = site.data.events.list.Event | where_exp: "e", "e.Date == eventDate" | natural_sort: "Artist" %}
-  {% assign eventArtistCount = eventArtists | size %}
-  {% if eventArtistCount > 0 %}
-    <span class="post-meta">
-      <tt><a class="post-link" href="/event/{{ anItem.date }}">{{ e.name | date: "%b %d" }}</a></tt>
-    </span>
-    &mdash;
-    {% assign artists = "" | split: "" %}
-    {% for item in eventArtists %}
-        {% assign artists = artists | push: item.Artist %}
-    {% endfor %}
-    {% assign sorted_artists = artists | sort %}
-    {% for a in sorted_artists %} ⨳ {{ a }}{% endfor %} ⨳
-  {% else %}
-    <span class="post-meta">
-      <tt><a class="post-link" href="{{ anItem.url }}">{{ e.name | date: "%b %d" }}</a></tt>
-    </span>
-    &mdash;
-    ⨳ <em>{{ anItem.title }}</em> ⨳
-  {% endif %}
-</div>
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year in posts_by_year %}
+<tt><strong>{{ year.name }}</strong></tt>
+  {% for post in year.items %}
+  <div class="index-item"><span class="post-meta"><tt><a class="post-link" href="{{ post.url | relative_url }}">{{ post.date | date: "%b %d" }}</a></tt></span>&mdash;<em>{{ post.title | escape }}</em></div>
   {% endfor %}
 {% endfor %}
+
+
+<hr>
+
+{% comment %}
+Initialize an empty array to collect tags
+{% endcomment %}
+{% assign all_tags = "" %}
+
+{% comment %}
+Collect all tags from all posts
+{% endcomment %}
+{% for post in site.posts %}
+  {% for tag in post.tags %}
+    {% unless all_tags contains tag %}
+      {% assign all_tags = all_tags | append: tag | append: "," %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
+{% comment %}
+Split the tags back into an array and remove the last empty item
+{% endcomment %}
+{% assign all_tags = all_tags | split: "," | sort %}
+
+{% comment %}
+Create a unique list of tags
+{% endcomment %}
+{% assign unique_tags = "" %}
+{% for tag in all_tags %}
+  {% if tag != "" %}
+    {% unless unique_tags contains tag %}
+      {% assign unique_tags = unique_tags | append: tag | append: "," %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+{% assign unique_tags = unique_tags | split: "," | sort_natural %}
+
+{% comment %}
+Count the number of posts per tag and display
+{% endcomment %}
+{%- for tag in unique_tags -%}
+  {% assign tag_count = 0 %}
+  {%- for post in site.posts -%}
+    {% if post.tags contains tag %}
+      {% assign tag_count = tag_count | plus: 1 %}
+    {% endif %}
+  {%- endfor -%}
+  <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>&nbsp;({{ tag_count }}){% unless forloop.last %}, {% endunless %}
+{%- endfor -%}
