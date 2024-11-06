@@ -1,0 +1,37 @@
+{
+	"id": "5b9633ac",
+	"versionId": "53616f51",
+	"eventDate": "24-10-2018",
+	"lastUpdated": "2018-10-25T02:37:24.089+0000",
+	"artist": {
+		"mbid": "14637c9a-4156-4990-862d-02113db0bc07",
+		"name": "Big Freedia",
+		"sortName": "Big Freedia",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/big-freedia-4bd163ba.html"
+	},
+	"venue": {
+		"id": "bd7cdbe",
+		"name": "Champions Square",
+		"city": {
+			"id": "4335045",
+			"name": "New Orleans",
+			"state": "Louisiana",
+			"stateCode": "LA",
+			"coords": {
+				"lat": 29.955,
+				"long": -90.075
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/champions-square-new-orleans-la-usa-bd7cdbe.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/big-freedia/2018/champions-square-new-orleans-la-5b9633ac.html"
+}

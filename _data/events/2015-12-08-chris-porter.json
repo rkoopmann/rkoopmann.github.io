@@ -1,0 +1,37 @@
+{
+	"id": "2bbe901e",
+	"versionId": "g7bf95ab0",
+	"eventDate": "08-12-2015",
+	"lastUpdated": "2022-10-24T01:52:39.364+0000",
+	"artist": {
+		"mbid": "52eb05f2-4fb5-46d4-bfa2-23c89e625c57",
+		"name": "Chris Porter",
+		"sortName": "Porter, Chris",
+		"disambiguation": "Comedian",
+		"url": "https://www.setlist.fm/setlists/chris-porter-bc1c972.html"
+	},
+	"venue": {
+		"id": "3d45953",
+		"name": "Acme Comedy Company",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/chris-porter/2015/acme-comedy-company-minneapolis-mn-2bbe901e.html"
+}

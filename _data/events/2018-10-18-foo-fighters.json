@@ -1,0 +1,121 @@
+{
+	"id": "3b968020",
+	"versionId": "g2ba5605e",
+	"eventDate": "18-10-2018",
+	"lastUpdated": "2024-07-06T20:09:43.941+0000",
+	"artist": {
+		"mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+		"name": "Foo Fighters",
+		"sortName": "Foo Fighters",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {
+		"name": "Concrete and Gold"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Run"
+					},
+					{
+						"name": "The Sky Is a Neighborhood"
+					},
+					{
+						"name": "La Dee Da"
+					},
+					{
+						"name": "Drum Solo"
+					},
+					{
+						"name": "Sunday Rain",
+						"info": "Taylor Hawkins on vocals"
+					},
+					{
+						"name": "Something From Nothing"
+					},
+					{
+						"name": "Walk"
+					},
+					{
+						"name": "These Days"
+					},
+					{
+						"name": "The Pretender"
+					},
+					{
+						"name": "Times Like These"
+					},
+					{
+						"name": "All My Life"
+					},
+					{
+						"name": "Learn to Fly"
+					},
+					{
+						"name": "Breakout"
+					},
+					{
+						"name": "Guitar Solo / Another One Bites the Dust / Keyboard Solo / Jump / Imagine / Blitzkrieg Bop"
+					},
+					{
+						"name": "Under Pressure"
+					},
+					{
+						"name": "My Hero"
+					},
+					{
+						"name": "Monkey Wrench"
+					},
+					{
+						"name": "Everlong"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "Breakdown"
+					},
+					{
+						"name": "White Limo",
+						"info": "Played for several fans who made a cutout of a white limo"
+					},
+					{
+						"name": "Cold Day in the Sun",
+						"info": "Played instead of \"This Is a Call\""
+					},
+					{
+						"name": "Best of You"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/foo-fighters/2018/xcel-energy-center-st-paul-mn-3b968020.html"
+}

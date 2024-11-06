@@ -1,0 +1,50 @@
+{
+	"id": "6ba54a5a",
+	"versionId": "g43986b4b",
+	"eventDate": "31-08-2023",
+	"lastUpdated": "2023-09-01T13:52:41.101+0000",
+	"artist": {
+		"mbid": "18a627eb-c6e8-4175-b947-9322d8deb938",
+		"name": "Deep Sea Diver",
+		"sortName": "Deep Sea Diver",
+		"disambiguation": "indie pop rock band from Seattle, WA, USA",
+		"url": "https://www.setlist.fm/setlists/deep-sea-diver-2bdeb49e.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Emergency"
+					},
+					{
+						"name": "Impossible Weight"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/deep-sea-diver/2023/xcel-energy-center-st-paul-mn-6ba54a5a.html"
+}

@@ -1,0 +1,100 @@
+{
+	"id": "63e8be13",
+	"versionId": "6b68deca",
+	"eventDate": "09-08-2018",
+	"lastUpdated": "2019-01-12T04:13:36.224+0000",
+	"artist": {
+		"mbid": "3ca0ef91-3297-4ef8-a99a-1c1a54dc8ac7",
+		"name": "FireHouse",
+		"sortName": "FireHouse",
+		"disambiguation": "US hard rock band",
+		"url": "https://www.setlist.fm/setlists/firehouse-63d6facf.html"
+	},
+	"venue": {
+		"id": "6bd256ee",
+		"name": "Brown County Fairgrounds",
+		"city": {
+			"id": "5039172",
+			"name": "New Ulm",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.3125,
+				"long": -94.45306
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/brown-county-fairgrounds-new-ulm-mn-usa-6bd256ee.html"
+	},
+	"tour": {
+		"name": "Rock You Tonight - Tour 2018"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Overnight Sensation"
+					},
+					{
+						"name": "Crash"
+					},
+					{
+						"name": "Shake \u0026 Tumble"
+					},
+					{
+						"name": "Oughta Be a Law"
+					},
+					{
+						"name": "All She Wrote"
+					},
+					{
+						"name": "When I Look Into Your Eyes"
+					},
+					{
+						"name": "Hold Your Fire"
+					},
+					{
+						"name": "Don't Walk Away"
+					},
+					{
+						"name": "Get in Touch"
+					},
+					{
+						"name": "Temptation"
+					},
+					{
+						"name": "Drum Solo"
+					},
+					{
+						"name": "Love Is a Dangerous Thing"
+					},
+					{
+						"name": "I Live My Life for You"
+					},
+					{
+						"name": "Love of a Lifetime"
+					},
+					{
+						"name": "Guitar Solo"
+					},
+					{
+						"name": "Reach for the Sky"
+					},
+					{
+						"name": "Helpless"
+					},
+					{
+						"name": "Don't Treat Me Bad"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/firehouse/2018/brown-county-fairgrounds-new-ulm-mn-63e8be13.html"
+}

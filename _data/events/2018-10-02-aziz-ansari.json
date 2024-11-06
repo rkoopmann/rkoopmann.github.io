@@ -1,0 +1,37 @@
+{
+	"id": "43a9c7ef",
+	"versionId": "gbbae92a",
+	"eventDate": "02-10-2018",
+	"lastUpdated": "2024-05-09T14:22:18.092+0000",
+	"artist": {
+		"mbid": "fa4da603-76c1-465c-b573-42d71847a7a5",
+		"name": "Aziz Ansari",
+		"sortName": "Ansari, Aziz",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/aziz-ansari-23d464c7.html"
+	},
+	"venue": {
+		"id": "3d45953",
+		"name": "Acme Comedy Company",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/acme-comedy-company-minneapolis-mn-usa-3d45953.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/aziz-ansari/2018/acme-comedy-company-minneapolis-mn-43a9c7ef.html"
+}

@@ -1,0 +1,110 @@
+{
+	"id": "3bd6d8c4",
+	"versionId": "3ec3543",
+	"eventDate": "04-02-1995",
+	"lastUpdated": "2013-11-28T01:38:40.000+0000",
+	"artist": {
+		"mbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+		"name": "Nine Inch Nails",
+		"sortName": "Nine Inch Nails",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/nine-inch-nails-1bd6a5bc.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Further Down the Spiral"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Pinion",
+						"tape": true
+					},
+					{
+						"name": "Mr. Self Destruct"
+					},
+					{
+						"name": "Sin"
+					},
+					{
+						"name": "March of the Pigs"
+					},
+					{
+						"name": "Piggy"
+					},
+					{
+						"name": "Reptile"
+					},
+					{
+						"name": "Gave Up"
+					},
+					{
+						"name": "Happiness in Slavery"
+					},
+					{
+						"name": "Eraser"
+					},
+					{
+						"name": "Hurt"
+					},
+					{
+						"name": "The Downward Spiral"
+					},
+					{
+						"name": "Wish"
+					},
+					{
+						"name": "Suck"
+					},
+					{
+						"name": "Down in It"
+					},
+					{
+						"name": "Head Like a Hole"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "Closer"
+					},
+					{
+						"name": "Dead Souls"
+					},
+					{
+						"name": "I Do Not Want This"
+					},
+					{
+						"name": "Something I Can Never Have"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/nine-inch-nails/1995/target-center-minneapolis-mn-3bd6d8c4.html"
+}

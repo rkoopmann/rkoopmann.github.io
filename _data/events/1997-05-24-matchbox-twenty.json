@@ -1,0 +1,49 @@
+{
+	"id": "befbd7a",
+	"versionId": "g13a119a5",
+	"eventDate": "24-05-1997",
+	"lastUpdated": "2024-07-29T21:27:17.001+0000",
+	"artist": {
+		"mbid": "75af9d25-cf32-49c0-9192-60bd8e9784e6",
+		"name": "Matchbox Twenty",
+		"sortName": "Matchbox Twenty",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/matchbox-twenty-6bd6b656.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Yourself or Someone Like You"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Push"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/matchbox-twenty/1997/float-rite-park-amphitheatre-somerset-wi-befbd7a.html"
+}

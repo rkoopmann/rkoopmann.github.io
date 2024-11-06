@@ -1,0 +1,39 @@
+{
+	"id": "1bc4e534",
+	"versionId": "3ab4d83",
+	"eventDate": "25-05-1996",
+	"lastUpdated": "2016-09-17T02:34:47.000+0000",
+	"artist": {
+		"mbid": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+		"name": "Everclear",
+		"sortName": "Everclear",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/everclear-7bd6b6f4.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Sparkle And Fade"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/everclear/1996/float-rite-park-amphitheatre-somerset-wi-1bc4e534.html"
+}

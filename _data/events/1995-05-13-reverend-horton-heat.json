@@ -1,0 +1,37 @@
+{
+	"id": "73c53ed1",
+	"versionId": "3beb18b0",
+	"eventDate": "13-05-1995",
+	"lastUpdated": "2014-02-03T04:36:16.000+0000",
+	"artist": {
+		"mbid": "cbf71c15-17c2-484f-8406-cfce12fd3e46",
+		"name": "Reverend Horton Heat",
+		"sortName": "Reverend Horton Heat",
+		"disambiguation": "the band",
+		"url": "https://www.setlist.fm/setlists/reverend-horton-heat-23d6842f.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/reverend-horton-heat/1995/target-center-minneapolis-mn-73c53ed1.html"
+}

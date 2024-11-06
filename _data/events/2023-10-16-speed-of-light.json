@@ -1,0 +1,77 @@
+{
+	"id": "53a09b0d",
+	"versionId": "g23823443",
+	"eventDate": "16-10-2023",
+	"lastUpdated": "2023-10-17T15:57:52.730+0000",
+	"artist": {
+		"mbid": "96bb5e13-6cc4-4ae1-ab57-5238c257a5e5",
+		"name": "Speed of Light",
+		"sortName": "Speed of Light",
+		"disambiguation": "California garage rock",
+		"url": "https://www.setlist.fm/setlists/speed-of-light-1bfe090c.html"
+	},
+	"venue": {
+		"id": "13d1f5e9",
+		"name": "Uptown Theater",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/uptown-theater-minneapolis-mn-usa-13d1f5e9.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Release"
+					},
+					{
+						"name": "Kill the Vibe"
+					},
+					{
+						"name": "Tightrope"
+					},
+					{
+						"name": "Shuffle My Mind"
+					},
+					{
+						"name": "Insane"
+					},
+					{
+						"name": "Feed"
+					},
+					{
+						"name": "Break"
+					},
+					{
+						"name": "Change"
+					},
+					{
+						"name": "Rearview"
+					},
+					{
+						"name": "Teeth"
+					},
+					{
+						"name": "Seance/That Girl"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/speed-of-light/2023/uptown-theater-minneapolis-mn-53a09b0d.html"
+}

@@ -1,0 +1,119 @@
+{
+	"id": "4ba92bce",
+	"versionId": "g1bb835b0",
+	"eventDate": "14-05-2024",
+	"lastUpdated": "2024-05-28T16:13:31.457+0000",
+	"artist": {
+		"mbid": "2aab61bc-67f4-4722-8c6e-e1821b2e32a6",
+		"name": "Violent Femmes",
+		"sortName": "Violent Femmes",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/violent-femmes-3bd78878.html"
+	},
+	"venue": {
+		"id": "53d653c9",
+		"name": "Val Air Ballroom",
+		"city": {
+			"id": "4881346",
+			"name": "West Des Moines",
+			"state": "Iowa",
+			"stateCode": "IA",
+			"coords": {
+				"lat": 41.571987,
+				"long": -93.74531
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/val-air-ballroom-west-des-moines-ia-usa-53d653c9.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "Hallowed Ground",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Country Death Song"
+					},
+					{
+						"name": "I Hear the Rain"
+					},
+					{
+						"name": "Never Tell"
+					},
+					{
+						"name": "Jesus Walking on the Water"
+					},
+					{
+						"name": "I Know It's True But I'm Sorry to Say"
+					},
+					{
+						"name": "Hallowed Ground"
+					},
+					{
+						"name": "Sweet Misery Blues"
+					},
+					{
+						"name": "Black Girls"
+					},
+					{
+						"name": "It's Gonna Rain"
+					}
+				]
+			},
+			{
+				"name": "Violent Femmes",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Blister in the Sun"
+					},
+					{
+						"name": "Kiss Off"
+					},
+					{
+						"name": "Please Do Not Go"
+					},
+					{
+						"name": "Add It Up"
+					},
+					{
+						"name": "Confessions"
+					},
+					{
+						"name": "Prove My Love"
+					},
+					{
+						"name": "Promise"
+					},
+					{
+						"name": "To the Kill"
+					},
+					{
+						"name": "Gone Daddy Gone"
+					},
+					{
+						"name": "Good Feeling"
+					}
+				]
+			},
+			{
+				"name": "Encore",
+				"encore": 0,
+				"song": [
+					{
+						"name": "I Held Her in My Arms"
+					},
+					{
+						"name": "American Music"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/violent-femmes/2024/val-air-ballroom-west-des-moines-ia-4ba92bce.html"
+}

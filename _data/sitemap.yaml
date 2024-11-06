@@ -1178,12 +1178,6 @@
   - research
 - file: ./posts/_drafts/datagraph.md
   date: 2021-12-16
-- file: ./posts/index.md
-  layout: default
-  title: posts
-  permalink: /post/
-  navigation_weight: 10
-  category: index
 - file: ./hover.md
   layout: redirect
   permalink: /hover/
@@ -1336,12 +1330,6 @@
   layout: tag_page
   tag: tutorial
   permalink: /tag/tutorial/
-- file: ./tags/index.md
-  layout: default
-  title: tags
-  permalink: /tag/
-  category: index
-  navigation_weight: 90
 - file: ./tags/technical-debt.md
   layout: tag_page
   tag: technical debt
@@ -1440,9 +1428,32 @@
   permalink: /
   navigation_weight: 00
   category: index
+- file: ./tags.md
+  layout: default
+  title: tags
+  permalink: /tag/
+  category: index
+  navigation_weight: 90
 - file: ./404.md
   layout: default
   title: lost?
+- file: ./posts.md
+  layout: default
+  title: posts
+  permalink: /post/
+  navigation_weight: 10
+  category: index
+- file: ./apps.md
+  layout: default
+  title: apps
+  permalink: /app/
+  category: index
+  navigation_weight: 20
+- file: ./events/artists.md
+  layout: default
+  title: artists
+  permalink: /event/artist/
+  category: index
 - file: ./events/show/2019-07-03.md
   layout: event_show_page
   date: 2019-07-03
@@ -1652,11 +1663,6 @@
   layout: event_show_page
   date: 2019-11-16
   permalink: /event/2019-11-16/
-- file: ./events/show/index.md
-  layout: default
-  title: shows
-  permalink: /event/show/
-  category: index
 - file: ./events/show/2017-11-11.md
   layout: event_show_page
   date: 2017-11-11
@@ -1797,11 +1803,10 @@
   layout: event_show_page
   date: 2017-07-26
   permalink: /event/2017-07-26/
-- file: ./events/index.md
+- file: ./events/shows.md
   layout: default
-  title: events
-  permalink: /event/
-  navigation_weight: 40
+  title: shows
+  permalink: /event/show/
   category: index
 - file: ./events/venue/state-theatre.md
   layout: event_venue_page
@@ -1891,11 +1896,6 @@
   layout: event_venue_page
   venue: Steamboat Natchez
   permalink: /event/venue/steamboat-natchez/
-- file: ./events/venue/index.md
-  layout: default
-  title: venues
-  permalink: /event/venue/
-  category: index
 - file: ./events/venue/mystic-showroom-at-mystic-lake-casino.md
   layout: event_venue_page
   venue: Mystic Showroom at Mystic Lake Casino
@@ -2308,11 +2308,6 @@
   layout: event_artist_page
   artist: Ozzy Osbourne
   permalink: /event/artist/ozzy-osbourne/
-- file: ./events/artist/index.md
-  layout: default
-  title: artists
-  permalink: /event/artist/
-  category: index
 - file: ./events/artist/the-jim-rose-circus-sideshow.md
   layout: event_artist_page
   artist: The Jim Rose Circus Sideshow
@@ -2593,6 +2588,11 @@
   layout: event_artist_page
   artist: Republica
   permalink: /event/artist/republica/
+- file: ./events/venues.md
+  layout: default
+  title: venues
+  permalink: /event/venue/
+  category: index
 - file: ./about.md
   layout: default
   title: about
@@ -2658,12 +2658,6 @@
     tagline: 21 card trick
     slug: card-piles
     url: card-piles
-- file: ./apps/index.md
-  layout: default
-  title: apps
-  permalink: /app/
-  category: index
-  navigation_weight: 20
 - file: ./apps/epochs/changelog.md
   layout: app
   title: epochs Release Notes
@@ -2809,3 +2803,9 @@
     tagline: horse racing game without the hassle
     slug: dice-card-race
     url: dice-card-race
+- file: ./events.md
+  layout: default
+  title: events
+  permalink: /event/
+  navigation_weight: 40
+  category: index

@@ -1,0 +1,120 @@
+{
+	"id": "6bb1cac2",
+	"versionId": "g638bdebb",
+	"eventDate": "07-10-2022",
+	"lastUpdated": "2024-01-01T14:02:36.105+0000",
+	"artist": {
+		"mbid": "066e598e-baa0-4e34-b511-c70bcec6f783",
+		"name": "Toadies",
+		"sortName": "Toadies",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/toadies-63d69eb3.html"
+	},
+	"venue": {
+		"id": "63d63af7",
+		"name": "First Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html"
+	},
+	"tour": {
+		"name": "Rubberneck 25th Anniversary"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Little Sin"
+					},
+					{
+						"name": "No Deliverance"
+					},
+					{
+						"name": "Closer to You"
+					},
+					{
+						"name": "Jigsaw Girl"
+					},
+					{
+						"name": "Long Time"
+					}
+				]
+			},
+			{
+				"name": "Rubberneck",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Mexican Hairless"
+					},
+					{
+						"name": "Mister Love"
+					},
+					{
+						"name": "Backslider"
+					},
+					{
+						"name": "Possum Kingdom"
+					},
+					{
+						"name": "Quitter"
+					},
+					{
+						"name": "Away",
+						"info": "Audience member hit Vaden with a drink and got ejected"
+					},
+					{
+						"name": "I Come From the Water"
+					},
+					{
+						"name": "Tyler"
+					},
+					{
+						"name": "Happy Face"
+					},
+					{
+						"name": "Velvet"
+					},
+					{
+						"name": "I Burn"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "I Put a Spell on You"
+					},
+					{
+						"name": "Charmer"
+					},
+					{
+						"name": "Push the Hand"
+					},
+					{
+						"name": "Rattler's Revival",
+						"info": "Life's Been Good riff"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/toadies/2022/first-avenue-minneapolis-mn-6bb1cac2.html"
+}

@@ -1,0 +1,142 @@
+{
+	"id": "4bcdd3ea",
+	"versionId": "4313abbf",
+	"eventDate": "30-04-1996",
+	"lastUpdated": "2019-03-26T20:01:21.703+0000",
+	"artist": {
+		"mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+		"name": "Bad Religion",
+		"sortName": "Bad Religion",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+	},
+	"venue": {
+		"id": "63d63af7",
+		"name": "First Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html"
+	},
+	"tour": {
+		"name": "The Gray Race Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "The Gray Race"
+					},
+					{
+						"name": "No Control"
+					},
+					{
+						"name": "The Handshake"
+					},
+					{
+						"name": "21st Century (Digital Boy)"
+					},
+					{
+						"name": "American Jesus"
+					},
+					{
+						"name": "Them and Us"
+					},
+					{
+						"name": "Anesthesia"
+					},
+					{
+						"name": "What It Is"
+					},
+					{
+						"name": "Watch It Die"
+					},
+					{
+						"name": "Modern Man"
+					},
+					{
+						"name": "Yesterday"
+					},
+					{
+						"name": "Ten in 2010"
+					},
+					{
+						"name": "Pessimistic Lines"
+					},
+					{
+						"name": "You Are (the Government)"
+					},
+					{
+						"name": "A Walk"
+					},
+					{
+						"name": "Do What You Want"
+					},
+					{
+						"name": "Fuck Armageddon... This Is Hell"
+					},
+					{
+						"name": "Punk Rock Song"
+					},
+					{
+						"name": "The Streets of America"
+					},
+					{
+						"name": "Suffer"
+					},
+					{
+						"name": "Along the Way"
+					},
+					{
+						"name": "Generator"
+					},
+					{
+						"name": "Drunk Sincerity"
+					},
+					{
+						"name": "The Answer"
+					},
+					{
+						"name": "Leave Mine to Me"
+					},
+					{
+						"name": "Pity the Dead"
+					},
+					{
+						"name": "Recipe for Hate"
+					},
+					{
+						"name": "Infected"
+					},
+					{
+						"name": "Come Join Us"
+					},
+					{
+						"name": "Faith Alone"
+					},
+					{
+						"name": "We're Only Gonna Die"
+					},
+					{
+						"name": "Cease"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/bad-religion/1996/first-avenue-minneapolis-mn-4bcdd3ea.html"
+}

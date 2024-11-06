@@ -1,0 +1,37 @@
+{
+	"id": "5b970f78",
+	"versionId": "636c62c3",
+	"eventDate": "22-08-1995",
+	"lastUpdated": "2018-11-28T02:21:52.259+0000",
+	"artist": {
+		"mbid": "7b5239b1-07ff-41ce-834b-29fe98de9970",
+		"name": "Ziggy Marley \u0026 The Melody Makers",
+		"sortName": "Marley, Ziggy \u0026 Melody Makers, The",
+		"disambiguation": "Jamaican reggae family group",
+		"url": "https://www.setlist.fm/setlists/ziggy-marley-and-the-melody-makers-5bd6d38c.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/ziggy-marley-and-the-melody-makers/1995/float-rite-park-amphitheatre-somerset-wi-5b970f78.html"
+}

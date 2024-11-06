@@ -1,0 +1,39 @@
+{
+	"id": "7b53c290",
+	"versionId": "g2b52e46a",
+	"eventDate": "22-09-2024",
+	"lastUpdated": "2024-11-06T02:44:54.388+0000",
+	"artist": {
+		"mbid": "c9c0cbeb-f054-476f-8e13-27506d7513e5",
+		"name": "Jeff Arcuri",
+		"sortName": "Jeff Arcuri",
+		"disambiguation": "New York based comedian",
+		"url": "https://www.setlist.fm/setlists/jeff-arcuri-5be41b18.html"
+	},
+	"venue": {
+		"id": "2bd6c01e",
+		"name": "State Theatre",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/state-theatre-minneapolis-mn-usa-2bd6c01e.html"
+	},
+	"tour": {
+		"name": "Full Beans Fall Tour"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/jeff-arcuri/2024/state-theatre-minneapolis-mn-7b53c290.html"
+}

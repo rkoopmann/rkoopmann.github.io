@@ -1,0 +1,47 @@
+{
+	"id": "5ba06308",
+	"versionId": "g3bb7ac88",
+	"eventDate": "31-10-2023",
+	"lastUpdated": "2024-02-06T22:02:57.004+0000",
+	"artist": {
+		"mbid": "a3febb56-32ce-41e4-a2b0-aaf05373cb64",
+		"name": "Steel Beans",
+		"sortName": "Steel Beans",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/steel-beans-13fd9555.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "St. Paul Freestyle"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/steel-beans/2023/xcel-energy-center-st-paul-mn-5ba06308.html"
+}

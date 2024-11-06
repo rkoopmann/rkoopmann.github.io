@@ -1,0 +1,37 @@
+{
+	"id": "1b90ed88",
+	"versionId": "b1fb902",
+	"eventDate": "09-12-1995",
+	"lastUpdated": "2019-05-07T00:05:14.674+0000",
+	"artist": {
+		"mbid": "e2c00c56-8365-4160-9f40-a64682917633",
+		"name": "The Goo Goo Dolls",
+		"sortName": "Goo Goo Dolls",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/the-goo-goo-dolls-6bd6b6f6.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1995/target-center-minneapolis-mn-1b90ed88.html"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "73c01629",
+	"versionId": "3b9094e4",
+	"eventDate": "19-12-1998",
+	"lastUpdated": "2014-06-09T01:28:48.000+0000",
+	"artist": {
+		"mbid": "e23612fb-6dd6-4d5c-b638-2611bfc8c48a",
+		"name": "Cherry Poppin’ Daddies",
+		"sortName": "Cherry Poppin’ Daddies",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/cherry-poppin-daddies-53d69b91.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/cherry-poppin-daddies/1998/target-center-minneapolis-mn-73c01629.html"
+}

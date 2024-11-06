@@ -1,0 +1,37 @@
+{
+	"id": "139c1975",
+	"versionId": "1b018524",
+	"eventDate": "30-04-1996",
+	"lastUpdated": "2019-09-26T05:18:10.736+0000",
+	"artist": {
+		"mbid": "846cdb90-81a6-4c05-a7dc-9dd075f0db9e",
+		"name": "Unwritten Law",
+		"sortName": "Unwritten Law",
+		"disambiguation": "1990- current American rock band",
+		"url": "https://www.setlist.fm/setlists/unwritten-law-bd611de.html"
+	},
+	"venue": {
+		"id": "63d63af7",
+		"name": "First Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/unwritten-law/1996/first-avenue-minneapolis-mn-139c1975.html"
+}

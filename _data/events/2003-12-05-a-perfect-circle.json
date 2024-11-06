@@ -1,0 +1,94 @@
+{
+	"id": "33d3e8c9",
+	"versionId": "1b134d1c",
+	"eventDate": "05-12-2003",
+	"lastUpdated": "2019-04-04T17:10:45.352+0000",
+	"artist": {
+		"mbid": "078a9376-3c04-4280-b7d7-b20e158f345d",
+		"name": "A Perfect Circle",
+		"sortName": "Perfect Circle, A",
+		"disambiguation": "American rock supergroup",
+		"url": "https://www.setlist.fm/setlists/a-perfect-circle-13d689cd.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {
+		"name": "Thirteenth Step"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Vanishing"
+					},
+					{
+						"name": "Pet"
+					},
+					{
+						"name": "The Hollow"
+					},
+					{
+						"name": "Magdalena"
+					},
+					{
+						"name": "Weak and Powerless"
+					},
+					{
+						"name": "Rose"
+					},
+					{
+						"name": "Blue"
+					},
+					{
+						"name": "Thinking of You"
+					},
+					{
+						"name": "The Package"
+					},
+					{
+						"name": "3 Libras"
+					},
+					{
+						"name": "The Nurse Who Loved Me"
+					},
+					{
+						"name": "Gravity"
+					},
+					{
+						"name": "Fred's Got Slacks"
+					},
+					{
+						"name": "The Outsider"
+					},
+					{
+						"name": "The Noose"
+					},
+					{
+						"name": "Judith"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/a-perfect-circle/2003/xcel-energy-center-st-paul-mn-33d3e8c9.html"
+}

@@ -1,0 +1,105 @@
+{
+	"id": "73e5d2e9",
+	"versionId": "g43e9cfff",
+	"eventDate": "02-08-2017",
+	"lastUpdated": "2023-04-16T01:37:42.643+0000",
+	"artist": {
+		"mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
+		"name": "Primus",
+		"sortName": "Primus",
+		"disambiguation": "US rock band",
+		"url": "https://www.setlist.fm/setlists/primus-6bd69e5e.html"
+	},
+	"venue": {
+		"id": "13d25111",
+		"name": "Vetter Stone Amphitheater",
+		"city": {
+			"id": "5036420",
+			"name": "Mankato",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.163578,
+				"long": -93.9994
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/vetter-stone-amphitheater-mankato-mn-usa-13d25111.html"
+	},
+	"tour": {
+		"name": "2017 Summer U.S. Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Those Damned Blue-Collar Tweekers"
+					},
+					{
+						"name": "Last Salmon Man"
+					},
+					{
+						"name": "Too Many Puppies",
+						"info": "\u003e"
+					},
+					{
+						"name": "Sgt. Baker",
+						"info": "with Too Many Puppies reprise"
+					},
+					{
+						"name": "Nature Boy"
+					},
+					{
+						"name": "Wynona's Big Brown Beaver"
+					},
+					{
+						"name": "American Life"
+					},
+					{
+						"name": "The Candy Man"
+					},
+					{
+						"name": "Mr. Krinkle"
+					},
+					{
+						"name": "Jilly's on Smack"
+					},
+					{
+						"name": "On the Tweek Again"
+					},
+					{
+						"name": "Welcome to This World"
+					},
+					{
+						"name": "Mrs. Blaileen"
+					},
+					{
+						"name": "My Name Is Mud"
+					},
+					{
+						"name": "Jerry Was a Race Car Driver"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "The Seven"
+					},
+					{
+						"name": "Mr. Knowitall"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/primus/2017/vetter-stone-amphitheater-mankato-mn-73e5d2e9.html"
+}

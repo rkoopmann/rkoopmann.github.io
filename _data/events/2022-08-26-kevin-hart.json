@@ -1,0 +1,39 @@
+{
+	"id": "23b37403",
+	"versionId": "g1bff89a0",
+	"eventDate": "26-08-2022",
+	"lastUpdated": "2022-08-24T06:38:14.052+0000",
+	"artist": {
+		"mbid": "45c44cc4-71c7-4c6f-aae3-3a59036f8d49",
+		"name": "Kevin Hart",
+		"sortName": "Hart, Kevin",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/kevin-hart-73d2b26d.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Reality Check"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/kevin-hart/2022/target-center-minneapolis-mn-23b37403.html"
+}

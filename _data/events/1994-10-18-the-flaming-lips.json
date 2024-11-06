@@ -1,0 +1,65 @@
+{
+	"id": "5bd5bbcc",
+	"versionId": "g6ba55e02",
+	"eventDate": "18-10-1994",
+	"lastUpdated": "2024-07-06T20:12:31.836+0000",
+	"artist": {
+		"mbid": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
+		"name": "The Flaming Lips",
+		"sortName": "Flaming Lips, The",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/the-flaming-lips-43d6fb1f.html"
+	},
+	"venue": {
+		"id": "2bd6c01e",
+		"name": "State Theatre",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/state-theatre-minneapolis-mn-usa-2bd6c01e.html"
+	},
+	"tour": {
+		"name": "1994 Fall \u0026 Winter Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "When Yer Twenty Two"
+					},
+					{
+						"name": "Unconsciously Screamin'"
+					},
+					{
+						"name": "Superhumans"
+					},
+					{
+						"name": "Halloween on the Barbary Coast"
+					},
+					{
+						"name": "What's the New Mary Jane"
+					},
+					{
+						"name": "Under Pressure"
+					}
+				]
+			}
+		]
+	},
+	"info": "Incomplete setlist.",
+	"url": "https://www.setlist.fm/setlist/the-flaming-lips/1994/state-theatre-minneapolis-mn-5bd5bbcc.html"
+}

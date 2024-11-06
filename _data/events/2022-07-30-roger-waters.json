@@ -1,0 +1,124 @@
+{
+	"id": "33b21cf1",
+	"versionId": "g5b8ef38c",
+	"eventDate": "30-07-2022",
+	"lastUpdated": "2023-11-14T12:30:13.660+0000",
+	"artist": {
+		"mbid": "0f50beab-d77d-4f0f-ac26-0b87d3e9b11b",
+		"name": "Roger Waters",
+		"sortName": "Waters, Roger",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/roger-waters-6bd6ba16.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "This Is Not a Drill"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "Set 1:",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Comfortably Numb",
+						"info": "new arrangement"
+					},
+					{
+						"name": "The Happiest Days of Our Lives"
+					},
+					{
+						"name": "Another Brick in the Wall, Part 2"
+					},
+					{
+						"name": "Another Brick in the Wall, Part 3"
+					},
+					{
+						"name": "The Powers That Be"
+					},
+					{
+						"name": "The Bravery of Being Out of Range",
+						"info": "new arrangement"
+					},
+					{
+						"name": "The Bar"
+					},
+					{
+						"name": "Have a Cigar"
+					},
+					{
+						"name": "Wish You Were Here"
+					},
+					{
+						"name": "Shine On You Crazy Diamond (Parts VI-IX)"
+					},
+					{
+						"name": "Sheep"
+					}
+				]
+			},
+			{
+				"name": "Set 2:",
+				"encore": 0,
+				"song": [
+					{
+						"name": "In the Flesh"
+					},
+					{
+						"name": "Run Like Hell"
+					},
+					{
+						"name": "Déjà vu"
+					},
+					{
+						"name": "Is This the Life We Really Want?"
+					},
+					{
+						"name": "Money"
+					},
+					{
+						"name": "Us and Them"
+					},
+					{
+						"name": "Any Colour You Like"
+					},
+					{
+						"name": "Brain Damage"
+					},
+					{
+						"name": "Eclipse"
+					},
+					{
+						"name": "Two Suns in the Sunset"
+					},
+					{
+						"name": "The Bar (Reprise)"
+					},
+					{
+						"name": "Outside the Wall"
+					}
+				]
+			}
+		]
+	},
+	"info": "20 Minute Intermission Between Sets 1 \u0026 2; show originally scheduled for 2020-08-25",
+	"url": "https://www.setlist.fm/setlist/roger-waters/2022/target-center-minneapolis-mn-33b21cf1.html"
+}

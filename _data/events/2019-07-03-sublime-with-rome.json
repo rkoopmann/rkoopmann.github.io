@@ -1,0 +1,108 @@
+{
+	"id": "53914791",
+	"versionId": "73073ea9",
+	"eventDate": "03-07-2019",
+	"lastUpdated": "2019-07-23T01:03:48.322+0000",
+	"artist": {
+		"mbid": "079f2e2b-b3f9-4574-ac5c-add977b40762",
+		"name": "Sublime with Rome",
+		"sortName": "Sublime with Rome",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/sublime-with-rome-1bd5b144.html"
+	},
+	"venue": {
+		"id": "13d25111",
+		"name": "Vetter Stone Amphitheater",
+		"city": {
+			"id": "5036420",
+			"name": "Mankato",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.163578,
+				"long": -93.9994
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/vetter-stone-amphitheater-mankato-mn-usa-13d25111.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Smoke Two Joints"
+					},
+					{
+						"name": "Wrong Way"
+					},
+					{
+						"name": "Date Rape"
+					},
+					{
+						"name": ""
+					},
+					{
+						"name": "April 29, 1992 (Miami)"
+					},
+					{
+						"name": "Blackout"
+					},
+					{
+						"name": "Panic"
+					},
+					{
+						"name": "40oz. to Freedom"
+					},
+					{
+						"name": "Garden Grove"
+					},
+					{
+						"name": "Murdera"
+					},
+					{
+						"name": "Spiderweb"
+					},
+					{
+						"name": "",
+						"info": "Day it to the people"
+					},
+					{
+						"name": "Badfish"
+					},
+					{
+						"name": "Let's Go Get Stoned"
+					},
+					{
+						"name": ""
+					},
+					{
+						"name": "Doin' Time"
+					},
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "What I Got"
+					},
+					{
+						"name": "Santeria"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/sublime-with-rome/2019/vetter-stone-amphitheater-mankato-mn-53914791.html"
+}

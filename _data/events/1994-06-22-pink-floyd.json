@@ -1,0 +1,124 @@
+{
+	"id": "63d76673",
+	"versionId": "g53976b81",
+	"eventDate": "22-06-1994",
+	"lastUpdated": "2023-05-10T08:07:18.113+0000",
+	"artist": {
+		"mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+		"name": "Pink Floyd",
+		"sortName": "Pink Floyd",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+	},
+	"venue": {
+		"id": "3bd62414",
+		"name": "Hubert H. Humphrey Metrodome",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/hubert-h-humphrey-metrodome-minneapolis-mn-usa-3bd62414.html"
+	},
+	"tour": {
+		"name": "The Division Bell"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Astronomy Domine"
+					},
+					{
+						"name": "Learning to Fly"
+					},
+					{
+						"name": "What Do You Want From Me"
+					},
+					{
+						"name": "On the Turning Away"
+					},
+					{
+						"name": "Take It Back"
+					},
+					{
+						"name": "Coming Back to Life"
+					},
+					{
+						"name": "Sorrow"
+					},
+					{
+						"name": "Keep Talking"
+					},
+					{
+						"name": "One of These Days"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Shine On You Crazy Diamond (Parts I-V)"
+					},
+					{
+						"name": "Breathe (In the Air)"
+					},
+					{
+						"name": "Time"
+					},
+					{
+						"name": "Breathe (Reprise)"
+					},
+					{
+						"name": "High Hopes"
+					},
+					{
+						"name": "The Great Gig in the Sky"
+					},
+					{
+						"name": "Wish You Were Here"
+					},
+					{
+						"name": "Us and Them"
+					},
+					{
+						"name": "Money"
+					},
+					{
+						"name": "Another Brick in the Wall, Part 2"
+					},
+					{
+						"name": "Comfortably Numb"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "Hey You"
+					},
+					{
+						"name": "Run Like Hell"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/pink-floyd/1994/hubert-h-humphrey-metrodome-minneapolis-mn-63d76673.html"
+}

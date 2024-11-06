@@ -1,0 +1,57 @@
+{
+	"id": "63da4263",
+	"versionId": "2ba7a0e6",
+	"eventDate": "25-05-1997",
+	"lastUpdated": "2016-02-16T16:09:02.000+0000",
+	"artist": {
+		"mbid": "b2dbfc09-b332-408b-a235-1850e41971c5",
+		"name": "Bloodhound Gang",
+		"sortName": "Bloodhound Gang",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/bloodhound-gang-1bd689c4.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "",
+						"info": "Beethoven and Star Wars Medley"
+					},
+					{
+						"name": "Funky Cold Medina"
+					},
+					{
+						"name": "Undone - The Sweater Song"
+					},
+					{
+						"name": "Fire Water Burn"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/bloodhound-gang/1997/float-rite-park-amphitheatre-somerset-wi-63da4263.html"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "43c17beb",
+	"versionId": "539f8b15",
+	"eventDate": "05-12-2003",
+	"lastUpdated": "2014-07-23T16:12:13.000+0000",
+	"artist": {
+		"mbid": "20fec239-6d5a-463e-9478-f802c6506126",
+		"name": "Snake River Conspiracy",
+		"sortName": "Snake River Conspiracy",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/snake-river-conspiracy-3bd678d4.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/snake-river-conspiracy/2003/xcel-energy-center-st-paul-mn-43c17beb.html"
+}

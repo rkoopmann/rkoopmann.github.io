@@ -1,0 +1,37 @@
+{
+	"id": "13fe89c9",
+	"versionId": "3a0656b",
+	"eventDate": "25-05-1997",
+	"lastUpdated": "2016-05-23T22:14:36.000+0000",
+	"artist": {
+		"mbid": "cbf71c15-17c2-484f-8406-cfce12fd3e46",
+		"name": "Reverend Horton Heat",
+		"sortName": "Reverend Horton Heat",
+		"disambiguation": "the band",
+		"url": "https://www.setlist.fm/setlists/reverend-horton-heat-23d6842f.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/reverend-horton-heat/1997/float-rite-park-amphitheatre-somerset-wi-13fe89c9.html"
+}

@@ -1,0 +1,65 @@
+{
+	"id": "33e21025",
+	"versionId": "6b40f6ca",
+	"eventDate": "17-09-2017",
+	"lastUpdated": "2017-10-07T04:24:02.263+0000",
+	"artist": {
+		"mbid": "2f5fc3db-2771-4bf6-8281-ec3f959bc450",
+		"name": "Chappo",
+		"sortName": "Chappo",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/chappo-43d2b78f.html"
+	},
+	"venue": {
+		"id": "3bd52880",
+		"name": "Myth",
+		"city": {
+			"id": "5036588",
+			"name": "Maplewood",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.953022,
+				"long": -92.99522
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/myth-maplewood-mn-usa-3bd52880.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "White Noise"
+					},
+					{
+						"name": "Outrageous"
+					},
+					{
+						"name": "Celebrate"
+					},
+					{
+						"name": "Success"
+					},
+					{
+						"name": "5-0"
+					},
+					{
+						"name": "American Dream"
+					},
+					{
+						"name": "Come Home"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/chappo/2017/myth-maplewood-mn-33e21025.html"
+}

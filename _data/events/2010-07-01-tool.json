@@ -1,0 +1,105 @@
+{
+	"id": "63d406cb",
+	"versionId": "g23ae44cf",
+	"eventDate": "01-07-2010",
+	"lastUpdated": "2024-08-08T06:08:24.666+0000",
+	"artist": {
+		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+		"name": "Tool",
+		"sortName": "Tool",
+		"disambiguation": "American rock band",
+		"url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {
+		"name": "2010 Summer Tour"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Timothy Leary Speech",
+						"tape": true
+					},
+					{
+						"name": "Third Eye",
+						"info": "Salival Version"
+					},
+					{
+						"name": "Jambi"
+					},
+					{
+						"name": "(-) Ions",
+						"tape": true
+					},
+					{
+						"name": "Stinkfist",
+						"info": "Extended Version"
+					},
+					{
+						"name": "Vicarious",
+						"info": "Synth Intro"
+					},
+					{
+						"name": "Eon Blue Apocalypse"
+					},
+					{
+						"name": "The Patient"
+					},
+					{
+						"name": "Intolerance",
+						"info": "extended bridge"
+					},
+					{
+						"name": "Schism"
+					},
+					{
+						"name": "Forty Six \u0026 2",
+						"info": "synth intro"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Lateralus",
+						"with": {
+							"mbid": "4f2c4842-f90f-476e-95d3-8e868ae4d745",
+							"name": "Dälek",
+							"sortName": "Dälek",
+							"disambiguation": "American experimental hip hop group",
+							"url": "https://www.setlist.fm/setlists/dalek-53d647d1.html"
+						}
+					},
+					{
+						"name": "Ænema"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/tool/2010/xcel-energy-center-st-paul-mn-63d406cb.html"
+}

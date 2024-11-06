@@ -1,0 +1,39 @@
+{
+	"id": "13e7d949",
+	"versionId": "2b05042e",
+	"eventDate": "17-07-1998",
+	"lastUpdated": "2019-08-14T22:55:24.255+0000",
+	"artist": {
+		"mbid": "ca48bfb8-37c5-4a04-9837-a07975ee0cd3",
+		"name": "Cracker",
+		"sortName": "Cracker",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/cracker-6bd686e6.html"
+	},
+	"venue": {
+		"id": "bd60546",
+		"name": "Block E at Hennepin Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/block-e-at-hennepin-avenue-minneapolis-mn-usa-bd60546.html"
+	},
+	"tour": {
+		"name": "Gentleman's Blues Tour 1998"
+	},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/cracker/1998/block-e-at-hennepin-avenue-minneapolis-mn-13e7d949.html"
+}

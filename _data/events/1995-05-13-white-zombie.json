@@ -1,0 +1,100 @@
+{
+	"id": "6bc53ed2",
+	"versionId": "g6b8fcaaa",
+	"eventDate": "13-05-1995",
+	"lastUpdated": "2023-11-24T06:32:11.419+0000",
+	"artist": {
+		"mbid": "cfe572bf-840f-4bed-934a-f69f4b1e90d4",
+		"name": "White Zombie",
+		"sortName": "White Zombie",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/white-zombie-6bd692c2.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {
+		"name": "Astro Creep: 2000"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Electric Head, Part 1: The Agony"
+					},
+					{
+						"name": "Super-Charger Heaven"
+					},
+					{
+						"name": "Real Solution #9"
+					},
+					{
+						"name": "Black Sunshine"
+					},
+					{
+						"name": "Welcome to Planet Motherfucker/Psychoholic Slag"
+					},
+					{
+						"name": "I Am Legend"
+					},
+					{
+						"name": "Electric Head, Part 2: The Ecstasy"
+					},
+					{
+						"name": "I, Zombie"
+					},
+					{
+						"name": "More Human Than Human"
+					},
+					{
+						"name": "El Phantasmo and the Chicken-Run Blast-O-Rama"
+					},
+					{
+						"name": "Creature of the Wheel"
+					},
+					{
+						"name": "Soul Crusher"
+					},
+					{
+						"name": "Thunder Kiss '65"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 1,
+				"song": [
+					{
+						"name": "Grease Paint and Monkey Brains"
+					},
+					{
+						"name": "Children of the Grave"
+					},
+					{
+						"name": "Blood, Milk and Sky"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/white-zombie/1995/target-center-minneapolis-mn-6bc53ed2.html"
+}

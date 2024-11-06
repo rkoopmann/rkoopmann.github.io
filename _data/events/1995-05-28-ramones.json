@@ -1,0 +1,116 @@
+{
+	"id": "73d53255",
+	"versionId": "g3d825b7",
+	"eventDate": "28-05-1995",
+	"lastUpdated": "2021-09-28T18:50:28.346+0000",
+	"artist": {
+		"mbid": "d6ed7887-a401-47a8-893c-34b967444d26",
+		"name": "Ramones",
+		"sortName": "Ramones",
+		"disambiguation": "US punk rock band",
+		"url": "https://www.setlist.fm/setlists/ramones-13d6a5cd.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Midwest Fests"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "The Good, the Bad and the Ugly",
+						"tape": true
+					},
+					{
+						"name": "Durango 95"
+					},
+					{
+						"name": "Teenage Lobotomy"
+					},
+					{
+						"name": "Psycho Therapy"
+					},
+					{
+						"name": "Blitzkrieg Bop"
+					},
+					{
+						"name": "Do You Remember Rock 'n' Roll Radio?"
+					},
+					{
+						"name": "I Believe in Miracles"
+					},
+					{
+						"name": "Gimme Gimme Shock Treatment"
+					},
+					{
+						"name": "Rock 'n' Roll High School"
+					},
+					{
+						"name": "I Wanna Be Sedated"
+					},
+					{
+						"name": "Have You Ever Seen the Rain?"
+					},
+					{
+						"name": "I Don't Wanna Grow Up"
+					},
+					{
+						"name": "Sheena Is a Punk Rocker"
+					},
+					{
+						"name": "Rockaway Beach"
+					},
+					{
+						"name": "Pet Sematary"
+					},
+					{
+						"name": "Take It as It Comes"
+					},
+					{
+						"name": "Somebody Put Something in My Drink"
+					},
+					{
+						"name": "7 and 7 Is"
+					},
+					{
+						"name": "Wart Hog"
+					},
+					{
+						"name": "Cretin Hop"
+					},
+					{
+						"name": "Listen to My Heart"
+					},
+					{
+						"name": "Today Your Love, Tomorrow the World"
+					},
+					{
+						"name": "Pinhead"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/ramones/1995/float-rite-park-amphitheatre-somerset-wi-73d53255.html"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "43b8739b",
+	"versionId": "g4b967ff6",
+	"eventDate": "28-04-2023",
+	"lastUpdated": "2023-04-29T03:12:20.349+0000",
+	"artist": {
+		"mbid": "02d02ddf-f54d-4e25-be29-c1343f0afbf9",
+		"name": "Jon Lovitz",
+		"sortName": "Lovitz, Jon",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/jon-lovitz-bd3652e.html"
+	},
+	"venue": {
+		"id": "53d55b65",
+		"name": "The Laugh Factory",
+		"city": {
+			"id": "5506956",
+			"name": "Las Vegas",
+			"state": "Nevada",
+			"stateCode": "NV",
+			"coords": {
+				"lat": 36.17497,
+				"long": -115.13722
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/the-laugh-factory-las-vegas-nv-usa-53d55b65.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/jon-lovitz/2023/the-laugh-factory-las-vegas-nv-43b8739b.html"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "53cd0399",
+	"versionId": "4385c75b",
+	"eventDate": "23-10-1997",
+	"lastUpdated": "2014-12-22T21:09:19.000+0000",
+	"artist": {
+		"mbid": "1fb4591d-8884-4e23-bfea-f1ac71199180",
+		"name": "Talk Show",
+		"sortName": "Talk Show",
+		"disambiguation": "short‐lived US alternative rock band",
+		"url": "https://www.setlist.fm/setlists/talk-show-bd39142.html"
+	},
+	"venue": {
+		"id": "2bd63802",
+		"name": "Roy Wilkins Auditorium",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/talk-show/1997/roy-wilkins-auditorium-st-paul-mn-53cd0399.html"
+}

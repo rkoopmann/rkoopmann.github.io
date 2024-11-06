@@ -1,0 +1,63 @@
+{
+	"id": "63eafe57",
+	"versionId": "b7c516e",
+	"eventDate": "25-05-1996",
+	"lastUpdated": "2018-06-13T16:53:20.761+0000",
+	"artist": {
+		"mbid": "088ff139-8b6a-4551-b3f3-1f901353f1e6",
+		"name": "Flipp",
+		"sortName": "Flipp",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/flipp-63d492df.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Half a Brain"
+					},
+					{
+						"name": "I Wish I Was a Planet"
+					},
+					{
+						"name": "Clone Me"
+					},
+					{
+						"name": "Bubble Gum Machine"
+					},
+					{
+						"name": "Times of My Life"
+					},
+					{
+						"name": "Back in Black"
+					}
+				]
+			}
+		]
+	},
+	"info": "Edgefest III with Iggy Pop, Goldfinger, Polara, Filter, Korn, No Doubt, Garbage, Everclear, Candlebox, and Gravity Kills",
+	"url": "https://www.setlist.fm/setlist/flipp/1996/float-rite-park-amphitheatre-somerset-wi-63eafe57.html"
+}

@@ -1,0 +1,93 @@
+{
+	"id": "3ba8f434",
+	"versionId": "g23af1037",
+	"eventDate": "28-07-2024",
+	"lastUpdated": "2024-08-14T02:22:20.809+0000",
+	"artist": {
+		"mbid": "e9c832b0-384b-4ee6-aec0-111372784aac",
+		"name": "Pretenders",
+		"sortName": "Pretenders",
+		"disambiguation": "English‐American rock band",
+		"url": "https://www.setlist.fm/setlists/pretenders-33d6b815.html"
+	},
+	"venue": {
+		"id": "33d710bd",
+		"name": "Target Field",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-field-minneapolis-mn-usa-33d710bd.html"
+	},
+	"tour": {
+		"name": "US Tour 2024"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Let the Sun Come In"
+					},
+					{
+						"name": "Hate for Sale"
+					},
+					{
+						"name": "My City Was Gone"
+					},
+					{
+						"name": "Turf Accountant Daddy"
+					},
+					{
+						"name": "Kid",
+						"info": "dedicated to Pretender's co-founders James Honeyman-Scott and Peter Farndon"
+					},
+					{
+						"name": "Junkie Walk"
+					},
+					{
+						"name": "Stop Your Sobbing",
+						"info": "cut short  \"We're running out of time and I can tell this is more of a rock 'n' roll crowd\" - C.H."
+					},
+					{
+						"name": "Back on the Chain Gang",
+						"info": "dedicated to Mimi Parker of  Low"
+					},
+					{
+						"name": "Don't Get Me Wrong"
+					},
+					{
+						"name": "Bad Boys Get Spanked"
+					},
+					{
+						"name": "Hymn to Her",
+						"info": "dedicated to Taylor Hawkins and Mimi Parker; tour debut"
+					},
+					{
+						"name": "Mystery Achievement"
+					},
+					{
+						"name": "I'll Stand by You"
+					},
+					{
+						"name": "Middle of the Road"
+					}
+				]
+			}
+		]
+	},
+	"info": "Setlist out of order",
+	"url": "https://www.setlist.fm/setlist/pretenders/2024/target-field-minneapolis-mn-3ba8f434.html"
+}

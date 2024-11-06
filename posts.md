@@ -21,7 +21,7 @@ Here's some things I've written over the years; Some are good, some are okay, a 
   {% for post in year.items %}
   <div class="index-item"><span class="post-meta"><tt><a class="post-link" href="{{ post.url | relative_url }}">{{ post.date | date: "%b %d" }}</a></tt></span> &mdash; <em>{{ post.title | escape }}</em>
   {% if post.tags != nil %}
-  {% assign theseTags = post.tags | natural_sort %}
+  {% assign theseTags = post.tags | sort %}
   {% for tag in theseTags %}⨳ <em><a href="/tag/{{ tag | slugify }}">{{ tag }}</a></em> {% endfor %} ⨳
   {% endif %}
   </div>

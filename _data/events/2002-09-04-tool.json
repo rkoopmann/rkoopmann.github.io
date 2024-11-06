@@ -1,0 +1,98 @@
+{
+	"id": "43de9343",
+	"versionId": "539663c1",
+	"eventDate": "04-09-2002",
+	"lastUpdated": "2014-03-20T15:48:29.000+0000",
+	"artist": {
+		"mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+		"name": "Tool",
+		"sortName": "Tool",
+		"disambiguation": "American rock band",
+		"url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+	},
+	"venue": {
+		"id": "53d637ad",
+		"name": "Xcel Energy Center",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/xcel-energy-center-st-paul-mn-usa-53d637ad.html"
+	},
+	"tour": {
+		"name": "Inside The Outside"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Tuva",
+						"tape": true
+					},
+					{
+						"name": "Sober"
+					},
+					{
+						"name": "The Grudge"
+					},
+					{
+						"name": "(-) Ions",
+						"tape": true
+					},
+					{
+						"name": "Stinkfist",
+						"info": "Extended"
+					},
+					{
+						"name": "H."
+					},
+					{
+						"name": "Schism"
+					},
+					{
+						"name": "Parabol"
+					},
+					{
+						"name": "Parabola"
+					},
+					{
+						"name": "Opiate"
+					}
+				]
+			},
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Disposition"
+					},
+					{
+						"name": "Reflection"
+					},
+					{
+						"name": "Triad"
+					},
+					{
+						"name": "Lateralus",
+						"info": "Ticks And Leeches Snippet before song"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/tool/2002/xcel-energy-center-st-paul-mn-43de9343.html"
+}

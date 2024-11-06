@@ -1,0 +1,73 @@
+{
+	"id": "b915106",
+	"versionId": "63053a83",
+	"eventDate": "02-07-2019",
+	"lastUpdated": "2019-08-12T19:58:18.338+0000",
+	"artist": {
+		"mbid": "feb265ec-e510-4277-9451-914e3c6ceac5",
+		"name": "Dave Hause",
+		"sortName": "Hause, Dave",
+		"disambiguation": "US singer-songwriter",
+		"url": "https://www.setlist.fm/setlists/dave-hause-3d491fb.html"
+	},
+	"venue": {
+		"id": "63d63af7",
+		"name": "First Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html"
+	},
+	"tour": {
+		"name": "Summer 2019"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Eye Aye I"
+					},
+					{
+						"name": "Autism Vaccine Blues"
+					},
+					{
+						"name": "Saboteurs"
+					},
+					{
+						"name": "Paradise"
+					},
+					{
+						"name": "We Could Be Kings"
+					},
+					{
+						"name": "Dirty Fucker"
+					},
+					{
+						"name": "Jane"
+					},
+					{
+						"name": "With You"
+					},
+					{
+						"name": "The Ditch"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/dave-hause/2019/first-avenue-minneapolis-mn-b915106.html"
+}

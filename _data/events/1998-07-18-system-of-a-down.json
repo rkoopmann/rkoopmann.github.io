@@ -1,0 +1,53 @@
+{
+	"id": "3bde188c",
+	"versionId": "g13c04999",
+	"eventDate": "18-07-1998",
+	"lastUpdated": "2022-02-08T06:57:49.541+0000",
+	"artist": {
+		"mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+		"name": "System of a Down",
+		"sortName": "System of a Down",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {
+		"name": "Ozzfest 1998"
+	},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "P.L.U.C.K."
+					},
+					{
+						"name": "Suite-Pee"
+					}
+				]
+			}
+		]
+	},
+	"info": "Incomplete",
+	"url": "https://www.setlist.fm/setlist/system-of-a-down/1998/float-rite-park-amphitheatre-somerset-wi-3bde188c.html"
+}

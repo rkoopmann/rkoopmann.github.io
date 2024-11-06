@@ -1,0 +1,37 @@
+{
+	"id": "33df60c1",
+	"versionId": "7303aa45",
+	"eventDate": "04-12-1996",
+	"lastUpdated": "2019-08-31T19:52:30.642+0000",
+	"artist": {
+		"mbid": "afb8f901-d846-4c70-a898-59bc183d1da7",
+		"name": "Crash Test Dummies",
+		"sortName": "Crash Test Dummies",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/crash-test-dummies-63d6567f.html"
+	},
+	"venue": {
+		"id": "3d62113",
+		"name": "Target Center",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/target-center-minneapolis-mn-usa-3d62113.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/crash-test-dummies/1996/target-center-minneapolis-mn-33df60c1.html"
+}

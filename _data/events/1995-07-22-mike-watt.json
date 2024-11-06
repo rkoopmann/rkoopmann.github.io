@@ -1,0 +1,37 @@
+{
+	"id": "2bdf6006",
+	"versionId": "7bef4680",
+	"eventDate": "22-07-1995",
+	"lastUpdated": "2013-11-21T00:36:55.000+0000",
+	"artist": {
+		"mbid": "568203ae-c27b-4990-8997-09c0d5c0de77",
+		"name": "Mike Watt",
+		"sortName": "Watt, Mike",
+		"disambiguation": "bassist of Minutemen, fIREHOSE, etc.",
+		"url": "https://www.setlist.fm/setlists/mike-watt-13d6e9a9.html"
+	},
+	"venue": {
+		"id": "2bd63802",
+		"name": "Roy Wilkins Auditorium",
+		"city": {
+			"id": "5045360",
+			"name": "St. Paul",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.944,
+				"long": -93.093
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/roy-wilkins-auditorium-st-paul-mn-usa-2bd63802.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/mike-watt/1995/roy-wilkins-auditorium-st-paul-mn-2bdf6006.html"
+}

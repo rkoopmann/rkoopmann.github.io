@@ -1,0 +1,47 @@
+{
+	"id": "3efbd7b",
+	"versionId": "g13a119b5",
+	"eventDate": "24-05-1997",
+	"lastUpdated": "2024-07-29T21:25:51.327+0000",
+	"artist": {
+		"mbid": "7986c185-d91d-4204-8ee2-eac5d503fe39",
+		"name": "Better Than Ezra",
+		"sortName": "Better Than Ezra",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/better-than-ezra-7bd6b6e8.html"
+	},
+	"venue": {
+		"id": "6bd5de22",
+		"name": "Float-Rite Park Amphitheatre",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/float-rite-park-amphitheatre-somerset-wi-usa-6bd5de22.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Good"
+					}
+				]
+			}
+		]
+	},
+	"url": "https://www.setlist.fm/setlist/better-than-ezra/1997/float-rite-park-amphitheatre-somerset-wi-3efbd7b.html"
+}

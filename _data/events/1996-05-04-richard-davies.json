@@ -1,0 +1,37 @@
+{
+	"id": "33d90481",
+	"versionId": "63e6ae1f",
+	"eventDate": "04-05-1996",
+	"lastUpdated": "2013-06-30T20:14:50.000+0000",
+	"artist": {
+		"mbid": "eac9682f-7aa6-4fe5-b076-da988aff17d3",
+		"name": "Richard Davies",
+		"sortName": "Davies, Richard",
+		"disambiguation": "Australian-American musician",
+		"url": "https://www.setlist.fm/setlists/richard-davies-33d4d49d.html"
+	},
+	"venue": {
+		"id": "63d63af7",
+		"name": "First Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/first-avenue-minneapolis-mn-usa-63d63af7.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/richard-davies/1996/first-avenue-minneapolis-mn-33d90481.html"
+}

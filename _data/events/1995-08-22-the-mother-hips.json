@@ -1,0 +1,37 @@
+{
+	"id": "6bbcc28a",
+	"versionId": "g73e31221",
+	"eventDate": "22-08-1995",
+	"lastUpdated": "2022-12-24T14:31:53.964+0000",
+	"artist": {
+		"mbid": "ae97dec5-cbbc-40be-b4d6-6673b660b3d3",
+		"name": "The Mother Hips",
+		"sortName": "Mother Hips, The",
+		"disambiguation": "",
+		"url": "https://www.setlist.fm/setlists/the-mother-hips-3d7d93f.html"
+	},
+	"venue": {
+		"id": "bd6c1b6",
+		"name": "River's Edge Park",
+		"city": {
+			"id": "5273620",
+			"name": "Somerset",
+			"state": "Wisconsin",
+			"stateCode": "WI",
+			"coords": {
+				"lat": 45.124413,
+				"long": -92.67354
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/rivers-edge-park-somerset-wi-usa-bd6c1b6.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/the-mother-hips/1995/rivers-edge-park-somerset-wi-6bbcc28a.html"
+}

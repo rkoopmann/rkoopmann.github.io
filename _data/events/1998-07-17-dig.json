@@ -1,0 +1,37 @@
+{
+	"id": "239fd8bf",
+	"versionId": "3b050428",
+	"eventDate": "17-07-1998",
+	"lastUpdated": "2019-08-14T22:54:46.285+0000",
+	"artist": {
+		"mbid": "1b76132a-b0bb-4954-a69b-3b7cd9cc9dd6",
+		"name": "Dig",
+		"sortName": "Dig",
+		"disambiguation": "Los Angeles alternative rock band",
+		"url": "https://www.setlist.fm/setlists/dig-1bd73954.html"
+	},
+	"venue": {
+		"id": "bd60546",
+		"name": "Block E at Hennepin Avenue",
+		"city": {
+			"id": "5037649",
+			"name": "Minneapolis",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.979965,
+				"long": -93.26384
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/block-e-at-hennepin-avenue-minneapolis-mn-usa-bd60546.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/dig/1998/block-e-at-hennepin-avenue-minneapolis-mn-239fd8bf.html"
+}
