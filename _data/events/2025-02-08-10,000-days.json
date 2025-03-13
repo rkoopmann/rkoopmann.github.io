@@ -1,0 +1,100 @@
+{
+	"id": "4b5a432e",
+	"versionId": "g43463713",
+	"eventDate": "08-02-2025",
+	"lastUpdated": "2025-02-16T02:51:37.212+0000",
+	"artist": {
+		"mbid": "12b0d245-6be8-4a33-8b5a-e536bb3265e4",
+		"name": "10,000 Days",
+		"sortName": "10,000 Days",
+		"disambiguation": "Minnesota based Tool tribute",
+		"url": "https://www.setlist.fm/setlists/10000-days-1be5b9c4.html"
+	},
+	"venue": {
+		"id": "7bd7da88",
+		"name": "Bogart's Nightclub",
+		"city": {
+			"id": "5016494",
+			"name": "Apple Valley",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.73191,
+				"long": -93.21772
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/bogarts-nightclub-apple-valley-mn-usa-7bd7da88.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": [
+			{
+				"name": "",
+				"encore": 0,
+				"song": [
+					{
+						"name": "Stinkfist"
+					},
+					{
+						"name": "Eulogy"
+					},
+					{
+						"name": "H."
+					},
+					{
+						"name": "Useful Idiot"
+					},
+					{
+						"name": "Forty Six \u0026 2"
+					},
+					{
+						"name": "Message to Harry Manback",
+						"tape": true
+					},
+					{
+						"name": "Hooker With a Penis"
+					},
+					{
+						"name": "Intermission",
+						"info": "Played 3 times while troubleshooting guitar",
+						"tape": true
+					},
+					{
+						"name": "Jimmy"
+					},
+					{
+						"name": "Die Eier von Satan",
+						"tape": true
+					},
+					{
+						"name": "Pushit"
+					},
+					{
+						"name": "Cesaro Summability"
+					},
+					{
+						"name": "Ænema"
+					},
+					{
+						"name": "(-) Ions"
+					},
+					{
+						"name": "Third Eye"
+					},
+					{
+						"name": "No Quarter"
+					},
+					{
+						"name": "Vicarious"
+					}
+				]
+			}
+		]
+	},
+	"info": "",
+	"url": "https://www.setlist.fm/setlist/10000-days/2025/bogarts-nightclub-apple-valley-mn-4b5a432e.html"
+}

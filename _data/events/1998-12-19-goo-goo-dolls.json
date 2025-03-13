@@ -5,10 +5,10 @@
 	"lastUpdated": "2014-11-29T03:02:43.000+0000",
 	"artist": {
 		"mbid": "e2c00c56-8365-4160-9f40-a64682917633",
-		"name": "The Goo Goo Dolls",
-		"sortName": "Goo Goo Dolls, The",
+		"name": "Goo Goo Dolls",
+		"sortName": "Goo Goo Dolls",
 		"disambiguation": "",
-		"url": "https://www.setlist.fm/setlists/the-goo-goo-dolls-6bd6b6f6.html"
+		"url": "https://www.setlist.fm/setlists/goo-goo-dolls-6bd6b6f6.html"
 	},
 	"venue": {
 		"id": "3d62113",
@@ -108,5 +108,5 @@
 			}
 		]
 	},
-	"url": "https://www.setlist.fm/setlist/the-goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
+	"url": "https://www.setlist.fm/setlist/goo-goo-dolls/1998/target-center-minneapolis-mn-13c4bd9d.html"
 }

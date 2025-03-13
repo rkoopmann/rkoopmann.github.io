@@ -1,8 +1,8 @@
 {
 	"id": "33970c85",
-	"versionId": "g7ba63a2c",
+	"versionId": "g4359d377",
 	"eventDate": "22-08-1995",
-	"lastUpdated": "2024-06-14T10:41:29.962+0000",
+	"lastUpdated": "2025-02-07T01:27:17.565+0000",
 	"artist": {
 		"mbid": "80ccfede-c258-4575-a7ad-c982e9932e0f",
 		"name": "Sheryl Crow",
@@ -37,16 +37,13 @@
 				"encore": 0,
 				"song": [
 					{
-						"name": "I Wanna Be Your Man"
+						"name": "What I Can Do for You"
 					},
 					{
 						"name": "Love Is a Good Thing"
 					},
 					{
 						"name": "Can't Cry Anymore"
-					},
-					{
-						"name": ""
 					},
 					{
 						"name": "Run, Baby, Run"
@@ -59,12 +56,6 @@
 					},
 					{
 						"name": "Strong Enough"
-					},
-					{
-						"name": ""
-					},
-					{
-						"name": "jam"
 					},
 					{
 						"name": "The Na-Na Song"

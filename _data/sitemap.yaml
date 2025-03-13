@@ -1470,10 +1470,6 @@
   layout: event_show_page
   date: 2009-11-14
   permalink: /event/2009-11-14/
-- file: ./events/show/1997-05-01.md
-  layout: event_show_page
-  date: 1997-05-01
-  permalink: /event/1997-05-01/
 - file: ./events/show/2023-09-02.md
   layout: event_show_page
   date: 2023-09-02
@@ -1506,11 +1502,6 @@
   layout: event_show_page
   date: 2017-12-16
   permalink: /event/2017-12-16/
-- file: ./events/show/2020-08-05.md
-  layout: event_show_page
-  title: Roger Waters
-  date: 2020-08-05
-  permalink: /event/2020-08-05/
 - file: ./events/show/2002-03-08.md
   layout: event_show_page
   date: 2002-03-08
@@ -1543,14 +1534,6 @@
   layout: event_show_page
   date: 2013-05-06
   permalink: /event/2013-05-06/
-- file: ./events/show/2020-06-07.md
-  layout: event_show_page
-  date: 2020-06-07
-  permalink: /event/2020-06-07/
-- file: ./events/show/2020-05-09.md
-  layout: event_show_page
-  date: 2020-05-09
-  permalink: /event/2020-05-09/
 - file: ./events/show/2019-07-02.md
   layout: event_show_page
   date: 2019-07-02
@@ -1615,10 +1598,6 @@
   layout: event_show_page
   date: 1995-05-13
   permalink: /event/1995-05-13/
-- file: ./events/show/2022-11-13.md
-  layout: event_show_page
-  date: 2022-11-13
-  permalink: /event/2022-11-13/
 - file: ./events/show/1996-04-30.md
   layout: event_show_page
   date: 1996-04-30
@@ -1679,10 +1658,6 @@
   layout: event_show_page
   date: 1995-05-21
   permalink: /event/1995-05-21/
-- file: ./events/show/2021-07-05.md
-  layout: event_show_page
-  date: 2021-07-05
-  permalink: /event/2021-07-05/
 - file: ./events/show/2023-08-31.md
   layout: event_show_page
   date: 2023-08-31
@@ -1703,10 +1678,6 @@
   layout: event_show_page
   date: 1995-12-09
   permalink: /event/1995-12-09/
-- file: ./events/show/2022-05-13.md
-  layout: event_show_page
-  date: 2022-05-13
-  permalink: /event/2022-05-13/
 - file: ./events/show/1996-12-04.md
   layout: event_show_page
   date: 1996-12-04
@@ -1824,18 +1795,10 @@
   layout: event_venue_page
   venue: River's Edge Park
   permalink: /event/venue/river-s-edge-park/
-- file: ./events/venue/rivers-edge-park.md
-  layout: event_venue_page
-  venue: River's Edge Park
-  permalink: /event/venue/rivers-edge-park/
 - file: ./events/venue/the-laugh-factory.md
   layout: event_venue_page
   venue: The Laugh Factory
   permalink: /event/venue/the-laugh-factory/
-- file: ./events/venue/u.s.-bank-stadium.md
-  layout: event_venue_page
-  venue: U.S. Bank Stadium
-  permalink: /event/venue/u.s.-bank-stadium/
 - file: ./events/venue/myth.md
   layout: event_venue_page
   venue: Myth
@@ -1844,10 +1807,6 @@
   layout: event_venue_page
   venue: Uptown Theater
   permalink: /event/venue/uptown-theater/
-- file: ./events/venue/river's-edge-park.md
-  layout: event_venue_page
-  venue: River's Edge Park
-  permalink: /event/venue/river's-edge-park/
 - file: ./events/venue/mill-city-nights.md
   layout: event_venue_page
   venue: Mill City Nights
@@ -1920,10 +1879,6 @@
   layout: event_venue_page
   venue: Palace Theatre
   permalink: /event/venue/palace-theatre/
-- file: ./events/venue/.md
-  layout: event_venue_page
-  venue: Xcel Energy Center
-  permalink: /event/venue//
 - file: ./events/venue/hubert-h-humphrey-metrodome.md
   layout: event_venue_page
   venue: Hubert H. Humphrey Metrodome
@@ -1948,10 +1903,6 @@
   layout: event_venue_page
   venue: Target Field
   permalink: /event/venue/target-field/
-- file: ./events/venue/busters-sports-bar-grill.md
-  layout: event_venue_page
-  venue: Buster's Sports Bar & Grill
-  permalink: /event/venue/busters-sports-bar-grill/
 - file: ./events/artist/collective-soul.md
   layout: event_artist_page
   artist: Collective Soul
@@ -2056,10 +2007,6 @@
   layout: event_artist_page
   artist: Rancid
   permalink: /event/artist/rancid/
-- file: ./events/artist/lets-go-bowling.md
-  layout: event_artist_page
-  artist: Let's Go Bowling
-  permalink: /event/artist/lets-go-bowling/
 - file: ./events/artist/the-mother-hips.md
   layout: event_artist_page
   artist: The Mother Hips
@@ -2548,10 +2495,6 @@
   layout: event_artist_page
   artist: Gavin Rossdale
   permalink: /event/artist/gavin-rossdale/
-- file: ./events/artist/let's-go-bowling.md
-  layout: event_artist_page
-  artist: Let's Go Bowling
-  permalink: /event/artist/let's-go-bowling/
 - file: ./events/artist/ziggy-marley-the-melody-makers.md
   layout: event_artist_page
   artist: Ziggy Marley & The Melody Makers

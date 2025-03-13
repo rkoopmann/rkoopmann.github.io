@@ -20,7 +20,7 @@ Here's the complete listing of events which I had tickets to attend; Despite my 
 
 {% for year in items_by_year %}
 <tt><strong>{{ year.name }}</strong></tt>{% if year.name == "2020" %} &mdash; <em>COVID</em>{% endif %}
-  {% assign dates = year.items | reverse %}
+  {% assign dates = year.items | sort: "date" | reverse %}
   {% for item in dates %}
   {% assign eventDate = item.date | date: "%Y-%m-%d" %}
   {% assign eventArtists = site.data.events.list.Event | where_exp: "e", "e.Date == eventDate" | natural_sort: "Artist" %}

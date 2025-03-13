@@ -1,0 +1,37 @@
+{
+	"id": "5b5bb74c",
+	"versionId": "g6346163b",
+	"eventDate": "04-02-2024",
+	"lastUpdated": "2025-02-16T23:48:18.525+0000",
+	"artist": {
+		"mbid": "12b0d245-6be8-4a33-8b5a-e536bb3265e4",
+		"name": "10,000 Days",
+		"sortName": "10,000 Days",
+		"disambiguation": "Minnesota based Tool tribute",
+		"url": "https://www.setlist.fm/setlists/10000-days-1be5b9c4.html"
+	},
+	"venue": {
+		"id": "7bd7da88",
+		"name": "Bogart's Nightclub",
+		"city": {
+			"id": "5016494",
+			"name": "Apple Valley",
+			"state": "Minnesota",
+			"stateCode": "MN",
+			"coords": {
+				"lat": 44.73191,
+				"long": -93.21772
+			},
+			"country": {
+				"code": "US",
+				"name": "United States"
+			}
+		},
+		"url": "https://www.setlist.fm/venue/bogarts-nightclub-apple-valley-mn-usa-7bd7da88.html"
+	},
+	"tour": {},
+	"sets": {
+		"set": []
+	},
+	"url": "https://www.setlist.fm/setlist/10000-days/2024/bogarts-nightclub-apple-valley-mn-5b5bb74c.html"
+}
