@@ -1,0 +1,13 @@
+{
+  "messages": [
+    {
+      "id": "78237BE7-4BBF-4DDF-BE3D-F3DD99F78575",
+      "message": "Welcome!"
+    },
+    {
+      "id": "1C8FBF1A-7F61-49CE-B44F-C4B938EA885D",
+      "message": "Testing something",
+      'maxVersion': "v2024.12.31"
+    }
+  ]
+}
