@@ -1,28 +1,4 @@
 {
   "messages": [
-    {
-      "id": "78237BE7-4BBF-4DDF-BE3D-F3DD99F78575",
-      "message": "Welcome!"
-    },
-    {
-      "id": "1C8FBF1A-7F61-49CE-B44F-C4B938EA885D",
-      "message": "Testing something",
-      "maxVersion": "v2024.12.31"
-    },
-    {
-      "id": "AECAAAF4-ECF1-43F7-9AEF-1B0A3DE305AE",
-      "icon": "ant.circle",
-      "message": "Here's a bug",
-      "url": "https://lite.cnn.com",
-      "minVersion": "v2024.10.1",
-      "maxVersion": "v2024.10.1"
-    },
-    {
-      "id": "6DD9A303-1679-40C4-A9B7-B099A01E5506",
-      "icon": "info.circle",
-      "message": "Here's some information",
-      "minVersion": "v2024.10.1",
-      "maxVersion": "v2024.10.1"
-    }
   ]
 }

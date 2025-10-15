@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "id": "C5501B48-9CEA-4DDE-9A32-EBFEFC6A1CA7",
+      "message": "The US Government has shutdown. CPI data updates will resume once that situation is resolved.",
+      "url": "https://www.bls.gov/bls/092025-cpi-reschedule-notice.htm",
+      "minDate": "2025-10-01",
+      "icon": "exclamationmark.octagon"
+    },
+    {
+      "id": "F6BD9D5E-5FFC-4719-8A0A-75836F53C059",
+      "message": "Schedule of Releases for the Consumer Price Index",
+      "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "icon": "calendar.badge.clock"
+    }
+  ]
+}
