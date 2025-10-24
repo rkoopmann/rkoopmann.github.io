@@ -2,9 +2,10 @@
   "messages": [
     {
       "id": "C5501B48-9CEA-4DDE-9A32-EBFEFC6A1CA7",
-      "message": "The US Government has shutdown. CPI data updates will resume once that situation is resolved.",
+      "message": "September 2025 CPI Release Rescheduled",
       "url": "https://www.bls.gov/bls/092025-cpi-reschedule-notice.htm",
       "minDate": "2025-10-01",
+      "maxDate": "2025-10-25",
       "icon": "exclamationmark.octagon"
     },
     {
@@ -15,3 +16,4 @@
     }
   ]
 }
+
