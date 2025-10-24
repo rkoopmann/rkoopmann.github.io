@@ -9,6 +9,13 @@
       "icon": "exclamationmark.octagon"
     },
     {
+      "id": "D78A69C5-0699-4BB4-9907-045111357B03",
+      "message": "Suspension of Federal Government Services",
+      "url": "https://www.bls.gov/bls/2025_october_shutdown.htm",
+      "minDate": "2025-10-01",
+      "icon": "power.circle.fill"
+    },
+    {
       "id": "F6BD9D5E-5FFC-4719-8A0A-75836F53C059",
       "message": "Schedule of Releases for the Consumer Price Index",
       "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
