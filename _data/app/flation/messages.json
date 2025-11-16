@@ -1,26 +1,35 @@
 {
   "messages": [
     {
-      "id": "C5501B48-9CEA-4DDE-9A32-EBFEFC6A1CA7",
-      "message": "September 2025 CPI Release Rescheduled",
-      "url": "https://www.bls.gov/bls/092025-cpi-reschedule-notice.htm",
-      "minDate": "2025-10-01",
-      "maxDate": "2025-10-25",
-      "icon": "exclamationmark.octagon"
+      "id": "F6BD9D5E-5FFC-4719-8A0A-75836F53C059",
+      "message": "Schedule of Releases for the Consumer Price Index",
+      "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "icon": "calendar.badge.clock"
+    },
+    {
+      "id": "41673CC2-BF01-4CAB-A84D-69BDBC0C63EB",
+      "message": "Revised new release dates following the 2025 lapse in appropriations",
+      "url": "https://www.bls.gov/bls/2025-lapse-revised-release-dates.htm",
+      "minDate": "2025-11-14",
+      "maxDate": "2025-11-21",
+      "icon": "calendar.badge.clock"
     },
     {
       "id": "D78A69C5-0699-4BB4-9907-045111357B03",
       "message": "Suspension of Federal Government Services",
       "url": "https://www.bls.gov/bls/2025_october_shutdown.htm",
       "minDate": "2025-10-01",
+      "maxDate": "2025-11-15",
       "icon": "power.circle.fill"
     },
     {
-      "id": "F6BD9D5E-5FFC-4719-8A0A-75836F53C059",
-      "message": "Schedule of Releases for the Consumer Price Index",
-      "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
-      "icon": "calendar.badge.clock"
+      "id": "C5501B48-9CEA-4DDE-9A32-EBFEFC6A1CA7",
+      "message": "September 2025 CPI Release Rescheduled",
+      "url": "https://www.bls.gov/bls/092025-cpi-reschedule-notice.htm",
+      "minDate": "2025-10-01",
+      "maxDate": "2025-10-25",
+      "icon": "exclamationmark.octagon"
     }
   ]
 }
-
+s
