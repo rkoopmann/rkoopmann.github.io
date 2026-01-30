@@ -33,7 +33,7 @@
           <a href="/">home</a>
           ⨳
           <a href="/apps/">apps</a>
-          {% if page.app.id != "" %}
+          {% if page.app.id %}
           ⨳
           <a href="https://apps.apple.com/us/app/{{ page.app.slug }}/id{{ page.app.id }}">get</a>
           {% endif %}
