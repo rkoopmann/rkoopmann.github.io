@@ -3,7 +3,6 @@ layout: app
 title: caledger
 permalink: /caledger/
 app:
-  id: 8675309
   name: caledger
   tagline: calendar + ledger-cli
   slug: caledger
