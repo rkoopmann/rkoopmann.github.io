@@ -70,7 +70,7 @@
   shortName: caledger
   fullName: caledger - calendar + ledger-cli
   tagline: Apple calendar entries to ledger-cli timekeeping format
-  briefDescription:
+  briefDescription: Apple calendar entries to ledger-cli timekeeping format
   url: caledger
   released: 2026-01-05
   available: true
