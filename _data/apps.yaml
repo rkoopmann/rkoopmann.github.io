@@ -63,3 +63,14 @@
   url: do-over
   released: 2022-04-08
   available: true
+
+- caledger:
+  id: 8675309
+  date: 2026-01-05
+  shortName: caledger
+  fullName: caledger - calendar + ledger-cli
+  tagline: Apple calendar entries to ledger-cli timekeeping format
+  briefDescription:
+  url: caledger
+  released: 2026-01-05
+  available: true
