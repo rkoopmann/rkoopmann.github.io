@@ -64,6 +64,17 @@
   released: 2022-04-08
   available: true
 
+- granny-hand:
+  id: 6756193664
+  date: 2026-01-27
+  shortName: granny hand
+  fullName: granny hand - sheepshead
+  tagline: Four handed card game
+  briefDescription: Local four-handed sheepshead
+  url: granny-hand
+  released: 2026-01-27
+  available: true
+
 - caledger:
   id: 8675309
   date: 2026-01-05
